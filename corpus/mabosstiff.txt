@@ -1,0 +1,171 @@
+Draft Order
+
+: Round 7 onwards
+
+Price Range
+
+: 2-4 points
+
+Overview
+
+: Mabosstiff fits on drafts seeking a budget Dark-type and wallbreaker. It typically acts as a prediction-heavy Choice item attacker that can cause massive damage to incoming foes with Stakeout. Although its movepool is somewhat lacking in power and utility, it has a solid stat spread and three amazing abilities that it can leverage to fill various roles. Unfortunately, it faces fierce competition from many other Dark-types with better offensive traits and role compression.
+
+Common Roles
+
+Wallbreaker
+
+: Stakeout grants a massive power boost if Mabosstiff is able to force out a foe, enabling many OHKOs and 2HKOs that it'd otherwise miss. Positioning it well can lead to difficult situations for the opponent where they're forced to sacrifice a Pokemon. Taunt can also be used to prevent foes from healing themselves.
+
+Physical Tank
+
+: Mabosstiff becomes serviceably bulky with Intimidate and defensive investment, allowing it to check foes that lack strong coverage moves for Dark-types while attempting to stay healthy with Pain Split and denying setup opportunities with Roar.
+
+Common Moves
+
+Primary STAB Moves
+
+: Crunch, Lash Out
+
+Setup Moves
+
+: Trailblaze
+
+Utility Moves
+
+: Pain Split, Roar, Taunt, Destiny Bond, Rest
+
+Coverage
+
+: Play Rough, Psychic Fangs, Wild Charge, Fire Fang, Ice Fang, Double-Edge, Outrage
+
+Niche Moves
+
+Jaw Lock
+
+: Mabosstiff can trap a foe with Jaw Lock and then force a trade with Destiny Bond.
+
+Endeavor
+
+: The guaranteed damage of Endeavor is used to wear down walls and place them in range of a Crunch KO.
+
+Facade
+
+: Burn seriously hinders offensive Mabosstiff sets, and Facade is a way to remain threatening after being burned.
+
+Body Slam
+
+: Defensive Mabosstiff sets can use Body Slam to spread paralysis to incoming foes.
+
+Curse / Hone Claws
+
+: Mabosstiff can attempt to sweep or wallbreak using Curse and Guard Dog, though it struggles with longevity due to its lack of recovery and Speed. Hone Claws can be run alongside Trailblaze to attempt a sweep against slower teams, but it often needs multiple turns of setup to become dangerous.
+
+Payback
+
+: Payback is stronger than Crunch on Curse sets, where Mabosstiff usually acts last, or in the physical wall role.
+
+Common Items
+
+Choice Band
+
+: Mabosstiff deals absurd amounts of damage when stacking the boosts from Choice Band and Stakeout, scoring 2HKOs against many of the toughest walls if the correct attacks are chosen.
+
+Choice Scarf
+
+: Choice Scarf is an excellent item for Stakeout sets, giving Mabosstiff enough Speed to revenge kill unboosted foes while Stakeout grants extra power if the target switches out.
+
+Rocky Helmet
+
+: Defensive sets appreciate the guaranteed contact damage from Rocky Helmet as they switch in to activate Intimidate.
+
+Niche Items
+
+Lum Berry
+
+: Mabosstiff appreciates protection from burn and paralysis, and Lum Berry can effectively grant it an extra turn to take down foes with access to those conditions.
+
+Damage-boosting Items
+
+: Items like Life Orb and Black Glasses help Mabosstiff break through teams when the damage from Choice Band isn't needed or the ability to switch moves is more important.
+
+Assault Vest
+
+: Assault Vest patches up Mabosstiff's average Special Defense, helping it deal with specially offensive Ghost-types.
+
+Resistance Berries
+
+: Defensive sets can use a resistance Berry to use Roar against a dangerous setup sweeper more reliably. Offensive sets can use it to lure in a foe and take them out with super effective coverage.
+
+Chesto Berry
+
+: Chesto Berry grants Intimidate and Curse sets a one-time heal when combined with Rest, extending Mabosstiff's time in battle and curing it of harmful status conditions.
+
+Sitrus Berry
+
+: Sitrus Berry provides defensive sets some extra HP, keeping Mabosstiff on the field for longer without the need for Rest.
+
+Tera
+
+Mabosstiff can make use of Tera, but there are usually better options available. Tera Dark, Fairy, and Psychic enhance its strongest attacks on Stakeout sets, while Tera types like Tera Fighting and Ground grant it new coverage options via Tera Blast. Tera Water, Steel, and Ghost can help it safely set up with Curse against more foes. That being said, it's very difficult to justify using Tera on Mabosstiff over more expensive Tera Captains.
+
+Draft Strategy
+
+Mabosstiff is taken at the end of a mostly-complete draft to patch up a weakness to Ghost or Psychic and provide extra physical power. Utility and most other roles need to come from the draft's other Pokemon.
+
+Defensive Backbone
+
+: Mabosstiff fits particularly well on teams with solid defenses to fall back on. They can protect offensive sets from being revenge killed and pivot to get it on the field. They can also help relieve the pressure placed on defensive sets to handle various foes.
+
+Galarian Slowking
+
+,
+
+Gholdengo
+
+,
+
+Deoxys-D
+
+, and
+
+Moltres
+
+are a few examples of defensive Pokemon that work well with Mabosstiff.
+
+Cleaners
+
+: Fast cleaners like
+
+Greninja
+
+,
+
+Iron Moth
+
+, and
+
+Iron Boulder
+
+appreciate Mabosstiff's ability to smash through opposing walls.
+
+Checks and Counters
+
+Faster Attackers
+
+: Mabosstiff is slower than many of the format's strongest attackers, which makes revenge killing a common way to stop it. As a Dark-type, it also has a few weaknesses that can be exploited by common moves like U-turn and Close Combat.
+
+Physically Bulky Pokemon
+
+: Much of Mabosstiff's power comes from Stakeout, so it can be helpless against bulky Pokemon that are already on the field. Additionally, setup sweepers like
+
+Zarude
+
+and
+
+Palafin
+
+can use moves like Bulk Up, Drain Punch, and Taunt to avoid being revenge killed or walled.
+
+Status Conditions
+
+: Burn and paralysis shut down most Mabosstiff sets, leaving it with little hope of pressuring foes.

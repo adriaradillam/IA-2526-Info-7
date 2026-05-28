@@ -1,0 +1,1019 @@
+Galarian Weezing combines a fantastic defensive typing, solid defensive stats, and its unique ability to support the OU tier through reliable entry hazard removal. It can use Defog to remove hazards against even
+
+Gholdengo
+
+due to Neutralizing Gas suppressing Good as Gold. Will-O-Wisp furthers Galarian Weezing's physical sturdiness while statusing otherwise immune foes such as
+
+Garganacl
+
+, Gholdengo, and
+
+Hatterene
+
+. Pain Split is Galarian Weezing's primary method of recovery, as even with full investment, its measly base 65 HP stat allows it to usually heal up in front of foes such as
+
+Alomomola
+
+and
+
+Corviknight
+
+. On sets with Leftovers, Protect can be used instead to secure an additional turn of healing, as well as leverage Neutralizing Gas to the fullest extent against Pokemon greatly annoyed by it, such as
+
+Gliscor
+
+and
+
+Clefable
+
+. Galarian Weezing has a great deal of flexibility for its last move, but Sludge Bomb is generally preferred because it is a solid attack into
+
+Ogerpon-W
+
+,
+
+Iron Valiant
+
+, and
+
+Rillaboom
+
+. Strange Steam is an alternative attack to hit
+
+Great Tusk
+
+,
+
+Kyurem
+
+, and
+
+Darkrai
+
+harder and enjoys the upside of free turns given via confusion. Other alternatives include Toxic Spikes to pressure teams without reliable hazard removal or a Poison-type and Toxic to offer a higher damage status option to more quickly put down dangerous threats to Galarian Weezing's team, such as
+
+Ceruledge
+
+and Hatterene. Galarian Weezing usually opts for a fully defensive spread to best cover dangerous threats such as Ogerpon-W,
+
+Zamazenta
+
+, and
+
+Dragonite
+
+, as it can tank a hit from them while threatening back a crippling burn. However, on teams that need help covering
+
+Kingambit
+
+, a spread of 252 HP / 80 Def / 176 Spe with a Bold nature can be used to outspeed Adamant Kingambit, allowing Galarian Weezing to usually get off a burn and cripple it. Galarian Weezing typically prefers to Terastallize into the Grass-type, as this resists Ogerpon-W's STAB attacks in a pinch as well as turning Galarian Weezing's Ground-type weakness into a resistance. However, Tera Ghost is also popular to block opposing hazard removal such as Great Tusk's Rapid Spin and match up better into
+
+Ursaluna
+
+and Dragonite, and Tera Flying can also be used to gain a full immunity to incoming Ground-type attacks such as
+
+Landorus-T
+
+'s Earth Power. Heavy-Duty Boots are usually favored to give Galarian Weezing easier entry against the hazards it wants to remove. However, on teams with secondary hazard removal, Leftovers can be used to help Galarian Weezing stay healthier, while Rocky Helmet can be employed to punish contact moves such as Alomomola's Flip Turn,
+
+Hisuian Samurott
+
+'s Ceaseless Edge, and Corviknight's U-turn.
+
+Teams looking for the most reliable entry hazard removal in the tier will find Galarian Weezing to be an invaluable teammate. Balance and Stall teams in particular appreciate this support, as well as Galarian Weezing's ability to help contain the ever-terrifying Ogerpon-W. Corviknight is a standout teammate on both playstyles, switching into Ground-type attacks such as Great Tusk's Headlong Rush and Psychic-type attacks such as
+
+Deoxys-S
+
+'s Psycho Boost. Moreover, Corviknight and Galarian Weezing also complement each other by both being able to clear hazards, forcing teams to contend with both threatening to undo progress via Defog. This consistent hazard removal greatly enables balance teams by allowing Rock-weak wallbreakers such as Kyurem and Nasty Plot
+
+Tornadus-T
+
+to flourish. Stall teams also greatly enjoy the support Corviknight and Galarian Weezing provide, allowing Pokemon such as
+
+Blissey
+
+,
+
+Dondozo
+
+, and
+
+Toxapex
+
+to use Leftovers instead of Heavy-Duty Boots. Alomomola is another great teammate for Galarian Weezing, as it is bulky enough to confidently switch into threatening Ground-type and Steel-type attacks and compensate for Galarian Weezing's limited recovery options via Wish. Assault Vest Alomomola also greatly appreciates Galarian Weezing's prowess at removing hazards. Balance and bulky offense teams also appreciate Galarian Weezing keeping hazards off to give their powerful breakers, such as Ogerpon-W and Choice Specs
+
+Raging Bolt
+
+, more opportunities to safely enter the field and make progress. These teams also value Galarian Weezing suppressing Regenerator on common pivots like Alomomola and
+
+Galarian Slowking
+
+, so attackers that struggle with these such as
+
+Dragapult
+
+and Zamazenta will appreciate this additional offensive pressure. Galarian Weezing broadly fears strong special attackers such as Gholdengo,
+
+Glimmora
+
+, and
+
+Iron Moth
+
+, as these do not particularly fear getting burned and can target Galarian Weezing's poor Special Defense.
+
+Ting-Lu
+
+is therefore an excellent partner to answer these threats by soaking up most special attacks in the tier; in particular, it easily absorbs any incoming Psychic-type attacks that Galarian Weezing would be weak to. In return, Galarian Weezing can answer Rillaboom,
+
+Ogerpon
+
+, and Hisuian Samurott that trouble Ting-Lu. Lastly, limited recovery options can force Galarian Weezing to get worn down over a match as it repeatedly removes hazards, so other teammates that can help shoulder the burden, such as Great Tusk and
+
+Iron Treads
+
+, will help take the pressure off Galarian Weezing and keep it healthy.
+
+Galarian Weezing serves a pivotal defensive role for Poison teams due to its solid support movepool and vital immunities to Dragon- and Ground-type attacks courtesy of its Fairy typing and Levitate, allowing it to wall otherwise problematic threats such as Swords Dance
+
+Garchomp
+
+,
+
+Great Tusk
+
+, and
+
+Dragonite
+
+. Strange Steam pressures Dragon-, ​Fighting-, and Dark-types like
+
+Roaring Moon
+
+,
+
+Iron Hands
+
+, and
+
+Sableye
+
+. Defog clears away entry hazards for teammates like
+
+Iron Moth
+
+and
+
+Alolan Muk
+
+, preventing them from getting worn down. Pain Split enables Galarian Weezing to stay healthy long term while siphoning HP from bulky walls such as
+
+Blissey
+
+and
+
+Clodsire
+
+. Finally, Will-O-Wisp cripples physical attackers such as
+
+Gallade
+
+,
+
+Hisuian Goodra
+
+, and
+
+Azumarill
+
+. 12 Speed EVs enable Galarian Weezing to outspeed
+
+Tyranitar
+
+and burn it.
+
+Galarian Weezing greatly appreciates special walls like Alolan Muk, which can handle problematic special attackers such as
+
+Flutter Mane
+
+,
+
+Hatterene
+
+, and
+
+Greninja
+
+. Assault Vest
+
+Galarian Slowking
+
+can also assist in handling special attackers such as Choice Specs
+
+Latios
+
+,
+
+Heatran
+
+, and
+
+Zapdos
+
+.
+
+Toxapex
+
+can assist into Steel-, Water-, and Fire-types that Galarian Weezing can struggle with, ​like
+
+Scizor
+
+,
+
+Barraskewda
+
+, and
+
+Cinderace
+
+, ​along with being able to more comfortably take Knock Off from foes like
+
+Empoleon
+
+and
+
+Tornadus-T
+
+.
+
+Amoonguss
+
+can similarly help out against Water-types like
+
+Ogerpon-W
+
+and
+
+Keldeo
+
+, alongside being able to handle Ground-types Galarian Weezing struggles with, like
+
+Sandy Shocks
+
+and Mold Breaker
+
+Excadrill
+
+. Iron Moth can break through Steel-types such as
+
+Gholdengo
+
+, Scizor, and
+
+Archaludon
+
+for Galarian Weezing while appreciating Defog support to prevent it from being worn down. Choice Scarf
+
+Sneasler
+
+can check threats that switch into Galarian Weezing freely, such as
+
+Ogerpon-H
+
+, Blissey, and Heatran, while also outspeeding and checking Dark-types like Choice Specs Greninja and
+
+Hoopa-U
+
+.
+
+Okidogi
+
+greatly appreciates Galarian Weezing's Will-O-Wisp, enabling it to comfortably set up with Bulk Up; in return, it can check threats like
+
+Garganacl
+
+,
+
+Bisharp
+
+, and
+
+Terapagos
+
+for Galarian Weezing.
+
+Galarian Weezing utilizes its Neutralizing Gas ability and toolkit to support its teammates. Neutralizing Gas can completely shut down Pokemon reliant on their abilities, such as
+
+Rillaboom
+
+,
+
+Roaring Moon
+
+, and
+
+Urshifu-R
+
+.
+
+Galarian Weezing fits well on
+
+Dondozo
+
++
+
+Tatsugiri
+
+compositions; its ability to chip down opposing Pokemon with poison and disrupt them with Neutralizing Gas ensures Dondozo can quickly clean up the game. The more ability-reliant Pokemon the opponent has, the better Galarian Weezing is in the matchup. Choice Band
+
+Dragonite
+
+can be led with Galarian Weezing to dish out damage early while Galarian Weezing spreads poison to benefit Dondozo.
+
+Galarian Weezing struggles to take on Steel-type Pokemon such as
+
+Iron Crown
+
+and
+
+Gholdengo
+
+.
+
+Chi-Yu
+
+can be used as an answer to these troubling Steel-type Pokemon. The aforementioned Dondozo can make up for Galarian Weezing's poor bulk and finish off weakened opposing Pokemon.
+
+Raging Bolt
+
+helps Galarian Weezing in the
+
+Tornadus
+
++ Urshifu-R matchup.
+
+Flutter Mane
+
+is a good sweeping partner with Galarian Weezing, consistently dealing Fairy-type damage while Galarian Weezing disrupts the opposing Pokemon.
+
+Galarian Weezing uses Poison Gas and Toxic Spikes to poison the opposing Pokemon currently on the field and any switch-ins, respectively. The poison damage helps chip down opposing Pokemon so that a bulky sweeper such as
+
+Dondozo
+
+can clean up. Gunk Shot enables Careful Galarian Weezing to 2HKO
+
+Rillaboom
+
+after Grassy Terrain recovery and 2HKO non-Bold
+
+Flutter Mane
+
+. Sludge Bomb is a more consistent attack that lets Calm Galarian Weezing 2HKO
+
+Ogerpon-W
+
+.
+
+Sitrus Berry extends Galarian Weezing's longevity, giving it more opportunities to spread poison and disrupt opposing Pokemon with Neutralizing Gas. Sitrus Berry also makes
+
+Ogerpon-H
+
+'s Ivy Cudgel a 3HKO on Galarian Weezing instead of a 2HKO.
+
+The defensive EV investment allows Galarian Weezing to survive Life Orb
+
+Raging Bolt
+
+'s Tera Electric Thunderbolt or Mystic Water
+
+Urshifu-R
+
+'s Tera Water Surging Strikes. The Speed investment lets Galarian Weezing outspeed most
+
+Incineroar
+
+.
+
+Tera Flying offers Galarian Weezing an immunity to Ground-type attacks such as
+
+Ting-Lu
+
+'s and
+
+Ursaluna
+
+'s Earthquake and
+
+Landorus
+
+'s Earth Power and Sandsear Storm. Tera Flying also provides Galarian Weezing a neutrality to Steel-type attacks such as
+
+Gholdengo
+
+'s Make It Rain. Tera Ghost allows Galarian Weezing to bypass Incineroar's and Rillaboom's Fake Out, ensuring Galarian Weezing can use Poison Gas and Toxic Spikes in front of them. Tera Ghost also offers immunities to Ursaluna's Facade and
+
+Dragonite
+
+'s Extreme Speed. Tera Water offers Galarian Weezing resistances to Gholdengo and
+
+Iron Crown
+
+'s Steel-type attacks, Ogerpon-H's and Ogerpon-W's Ivy Cudgel, and Urshifu-R's Surging Strikes as well as a neutrality to Ursaluna and Landorus's Ground-type attacks.
+
+Galarian Weezing benefits its allies by disabling almost all abilities with Neutralizing Gas and spreading poison. It can be used with Pokemon with abilities that cannot be disabled like
+
+Calyrex-S
+
+and Pokemon with abilities that are not always necessary for them to function such as
+
+Iron Hands
+
+and
+
+Roaring Moon
+
+. It works best against Pokemon with abilities that are important to their performance, such as Prankster
+
+Whimsicott
+
+and
+
+Tornadus
+
+, and those that boost their damage and set up Terrain or weather to help their team, such as
+
+Miraidon
+
+,
+
+Koraidon
+
+, and
+
+Kyogre
+
+. Dazzling Gleam can be used for reliable damage and to break Focus Sashes while ignoring redirection, but Strange Steam can be used for a higher chance to OHKO Roaring Moon and Koraidon. Toxic Spikes is used to wear down foes over time, allowing Galarian Weezing's partners to easily clean up late-game. Additionally, it works well against teams without a grounded Poison-type like
+
+Amoonguss
+
+to absorb Toxic Spikes. Poison Gas is best against Pokemon that intend to set up and stay on the field for a while, such as Calm Mind
+
+Terapagos
+
+, especially since it is a spread move and cannot be redirected, though it can be blocked by Wide Guard. Protect can bait out Fake Out if Covert Cloak is not being used and can stall turns to rack up poison damage. Covert Cloak can ensure Toxic Spikes is set up against Fake Out users, Sitrus Berry improves survivability, and Mental Herb stops Taunt and Encore from disrupting Toxic Spikes and Poison Gas setup. 12 Speed EVs is used to outspeed
+
+Farigiraf
+
+and
+
+Incineroar
+
+with low Speed investment. The EVs in Special Defense allow survival of Astral Barrage from Choice Specs Calyrex-S and Water Spout from Mystic Water Kyogre, given that rain is not active. The defensive investment allows for a high chance to survive Precipice Blades from
+
+Groudon
+
+and guaranteed survival of Surging Strikes from
+
+Urshifu-R
+
+. Tera Dark gives Galarian Weezing a resistance to Calyrex-S’s STAB attacks. Tera Grass grants an immunity to Spore and turns its weakness to Ground-type attacks such as Landorus-I's Earth Power into a resistance as well as granting a resistance to Electric-type attacks like Electro Drift from Miraidon. Tera Water grants a resistance to Glacial Lance from
+
+Calyrex-I
+
+.
+
+Faster Taunt users such as Whimsicott shut down the status options of Galarian Weezing without Mental Herb, and sets without Sitrus Berry are vulnerable to high damage from double targeting. Poison-types such as Amoonguss wall Galarian Weezing and absorb Toxic Spikes, preventing it from inflicting poison. Since Galarian Weezing typically cannot deal immediate damage, it relies on its teammates to win games, and it will often lose late-game against offensive Pokemon. Galarian Weezing is often partnered with Calyrex-S because its As One ability is unaffected by Neutralizing Gas. Additionally, Galarian Weezing is commonly paired with
+
+Dondozo
+
+and
+
+Tatsugiri
+
+, as a Commander-boosted Dondozo can sweep teams that have been weakened by poison damage, and it can effectively stall out poison damage by using Protect and recovering from Leftovers. Fighting-type teammates like Urshifu-R and Iron Hands can take advantage of Terapagos's Tera Shell being disabled to OHKO it with Close Combat.
+
+Indeedee-F
+
+supports these teams by providing redirection and providing Psychic-type offense on its own.
+
+Ogerpon-C
+
+can use Follow Me to guarantee Galarian Weezing's Toxic Spikes setup. Roaring Moon can threaten Psychic-types with Knock Off and provide Tailwind for the team.
+
+Set Details
+
+Galarian Weezing is a great disruptive support Pokemon that can support offensive teams by shutting down the abilities that many teams depend on with Neutralizing Gas. Galarian Weezing has a good matchup against teams that rely on
+
+Grimmsnarl
+
+to take hits, as it is able to disrupt it with Taunt before it can set up dual screens, allowing powerful partners like
+
+Koraidon
+
+and
+
+Calyrex-S
+
+to sweep through teams. Neutralizing Gas also makes it a lot harder for
+
+Miraidon
+
+and
+
+Kyogre
+
+, which are quite reliant on their respective field effects, to damage Galarian Weezing's partners.
+
+Taunt allows Galarian Weezing to effectively shut down Grimmsnarl,
+
+Amoonguss
+
+, and
+
+Brute Bonnet
+
+, as well as preventing the opposing team's Trick Room. Will-O-Wisp can easily cripple physical attackers such as
+
+Zamazenta-C
+
+,
+
+Calyrex-I
+
+, and
+
+Iron Hands
+
+. Toxic Spikes and Poison Gas negate recovery on
+
+Terapagos
+
+and Calyrex-I while also making it easier for a partner Calyrex-S to clean up a team that has been chipped down. Strange Steam is guaranteed to OHKO Koraidon while getting around Wide Guard, and Dazzling Gleam is a slightly weaker spread option that can consistently chip down enemies. Play Rough is a physical Fairy-type STAB move that allows Galarian Weezing to do much much more damage to Assualt Vest Iron Hands and Miraidon.
+
+Covert Cloak prevents Fake Out flinches from Iron Hands,
+
+Incineroar
+
+, and
+
+Rillaboom
+
+, allowing it to support its team without being slowed down and making it easier to stop Trick Room. Rocky Helmet does good chip damage to Koraidon, Zamazenta-C, and Iron Hands. It's also useful to break
+
+Urshifu-R
+
+or
+
+Chien-Pao
+
+'s Focus Sash. Safety Goggles gives Galarian Weezing an immunity to Brute Bonnet and Amoonguss's Spore and Rage Powder.
+
+The EVs guarantee Galarian Weezing can survive a Behemoth Bash or Heavy Slam from Zamazenta-C, allowing Galarian Weezing to burn it with Will-O-Wisp. Galarian Weezing is also guaranteed to survive a Choice Specs Miraidon Electro Drift without Terrain, forcing the opponent to double target Galarian Weezing. The Speed investment lets Galarian Weezing outspeed Grimmsnarl and shut down its supportive capabilities with Taunt.
+
+Tera Water is used to give Galarian Weezing resistances to Calyrex-I's Glacial Lance, Koraidon's Flare Blitz, and Zamazenta-C's Behemoth Bash and Heavy Slam. Tera Dark grants Galarian Weezing an immunity to Calyrex-S's Psychic and a resistance to its Astral Barrage.
+
+Teambuilding
+
+Incineroar,
+
+Tornadus
+
+, and
+
+Flutter Mane
+
+can all outspeed Galarian Weezing and use Taunt, reducing its effectiveness on the field.
+
+Zacian-C
+
+'s Behemoth Blade can OHKO Galarian Weezing with a good roll, and its Steel typing gives it a resistance to Dazzling Gleam and Strange Steam as well as an immunity to Poison Gas and Toxic Spikes. Amoonguss can also check Galarian Weezing, as Spore can completely shut it down, and Amoonguss easily shrugs off Strange Steam and Dazzling Gleam while having an immunity to Poison Gas and removing Toxic Spikes on entry.
+
+Galarian Weezing is a good partner for Koraidon and Calyrex-S, as it turns off many of the main defensive tools of balance teams. Although Neutralizing Gas forces Koraidon to use the Ability Shield, shutting down Incineroar's Intimidate and Grimmsnarl's Prankster makes it much easier for Koraidon to sweep through teams unchecked. Disabling abilities like Protosynthesis, Quark Drive, and Prankster allows Calyrex-S to outspeed almost everything in the metagame and pressure teams with Astral Barrage. Koraidon is able to heavily threaten Incineroar, Amoonguss, and Zacian-C, while Calyrex-S can help against Flutter Mane.
+
+Galarian Weezing pairs well with
+
+Dondozo
+
+and
+
+Tatsugiri
+
+, as it is able to spread status with Poison Gas and Toxic Spikes, allowing Dondozo to clean up late-game while taking little damage from foes and healing with Leftovers.
+
+Draft Order
+
+: Round 5 onwards
+
+Price Range
+
+: 9-10 points
+
+Overview
+
+: Galarian Weezing may have mediocre stats, but it consolidates many important utility options and type resistances into one team slot, making it a high-value mid-tier support option for many drafts. Its amazing defensive typing, combined with Levitate, makes it a solid physical wall with good matchups against relevant top-tier picks like
+
+Garchomp
+
+and
+
+Great Tusk
+
+; Neutralizing Gas allows it to disrupt many Pokemon that rely on their abilities like
+
+Serperior
+
+and
+
+Tornadus-T
+
+, and it supports its teammates in battle with its deep utility movepool.
+
+Common Roles
+
+Defensive Utility
+
+: While these sets will still generally invest into defensive bulk, a utility Galarian Weezing will focus on using its options like Will-O-Wisp or Toxic Spikes to make progress during a game. These sets don't specifically focus on longevity, so they may forgo recovery options in favor of more utility or coverage.
+
+Defensive Wall
+
+: Alternatively, Galarian Weezing can take advantage of its excellent defensive typing and solid physical bulk to wall offensive threats. These sets aim to have as much longevity as possible through the use of Pain Split, Black Sludge + Protect, or Sitrus Berry.
+
+Common Moves
+
+Primary STAB Moves
+
+: Strange Steam, Play Rough, Dazzling Gleam, Sludge Bomb, Sludge Wave, Gunk Shot
+
+Setup Moves
+
+: Bye bye!
+
+Utility Moves
+
+: Clear Smog, Defog, Destiny Bond, Haze, Memento, Pain Split, Protect, Taunt, Toxic, Toxic Spikes, Will-O-Wisp
+
+Coverage
+
+: Dark Pulse, Fire Blast, Flamethrower, Overheat, Shadow Ball, Thunderbolt
+
+Niche Moves
+
+Explosion / Misty Explosion
+
+: Explosion and Misty Explosion allow Galarian Weezing to KO itself, dealing a lot of damage and simultaneously giving one of its teammates a free switch in.
+
+Thief
+
+: Galarian Weezing's physical bulk and resistance to Dark make it a reliable Knock Off switch-in, so Thief can be a niche option to steal an item if you expect Galarian Weezing's item to be removed via Knock Off.
+
+Common Items
+
+Rocky Helmet
+
+: Galarian Weezing will take many physical attacks during battle, and will often run Rocky Helmet to punish physical attackers that make contact with it.
+
+Black Sludge
+
+: Galarian Weezing has no reliable recovery on its own, so it often runs Black Sludge for passive recovery, sometimes in combination with Protect for more safe healing.
+
+Sitrus Berry
+
+: Sitrus Berry is an alternative to Black Sludge that is better in situations where Galarian Weezing won't get many free turns to heal from Black Sludge's passive recovery. It is also useful to sometimes turn a 2HKO on Galarian Weezing into a 3HKO.
+
+Niche Items
+
+Custap Berry
+
+: Custap Berry is usually combined with Destiny Bond to surprise a foe attempting to finish off a low HP Galarian Weezing.
+
+Resistance Berries
+
+: On Levitate sets, Galarian Weezing only has two weaknesses, so coverage dedicated for it is fairly predictable. As such, it's relatively safe to run a resistance Berry on Galarian Weezing to survive a super effective hit, but this is usually less helpful than what its common items provide.
+
+Heavy-Duty Boots
+
+: When not running Levitate, Galarian Weezing can use Heavy-Duty Boots to avoid taking too much damage from Spikes and Stealth Rock during a game.
+
+Tera
+
+Galarian Weezing should generally not be a Tera Captain, as it lacks offensive power and its main selling point is its excellent defensive typing. If you truly don't have anything else on your draft that can make better use of Tera than Galarian Weezing, then it can be okay as a second Tera Captain. It will primarily use defensive Tera types like Steel or Fire and combine them with Levitate to create even better defensive typings.
+
+Draft Strategy
+
+Galarian Weezing should never be the centerpiece of a draft, nor should it be a Pokemon you focus on supporting. Instead, Galarian Weezing is a strong support piece for other Pokemon thanks to its high utility. Some examples of teammates and teams that benefit from Galarian Weezing are:
+
+Drafts that need a Physical Wall
+
+: Galarian Weezing's typing and abilities allow it to naturally check a lot of common physical attacks. There are many dangerous physical Ground-, Fighting-, Dragon-, and Dark-type threats, and Galarian Weezing is generally able to check these Pokemon very effectively. To break through Galarian Weezing, these Pokemon will usually have to run an otherwise suboptimal move or set, making them easier to deal with for the rest of the team.
+
+Status-weak Threats
+
+: Galarian Weezing is a great status absorber. It cannot be poisoned, it doesn't care about being burned or paralyzed too much, and it can even run Misty Surge to block status effects for its teammates. Top-tier threats that heavily dislike status effects like
+
+Palafin
+
+and
+
+Ogerpon-W
+
+appreciate Galarian Weezing's ability to switch into status moves.
+
+Bulky Setup Sweepers / Unburden Pokemon
+
+: With Misty Surge support from Galarian Weezing, its teammates can use Misty Seed. This pairs well with bulky setup sweepers like
+
+Iron Hands
+
+and
+
+Latias
+
+, allowing for easier setup, and also provides a nice option to trigger Unburden for Pokemon like
+
+Sneasler
+
+and
+
+Hawlucha
+
+.
+
+Checks and Counters
+
+Poison-types
+
+: Poison-types resist Galarian Weezing's STAB moves, are immune to Toxic, and Galarian Weezing has no super effective coverage with which to hit them. Poison-types that don't mind being burned are very safe and effective switch-ins to Galarian Weezing.
+
+Special Attacks
+
+: Galarian Weezing's special bulk isn't impressive at all—even when invested. Physical attackers with standard sets walled by Galarian Weezing like
+
+Landorus-T
+
+will often use a special coverage attack to hit Galarian Weezing hard, so Galarian Weezing must scout for these lures.
+
+Galarian Weezing establishes a niche for itself over other defensive Poison-types thanks to its two unique and potentially very useful abilities. Neutralizing Gas and Levitate give Galarian Weezing two very interesting defensive niches that teams can explore, although its lack of reliable recovery proves to be a significant hinderance in practice. Strange Steam is the preferred STAB move, as it has good neutral coverage and can potentially harass foes with confusion. Will-O-Wisp allows Galarian Weezing to impair physical attackers like
+
+Ogerpon-W
+
+,
+
+Landorus-T
+
+, and
+
+Hisuian Samurott
+
+. Pain Split is Galarian Weezing's only form of recovery, albeit the flawed nature of the move makes it much less consistent than the options available to its competitors. Defog allows Galarian Weezing to remove entry hazards set by the likes of Hisuian Samurott,
+
+Ferrothorn
+
+, and
+
+Kommo-o
+
+. Flamethrower allows Galarian Weezing to severely pressure Ferrothorn and potentially catch Steel-types like
+
+Mega Scizor
+
+,
+
+Melmetal
+
+, and
+
+Kartana
+
+as they switch in. Toxic Spikes is a rare move in National Dex, so Galarian Weezing can potentially use them to seriously irritate foes such as
+
+Garchomp
+
+, Ogerpon-W, and
+
+Urshifu-R
+
+. Galarian Weezing's two viable abilities are the main reason to run it, and both have very different benefits that change the way it plays and the kind of teams that it fits on. Neutralizing Gas grants Galarian Weezing several very unique benefits, such as using Defog against or burning
+
+Gholdengo
+
+switching in; denying Regenerator from common Pokemon like
+
+Alomomola
+
+,
+
+Toxapex
+
+, and
+
+Galarian Slowking
+
+; and enabling setup of Toxic Spikes against
+
+Mega Diancie
+
+and
+
+Hatterene
+
+switch-ins. On the other hand, Levitate allows Galarian Weezing to become immune to Spikes and counter several dangerous Ground-types, such as Garchomp, Landorus-T, and
+
+Great Tusk
+
+. Black Sludge gives Galarian Weezing some passive recovery, allowing it to mitigate its lack of reliable recovery as much as possible. It is used over Leftovers to mess with Trick users such as Gholdengo and
+
+Iron Valiant
+
+. Heavy-Duty Boots can be used on Neutralizing Gas variants to mitigate Galarian Weezing's vulnerability to Spikes. Rocky Helmet is an option to punish contact moves from the likes of Urshifu-R, Landorus-T, and
+
+Mega Lopunny
+
+, although it noticeably impacts Galarian Weezing's already mediocre longevity.
+
+The types of teams that Galarian Weezing fits on depends largely on its choice of ability. Neutralizing Gas is a great option for bulky balance and stall teams that appreciate Galarian Weezing's ability to harass several Pokemon that often give balance teams trouble, such as Gholdengo,
+
+Gliscor
+
+, and Alomomola. These teams are well equipped to shore up its poor longevity and accommodate for its Ground-type weakness. Teammates such as Landorus-T, Ferrothorn, and Gholdengo are common on bulky balance teams and appreciate Galarian Weezing's ability to help them check Fighting-types that can sometimes overwhelm them in addition to the benefits that Neutralizing Gas provides. The aforementioned Ground-type weakness requires good Ground-immune teammates such as Gliscor,
+
+Moltres
+
+, and
+
+Celesteela
+
+to help out Galarian Weezing. Wish passers like Alomomola can help mitigate Galarian Weezing's lack of a reliable recovery move. Teammates vulnerable to entry hazards, such as Mega Scizor,
+
+Zapdos
+
+, and
+
+Ting-Lu
+
+, appreciate how Neutralizing Gas Galarian Weezing can absorb Toxic Spikes and use Defog even in the face of a potential Gholdengo switch-in. Although they still work on balance teams, Levitate variants of Galarian Weezing can also fit on more offensive builds, which don't mind Galarian Weezing's lack of reliable recovery but appreciate the unique defensive profile that it provides. Galarian Weezing countering most Ground- and Fighting-types in one slot frees up these teams considerably. Steel-types have excellent defensive synergy with Levitate Galarian Weezing, as they appreciate it dealing with Ground- and Fighting-types while assisting it with problematic Psychic-types. Gholdengo,
+
+Heatran
+
+, and Melmetal can help out against Psychic-types like
+
+Tapu Lele
+
+and
+
+Mega Latios
+
+, while they love Galarian Weezing switching into Great Tusk, Mega Lopunny, and Landorus-T. A Dragon-type, such as Mega Latios,
+
+Raging Bolt
+
+, or
+
+Dragonite
+
+, is a good partner as well, as it helps out with Galarian Weezing's weakness to strong special attacking Fire-types such as Heatran and
+
+Mega Charizard Y
+
+while also assisting with Ogerpon-W, which Galarian Weezing is a shaky check to. Slower offensive Pokemon that can be revenge killed by common Ground- and Fighting-types make for good partners for Levitate Galarian Weezing. Raging Bolt,
+
+Kingambit
+
+, and Gholdengo are good teammates as a result.
+
+Galarian Weezing serves as a strong defensive piece for Poison teams thanks to its strong supportive movepool and incredible immunities provided by its Fairy typing and Levitate, enabling it to comfortably take on threats such as Swords Dance
+
+Garchomp
+
+,
+
+Dragonite
+
+, and
+
+Ting-Lu
+
+. Strange Steam allows Galarian Weezing to pressure Dark- and Dragon-types like
+
+Mega Sableye
+
+,
+
+Roaring Moon
+
+, and Dragonite. Defog clears away entry hazards for teammates such as
+
+Alolan Muk
+
+and
+
+Mega Venusaur
+
+, preventing them from getting worn down. Pain Split can keep Galarian Weezing healthy by siphoning HP away from foes such as
+
+Blissey
+
+and Ting-Lu. Finally, Will-O-Wisp can be used to shut down physical attackers like
+
+Iron Treads
+
+and
+
+Iron Hands
+
+. Mega Venusaur pairs particularly well with Galarian Weezing, with Leech Seed being able to make up for Galarian Weezing occasionally lacking self-preservation while also checking Water- and Ground-type threats such as
+
+Mega Swampert
+
+,
+
+Keldeo
+
+, and Iron Treads that can overwhelm it.
+
+Toxapex
+
+can similarly help against Water-types like
+
+Urshifu-R
+
+and check Steel-types such as
+
+Scizor
+
+and
+
+Celesteela
+
+and Fire-types like
+
+Mega Charizard Y
+
+with Scald and Toxic. Alolan Muk provides a special wall capable of handling Psychic- and Ghost-types that can easily threaten Galarian Weezing such as
+
+Tapu Lele
+
+,
+
+Blacephalon
+
+, and
+
+Hisuian Zoroark
+
+by trapping them with Pursuit. Assault Vest
+
+Galarian Slowking
+
+can check special attackers for Galarian Weezing like
+
+Zapdos
+
+,
+
+Latios
+
+, and
+
+Kyurem
+
+. Choice Scarf
+
+Sneasler
+
+can outspeed and handle Steel-type threats such as
+
+Hisuian Goodra
+
+,
+
+Empoleon
+
+, and
+
+Heatran
+
+along with checking other problematic threats such as
+
+Hisuian Arcanine
+
+and
+
+Ursaluna
+
+.
+
+Nidoking
+
+can break through Poison- and Steel-types like Toxapex and
+
+Gholdengo
+
+that use Galarian Weezing as free entry while also checking Electric-types like
+
+Raging Bolt
+
+and
+
+Regieleki
+
+.

@@ -1,0 +1,979 @@
+Orthworm's place in ZU is defined by its extremely valuable Steel typing combined with its amazing natural Defense and an immunity to Ground-type moves through its signature ability, Earth Eater. With both Stealth Rock and Spikes at its disposal, Orthworm can be an excellent defensive entry hazard setter for its team; furthermore, it has multiple setup moves in Iron Defense and Coil that let it serve as both a defensive check to opposing physical attackers and a potential bulky setup sweeper with Body Press. Orthworm has two pain points holding it back from further success: special attacks threaten severe damage to it, and it can get worn down rapidly due to its lack of a reliable recovery move, especially if it loses its Leftovers.
+
+Orthworm is an excellent defensive Pokemon thanks to its great physical bulk, Steel typing, and complementary immunity to Ground from Earth Eater. Common Pokemon like
+
+Whiscash
+
+,
+
+Sandslash
+
+, and
+
+Sandaconda
+
+struggle to break through Orthworm on their own, while other Pokemon like
+
+Farigiraf
+
+and
+
+Mesprit
+
+must either dedicate a coverage move for Orthworm or Terastallize. Orthworm's fantastic defensive profile gives it ample opportunities to switch in and set up entry hazards with Stealth Rock and Spikes for its teammates. Orthworm is also a resilient hazard setter against Sandslash, one of the few common hazard removers. Heavy Slam has the best immediate power and coverage of Orthworm's attacks against foes like
+
+Sneasel-Hisui
+
+and
+
+Articuno
+
+, deals super effective damage to
+
+Froslass
+
+, and wrecks
+
+Whimsicott
+
+and Tera Fairy Pokemon such as
+
+Jolteon
+
+and Mesprit. Body Press is strong against
+
+Regirock
+
+and
+
+Glastrier
+
+, and it 2HKOes heavier foes and Electric-types such as
+
+Magneton
+
+and Jolteon. The increased resilience and additional power to Body Press provided by Iron Defense enable Orthworm to beat physical attackers like
+
+Primeape
+
+and set up on setup sweepers such as
+
+Minior
+
+. Orthworm can lean into its hazard setting capabilities by running Stealth Rock and Spikes, taking advantage of Choice item attackers like Mesprit and Sneasel-Hisui and accepting its own lack of longevity as a defensive Pokemon. Protect helps Orthworm maximize recovery from Leftovers and scout Choice item attackers like Primeape, Magneton, and
+
+Typhlosion
+
+. Tera Ghost makes Orthworm more secure against Fighting-type physical attacks like Close Combat from Primeape and Glastrier, Body Press from Regirock and opposing Orthworm, and Low Kick from
+
+Dodrio
+
+. Tera Ghost also enables Orthworm to block Rapid Spin from Sandslash to preserve the entry hazards it sets, and it's especially helpful against
+
+Hitmontop
+
+. Tera Electric leaves Orthworm without weaknesses, so it can more efficiently set hazards and take on physical attackers. Orthworm's EVs are tailored to patch up its lower special bulk to enable it to take on special attackers like Mesprit, Farigiraf, and Whimsicott more comfortably while still giving it enough physical bulk to survive a +2 Low Kick from Dodrio, Close Combat from Primeape, and 2 Low Kicks from
+
+Sneasel
+
+.
+
+Orthworm is a good fit for bulky offense teams looking for an entry hazard setter, and its limited longevity is a better fit for the playstyle compared to more passive hazard setters like Sandaconda. Offensive Pokemon such as
+
+Charizard
+
+, Jolteon, and Typhlosion adore checks to them like Whiscash and Regirock taking residual damage from Orthworm's entry hazards. Primeape, Mesprit, and Sneasel commonly run Knock Off, which complements Orthworm's entry hazards by removing Heavy-Duty Boots from Pokemon such as Hitmontop and Charizard and helping wear them down. Charizard can comfortably take Orthworm's attacks and threaten it out, so Orthworm appreciates support from partners like
+
+Muk
+
+and Whiscash that can threaten Charizard and other Fire-types like Typhlosion. Hazard removers like
+
+Lurantis
+
+are appreciated by Orthworm because residual damage from Spikes racks up quickly on it and limits its defensive capabilities. Rapid Spin users like Sandslash, Hitmontop, and
+
+Cryogonal
+
+remove entry hazards without removing Orthworm's entry hazards. Fighting-types like
+
+Virizion
+
+and Primeape can overpower Orthworm with their super effective STAB moves, so checks to them such as Mesprit, Charizard, and
+
+Weezing
+
+are appreciated. Orthworm is a great partner for Pokemon vulnerable to Ground-types, such as Jolteon and Magneton.
+
+With Coil, Orthworm can act as an excellent progress maker and bulky wincon for its team, leveraging its excellent typing and Ground immunity to set up on foes like
+
+Sandslash
+
+and
+
+Sandaconda
+
+. Furthermore, other foes like
+
+Muk
+
+and
+
+Mesprit
+
+can often find it difficult to make progress against Orthworm without utilizing Terastallization. Iron Tail and Body Press cover much of the tier together, while Substitute lets Orthworm avoid burn from foes like
+
+Weezing
+
+and
+
+Spiritomb
+
+. Substitute also prevents Orthworm from being phazed by Dragon Tail from the likes of
+
+Dipplin
+
+and protects it from revenge killers like
+
+Primeape
+
+. Maximum Special Defense investment alongside a Careful nature helps Orthworm better withstand special attacks from foes like
+
+Jolteon
+
+and
+
+Arboliva
+
+. Tera Ghost is used to help find setup opportunities against Fighting-types like Primeape and
+
+Virizion
+
+.
+
+Coil Orthworm pairs well with fast teammates like Jolteon and
+
+Hisuian Sneasel
+
+, which appreciate its ability to take advantage of Ground-type foes like Sandslash and Sandaconda. Other teammates like
+
+Articuno
+
+and
+
+Typhlosion
+
+appreciate Orthworm's ability to use common checks like Arboliva and
+
+Dodrio
+
+as setup fodder. Fire-types can often be a significant struggle for Orthworm, so it appreciates teammates like
+
+Whiscash
+
+and
+
+Houndoom
+
+to check them. Without prior boosts, Orthworm can often have a rough time against opposing Fighting-types, so teammates like
+
+Whimsicott
+
+,
+
+Charizard
+
+, and Weezing can serve as invaluable support. Since Orthworm relies heavily on its Leftovers for its game plan, it appreciates Knock Off absorbers like Dipplin and Muk. Hazard support from teammates like Mesprit and Sandslash is often greatly appreciated to help weaken Orthworm's checks.
+
+Other Options
+
+Orthworm can opt to run a few other Tera types if it desires; Tera Electric allows it to avoid being hit super effectively by any attack, while Tera Poison and Tera Fairy provide a Fighting resistance as well as additional defensive utility in more specific matchups. However, these Tera types introduce weaknesses to wallbreakers like
+
+Mesprit
+
+and
+
+Magneton
+
+, which are more common than Ghost-types like
+
+Froslass
+
+and
+
+Rotom
+
+. Lastly, Orthworm can opt to run Rock Slide or Rock Blast to hit opposing Fire-types particularly hard on the switch, but it struggles to fit these over any of its moves without impacting its utility or ability to sweep.
+
+Checks and Counters
+
+Fighting-types
+
+: Fighting-type foes like
+
+Virizion
+
+and
+
+Primeape
+
+often force Orthworm to either Terastallize or switch out unless it's already properly set up.
+
+Fire-types
+
+: Fire-type foes like
+
+Typhlosion
+
+,
+
+Charizard
+
+, and
+
+Houndoom
+
+put immense pressure on Orthworm with their STAB attacks. Orthworm also struggles to deal damage against Charizard due to i resisting both Iron Tail and Body Press.
+
+Ghost-types
+
+:
+
+Spiritomb
+
+, Rotom, and
+
+Sableye
+
+are immune to Body Press and either threaten Orthworm directly with their own moves or threaten status to severely hinder its sweep.
+
+Burn
+
+: Burn from foes like Charizard,
+
+Weezing
+
+, and Rotom significantly hinders Orthworm's damage output, neutralizes its Leftovers recovery, and limits its sweeping ability, though it can at least use Substitute to circumvent Will-O-Wisp attempts against slower foes like Weezing.
+
+Encore and Taunt
+
+: Encore from foes like Mesprit and
+
+Whimsicott
+
+can disrupt Orthworm in the middle of its setup attempts, as does Taunt from the likes of
+
+Alolan Persian
+
+and
+
+Thwackey
+
+. Taunt also denies its attempts to set entry hazards.
+
+Item Disruption
+
+: Knock Off from foes like Mesprit, Primeape, and
+
+Sandslash
+
+severely injures Orthworm's longevity due to its reliance on Leftovers, as does Switcheroo from Rotom and Whimsicott.
+
+Special Attackers
+
+: Orthworm's poor special bulk can often be taken advantage of by foes like
+
+Jolteon
+
+, Magneton,
+
+Vikavolt
+
+, and
+
+Clawitzer
+
+, though some of these Pokemon have to be wary of Body Press on the switch in.
+
+Orthworm faciliates setup sweepers on hyper offense teams thanks to its Ground immunity and access to Shed Tail. Unlike
+
+Cyclizar
+
+, Orthworm is able to pass slow Shed Tails due to its low Speed.
+
+Orthworm has access to both Stealth Rock and Spikes, helping it wear down walls for its setup sweeper teammates. Stealth Rock is usually preferred for limiting
+
+Chien-Pao
+
+,
+
+Chi-Yu
+
+, and
+
+Iron Bundle
+
+, but Spikes can be used if your team already has a Stealth Rock setter. Body Press punishes
+
+Kingambit
+
+and Chien-Pao trying to wear down and set up on Orthworm. Iron Head is a STAB move that lets Orthworm hit
+
+Flutter Mane
+
+trying to Taunt it.
+
+Tera Water allows Orthworm to safely set up Shed Tail on
+
+Koraidon
+
+. Tera Ghost lets Orthworm completely blank Fighting-type attacks from Koraidon and
+
+Great Tusk
+
+while preventing Rapid Spin users from removing entry hazards set by both Orthworm and its teammates. However, Terastallizing Orthworm instead of one of its teammates is often not worth it.
+
+Sitrus Berry provides Orthworm with the flexibility to take an attack and use Shed Tail, but Mental Herb is an option to block Taunt.
+
+Grimmsnarl
+
+is a fantastic partner, as it provides screens support that improves Orthworm's longevity and further eases setup for teammates behind Shed Tail.
+
+Entry hazard setters such as
+
+Glimmora
+
+and
+
+Froslass
+
+can wear down opponents in conjunction with Orthworm's hazards and Shed Tail, making it easier for teammates to break through walls.
+
+Setup sweepers such as Koraidon,
+
+Miraidon
+
+, Kingambit,
+
+Iron Moth
+
+, and
+
+Espathra
+
+appreciate Orthworm's Shed Tail preventing status while giving them some leeway to boost. Koraidon in particular also appreciates Orthworm walling Great Tusk without Fighting-type moves and deterring Great Tusk from using Ground-type moves. Swords Dance Chien-Pao and Calm Mind Flutter Mane similarly appreciate Orthworm's Shed Tail easing setup by compensating for their lower bulk.
+
+Thanks to Earth Eater, Orthworm can wall sets of many physical Dragon-types like
+
+Garchomp
+
+and
+
+Baxcalibur
+
+.
+
+Iron Head versus Heavy Slam
+
+: Iron Head is superior for
+
+Dragonite
+
+,
+
+Chien-Pao
+
+, and Baxcalibur. Heavy Slam can 2HKO offensive
+
+Dragapult
+
+and OHKO offensive
+
+Flutter Mane
+
+.
+
+Rest
+
+: Rest gives Orthworm better longevity for stalling out physical threats. It can be run with Chesto Berry, but usually another item is preferable.
+
+Shed Tail
+
+: In the early-game when IronPress may not be as effective, Shed Tail gives Orthworm a useful pivot for setting up teammates.
+
+Substitute
+
+: Substitute stops Salt Cure damage from
+
+Garganacl
+
+and phazing from Garchomp's Dragon Tail.
+
+Other Options
+
+Earthquake
+
+: Earthquake can hit
+
+Gholdengo
+
+, but it won't 2HKO, so Recover is still a problem.
+
+Stealth Rock
+
+: IronPress sets have a more difficult time fitting it in, but Orthworm can run Stealth Rock if the team can't run it elsewhere.
+
+Items
+
+Sitrus Berry
+
+: Sitrus Berry helps ensure that Orthworm can still Shed Tail after taking a big hit or, if able to stay healthy, gives it two uses of Shed Tail.
+
+Rocky Helmet
+
+: Not only does Rocky Helmet make it even easier to wear down physical attackers, but it makes running Body Press as the only attack much more feasible.
+
+Leftovers
+
+: Leftovers is a consistent option, especially in conjunction with Substitute.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Orthworm's excellent bulk profile give it good setup opportunities, but combining Terastallization with Earth Eater can further augment its defensive capabilities.
+
+Poison
+
+: Tera Poison provides a key Fighting-type resistance and a single weakness and maintains a key resistance to Flower Trick, letting Orthworm perform better against
+
+Meowscarada
+
+,
+
+Great Tusk
+
+, and
+
+Iron Valiant
+
+.
+
+Fairy
+
+: Tera Fairy provides a Fighting-type resistance and Dragon-type immunity, turning Dragon Tail Garchomp into setup bait, and dealing with Great Tusk, Iron Valiant, and
+
+Roaring Moon
+
+.
+
+EV spreads
+
+252 HP / 252 Def / 4 Spe with Impish
+
+: Maximum physical bulk is ideal if relying on Orthworm to beat Dragonite and Baxcalibur in the late-game. A fully invested Body Press will also OHKO offensive
+
+Chi-Yu
+
+.
+
+252 HP / 252 SpD / 4 Spe with Careful
+
+: This EV spread makes Orthworm much less likely to be 2HKOd by unboosted Flutter Mane and Life Orb Dragapult.
+
+252 HP / 116 Def / 140 Spe with Impish
+
+: This spread can be used to outspeed Adamant
+
+Kingambit
+
+, most
+
+Corviknight
+
+, and
+
+Skeledirge
+
+. This can be very useful if using Shed Tail.
+
+Orthworm's good physical bulk and ability make it a great support with Shed Tail, and a reliable Stealth Rock user.
+
+Body Press
+
+: Body Press has a good chance to OHKO offensive
+
+Chi-Yu
+
+and
+
+Meowscarada
+
+, and threatens
+
+Kingambit
+
+and
+
+Roaring Moon
+
+.
+
+Heavy Slam versus Iron Head
+
+: A Steel-type STAB move helps hit some Ghost-types like busted
+
+Mimikyu
+
+and
+
+Flutter Mane
+
+, who are OHKOed by Heavy Slam. Iron Head is an alternative for heavy foes like
+
+Dragonite
+
+,
+
+Chien-Pao
+
+, and
+
+Baxcalibur
+
+.
+
+Spikes
+
+: Orthworm can also set Spikes at the cost of offensive coverage.
+
+A Special Teammate
+
+: Many Pokemon can benefit from Orthworm's Shed Tail. One example is Air Balloon
+
+Gholdengo
+
+, which puts a lot of pressure on defensive foes when behind a Substitute.
+
+Tera Types
+
+Tera Dependency - Low
+
+: This Orthworm isn't usually meant to Terastallize, since that's better served by the teammates its passing a Substitute to.
+
+Poison
+
+: Tera Poison leaves Orthworm with only one fairly rare weakness, and aids it against former threats like
+
+Great Tusk
+
+and
+
+Iron Valiant
+
+.
+
+Fairy
+
+: Tera Fairy gives Orthworm a Fighting resistance, as well as a way to absorb
+
+Garchomp
+
+'s Dragon Tail while still staying in.
+
+EV spreads
+
+252 HP / 252 Def / 4 SpD with Impish
+
+: This spread maximizes Orthworm's physical bulk. Running a Speed IV of 0 may be tempting, but being outsped by bulky
+
+Brute Bonnet
+
+is risky.
+
+252 HP / 116 Def / 140 Spe with Impish
+
+: This spread outspeeds Kingambit, and most
+
+Skeledirge
+
+and
+
+Corviknight
+
+. Outspeeding Kingambit and Corviknight prevents Taunt from stopping Shed Tail, and let's Orthworm bring in a teammate against Torch Song.
+
+252 HP / 44 Def / 212 Spe with Jolly
+
+: This spread outspeeds Adamant
+
+Breloom
+
+and Jolly Brute Bonnet. Mach Punch still does a lot, but thanks to Sitrus Berry, Orthworm will have enough HP left to Shed Tail to a check or counter.
+
+Thanks to Earth Eater, Orthworm can wall sets of many physical Dragon-types like
+
+Garchomp
+
+and
+
+Baxcalibur
+
+.
+
+Heavy Slam can 2HKO offensive
+
+Dragapult
+
+, while Iron Head is superior for
+
+Dragonite
+
+.
+
+Rest is an option with Chesto Berry to heal Orthworm in a pinch, giving it better longevity.
+
+Shed Tail gives Orthworm use when IronPress isn't as effective. The surprise factor comes at the price of the reduced effectiveness of IronPress.
+
+Earthquake is an option to hit
+
+Gholdengo
+
+, but it won't 2HKO, so Recover is still a problem.
+
+Substitute stops Salt Cure damage from
+
+Garganacl
+
+and phasing from Garchomp's Dragon Tail.
+
+Items
+
+Sitrus Berry
+
+: Sitrus Berry allows two uses of Shed Tail.
+
+Leftovers
+
+: Leftovers is a consistent option, especially in conjunction with Substitute.
+
+Tera Types
+
+Poison
+
+: Tera Poison provides a key Fighting resistance and single weakness and maintains a key resistance to Flower Trick.
+
+Fairy
+
+: Tera Fairy provides a Fighting resistance and Dragon immunity, turning Dragon Tail Garchomp into setup bait.
+
+EV spreads
+
+252 HP / 252 SpD / 4 Spe with Careful
+
+: This EV spread makes Orthworm much less likely to be 2HKOd by Life Orb Dragapult.
+
+252 HP / 116 Def / 140 Spe with Impish
+
+: This spread can be used to outspeed Adamant
+
+Kingambit
+
+and most
+
+Corviknight
+
+and
+
+Skeledirge
+
+. This can be very useful if using Shed Tail.
+
+Orthworm's good physical bulk and ability make it a great user of Shed Tail, and a reliable Stealth Rock user.
+
+Body Press has a good chance to OHKO offensive
+
+Meowscarada
+
+, and threatens
+
+Kingambit
+
+.
+
+A Steel-type STAB move helps hit some Ghost-types like
+
+Mimikyu
+
+, who is OHKOed by Heavy Slam after Disguise. Iron Head is an alternative for heavy foes like
+
+Dragonite
+
+.
+
+Orthworm can also set Spikes, but this compromises its ability to pass Shed Tail.
+
+Many Pokemon can benefit from Orthworm's Shed Tail. One example is Air Balloon
+
+Gholdengo
+
+, which puts a lot of pressure on defensive foes when behind a Substitute.
+
+Tera Types
+
+This Orthworm isn't usually meant to Terastalize.
+
+Poison
+
+: Tera Poison leaves Orthworm with only one fairly rare weakness.
+
+Fairy
+
+: Tera Fairy gives Orthworm a Fighting resistance, as well as a way to absorb
+
+Garchomp
+
+'s Dragon Tail while still staying in.
+
+EV spreads
+
+252 HP / 252 Def / 4 SpD with Relaxed and 0 Speed IVs
+
+: This spread maximizes Orthworm's physical bulk while underspeeding
+
+Hippowdon
+
+.
+
+252 HP / 116 Def / 140 Spe with Impish
+
+: This spread outspeeds Kingambit, and most
+
+Skeledirge
+
+and
+
+Corviknight
+
+. Outspeeding Kingambit and Corviknight prevents Taunt from stopping Shed Tail, and let's Orthworm bring in a teammate against Torch Song.
+
+252 HP / 44 Def / 212 Spe with Jolly
+
+: This spread outspeeds Adamant
+
+Breloom
+
+. Mach Punch still does a lot, but thanks to Sitrus Berry, Orthworm will have enough HP left to Shed Tail to a check or counter.
+
+With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more.
+
+For more information on Series 2, check out the resource thread.
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Thanks to Earth Eater, Orthworm can wall sets of many physical Dragon-types like
+
+Garchomp
+
+and
+
+Baxcalibur
+
+.
+
+Heavy Slam versus Iron Head
+
+: Heavy Slam can 2HKO offensive
+
+Dragapult
+
+, OHKOs
+
+Flutter Mane
+
+, and deals much more damage to
+
+Iron Valiant
+
+, while Iron Head is superior for
+
+Dragonite
+
+.
+
+Rest and Chesto Berry
+
+: Rest is an option with Chesto Berry to heal Orthworm in a pinch, giving it better longevity.
+
+Shed Tail
+
+: Shed Tail gives Orthworm use when IronPress isn't as effective. The surprise factor comes at the price of the reduced effectiveness of IronPress.
+
+Substitute
+
+: Substitute stops Salt Cure damage from
+
+Garganacl
+
+and phazing from Garchomp's Dragon Tail.
+
+Other Options
+
+Earthquake is an option to hit
+
+Gholdengo
+
+, but it won't 2HKO, so Recover is still a problem.
+
+Items
+
+Sitrus Berry
+
+: Sitrus Berry allows two uses of Shed Tail.
+
+Leftovers
+
+: Leftovers is a consistent option, especially in conjunction with Substitute.
+
+Tera Types
+
+Poison
+
+: Tera Poison provides a key Fighting resistance and single weakness and maintains a key resistance to Flower Trick, letting Orthworm preform better against
+
+Meowscarada
+
+,
+
+Great Tusk
+
+, and Iron Valiant.
+
+Fairy
+
+: Tera Fairy provides a Fighting resistance and Dragon immunity, turning Dragon Tail Garchomp into setup bait, and dealing with Great Tusk, Iron Valiant, and
+
+Roaring Moon
+
+.
+
+EV spreads
+
+252 HP / 252 SpD / 4 Spe with Careful
+
+: This EV spread makes Orthworm much less likely to be 2HKOd by Life Orb Dragapult.
+
+252 HP / 116 Def / 140 Spe with Impish
+
+: This spread can be used to outspeed Adamant
+
+Kingambit
+
+, most
+
+Corviknight
+
+, and
+
+Skeledirge
+
+. This can be very useful if using Shed Tail.
+
+Orthworm's good physical bulk and ability make it a great user of Shed Tail, and a reliable Stealth Rock user.
+
+Body Press
+
+: Body Press has a good chance to OHKO offensive
+
+Meowscarada
+
+, and threatens
+
+Kingambit
+
+and
+
+Roaring Moon
+
+.
+
+Heavy Slam versus Iron Head
+
+: A Steel-type STAB move helps hit some Ghost-types like
+
+Mimikyu
+
+and
+
+Flutter Mane
+
+, who are OHKOed by Heavy Slam, and deals massive damage to
+
+Iron Valiant
+
+. Iron Head is an alternative for heavy foes like
+
+Dragonite
+
+.
+
+Spikes
+
+: Orthworm can also set Spikes, but this compromises its ability to pass Shed Tail.
+
+A Special Teammate
+
+: Many Pokemon can benefit from Orthworm's Shed Tail. One example is Air Balloon
+
+Gholdengo
+
+, which puts a lot of pressure on defensive foes when behind a Substitute.
+
+Tera Types
+
+This Orthworm isn't usually meant to Terastalize, since that's better served by the teammates its passing a Substitute to.
+
+Poison
+
+: Tera Poison leaves Orthworm with only one fairly rare weakness, and aiding it against former threats like
+
+Great Tusk
+
+and Iron Valiant.
+
+Fairy
+
+: Tera Fairy gives Orthworm a Fighting resistance, as well as a way to absorb
+
+Garchomp
+
+'s Dragon Tail while still staying in.
+
+EV spreads
+
+252 HP / 252 Def / 4 SpD
+
+: This spread maximizes Orthworm's physical bulk. Running a Speed IV of 0 may be tempting, but being outsped by bulky
+
+Brute Bonnet
+
+is risky.
+
+252 HP / 116 Def / 140 Spe with Impish
+
+: This spread outspeeds Kingambit, and most
+
+Skeledirge
+
+and
+
+Corviknight
+
+. Outspeeding Kingambit and Corviknight prevents Taunt from stopping Shed Tail, and let's Orthworm bring in a teammate against Torch Song.
+
+252 HP / 44 Def / 212 Spe with Jolly
+
+: This spread outspeeds Adamant
+
+Breloom
+
+and Jolly Brute Bonnet. Mach Punch still does a lot, but thanks to Sitrus Berry, Orthworm will have enough HP left to Shed Tail to a check or counter.

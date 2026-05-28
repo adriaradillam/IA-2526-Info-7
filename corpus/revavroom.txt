@@ -1,0 +1,355 @@
+Revavroom is a solid setup sweeper, outspeeding the entire unboosted metagame after using Shift Gear. Revavroom's typing helps it find setup opportunities against Pokemon like
+
+Ogerpon-C
+
+and
+
+Scizor
+
+, and it carries helpful resistances against the priority moves of revenge killers like
+
+Lokix
+
+,
+
+Weavile
+
+, and Scizor. High Horsepower is Revavroom's strongest coverage move against Steel-types like
+
+Excadrill
+
+,
+
+Cobalion
+
+, and
+
+Heatran
+
+. Revavroom can alternatively run Temper Flare over Iron Head to roll past
+
+Skarmory
+
+and Air Balloon Steel-types like Excadrill and
+
+Tinkaton
+
+. Doing this also improves Revavroom's coverage against Scizor. However, dropping Iron Head makes Revavroom more reliant on Gunk Shot for its STAB move, hurting its consistency when it aims to drop threats like
+
+Tornadus-T
+
+,
+
+Latios
+
+, and
+
+Enamorus-T
+
+. Air Balloon creates windows for Revavroom to set up against Pokemon with Ground-type moves, including Excadrill,
+
+Hydrapple
+
+, the
+
+Ogerpon
+
+formes, and
+
+Tyranitar
+
+. It can also turn
+
+Clodsire
+
+into setup fodder for Revavroom. Filter enables Revavroom to stomach super effective attacks, like Heat Wave from Tornadus-T, while it sets up. Tera Ground powers up High Horsepower, making +1 Revavroom overwhelmingly likely to OHKO Cobalion without any prior chip damage.
+
+Skeledirge
+
+can be 2HKOed by Tera Ground High Horsepower, making it an unsafe switch-in to Revavroom.
+
+Revavroom is a great feature on hyper offense teams, where its capacity to set up and sweep is most appreciated. Revavroom's good defensive typing gives more offensive and fast-paced teams some more resilience. Fellow setup sweeper teammates like Scizor and
+
+Thundurus-T
+
+can join Revavroom in offensive cores that overload foes like Skarmory,
+
+Slowking
+
+, and Heatran.
+
+Greninja
+
+can take advantage of Skeledirge entering the field to stop Revavroom from sweeping, while Revavroom can use Pokemon Greninja struggles against, such as Assault Vest Tornadus-T and Choice Scarf
+
+Zarude
+
+, as setup opportunities.
+
+Deoxys-S
+
+'s entry hazards break Ogerpon-C's Sturdy, enabling Revavroom to more reliably sweep Ogerpon-C variants that have Stomping Tantrum in case its Air Balloon has been popped.
+
+Draft Order
+
+: Round 5 onwards
+
+Price Range
+
+: 6-7 points
+
+Overview
+
+: Revavroom is a Pokemon that offers a unique typing for drafts lacking both a Poison- and Steel-type alongside having a strong setup option and utility. It can be a potent sweeper thanks to Shift Gear, making it a threatening Pokemon to play against with its STAB moves and coverage, as well as being good support with access to solid utility options such as Parting Shot and Toxic Spikes. What holds Revavroom back is its severe weakness to Ground, which is a typing that teams often have, as well as its below-average special bulk, which makes it not as reliable for switching into special attacks as would be expected from a Steel-type.
+
+Common Roles
+
+Setup Sweeper
+
+: Shift Gear allows Revavroom to outpace a good amount of fast threats and makes it a potent sweeper. With access to Gunk Shot and Iron Head for reliable, strong STAB moves and coverage such as High Horsepower and Temper Flare to hit Steel-types that would normally check it, Revavroom can be menacing to handle without good defensive counterplay.
+
+Utility
+
+: Alongside having a Steel / Poison typing for defensive utility, Revavroom has access to a good amount of support options that allow it to help its teammates. It is able to pivot around with Parting Shot, set up Toxic Spikes against teams lacking good Poison-types, and disrupt foes with Taunt.
+
+Offensive Pivot
+
+: When using Choice Scarf, Revavroom can use its high Attack and access to Parting Shot to pressure teams offensively while maintaining momentum. Choice Scarf allows it to surprise Pokemon that would ordinarily be faster than it to pick up surprise KOs and maintain momentum with Parting Shot to switch out of bad matchups.
+
+Common Moves
+
+Primary STAB Moves
+
+: Gunk Shot, Iron Head, Poison Jab, Spin Out
+
+Setup Moves
+
+: Shift Gear
+
+Utility Moves
+
+: Parting Shot, Toxic Spikes, Toxic, Taunt, Haze, Substitute
+
+Coverage
+
+: High Horsepower, Temper Flare, Lash Out, Zen Headbutt
+
+Niche Moves
+
+Magnet Rise
+
+: Magnet Rise allows Revavroom to gain a Ground immunity, which can help it set up against Ground-types and protect it from surprise Ground-type coverage.
+
+Self-Destruct
+
+: Self-Destruct can be a strong self-KO option that can severely chip down bulky walls and allow in other Pokemon that can KO the weakened target.
+
+Protect
+
+: Protect can work well with Substitute + Toxic sets to stall out the foe with poison damage and recover slowly with Black Sludge or Leftovers.
+
+Common Items
+
+Air Balloon
+
+: Air Balloon gives Revavroom an immediate Ground immunity for safety against Ground-type attacks, which can give it more opportunities to safely set up.
+
+Choice Scarf
+
+: Choice Scarf gives Revavroom enough Speed to outpace faster threats, and thanks to Parting Shot, it's able to pivot around.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots offers protection against entry hazards, mainly Spikes, to preserve Revavroom's health and let it better pivot around.
+
+Niche Items
+
+Lum Berry
+
+: Lum Berry gives Revavroom protection against status conditions that would hinder its offensive potential as a sweeper.
+
+Rocky Helmet
+
+: With its serviceable physical bulk and numerous resistances, Revavroom can punish physical attackers with Rocky Helmet and chip them down.
+
+Damage-boosting Items
+
+: Items such as Life Orb and Expert Belt are able to give Revavroom's STAB or coverage moves more power, making it more potent at attacking.
+
+Black Sludge / Leftovers
+
+: Black Sludge and Leftovers offer longevity for defensive sets that need to take as many hits as possible throughout a game and recover health. Black Sludge is typically preferred over Leftovers unless Revavroom is expected to use Tera.
+
+Sitrus Berry
+
+: Sitrus Berry offers short-term recovery for offensive sets that need to take more than one hit when they attempt to set up.
+
+Clear Amulet
+
+: Clear Amulet gives Revavroom protection against Intimidate and other opposing stat-dropping effects that would weaken it offensively.
+
+Focus Sash
+
+: With Focus Sash, Revavroom can utilize moves such as Toxic Spikes, Self-Destruct, and Endeavor to function as a dedicated lead or safely set up with Shift Gear on Pokemon that would normally KO it.
+
+Tera
+
+Revavroom is a premier secondary Tera Captain. Although it can function without Tera, it becomes more flexible with it, beating Pokemon that it would otherwise struggle against. For optimal Tera types, Tera Ground and Water provide it with better typing and coverage to handle its weaknesses, and Tera Fairy gives it a better defensive typing overall. Other Tera types that have niche applications include Tera Grass and Flying for a better Ground-type matchup and Tera Dark for protection against Prankster and an immunity to Psychic.
+
+Draft Strategy
+
+Revavroom is able to fill in two types that are valuable to have on teams in Steel and Poison and can serve as a potential wincon. However, since it's not a primary sweeper and its bulk is not as reliable as other Steel-types, your team needs to be flexible in terms of both offensive and defensive options.
+
+Ground-immune Pokemon
+
+: Given its massive Ground weakness, having a Ground-immune teammate such as a Flying-type like
+
+Landorus-T
+
+,
+
+Tornadus-T
+
+, or
+
+Salamence
+
+is important to keep Revavroom safe. Alternatively, Pokemon with Levitate such as
+
+Latias
+
+and
+
+Uxie
+
+are also good partners for Revavroom.
+
+Water-types
+
+: Water-types help deal with Revavroom’s weakness to Fire, hit the Ground-types that often force it out, and are generally defensively valuable on drafts. These can be offensive such as
+
+Quaquaval
+
+and
+
+Greninja
+
+or defensive such as
+
+Rotom-W
+
+and
+
+Swampert
+
+.
+
+Faster Pokemon
+
+: Without setup, Revavroom ends up on the slower side, so having faster options is important. Pokemon such as
+
+Iron Valiant
+
+,
+
+Cinderace
+
+, and all
+
+Ogerpon
+
+formes provide good natural Speed alongside potential utility and wallbreaking power to help Revavroom.
+
+Entry Hazard Setters
+
+: Having entry hazard setters not only makes Revavroom's Toxic Spikes more threatening for the opponent to play against, but it also helps with Revavroom's offensive potential. There are a good amount of options to consider for hazard setters, such as Stealth Rock setters like
+
+Great Tusk
+
+,
+
+Necrozma
+
+, and
+
+Donphan
+
+; Spikes setters such as
+
+Hisuian Samurott
+
+, Greninja, and
+
+Meowscarada
+
+; or even Pokemon that compress both into one like
+
+Ting-Lu
+
+,
+
+Gliscor
+
+, and
+
+Garchomp
+
+.
+
+Checks and Counters
+
+Ground-types
+
+: In general, Ground-type Pokemon are able to handle Revavroom both offensively with their attacks and defensively with their natural bulk, their presence alone making it difficult for it to function. Prominent examples include Ting-Lu, Gliscor, and Great Tusk.
+
+Steel-types
+
+: Despite Revavroom having coverage for Steel-types, these Pokemon can still be tough to break without any prior chip damage and can easily switch into its STAB moves. They can also easily run Air Balloon and resistance Berries to anticipate High Horsepower and Temper Flare. Pokemon such as
+
+Metagross
+
+,
+
+Iron Treads
+
+, and
+
+Gholdengo
+
+have both the durability and power to handle Revavroom even with its coverage.
+
+Physical Walls
+
+: Even with its decently high Attack stat and Shift Gear, Revavroom can struggle to get past physically bulky Pokemon such as
+
+Iron Hands
+
+,
+
+Pecharunt
+
+, and
+
+Ursaluna
+
+, and they usually are able to force it out.
+
+Special Attackers
+
+: Since it has low Special Defense, Revavroom can be very susceptible to special attackers and even resisted special attacks if it is thrown against them haphazardly. Pokemon like
+
+Darkrai
+
+, Greninja, and
+
+Raging Bolt
+
+can easily deal large amounts of damage to Revavroom.
+
+Mirror Herb
+
+: Given its reliance on Shift Gear to offensively pressure teams, Revavroom can easily be countered by having a Mirror Herb on faster Pokemon, which can be dangerous and nearly game-ending for Revavroom's user.
+
+Status Conditions
+
+: Without any form of protection from status such as Lum Berry, Revavroom can be very susceptible to status effects such as paralysis and burn that hinder its offensive potential and effectively make it deadweight.

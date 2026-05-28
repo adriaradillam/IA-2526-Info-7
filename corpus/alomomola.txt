@@ -1,0 +1,1219 @@
+Alomomola's gargantuan HP stat, good defensive typing, a slow Flip Turn, and Regenerator make it one of the best defensive pivots available that can reliably pass Wishes to its teammates. On top of reliably gaining recovery from Wish, Protect has many more applications for Alomomola; it allows Alomomola to scout Choice item users like
+
+Walking Wake
+
+and
+
+Gholdengo
+
+, scout for potential double switches by the opponent, and potentially stall out an additional turn of burn damage from Scald. Scald immediately threatens
+
+Great Tusk
+
+and
+
+Landorus-T
+
+; bolsters Alomomola's defensive presence by crippling physical attackers such as
+
+Kingambit
+
+,
+
+Zamazenta
+
+, and
+
+Dragonite
+
+; punish foes like
+
+Rillaboom
+
+and
+
+Ogerpon
+
+from switching in; and cut down the longevity of switch-ins like
+
+Galarian Slowking
+
+and opposing Alomomola. Tickle is an alternative option that allows Alomomola to neutralize Dragon Dance Dragonite and
+
+Kyurem
+
+without relying on Scald's burn chance as well as Curse
+
+Dondozo
+
+thanks to Tickle's higher PP. The Defense drop provided by Tickle may also allow one of Alomomola's teammates to beat foes that Alomomola itself may not, such as Calm Mind
+
+Clefable
+
+and Swords Dance
+
+Gliscor
+
+.
+
+Tera Ghost gives it an immunity to Fighting-type moves from Zamazenta, letting it reliably deal with IronPress variants; it can additionally be used to spinblock against Great Tusk and
+
+Iron Treads
+
+. Tera Steel gives Alomomola a generally solid defensive typing to aid against Rillaboom,
+
+Tyranitar
+
+, and Choice Band
+
+Dragapult
+
+. Heavy-Duty Boots allows it to function as a pivot effectively without getting worn down by entry hazards, but on teams with strong entry hazard removal, other items can be considered. Rocky Helmet enhances Alomomola's role as a physical wall by punishing foes like Zamazenta, Kingambit, and Great Tusk. Red Card is an alternative that allows Alomomola to act as a one-time phazer against setup sweepers like Zamazenta, Kingambit, Dragonite, and
+
+Iron Moth
+
+. Covert Cloak is an option on teams weak to
+
+Garganacl
+
+, as this allows Alomomola to switch into its Salt Cure safely. A Relaxed nature with 0 Speed IVs ensures that Alomomola is as slow as possible to bring in its teammates safely, with maximum Defense investment letting it check foes like Great Tusk, Zamazenta, and
+
+Cinderace
+
+more reliably.
+
+Alomomola performs best on balance and stall teams due to the sheer value of Wish for teammates that lack reliable recovery. Potent defensive Pokemon such as
+
+Ting-Lu
+
+,
+
+Heatran
+
+, and Great Tusk heavily appreciate Alomomola's gargantuan Wish to heal them reliably, as these walls often struggle to recover themselves after chip damage. Similarly, on stall, the likes of Dondozo and
+
+Clodsire
+
+appreciate Alomomola's Wish help them better deal with chip damage while also letting them preserve Rest and Recover PP, respectively. Additionally, they appreciate Alomomola's effectiveness as a pivot, as it can let them switch in without taking any damage thanks to its relatively low Speed. Special walls such as
+
+Blissey
+
+, Clodsire, and
+
+Skeledirge
+
+can cover Alomomola's weaker Special Defense, handling the likes of
+
+Iron Valiant
+
+and Heatran. Other Pokemon with Regenerator such as Galarian Slowking and
+
+Tornadus-T
+
+can form potent Regenerator cores, making them difficult to wear down in the face of entry hazards. All of these Pokemon also appreciate Alomomola's capability to take Knock Off rather well.
+
+Alomomola is deathly afraid of
+
+Ogerpon-W
+
+because of Water Absorb. It can easily set up on and decimate Alomomola even after it Terastallizes. Thus, checks to Ogerpon-W such as Rillaboom and Zamazenta make for excellent partners. The former two also appreciate Alomomola's Wish supporting their otherwise shaky longevity.
+
+Amoonguss
+
+'s access to Toxic lets Alomomola have an easier time chipping down and stalling out foes with Flip Turn and Wish, respectively. Offensive Pokemon such as Dragapult,
+
+Meowscarada
+
+, and Landorus-T appreciate Alomomola's slow pivoting and ability to pass large Wishes to assist with their longevity.
+
+Alomomola can use Assault Vest to improve its poor Special Defense, becoming a specially defensive pivot at the expense of Wish. Alomomola can soak up most moves from special attackers like
+
+Dragapult
+
+,
+
+Darkrai
+
+, and
+
+Iron Moth
+
+and pivot out with Flip Turn to the appropriate teammate, particularly frail offensive ones, with Regenerator recovering most of the damage taken. Scald is Alomomola's best move if it wants to stay in, fishing for burns that help pressure defensive switch-ins like
+
+Galarian Slowking
+
+,
+
+Ting-Lu
+
+, and
+
+Clodsire
+
+; cripple opposing physical attackers like
+
+Dragonite
+
+,
+
+Zamazenta
+
+, and
+
+Kingambit
+
+; and punishing would-be switch-ins like
+
+Meowscarada
+
+and
+
+Rillaboom
+
+. Mirror Coat makes use of its huge special bulk to retaliate against the plethora of attackers it can take hits from, like Dragapult, Iron Moth, and even
+
+Raging Bolt
+
+. Play Rough immediately dents Pokemon like
+
+Kyurem
+
+, Raging Bolt,
+
+Hydrapple
+
+, and Dark-type special attackers like Darkrai that do not fear Mirror Coat at all. Body Slam allows Alomomola to spread paralysis, particularly against foes that don't mind its Scald burn, like
+
+Deoxys-S
+
+,
+
+Clefable
+
+, and
+
+Ogerpon-W
+
+, especially as the latter might switch in attempting to block its Flip Turn. Aqua Jet lets it pick off severely weakened fast foes like Darkrai,
+
+Iron Valiant
+
+, and
+
+Ceruledge
+
+.
+
+A Sassy nature completes the build to be as slow as possible, as it notably Speed ties opposing Alomomola as well as underspeed Hydrapple, Ting-Lu, and Clefable, allowing for Alomomola's teammates to enter safely. Tera Fairy is the primary option to help against rampaging Dragon- and Dark-types like Dragapult and
+
+Hisuian Samurott
+
+while additionally boosting the damage from Play Rough to the point of securing a 2HKO against Hisuian Samurott and Iron Valiant. It also helps against Raging Bolt and Hydrapple, two special attackers that can boost past the threat of Mirror Coat and thus pose a major threat to Alomomola. Tera Normal leverages the lack of weaknesses to the tier's common special attackers and their coverage moves as well as letting it pivot into
+
+Gholdengo
+
+and Nasty Plot
+
+Pecharunt
+
+more reliably while also boosting the power of Body Slam. Tera Steel is an option that improves matchups against Calm Mind Iron Valiant and Grass-types like Rillaboom, Meowscarada, and
+
+Ogerpon
+
+and lets it resist Stealth Rock. Alomomola can afford to run a mixed defensive EVs spread of 20 HP / 236 Def / 252 SpD to better handle mixed attackers like Iron Valiant and Dragapult, with the additional 20 HP EVs allowing Alomomola to survive Tera Ice Choice Specs Kyurem's Freeze-Dry after Stealth Rock.
+
+Assault Vest Alomomola fits best on bulky offense teams that appreciate its ability to tank hits and pivot but do not require the sustained healing from Wish. Strong and fast attackers like Darkrai, Dragapult, and Deoxys-S appreciate Alomomola's ability to provide them with a safe entrance after a slow Flip Turn while at the same time being able to switch in on potential revenge killers like Choice Scarf
+
+Landorus-T
+
+,
+
+Weavile
+
+, and Dragonite. Offensive pivots like Landorus-T,
+
+Lokix
+
+, Raging Bolt, and
+
+Cinderace
+
+can form a VoltTurn core with Alomomola and appreciate it tanking hits and pivoting on Darkrai and
+
+Walking Wake
+
+. Physical walls like Pecharunt, Zamazenta, and
+
+Skarmory
+
+can benefit from Alomomola handling special attackers like Iron Moth and Dragapult, allowing them to wall or set up on remaining physical threats that can threaten Alomomola such as Rillaboom and Ogerpon-W, the latter of which can even prevent Alomomola from pivoting around freely.
+
+Ground-type teammates like Ting-Lu,
+
+Gliscor
+
+, and
+
+Iron Treads
+
+are a must to handle foes like Raging Bolt and
+
+Zapdos
+
+; besides the threat of setup from Calm Mind Raging Bolt, they can also pivot out with Volt Switch, doing big damage and avoiding the answer of Mirror Coat by pivoting to a Dark-type like Kingambit or Ting-Lu. Alomomola is vulnerable to Toxic Spikes, so Poison-types like Iron Moth and the aforementioned Pecharunt can be a good fit. Similarly, Spikes and Stealth Rock can also wear down Alomomola due to the lack of Heavy-Duty Boots, preventing its ability to survive and pivot for longer and ruining the surprise of the Assault Vest. To handle this, teammates like
+
+Great Tusk
+
+,
+
+Corviknight
+
+, and
+
+Hatterene
+
+can help to remove and prevent hazards. Corviknight can also help as a check to Grass-types like Hydrapple and Rillaboom.
+
+Thanks to its great defensive capabilities enhanced by Regenerator and access to utility moves like Wish and Flip Turn, Alomomola solidifies itself as a premier Wish passer and a decent physical wall on stall and semi-stall teams. Alomomola's high physical bulk lets it take hits from the strongest of physical attackers in the metagame like
+
+Koraidon
+
+,
+
+Arceus
+
+, Dragon Dance
+
+Arceus-Ground
+
+,
+
+Ho-Oh
+
+, and
+
+Calyrex-I
+
+. Wish + Flip Turn is Alomomola's defining trait, making it function as a Wish passer for walls without reliable recovery such as
+
+Ting-Lu
+
+and
+
+Alolan Muk
+
+and also bringing in frailer teammates like
+
+Calyrex-Shadow
+
+and
+
+Ditto
+
+safely. Protect scouts Choice item users like Choice Specs
+
+Kyogre
+
+and Choice Band Koraidon and ensures Alomomola can heal itself with Wish without any risk of getting KOed. Play Rough 2HKOes Koraidon, which could otherwise set up Swords Dance and, less frequently, Substitute. However, Koraidon can Terastallize into a Fire- or Steel-type and render Alomomola helpless. Scald alternatively wards off most physical attackers from the fear of a burn, bar Tera Fire users. Heavy-Duty Boots is vital for Alomomola to switch in repeatedly through the course of the game by making it unaffected by entry hazards, which would otherwise whittle down Alomomola slowly. Tera Fairy provides a crucial immunity to Koraidon's Outrage and Scale Shot, as well as a resistance to Close Combat. Additionally, Tera Fairy-boosted Play Rough OHKOes Koraidon after a Defense drop from Scale Shot or Close Combat. However, it comes with the cost of losing the resistance to Fire-type moves like Koraidon's Flare Blitz and Ho-Oh's Sacred Fire and gaining a weakness to
+
+Zacian-C
+
+'s Behemoth Blade and
+
+Necrozma-DM
+
+'s Sunsteel Strike.
+
+Alomomola best fits on stall and semi-stall teams that appreciate a blanket check for a plethora of physical attackers. As Alomomola's special bulk is subpar, it is vulnerable to strong special attackers like Calyrex-S,
+
+Miraidon
+
+, and Kyogre. Ting-Lu is a great partner that can handle Miraidon and Calyrex-S and benefits from Wish extending its longevity. It also sets Spikes, which helps to limit threatening switch-ins like Swords Dance Koraidon. Similarly, other special walls like
+
+Eternatus
+
+, Tera Grass Ho-Oh, and
+
+Blissey
+
+assist in checking Kyogre, Miraidon and Calm Mind
+
+Arceus-Fairy
+
+. In return, Alomomola switches into dangerous physical attackers like Koraidon, Swords Dance Arceus, Dragon Dance Arceus-Ground, and Calyrex-Ice. However, wallbreakers like Choice Band and Life Orb + Swords Dance variants of Koraidon, Tera Flying Ho-Oh, and Swords Dance Zacian-C are capable of breaking past Alomomola without much difficulty. Thus, Unaware walls like
+
+Skeledirge
+
+that alleviate the pressure off Alomomola by checking Zacian-C and Koraidon are good teammates. Meanwhile, Alomomola can stall out the Koraidon's sun with Protect, giving Skeledirge an easier time.
+
+Garganacl
+
+checks Tera Flying Ho-Oh and is immune to Ho-Oh's Sacred Fire burns and Eternatus's Toxic thanks to Purifying Salt.
+
+Gliscor
+
+is valuable for absorbing Knock Off and status from opposing Gliscor, Eternatus, and
+
+Clodsire
+
+. It also checks Taunt Dragon Dance Arceus-Ground, which can stop Alomomola from using Wish and set up using Tera Fire. Ditto and Encore Calyrex-S are fantastic teammates for revenge killing threats like Swords Dance Zacian-C and halting setup sweepers, respectively, thereby reducing the stress on Alomomola. Furthermore, Alomomola brings them in safely with Flip Turn and passes Wish.
+
+Other Options
+
+Rocky Helmet is an alternative item choice on teams with entry hazard control like Defog
+
+Mandibuzz
+
+. Notably, the chip damage compounded by Brave Bird's recoil makes Alomomola have a much better time against
+
+Ho-Oh
+
+. Leftovers prevents a 2HKO from Adamant
+
+Koraidon
+
+'s Outrage or five-hit Scale Shot and makes use of Protect to get slightly more recovery. Tera Rock lets Alomomola wall Tera Flying Ho-Oh conveniently while adding an Extreme Speed resistance. However, such teams are limited, and Tera Rock leaves Alomomola weak to Koraidon's Low Kick and
+
+Arceus-Ground
+
+'s Earthquake, so the aforementioned options are rarely used. Tickle is useful against Tera Fire users like Bulk Up
+
+Arceus
+
+, Dragon Dance
+
+Necrozma-DM
+
+, and Dragon Dance Arceus-Ground lacking Taunt. Furthermore, the Defense drop comes in handy for Alomomola's teammates like
+
+Ditto
+
+to revenge kill threats such as Swords Dance Arceus. Play Nice can be used in place of Tickle, as it bypasses Substitute, while Chilling Water is effective against Taunt users like Arceus-Ground and Arceus. However, using these moves comes at the expense of being unable to threaten Koraidon and makes Alomomola need additional support from teammates to deal with Swords Dance Koraidon.
+
+Checks and Counters
+
+Special Wallbreakers
+
+: Due to Alomomola's mediocre Special Defense, it is easily threatened by common special wallbreakers like
+
+Calyrex-S
+
+,
+
+Miraidon
+
+, and
+
+Kyogre
+
+, all of which are capable of OHKOing it and taking advantage of its passivity to set up.
+
+Tera Fire Users
+
+: Tera Fire users like Swords Dance Koraidon, Bulk Up Arceus, Dragon Dance Arceus-Ground, and Dragon Dance Necrozma-DM safely set up on Alomomola without worrying about Scald burns after Terastallization.
+
+Substitute Users
+
+: Tera Steel Koraidon and
+
+Zacian-C
+
+often carry Substitute, which lets them set up freely. Furthermore, they can't be revenge killed by Ditto.
+
+Knock Off Users
+
+: Knock Off users like
+
+Gliscor
+
+and Necrozma-DM greatly limit Alomomola's entry, as losing Heavy-Duty Boots means it can no longer pivot without being chipped by entry hazards like Spikes and Toxic Spikes.
+
+Toxic Users
+
+: Toxic users like
+
+Eternatus
+
+,
+
+Clodsire
+
+, and Gliscor can cripple Alomomola, severely affecting its longevity.
+
+Alomomola is a bulky pivot against physical attackers such as
+
+Koraidon
+
+and
+
+Chien-Pao
+
+on balance or defensive teams.
+
+The decision between Play Rough and Chilling Water depends on your preference. Play Rough is important since it provides actual damage against Chien-Pao and Koraidon; on the other side, Chilling Water is an effective stop to Bulk Up
+
+Great Tusk
+
+and bulky
+
+Palafin
+
+, which otherwise are annoying Pokemon to deal with for defensive teams.
+
+Whirlpool is a better support option than Light Screen on more defensive teams, since its continuous damage and trapping allow Alomomola to break past some Pokemon, such as
+
+Ting-Lu
+
+. On the other hand, Light Screen is better for offensive teams, since it helps them switch against powerful special attackers such as
+
+Miraidon
+
+and
+
+Flutter Mane
+
+without sacrificing a Pokemon.
+
+Besides healing Alomomola with Protect, Wish helps its teammates not get worn down, especially walls without reliable recovery like
+
+Dondozo
+
+, Ting-Lu, and Great Tusk.
+
+The item choice depends on your team structure. If you have good entry hazard removal and need more damage against threats, then Rocky Helmet is the best choice. Leftovers is useful when you have good hazard removal but can also inflict good damage with your teammates; it also prevents some 2HKOs, for example from Choice Band Chien-Pao's Crunch. Without good hazard removal, Heavy-Duty Boots is the preferred choice.
+
+Run a Relaxed nature with Play Rough, or if you have Chilling Water + Whirlpool and wish to sacrifice some Speed for full Whirlpool damage. Otherwise, run Bold.
+
+Tera Fairy provides Alomomola with Fighting and Dark resistances, letting it switch in more comfortably and stop setup from Koraidon and Chien-Pao. Additionally, the Dragon immunity lets it sponge hits such as Koraidon's Dragon Claw and Outrage, or Draco Meteor from Miraidon.
+
+Special walls work well alongside Alomomola's physical defense, such as Ting-Lu,
+
+Clodsire
+
+,
+
+Blissey
+
+, and
+
+Corviknight
+
+.
+
+Other great partners are
+
+Toxapex
+
+and Dondozo, as Alomomola relieves pressure on them to check threats such as Koraidon, Chien-Pao, and Great Tusk. Dondozo is especially helpful here due to its Unaware ability. Unfortunately, you also stack weaknesses against common special attackers such as Miraidon and
+
+Iron Bundle
+
+; this should be considered while teambuilding.
+
+Alomomola's colossal HP, solid Defense, and incredible ability allow it to act as a great pivot option for bulkier Water teams. The combination of Wish and Flip Turn allows Alomomola's teammates to safely switch in and restore a substantial amount of HP. Scald is Alomomola's best way of dealing damage, as well as having the added benefit of being able to burn opposing Pokemon such as
+
+Excadrill
+
+and and
+
+Okidogi
+
+. Protect allows Alomomola to stall out a turn and recover its own HP using Wish. Alternatively, Alomomola can utilize its low Special Defense stat to bait strong special attackers, such as Choice Specs
+
+Flutter Mane
+
+and
+
+Latios
+
+, into hitting it with a special attack, then turn the tables via Mirror Coat.
+
+Alomomola is almost exclusively seen on stall teams due to its passivity. Teammates without reliable recovery, such as
+
+Dondozo
+
+and
+
+Swampert
+
+, are excellent partners for it. Dondozo can switch into dangerous setup sweepers, such as
+
+Azumarill
+
+and
+
+Bisharp
+
+that Alomomola struggles in the face of. Meanwhile, Swampert is immune to Electric-type attacks, which threaten Alomomola, and can utilize Flip Turn to help get Alomomola in for safe Wishes. Special walls such as
+
+Empoleon
+
+, Swampert, and
+
+Toxapex
+
+are able to cover Alomomola's low Special Defense stat by switching into Pokemon like
+
+Dragapult
+
+and
+
+Gholdengo
+
+. Additionally, Toxapex and Alomomola form an incredibly tough-to-break Regenerator core that breaks down opposing teams via poison and burn, all while restoring HP naturally. Pokemon that can provide hazard support such as
+
+Gastrodon
+
+,
+
+Quagsire
+
+, and
+
+Hisuian Samurott
+
+are great teammates for Alomomola, as they form a hazard-stacking core and are capable of wearing down foes across the course of long games.
+
+Greninja
+
+and
+
+Urshifu-R
+
+can beat Pokemon such as
+
+Ogerpon-H
+
+and
+
+Landorus
+
+, both of which massively threaten slower-paced Water teams. Additionally, Greninja and Urshifu-R are great recipients of Alomomola's Wish passing, which allows them to remain healthy and continue to provide offensive pressure for their team.
+
+With Wish and a slow Flip Turn, Alomomola has a strong combination for providing team healing.
+
+Protect
+
+: Alomomola can use Wish and Protect to give itself reliable self-recovery, and this combination makes Alomomola great at stalling out turns against weather, Terrains, and Trick Room.
+
+Aqua Jet
+
+: Aqua Jet is weak on Alomomola but still excellent at picking off severely weakened threats such as Focus Sash
+
+Chien-Pao
+
+.
+
+Play Rough
+
+: Play Rough deals sizable damage to
+
+Koraidon
+
+without Terastallization but is otherwise fairly situational.
+
+Other Options
+
+Scald
+
+: Scald's burn chance can punish physical attackers like
+
+Dragonite
+
+and Chien-Pao for trying to set up on it, but it's rather inconsistent.
+
+Skill Swap
+
+: Skill Swap is a unique way to prevent
+
+Gliscor
+
+that lack Taunt from setting up on Alomomola and its team. It can also be used on
+
+Ogerpon-W
+
+'s Water Absorb to make Flip Turn possible against it.
+
+Tera Types
+
+Tera Dependency - Low / Medium
+
+: Physically bulky Alomomola already has good typing against the threats it wants to wall, but there are times when Terastallization is needed to augment its role.
+
+Fairy
+
+: Tera Fairy's Fighting-type resistance can be used to buy more time against Koraidon and
+
+Urshifu-R
+
+as well as just outright walling powerful Dragon-type moves like Outrage and Scale Shot.
+
+Poison
+
+: Tera Poison improves the
+
+Flutter Mane
+
+matchup and provides important support for removing Toxic Spikes.
+
+Items
+
+Rocky Helmet
+
+: Rocky Helmet is fantastic for chipping the likes of Koraidon and Dragonite just by switching into their contact moves. Paired with Alomomola's recovery support, it has great potential to stack this damage up over time.
+
+Leftovers
+
+: Leftovers synergizes well with Protect, and the extra passive recovery can give Alomomola greater freedom to pass Wish to its teammates.
+
+EV Spreads
+
+116 HP / 252 Def / 140 SpD with Relaxed
+
+: The physical bulk on this EV spread is tuned for Scale Shot from Jolly Koraidon, guaranteeing Alomomola can survive up to nine individual hits before recovery. With Leftovers and Protect, it almost always guarantees that Alomomola can live two unboosted Moonblasts from Timid Flutter Mane.
+
+252 HP / 252 Def / 4 SpD with Relaxed
+
+: A simple spread that tops out physical bulk, but the main benefit is that maximizing Alomomola's HP bumps the recovery teammates will receive from Wish.
+
+4 HP / 252 Def / 252 SpD with Relaxed
+
+: While it sacrifices some physical bulk, the higher special bulk investment helps Alomomola to almost always avoid the 2HKO from Timid Flutter Mane's Moonblast, all without needing Leftovers.
+
+Flip Turn and Regenerator combine to make Alomomola one of the hardest pivots to efficiently take out.
+
+Mirror Coat
+
+: Alomomola makes excellent use of Mirror Coat with its high base HP, retaliating comfortably against top special attackers like
+
+Ursaluna-B
+
+and
+
+Raging Bolt
+
+.
+
+Scald
+
+: Scald's moderate burn chance makes Alomomola even more threatening to physical attackers like
+
+Chien-Pao
+
+and
+
+Urshifu-R
+
+.
+
+Aqua Jet
+
+: Uninvested Aqua Jet may not do much, but it's still useful for picking off common Focus Sash users and Sturdy
+
+Archaludon
+
+.
+
+Play Rough
+
+: Play Rough lets Alomomola deal more direct damage to the likes of Chien-Pao and Urshifu-R, especially when paired with Tera Fairy.
+
+Icy Wind
+
+: Icy Wind's speed control can be useful for wallbreakers like Choice Band Chien-Pao and Choice Specs
+
+Chi-Yu
+
+. Furthermore, targets like defensive
+
+Dragonite
+
+are still faster than Alomomola after a single Speed drop, allowing it to maintain its safe pivoting support.
+
+Other Options
+
+Liquidiation
+
+: Liquidation helps Alomomola deal decent overall damage if forced into a situation where it has to play offensively such as against Calm Mind
+
+Flutter Mane
+
+.
+
+Tera Types
+
+Tera Dependency - Low / Medium
+
+: Alomomola is extremely difficult to OHKO, and with Terastallization, it can thwart its counters and live even longer! Do note though that losing its original typing can make it much more vulnerable to wallbreakers like Tera Water Urshifu-R.
+
+Poison
+
+: Tera Poison grants pivotal Fairy and Grass resistances against Flutter Mane,
+
+Rillaboom
+
+, and the
+
+Ogerpon
+
+formes. The immunity to Toxic and Toxic Spikes is also a big help.
+
+Fairy
+
+: Tera Fairy helps against Dark- and Fighting-type attacks from Chien-Pao and the
+
+Urshifu
+
+formes and can be used alongside Play Rough to give Alomomola more kick against these targets.
+
+EV Spreads
+
+52 HP / 212 Def / 244 SpD with Relaxed
+
+: This EV spread gives Alomomola a balanced defensive profile. The Special Defense investment avoids the OHKO from Modest Choice Specs Chi-Yu's Overheat even if Alomomola is Terastallized.
+
+188 HP / 76 Def / 244 SpD with Relaxed
+
+: This spread contributes extra to surviving special attacks; in particular it has an approxiately 90% chance to avoid the 2HKO from Modest Choice Specs Flutter Mane's Moonblast as well as having about a 75% chance to avoid the 2HKO from Timid Choice Specs Chi-Yu's Dark Pulse. Enough Defense investment is maintained so that Jolly Chien-Pao's Tera Blast Electric only OHKOes Alomomola on the highest damage roll.
+
+Draft Order
+
+: Round 5 onwards
+
+Price Range
+
+: 8-10 points
+
+Overview
+
+: Alomomola is one of the bulkiest walls in the format. It's held up by its fabulous HP, strong defensive typing, and Regenerator, all allowing it to sponge hits and pivot out into a teammate with ease. It's one of a handful of walls that can be equally effective at both physically and specially defensive roles, albeit the latter requires Assault Vest. Alomomola's other unique selling point is its combination of Wish + Flip Turn, allowing it to act as a reliable support for other teammates. However, it has very limited flexibility and can be incredibly passive, making it prone to setup sweepers using it as fodder. These downsides mean Alomomola does not fit all kinds of drafts, but it can be a vital part of many defensive backbones.
+
+Common Roles
+
+Wall
+
+: Alomomola has the ability to safely switch into most Pokemon that aren't carrying super effective STAB moves against it. It's able to safely take these hits and heal the damage off thanks to its access to both Wish and Regenerator. This set is able to act as sponge for teammates while also passing an emergency Wish if needed.
+
+Assault Vest Pivot
+
+: Since it has access to Flip Turn, wielding an Assault Vest allows Alomomola to switch into special attackers that can otherwise 2HKO it and pivot out safely into an attacker. While Alomomola does have a rather shallow offensive movepool, Assault Vest sets will tend to carry Mirror Coat in an attempt to punish the special attackers that try to KO it.
+
+Common Moves
+
+Primary STAB Moves
+
+: Flip Turn, Liquidation, Scald, Aqua Jet
+
+Setup Moves
+
+: Calm Mind
+
+Utility Moves
+
+: Whirlpool, Wish, Mirror Coat, Alluring Voice
+
+Coverage
+
+: Acrobatics, Play Rough, Zen Headbutt, Ice Beam
+
+Niche Moves
+
+Icy Wind
+
+: In scenarios where Alomomola wants to try inhibit a faster foe, Icy Wind may be used instead of Ice Beam. Incoming teammates can take advantage of the foe's lowered Speed.
+
+Healing Wish
+
+: While usually outclassed by Wish, Healing Wish can provide Alomomola with the ability to heal a teammate while also giving the player an effectively free switch. It can pair well with setup Pokemon that may need to come in multiple times per game.
+
+Field Effects
+
+: Alomomola has a wide range of field effects in its arsenal, with moves such as Light Screen, Rain Dance, and Misty Terrain all being examples of what it can run to help support its teammates.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Since Alomomola is expected to switch in multiple times throughout the game, Heavy-Duty Boots gives it more longevity by allowing it to fully utilize Regenerator.
+
+Assault Vest
+
+: Assault Vest is used in matchups where Alomomola is required to take on special attackers and does not need to be reliant on Wish to check them.
+
+Rocky Helmet
+
+: In the event that Alomomola has to punish pivot spam, Rocky Helmet can be used to pressure the foe into not using U-turn in order to avoid chip damage on their pivots. It also has the added benefit of punishing any contact moves in general.
+
+Niche Items
+
+Leftovers
+
+: Leftovers can be used as an alternative to Heavy-Duty Boots against teams with weaker entry hazard setters.
+
+Eject Button
+
+: Alomomola can take heavy hits from strong attackers, and it can use Eject Button to provide a safe switch into a revenge killer, allowing the player to regain momentum safely.
+
+Tera
+
+Alomomola should not normally be a Tera Captain; it tends to have the bulk it needs as is, and it's very rare that gaining extra defensive resistances will help. In the event that you do make it a Tera Captain, Tera types such as Fairy, Steel, and Ground are all valuable options for their strong defensive profiles. It won't benefit offensively from Tera, as it is simply too weak.
+
+Draft Strategy
+
+Alomomola can be a solid fit on a lot of different styles of drafts, so long as they're able to aptly punish setup users. It can be an especially great pairing for the following kinds of Pokemon and drafts.
+
+Frail Wallbreakers
+
+: Alomomola can act a sponge and a safe pivot for frail wallbreakers that tend to be vulnerable to opposing speed control and priority moves. It's also able to help heal them up if they take too much damage, increasing their effectiveness across the whole game. Examples of this include
+
+Chi-Yu
+
+,
+
+Sneasler
+
+, and
+
+Meowscarada
+
+.
+
+Tanks
+
+: Thanks to Wish, Alomomola makes for a great teammate alongside fatter Pokemon that lack recovery. It's able to act as a crutch for these Pokemon, allowing for them to be played more aggressively. Examples include
+
+Iron Hands
+
+and
+
+Landorus-T
+
+, but Alomomola's support can be equally applicable to the likes of
+
+Ting-Lu
+
+and
+
+Tyranitar
+
+, which are now able to run offensive investment much more safely, as their longevity is less prioritized with investment when Wish support is available.
+
+Checks to Grass- and Electric-types
+
+: Since it only has 2 weaknesses, Alomomola can serve as a blanket check for many opposing offensive Pokemon. While it cannot take on every Pokemon, it excels at its role alongside teammates that can switch into and pressure Grass- and Electric-type Pokemon. Examples of this can range from
+
+Weavile
+
+and Landorus-T, which can offensively check them, to
+
+Raging Bolt
+
+and
+
+Latias
+
+, which can use them as free setup opportunities.
+
+Checks and Counters
+
+Encore and Taunt
+
+: Due to its relative passiveness, Alomomola is incredibly susceptible to both Encore and Taunt. Either can be used against Alomomola by a variety of Pokemon, from offensive setup threats like
+
+Ogerpon-W
+
+to bulky pivots such as
+
+Corviknight
+
+. This can provide the foe with free turns of setup or recovery, as Alomomola cannot damage them. While Alomomola can use Flip Turn to pivot out against most of these, it becomes restricted to a fat pivot rather than a support Pokemon.
+
+Substitute
+
+: In a similar vein to Encore and Taunt, Alomomola tends to be incredibly susceptible to the foe using Substitute. Its inability to hit very hard means that opposing setup threats are able to use Substitute followed by setup move relatively freely, without fearing the incoming threat that Alomomola can pivot out via Flip Turn into.
+
+Water-, Grass-, and Electric-type Pokemon
+
+: Alomomola is unable to threaten any of these types effectively. Water-type Pokemon can use it as a free setup opportunity, Electric-type Pokemon can force it out safely and regain momentum, and Grass-type Pokemon are able to do both. What makes this even worse is that physical attackers can run Covert Cloak to avoid burns from Scald, making Alomomola even more of a dead weight.
+
+Alomomola's massive HP stat allows it to be an effective user of Wish to support its ability to give teammates safe entry through Flip Turn. It can make use of Toxic to wear down opposing Pokemon that switch in on it and Pokemon that try setting up on it such as
+
+Terapagos
+
+,
+
+Ogerpon-W
+
+, and
+
+Great Tusk
+
+. Alomomola also appreciates Protect as a way to ensure it is able to use Wish and regain its own HP safely, scout opposing Pokemon's moves, notably Choice-locked attackers such as
+
+Tapu Lele
+
+as well as being able to build up Toxic damage on foes like
+
+Garchomp
+
+and Terapagos. Heavy-Duty Boots are another great tool for Alomomola, allowing it to safely switch into hazards to gain back health safely with Regenerator and use Wish to support teammates. The EV spread and Relaxed nature used allows Alomomola to comfortably sponge up hits from strong physical attackers such as
+
+Kingambit
+
+,
+
+Urshifu-R
+
+, and Great Tusk, while a Sassy nature allows it to have a more comfortable matchup into
+
+Mega Diancie
+
+and Terapagos. Alomomola makes use of 8 HP EVs to remain at an odd number HP stat so it can switch into hazards more optimally if its Heavy-Duty Boots are removed.
+
+Slower Pokemon that lack reliable recovery, like
+
+Ursaluna
+
+, Kingambit, and
+
+Melmetal
+
+, appreciate Alomomola's ability to bring them in safely and recover their HP with Wish against bulky Pokemon like
+
+Ting-Lu
+
+and
+
+Ferrothorn
+
+. Frail Pokemon such
+
+Iron Valiant
+
+also appreciate Alomomola's ability to safely get them on the field with Flip Turn. Alomomola's vulnerability to Grass- and Electric-type Pokemon like
+
+Rillaboom
+
+,
+
+Tapu Koko
+
+, and
+
+Kartana
+
+make
+
+Raging Bolt
+
+and Ferrothorn excellent partners due to their ability to easily shrug them off and regain whatever health is lost through Alomomola's ability to safely Wish pass into these Pokemon.
+
+With an Assault Vest, Alomomola's Special Defense is bolstered, which allows it to act as a powerful defensive pivot. Its defensive capabilities are further improved by Regenerator, enabling it to pivot reliably. Alomomola provides valuable utility for its team in Knock Off, as it can remove the Leftovers or Heavy-Duty Boots from Pokemon like
+
+Toxapex
+
+,
+
+Ferrothorn
+
+, and
+
+Zapdos
+
+so its teammates to break more easily. Mirror Coat deals huge damage and even OHKOes unsuspecting special attackers such as
+
+Mega Charizard Y
+
+,
+
+Tapu Koko
+
+, and
+
+Tapu Lele
+
+that switch in because they can break past non-Assault Vest Alomomola. Flip Turn lets Alomomola safely bring in powerful attackers like
+
+Mega Diancie
+
+, Tapu Lele, and
+
+Urshifu-R
+
+. Scald can be used to status opposing Pokemon with burn, while Liquidation is an alternative STAB move that can prevent foes such as
+
+Volcarona
+
+turn Alomomola into setup fodder.
+
+Alomomola is very valuable on offense and balance teams due to its ability to check a wide variety of Pokemon and bring in its team's attackers via Flip Turn. Alomomola can switch into powerful physical attackers such as Urshifu-R, non-Choice Band
+
+Zamazenta
+
+, and
+
+Hisuian Samurott
+
+. Despite this, Alomomola cannot wall some strong physical attackers like
+
+Ogerpon-W
+
+and Choice Band Zamazenta; therefore, Pokemon that can deal with these foes like
+
+Pecharunt
+
+and
+
+Landorus-T
+
+to be valuable partners. In return, Alomomola can easily take on Pokemon they can’t handle like Tapu Lele. Alomomola can take powerful Water-type attacks from Urshifu-R, Hisuian Samurott, and
+
+Tapu Fini
+
+. It is also able to check powerful special attackers like
+
+Gholdengo
+
+, Tapu Lele, and Mega Diancie and use Mirror Coat to OHKO them. However, this becomes more difficult to pull off once Alomomola's Assault Vest set is revealed, as Mirror Coat is easy to predict; this makes hiding its set important for picking up OHKOs on unsuspecting special attackers. Alomomola can also struggle with special attacking Electric-types such as
+
+Raging Bolt
+
+and Tapu Koko, so it appreciates Ground-types like
+
+Ting-Lu
+
+and specially defensive
+
+Gliscor
+
+. In return, Alomomola can take powerful Water-type attacks from Urshifu-R, Hisuian Samurott, and Tapu Fini. Due to Alomomola’s reliance on its item to check special attackers, it greatly dislikes having it removed ; therefore, Knock Off absorbers like Gliscor,
+
+Mega Scizor
+
+, and
+
+Mega Venusaur
+
+make great partners, and in return, Alomomola can take the Fire-type attacks the latter two dislike and the Water-type attacks Gliscor hates. Alomomola’s defensive capabilities can also be crippled by entry hazards, which leads to hazard removers like
+
+Great Tusk
+
+,
+
+Terapagos
+
+, and Landorus-T being valuable. Pokemon with Magic Bounce like Mega Diancie and
+
+Hatterene
+
+can also help keep hazards off Alomomola's side of the field. Powerful attackers like Zamazenta, Mega Diancie, and Ogerpon-W greatly enjoy Alomomola on their team, as it can safely bring them in on offensive threats like Tapu Lele, Terapagos, and Hisuian Samurott.
+
+Thanks to its great physical bulk, utility, and excellent typing, Alomomola fills valuable niches on bulkier balance teams. Alomomola is useful as a defensive pivot that can shrug off damage thanks to Regenerator, as a status spreader, and as a Wish passer that increases the longevity of its teammates.
+
+Toxic allows Alomomola to cripple the longevity of
+
+Ho-Oh
+
+, Primal
+
+Groudon
+
+, and support
+
+Arceus
+
+formes lacking Refresh. Toxic is especially useful against Primal Groudon and
+
+Zygarde
+
+, as it keeps Alomomola from being easily set up on while forcing Zygarde to waste Rest PP.
+
+Wish allows Alomomola to increase its longevity as well as the longevity of its teammates by providing recovery for allies such as Primal Groudon, Primal
+
+Kyogre
+
+,
+
+Giratina-O
+
+, and Specially Offensive
+
+Yveltal
+
+that have no reliable recovery options. A slow Flip Turn allows Alomomola to safely pass a Wish to the aforementioned Pokemon. Increased longevity allows these teammates to check
+
+Zacian-C
+
+, Primal Groudon, Arceus, and
+
+Marshadow
+
+with more efficiency during the game.
+
+Protect allows Alomomola to more easily receive a Wish from itself, scout Choice item sets from Marshadow, Yveltal, and
+
+Eternatus
+
+, and maximize Toxic damage on the foe.
+
+Heavy-Duty Boots allows Alomomola to freely pivot without worrying about entry hazards.
+
+The first EV spread maximizes Alomomola's mixed bulk, allowing it to shrug off hits from support Arceus formes and Eternatus. The second EV spread maximizes Alomomola's physical bulk, allowing it to survive a +3 Wild Charge from Zacian-C and two uses of Glacial Lance from Choice Band
+
+Calyrex-I
+
+. Having 0 Speed IVs allows Alomomola to perform a slow Flip Turn against
+
+Chansey
+
+and Calyrex-I.
+
+Tera Dark allows Alomomola to absorb powerful Psychic-type attacks such as Light that Burns the Sky from
+
+Ultra Necrozma
+
+and Psycho Boost from
+
+Deoxys-A
+
+. Tera Dark also makes Alomomola one of the few walls capable of handling Deoxys-A thanks to Alomomola's low weight lessening the power of Low Kick. After switching in, Alomomola can immediately threaten to OHKO Deoxys-A with Flip Turn after Stealth Rock and a turn of Life Orb damage.
+
+Tera Poison prevents Alomomola from becoming poisoned, allowing it to serve as a switch-in to Toxic Ho-Oh and utility Arceus formes. Tera Poison also allows Alomomola to absorb Toxic Spikes from Eternatus to keep teammates such as Primal Groudon, Primal Kyogre, and support Arceus formes status-free, although switching into Primal Groudon and
+
+Arceus-Ground
+
+becomes harder.
+
+Alomomola is able to swap into any unboosted physical attack besides Bolt Strike from
+
+Zekrom
+
+throughout the game consistently, since it can use Regenerator to heal itself back up. It can swap in on
+
+Mega Salamence
+
+or Arceus-Ground and pivot with Flip Turn to safely bring in an answer such as
+
+Arceus-Fairy
+
+or
+
+Arceus-Dark
+
+.
+
+Thanks to Alomomola's Wish support, teammates without reliable recovery such as Primal Groudon and Giratina-O can switch into Primal Kyogre and Arceus more aggressively throughout the game without worrying about slowly being chipped down.
+
+Wallbreaker Primal Kyogre makes it near impossible for Alomomola to safely pass a Wish, so teammates such as
+
+Ferrothorn
+
+and Primal Groudon are helpful.
+
+Alomomola will often get overwhelmed by physical attackers such as Zacian-C, Mega Salamence, and Arceus, so teammates such as Primal Groudon and Arceus-Dark help ease Alomomola's workload.
+
+Alomomola provides excellent slow pivoting, so Pokemon that capitalize on a free switch such as Deoxys-A, Choice Band Marshadow, Choice Band
+
+Chien-Pao
+
+, and Meteor Beam Eternatus make excellent teammates.

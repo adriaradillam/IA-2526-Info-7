@@ -1,0 +1,413 @@
+Specially defensive Naclstack is a formidable defensive pivot and wall, checking many of PU's best offensive options like
+
+Salazzle
+
+and
+
+Rotom-Heat
+
+while being capable of absorbing attempts at status. Salt Cure accrues massive amounts of residual damage, and nothing wants to stay in and get worn down by its effect. Protect scouts attacks from Choice-locked Pokemon like
+
+Hoopa
+
+and
+
+Passimian
+
+while racking up Salt Cure damage. Curse can be used to bolster its already excellent Defense, giving Naclstack the ability to excel in late-game situations as an impenetrable wall. Stealth Rock is an option for Naclstack, as it can use its defensive utility to establish hazards repeatedly throughout a game while freeing up a slot for teammates that prefer other options over Stealth Rock, like
+
+Bombirdier
+
+and
+
+Golurk
+
+. Tera Water is generally a good Tera type for defensive walls and works especially well for Naclstack, giving it much better matchups into the strong Fighting- and Water-types in the tier like
+
+Paldean Tauros-F
+
+and
+
+Tatsugiri
+
+and also removing its weakness to Focus Blast from both Hoopa and
+
+Hisuian Typhlosion
+
+. Tera Ghost similarly helps with Fighting-type attacks and can prevent attempts at Rapid Spin from
+
+Coalossal
+
+and Tatsugiri, though it comes at the expense of becoming much weaker to Knock Off and its inability to boost with Curse.
+
+Balance and bulky offense teams appreciate Naclstack greatly as a specially defensive wall capable of sponging hits, absorbing status, and functioning as an entry hazard setter that can get them up multiple times a game. Hazard stacking cores with teammates like
+
+Palossand
+
+and the
+
+Qwilfish
+
+formes are incredibly efficient in wearing teams down with gradual chip damage, though they need support in the form of Knock Off from offensive teammates like
+
+Ambipom
+
+and
+
+Skuntank
+
+to help remove Heavy-Duty Boots. With Salt Cure, Naclstack can often prevent defensive walls like
+
+Milotic
+
+and
+
+Alolan Sandslash
+
+from getting too comfortable against it, allowing teammates to get momentum through forcing multiple switches. Once it is able to get a Salt Cure off, Naclstack will often force switches, and to avoid it being face-to-face with a wallbreaker like Golurk or
+
+Heracross
+
+, it's a good idea to double switch into an offensive teammate like Bombirdier or Paldean Tauros-F. These two also appreciate Naclstack for its ability to stack chip damage to the walls that may switch into Naclstack, like
+
+Mudsdale
+
+and Palossand. Naclstack can sometimes be reliant on Tera to function as the immovable object it desires to be, so pairing it with teammates that can use their natural defensive typing well, like
+
+Hisuian Decidueye
+
+,
+
+Rotom-Mow
+
+, and Skuntank, is important to get the most out of Naclstack.
+
+Draft Order
+
+: Round 7 onwards
+
+Price Range
+
+: 1-2 points
+
+Overview
+
+: Naclstack is a bulky Eviolite user with two overtuned characteristics that make it stand out above other low-tier Rock-types: Salt Cure and Purifying Salt. Where opposing teams can justify significant preparation for its evolution,
+
+Garganacl
+
+, which often leads to it being taken advantage of, Naclstack can make opponents question whether they should run a Covert Cloak on their Pokemon over a more useful item or bring a counter with an otherwise bad matchup just to deal with it. It can take advantage of passive or status-dependent foes to set up and slowly but surely burn through teams, although it has significantly more counters than it has positive matchups as a slow Rock-type, especially if the opponent decides to spend the resources to beat it.
+
+Common Roles
+
+Bulky Wall
+
+: Salt Cure is Naclstack’s most important attack, dealing significant chip damage outside of foes with Covert Cloak, Magic Guard, or Substitute. With Iron Defense and Curse to boost its Defense, Recover to keep itself healthy, either Body Press or Earthquake to deal additional damage, and Protect to further stall Salt Cure turns, it can be a nuisance to opposing defensive cores and Pokemon without ways to recover their HP. Iron Defense and Body Press are its only realistic way of dealing meaningful damage, but if the opponent lacks a Ghost-type or multiple strong special attackers, it can potentially become a late-game sweeper.
+
+Common Moves
+
+Primary STAB Moves
+
+: Salt Cure
+
+Setup Moves
+
+: Iron Defense
+
+Utility Moves
+
+: Recover, Stealth Rock, Protect
+
+Coverage
+
+: Body Press, Earthquake, Iron Head, Zen Headbutt
+
+Niche Moves
+
+Curse
+
+: If Naclstack's typical coverage is not enough, Curse can be used to power up Earthquake, Stone Edge, and other coverage to be less passive into foes that anticipated only Salt Cure and Body Press.
+
+Endure
+
+: Custap Berry sets can pair with Endure to guarantee that Naclstack can set Stealth Rock or attack with Salt Cure before fainting without needing to rely on Sturdy.
+
+Rock Tomb / Bulldoze
+
+: Although Rock Tomb and Bulldoze are pitifully weak coming from Naclstack, lowering a foe's Speed might benefit its teammates and prevent it from becoming setup fodder.
+
+Stone Edge
+
+: Stone Edge is far stronger than Salt Cure against Fighting-resistant Pokemon on Curse + Body Press sets.
+
+Common Items
+
+Eviolite
+
+: Eviolite increases Naclstack’s defensive stats considerably, allowing it to take more hits than it otherwise would.
+
+Niche Items
+
+Custap Berry
+
+: Custap Berry allows Naclstack to go first within its priority bracket a single time, allowing it to set up Stealth Rock or use Salt Cure on a foe in tandem with Sturdy or Endure. This can allow it to become a usable entry hazard lead, forgoing most of its typical utility for hazards, although it lacks other common Sturdy lead options like Explosion and Endeavor.
+
+Tera
+
+Naclstack is a good low-tier Tera Captain and can work if there is not a better option, as its pure Rock typing is one of its biggest drawbacks. With an ability that prevents all status and resists Ghost, certain defensive Tera types can make it much more difficult to break with brute force. Tera Ghost gives it only one weakness from Dark-type moves, an immunity to its typical Fighting-type weakness, and the ability to counter opposing Iron Defense + Body Press users as well as Rapid Spin users. Tera Water, Poison, and Fairy all give Naclstack only two weaknesses while maintaining several resistances that may give it time to set up and become a strong answer to some top-tier threats that normally counter it. Tera Fighting can be used to boost Body Press damage significantly, making IronPress more viable.
+
+Draft Strategy
+
+Naclstack works best when providing support for otherwise self-sufficient teams that have plentiful offensive options. Certain team structures with pieces listed below can appreciate its very specific toolset, bringing full status immunity, a resistance to Ghost that transcends Terastallization, decent defensive bulk, and best of all, unique passive damage that requires its foes to relinquish better items to counter.
+
+Pivots
+
+: Naclstack does best when it is allowed free switches on Pokemon that cannot answer it, so having offensive pivots like
+
+Primarina
+
+,
+
+Meowscarada
+
+, and
+
+Landorus-T
+
+that force in defensive walls can give it opportunities to use Salt Cure or set up Iron Defense or Curse.
+
+Wallbreakers / Sweepers
+
+: Wallbreakers can take advantage of foes weakened by Naclstack's Salt Cure and force items other than Covert Cloak to be brought, like having
+
+Urshifu-R
+
+to force Rocky Helmet or
+
+Chi-Yu
+
+to force Assault Vest or resistance Berries.
+
+Entry Hazard Setters
+
+: Consistent entry hazard setters like
+
+Hisuian Samurott
+
+and
+
+Ting-Lu
+
+can force opponents into deciding between Heavy-Duty Boots and Covert Cloak on their Pokemon, leading to more opportunities for Naclstack to spread Salt Cure or force unnecessary items when it isn't brought.
+
+Entry Hazard Removal
+
+: Naclstack performs best when it isn't forced to take passive damage upon switch-in, so strong entry hazard removal options like
+
+Terapagos
+
+and
+
+Corviknight
+
+can keep it as healthy as possible.
+
+Knock Off Absorbers
+
+: Naclstack loses a considerable amount of bulk if it loses its Eviolite, so having pivots like
+
+Iron Hands
+
+and
+
+Terrakion
+
+that freely switch in on Knock Off can be very beneficial.
+
+Knock Off Users
+
+: Teammates like
+
+Roaring Moon
+
+and
+
+Tornadus-T
+
+can remove opposing Covert Cloaks and Leftovers with Knock Off, making Naclstack far more useful into would-be checks.
+
+Checks and Counters
+
+Covert Cloak / Magic Guard
+
+: Salt Cure is Naclstack’s primary way of dealing consistent damage, and both Covert Cloak and Magic Guard completely negate the effect, rendering Salt Cure as a very weak attack with no other benefit.
+
+Clefable
+
+and
+
+Reuniclus
+
+are likely the strongest counters due to their respective abilities and their typing naturally resisting Body Press.
+
+Substitute
+
+: Substitutes are rarely broken by Salt Cure, potentially turning Naclstack into setup fodder.
+
+Defensive Ghost-types
+
+: Naclstack’s best way to deal high direct damage is with Body Press after setting up with Iron Defense or Curse, so Ghost-types like
+
+Annihilape
+
+and
+
+Sinistcha
+
+force it to rely on Salt Cure chip or other weaker coverage.
+
+Taunt / Encore
+
+: Naclstack is incredibly slow and cannot usually afford to run Mental Herb, so Taunt and Encore can easily stop it from setting up or healing.
+
+Special Wallbreakers
+
+: Naclstack suffers against strong special attackers like
+
+Walking Wake
+
+and
+
+Enamorus
+
+that can outdamage its recovery, especially if they switch in before it can set up a Salt Cure.
+
+Entry Hazards
+
+: As Naclstack ideally always holds Eviolite, Stealth Rock and Spikes can chip it down upon repeated switch-ins and reduce its ability to wall out foes, especially against pivots like Hisuian Samurott and
+
+Zapdos
+
+. The extra damage also forces it to lose momentum by spending more turns clicking Recover instead of spamming Salt Cure or Iron Defense.
+
+Naclstack sets itself apart from other Stealth Rock setters because of its great defensive typing, solid bulk, and immunity to status with Purifying Salt. It can to use these qualities to enter the field against foes like
+
+Charizard
+
+and force progress through setting Stealth Rock or by accumulating damage via Salt Cure and Protect. Running Body Press over Protect gives Naclstack a more immediate way to deal damage to special attackers like
+
+Jolteon
+
+and is useful on bulky offensive teams that appreciate a faster way to make progress than with Salt Cure and Protect. Tera Fairy Naclstack gains resistances to the Dark-type, Fighting-type, and Dragon-type, which are helpful against OTR
+
+Spiritomb
+
+, Focus Blast Charizard, and non-Sludge Bomb
+
+Clawitzer
+
+. Tera Fairy Naclstack does exchange a weakness to physical Fighting-type attacks such as Close Combat for a resistance, but it also opens up a weakness to the Poison-type attacks commonly paired with Close Combat, such as
+
+Toxicroak
+
+'s Gunk Shot. Tera Water Naclstack gains a Water-type resistance that can help it check or force Tera from Choice Specs Clawitzer, as Clawitzer needs Tera Dragon to 2HKO a full health Naclstack. More importantly, Tera Water's Ice-type and Water-type resistances improve Naclstack's matchup against physical attackers such as
+
+Basculin
+
+,
+
+Hitmontop
+
+, and
+
+Glastrier
+
+, without leaving Naclstack weak to any common physical attacks.
+
+Running Stealth Rock on Naclstack is appreciated by teammates such as
+
+Mesprit
+
+and
+
+Sandslash
+
+, which can use the open moveslot for extra utility moves like Healing Wish and Spikes, respectively. Naclstack's ability to check Fire-types like Charizard is appreciated by Grass-types like
+
+Venusaur
+
+, which in turn resists the Water-type and Grass-type moves that threaten Naclstack. It also pairs well with Pokemon that can switch into physical Fighting-type attacks like Mesprit and
+
+Sableye
+
+, both of which threaten to cripple those Fighting-types with a Knock Off or an Encore. A dependence on Eviolite makes Naclstack especially vulnerable to Knock Off itself, so teammates able to switch into a Knock Off like
+
+Skuntank
+
+and Toxicroak are appreciated. Naclstack is especially bad against physically defensive Mesprit, since it does not want to take any of Encore, Knock Off, and Psychic Noise, so teammates able to switch into a Mesprit like Skuntank are appreciated.
+
+Other Options
+
+Iron Defense can be run on Naclstack in conjunction with Body Press to allow it to serve as a late-game setup sweeper. Compared to
+
+Regirock
+
+, another Rock-type running the combination of Iron Defense and Body Press, Naclstack offers a burn immunity and access to Recover, which allows it to switch into special Fire-types throughout the game without compromising its sweeping potential. However, Naclstack has to choose between giving up Stealth Rock and Salt Cure in order to fit Iron Defense onto its moveset, and its reliance on Eviolite for its special bulk makes Naclstack especially vulnerable to Knock Off when compared to Regirock.
+
+Checks and Counters
+
+Knock Off Users
+
+: Because Naclstack is so dependent on Eviolite for its bulk, Knock Off users such as
+
+Toxicroak
+
+,
+
+Sandslash
+
+, and
+
+Skuntank
+
+can compromise Naclstack's longevity.
+
+Grass-type Pokemon
+
+: Grass-type Pokemon like
+
+Venusaur
+
+and
+
+Whimsicott
+
+can offensively threaten Naclstack. Venusaur and Whimsicott additionally threaten to remove Naclstack's Eviolite through Knock Off or Switcheroo, and Whimsicott can bring in another offensive threat with U-turn.
+
+Water-type Pokemon
+
+: While the risk of Salt Cure's increased chip damage dissuades Water-type Pokemon from switching directly into Naclstack, Water-type attackers like
+
+Basculin
+
+and
+
+Clawitzer
+
+threaten to OHKO Naclstack with super effective attacks. Clawitzer notably threatens both Tera Fairy and Tera Water Naclstack as well, still breaking through it with Sludge Bomb or Tera Dragon Dragon Pulse, respectively.
+
+Mesprit
+
+: With a combination of Knock Off to remove its Eviolite, Psychic Noise to prevent healing from Recover, and Encore to lock Naclstack into an unfavorable move like Recover, Mesprit can weaken Naclstack and make it unable to function as a wall.
+
+Fighting-type Pokemon
+
+: Close Combat allows Fighting-type Pokemon like
+
+Primeape
+
+, Toxicroak, and
+
+Hisuian Sneasel
+
+to threaten Naclstack, while all three run Poison-type coverage that threatens Tera Fairy Naclstack. The latter two are especially strong against Naclstack due to their resistance to Body Press, access to Knock Off or Switcheroo to remove Naclstack's Eviolite, and access to Swords Dance to set up on Naclstack's Protect turns.
