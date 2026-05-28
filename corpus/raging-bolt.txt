@@ -1,0 +1,2865 @@
+Calm Mind Raging Bolt is one of the metagame's top setup sweepers and wallbreakers. Its natural bulk and unique typing not only allows it to check common offensive threats like
+
+Ogerpon-W
+
+and
+
+Cinderace
+
+, but also to gain multiple entry points and setup opportunities as well. On top of a potent STAB combination that hits most of the metagame at least neutrally, its signature move Thunderclap prevents Raging Bolt's sweep from being cut short by faster threats and opposing priority users like
+
+Enamorus
+
+,
+
+Walking Wake
+
+, and
+
+Kingambit
+
+and lets it act as a revenge killer, too. Dragon Pulse is preferred for its consistent damage output, but Draco Meteor can be used to propel Raging Bolt's niche as a wallbreaker further, letting it overwhelm checks like
+
+Ting-Lu
+
+and
+
+Clodsire
+
+much more easily and netting benchmarks such as OHKOing defensive
+
+Landorus-T
+
+and
+
+Dragonite
+
+through Multiscale, all after a Calm Mind. A reliable Electric-type STAB move lets Raging Bolt prevent foes like
+
+Primarina
+
+,
+
+Gholdengo
+
+, and Calm Mind Enamorus from setting up freely and makes it less vulnerable to Encore users like
+
+Iron Valiant
+
+and
+
+Hisuian Samurott
+
+. Thunderbolt's consistency is preferred in this regard, but other options can be used as well. Discharge allows Raging Bolt to potentially cripple specially defensive walls like
+
+Galarian Slowking
+
+and slow down faster threats like Gholdengo,
+
+Darkrai
+
+, and
+
+Zamazenta
+
+, which helps to reduce its reliance on Thunderclap. Exclusively on rain teams, the stronger option in Thunder can also be used instead for similar reasons. Raging Bolt can lean towards the weather further by running Weather Ball instead if used on either a sun or rain team; it allows Raging Bolt to hit
+
+Iron Treads
+
+super effectively, with rain Weather Ball pressuring Raging Bolt's other Ground-type checks like
+
+Gliscor
+
+and Landorus-T more reliably, while sun Weather Ball cleanly OHKOes even bulky Kingambit and Gholdengo unboosted, all at the expense of the ability to immediately threaten Calm Mind Primarina. Alternatively, Taunt can be used to let Raging Bolt overwhelm walls like
+
+Blissey
+
+and Toxic Galarian Slowking. Booster Energy provides Raging Bolt with a damage boost, letting it reach feats such as OHKOing Iron Valiant with Thunderclap after a layer of Spikes and specially defensive Gliscor with +1 Draco Meteor, as well as having significant rolls to 2HKO Clodsire with Draco Meteor. Leftovers gives it more longevity to set up more easily and further take advantage of its defensive profile. Air Balloon is another option to prevent revenge killing attempts from its Ground-type checks like
+
+Great Tusk
+
+, Landorus-T, and Ting-Lu. Tera Fairy gives Raging Bolt an immunity to Dragon-type attacks from foes like
+
+Dragapult
+
+and opposing Raging Bolt that don't fear its Thunderclap; it is also generally a good neutral typing against foes like
+
+Weavile
+
+and Iron Valiant. Tera Bug gives a Ground resistance without being weak to
+
+Kyurem
+
+and opposing Raging Bolt while also providing a Fighting resistance against Zamazenta. Tera Ghost is also an option to give offensive teams an emergency check to IronPress Zamazenta and, if used with Taunt, beat Blissey one-on-one. Tera Flying can be used for an outright immunity to Ground, letting it flip its matchup against Great Tusk and Landorus-T; this can be combined with Taunt to beat bulky Ground-type checks like Gliscor, Clodsire, and Ting-Lu. An EV spread of 64 HP / 28 Def / 252 SpA / 164 Spe is an alternative option; it runs enough Speed to get the jump on Gliscor, with the extra bulk letting Raging Bolt survive Speed Booster Energy Great Tusk's Headlong Rush from full, though this significantly worsens its matchup against opposing Raging Bolt.
+
+Raging Bolt fits on a variety of offensive teams, ranging from hyper offense to weather-based archetypes in sun and rain. It pairs well with other strong special attackers like Gholdengo,
+
+Iron Moth
+
+, and Darkrai; on top of keeping up the pressure against the opposition, they can work with Raging Bolt to wear down and overwhelm shared checks like Ting-Lu, Clodsire, Galarian Slowking, and Blissey. Physical setup sweepers like Kingambit, Ogerpon-W, Great Tusk, Dragonite, and Zamazenta are similarly important, as they can threaten out the aforementioned special walls and force damage against Landorus-T and opposing Great Tusk; some of these physical attackers can even switch into the Ground-types, and Raging Bolt uses their checks like
+
+Skarmory
+
+,
+
+Alomomola
+
+, and
+
+Dondozo
+
+as entry points and setup opportunities.
+
+Rillaboom
+
+also deserves a special mention; on top of providing Grassy Terrain to increase Raging Bolt's longevity and let it stomach Earthquake from foes like Landorus-T and Ting-Lu, Rillaboom can also bring Raging Bolt in safely via U-turn against switch-ins like
+
+Moltres
+
+,
+
+Corviknight
+
+, and
+
+Zapdos
+
+for setup opportunities. Entry hazard setters like
+
+Deoxys-S
+
+, Hisuian Samurott, Landorus-T, and
+
+Glimmora
+
+are highly appreciated, as hazards help put foes and especially its checks into KO range, with Landorus-T also capable of switching into Great Tusk, Iron Treads, and opposing Landorus-T that threaten Raging Bolt out; in return, Raging Bolt can take advantage of and pressure common hazard removal Pokemon like Corviknight and Cinderace to maintain said hazards. Raging Bolt can benefit from Drought users like
+
+Torkoal
+
+and
+
+Ninetales
+
+; the sun allows Raging Bolt to freely forgo Booster Energy and gives it the option to run Weather Ball. Raging Bolt also synergizes well with other sun wallbreakers; Walking Wake can exploit Ground-types like Ting-Lu, Iron Treads, and Gliscor while assisting Raging Bolt in pressuring Galarian Slowking and Blissey. This is especially strong because going for Tera Water to deal with Walking Wake makes them vulnerable to Raging Bolt. Great Tusk can complement Raging Bolt's breaking power by dealing with its special walls and overwhelming shared checks like Landorus-T and Great Tusk, with Raging Bolt handling the likes of Skarmory, Alomomola, and Tera Water Gliscor in return. Raging Bolt can also be used on rain teams, benefiting from
+
+Pelipper
+
+'s Drizzle to run options like Weather Ball and Thunder. It forms a great core with
+
+Barraskewda
+
+, as Barraskewda can position Raging Bolt against its bulky Water-type checks like Alomomola and Tera Water
+
+Garganacl
+
+via Flip Turn; in return, Barraskewda alongside other rain wallbreakers like
+
+Overqwil
+
+can pressure and overwhelm Ground-types like Landorus-T, Gliscor, and Iron Treads for Raging Bolt. Defensively, Raging Bolt can check Rillaboom and Ogerpon-W, which are otherwise problematic for rain teams, while Pelipper is capable of switching into Ground-types like Landorus-T, Great Tusk, and Iron Treads that force Raging Bolt out. Though more niche, Raging Bolt can also fit on other hyper offense structures. Dual screens setters like Deoxys-S,
+
+Alolan Ninetales
+
+, and
+
+Grimmsnarl
+
+provide Raging Bolt with an easier time setting up against even super effective hits and prevent it from being revenge killed by foes like Weavile, Landorus-T, and Dragonite. Sticky Web from
+
+Ribombee
+
+can slow down would-be revenge killers like Great Tusk, minimizing the risk of Thunderclap mindgames against foes like Encore Iron Valiant and Substitute Iron Moth.
+
+With Choice Specs, Raging Bolt becomes a terrifying wallbreaker that is capable of chunking even bulkier opposing Pokemon such as
+
+Ting-Lu
+
+,
+
+Gliscor
+
+, and
+
+Garganacl
+
+to blow holes in the opponent's team. The additional power also enables Raging Bolt to upgrade its pivoting and revenge killing capabilities to further pressure its foes. Draco Meteor is the Dragon-type STAB move of choice, making progress on even the most specially bulky Pokemon such as
+
+Galarian Slowking
+
+,
+
+Clodsire
+
+, and Ting-Lu. Thunderclap is used as powerful priority to revenge kill or force out faster threats such as
+
+Ogerpon-W
+
+,
+
+Iron Valiant
+
+, and
+
+Enamorus
+
+, and it also helps Raging Bolt beat slower priority users such as
+
+Kingambit
+
+and
+
+Scizor
+
+. Volt Switch is used to help Raging Bolt maintain momentum for the team, racking up chip damage on walls Raging Bolt cannot 2HKO like
+
+Blissey
+
+and Assault Vest Galarian Slowking. Many Ground-types, such as
+
+Landorus-T
+
+and
+
+Great Tusk
+
+, heavily fear Draco Meteor, so Raging Bolt can often use Volt Switch freely early-game without worrying too much about an immunity stifling it. Raging Bolt wants to run as much Speed investment as possible without compromising on power in order to Speed tie or outspeed opposing Raging Bolt and is especially important when factoring in Thunderclap. However, if this is not a major concern, an EV spread of 200 HP / 252 SpA / 56 Spe is just enough to outpace Adamant Kingambit while increasing bulk to take resisted hits such as Ogerpon-W's Ivy Cudgel and
+
+Rillaboom
+
+'s Grassy Glide better. Another alternative spread is 92 HP / 252 SpA / 164 Spe to outspeed uninvested Gliscor, giving Raging Bolt a better matchup into one of the few Ground-types that might dare to switch in while still having the extra bulk. Fairy is the predominant Tera type of choice for this set, as it is a solid defensive typing that is immune to fearsome incoming Dragon-type attacks such as
+
+Dragapult
+
+'s Dragon Darts while also resisting Kingambit's Sucker Punch and
+
+Zamazenta
+
+'s Body Press. However, Tera Dragon can be used to further intensify the power of Draco Meteor, while, like Tera Fairy, also removing the weakness to incoming Ground-type attacks such as Great Tusk's Headlong Rush and
+
+Dragonite
+
+'s Earthquake.
+
+Balanced and bulky offensive teams most appreciate the hole-punching power of Choice Specs Raging Bolt. Pokemon with pivoting moves such as
+
+Corviknight
+
+, Galarian Slowking, and
+
+Pecharunt
+
+make great teammates for this set, as they help bring in Raging Bolt to start breaking apart the opponent's core. This set also often risks losing momentum, as Raging Bolt gets locked into a move against a Pokemon immune to it or becomes non-threatening due to Special Attack drops from Draco Meteor, so it appreciates the defensive backbone these Pokemon can provide. Corviknight is a standout, as it is immune to Ground-type attacks from the likes of Landorus-T and Great Tusk that check Raging Bolt, while Raging Bolt threatens
+
+Moltres
+
+and
+
+Zapdos
+
+that can annoy Corviknight. This Raging Bolt set can also heavily pressure specially defensive Pokemon on the opposing team such as Ting-Lu and Galarian Slowking, chunking them and greatly limiting their longevity. Special attackers such as
+
+Gholdengo
+
+,
+
+Iron Moth
+
+,
+
+Darkrai
+
+, and Enamorus can be paired with Raging Bolt to overwhelm and KO specially defensive Pokemon via their combined assaults. Teammates such as Ting-Lu, Garganacl, and Gliscor can enable Raging Bolt by setting entry hazards to further chip opposing Pokemon such as Ting-Lu, Ogerpon-W, and Garganacl into KO range. Ting-Lu and Garganacl also help by switching into Pokemon like Dragapult and
+
+Deoxys-S
+
+looking to revenge kill Raging Bolt. Removing hazards also greatly extends Raging Bolt's lifespan and gives opportunities to aggressively switch it in to make progress, so teammates such as
+
+Hatterene
+
+, Great Tusk, and
+
+Galarian Weezing
+
+are appreciated for that purpose.
+
+Cinderace
+
+is a particularly noteworthy teammate, as it removes hazards on Raging Bolt's side of the field, puts them on the opponent's side, and performs timely pivots to bring Raging Bolt in. All moves on this set have immunities, so with good prediction, Fairy-types and Ground-types will completely shut down this set. Protect from Pokemon such as Gliscor, Garganacl, and
+
+Alomomola
+
+will ease predictions by forcing Raging Bolt to lock into a given move, allowing for more reliable counterplay. Teammates that can take advantage of the passive turn of Protect to enter the field such as Ogerpon-W,
+
+Kyurem
+
+, and
+
+Primarina
+
+can ease these potentially troublesome matchups. These Pokemon are also excellent at handling Ground-types that may annoy Raging Bolt, and Ogerpon-W and Primarina can also run U-turn and Flip Turn, respectively, to form a pivoting core that helps Raging Bolt enter the field. In return, Raging Bolt can pressure defensive Pokemon such as
+
+Hydrapple
+
+and
+
+Toxapex
+
+for these teammates. Landorus-T can be a helpful teammate for many of the aforementioned reasons, as it handles Ground-types well, puts up Stealth Rock, pivots with U-turn, and threatens out specially defensive checks to Raging Bolt such as Galarian Slowking and Clodsire while Raging Bolt can threaten Pokemon that annoy Landorus-T such as Alomomola and Corviknight. Lastly, teammates such as Kingambit and Zamazenta can work with Raging Bolt to overwhelm shared checks such as Great Tusk and Landorus-T, as well as deter these Ground-types from switching into Raging Bolt. These Pokemon additionally threaten specially defensive Pokemon such as Blissey and Galarian Slowking while Raging Bolt can take on
+
+Dondozo
+
+, Moltres, and Corviknight.
+
+Raging Bolt acts as a powerful offensive pivot and revenge killer that can also provide defensive utility thanks to its solid natural bulk and good typing. Thunderclap is one of the strongest options for priority in the metagame, allowing Raging Bolt to overcome its lackluster Speed tier and act as a strong revenge killer against the likes of
+
+Ogerpon-W
+
+,
+
+Enamorus
+
+,
+
+Darkrai
+
+,
+
+Deoxys-S
+
+, and
+
+Kingambit
+
+. Volt Switch makes Raging Bolt hard to pin down, allowing it to pivot on and wear down specially defensive walls such as
+
+Galarian Slowking
+
+,
+
+Iron Crown
+
+, and
+
+Blissey
+
+as they switch in. Draco Meteor is a viable alternative to Dragon Pulse for more immediate power, hitting some benchmarks like OHKOing opposing Raging Bolt and having a chance to OHKO bulky
+
+Great Tusk
+
+in exchange for a severe Special Attack drop. Taunt is an option that allows Raging Bolt to more effectively deal with special walls by stopping recovery attempts from the likes of Blissey and
+
+Clodsire
+
+and blocking utility moves from
+
+Clefable
+
+,
+
+Ting-Lu
+
+, and Galarian Slowking. Other options include Thunderbolt for a consistent Electric-type STAB move, 2HKOing neutral targets such as Clefable after little prior chip damage, defensive
+
+Zapdos
+
+, and
+
+Gholdengo
+
+while not forcing Raging Bolt to switch out, and Weather Ball on weather teams or alongside Galarian Slowking for alternative Ice-type coverage. Heavy-Duty Boots allows Raging Bolt to hit the field multiple times without worrying about entry hazards, which is especially good on teams that rely on ignoring hazards altogether or lack any form of removal. Tera Fairy allows Raging Bolt to turn the tables on matchups like Iron Defense
+
+Zamazenta
+
+,
+
+Iron Valiant
+
+,
+
+Dragapult
+
+,
+
+Kyurem
+
+, and
+
+Walking Wake
+
+. Another option is Tera Flying, granting an even better matchup against the likes of Great Tusk,
+
+Iron Treads
+
+,
+
+Landorus-T
+
+, and Ting-Lu, though it gives Raging Bolt some problematic weaknesses against opposing Raging Bolt, Zapdos,
+
+Weavile
+
+, and
+
+Meowscarada
+
+.
+
+Raging Bolt fits best on balance and bulky offense teams, which appreciate its ability to pivot in and out of the field while dealing heavy damage and threatening boosted sweepers with its priority move. Raging Bolt can form great offensive cores when it's paired with other offensive pivots like
+
+Ogerpon
+
+, which can apply pressure with U-turn in a similar fashion to Raging Bolt's Volt Switch, punish Ground-types with its strong Grass-type STAB moves, remove items with Knock Off to accumulate entry hazard damage, and punish setup moves with Encore. Embody Aspect's Speed boost also helps Ogerpon cover for Raging Bolt's poor Speed against the likes of Great Tusk, Darkrai, and Dragapult. In return, Ogerpon appreciates Raging Bolt's help in pressuring physically defensive Pokémon such as Zapdos,
+
+Moltres
+
+, and
+
+Corviknight
+
+. Ogerpon-W is even more effective at dealing with Ground-types, trading Ogerpon's ability to hold an item and boost its Speed for a harder-to-resist STAB combination and wallbreaking power, pressuring defensive cores such as
+
+Sinistcha
+
++
+
+Gliscor
+
+and Galarian Slowking + Corviknight more easily with pivoting support from Raging Bolt. Meowscarada offers a stronger U-turn and Knock Off as well as an even better Speed tier, especially with Choice Scarf variants acting as a revenge killer for faster threats such as Iron Valiant. Weavile has a strong Knock Off as well, and its Ice Shard complements Thunderclap perfectly against offensive cores, hitting threats Raging Bolt struggles with like Ogerpon and Tera Ground
+
+Dragonite
+
+.
+
+Hisuian Samurott
+
+can pivot with Flip Turn and deal with the likes of Ting-Lu, Iron Treads, Iron Crown, and Galarian Slowking while also providing Spikes with Ceaseless Edge, which, alongside its own Knock Off removing Heavy-Duty Boots from opposing Pokémon, makes it extremely effective against bulkier cores like
+
+Alomomola
+
++ Galarian Slowking or Ting-Lu,
+
+Toxapex
+
++ Gliscor or Ting-Lu, and
+
+Dondozo
+
++ Gliscor or Blissey.
+
+Pelipper
+
+'s Drizzle can give Raging Bolt the options to run Thunder and Weather Ball, letting it hit would-be checks in Ting-Lu, Clodsire, Great Tusk, and Iron Treads with Water-type coverage.
+
+Barraskewda
+
+is a great partner on rain teams, as it's extremely hard to switch into and able to pivot with Flip Turn, and it loves Raging Bolt's ability to pressure Water-types like Alomomola, Dondozo and
+
+Primarina
+
+. Raging Bolt fits similarly on sun teams, synergizing with
+
+Torkoal
+
+and
+
+Ninetales
+
+' Drought, which activates Protosynthesis and allows it to hit the likes of
+
+Rillaboom
+
+and Iron Treads with sun-boosted Weather Ball, and with Walking Wake, which pressures Ground-types and shared checks like Galarian Slowking and Blissey. Raging Bolt also appreciates a defensive backbone to fall onto when its Volt Switch is blocked or after revenge killing a Pokemon. Flying-types like Corviknight and Gliscor check Ground-types such as Landorus-T and Ting-Lu, with the former offering hazard removal in Defog and the latter offering hazard support. Clefable's physical bulk allows it to take on Great Tusk, Ting-Lu, and Gliscor while setting up Stealth Rock; it can also cripple walls like Galarian Slowking, Clodsire, and Blissey with Knock Off and switch into Knock Off well itself. Alomomola makes a good partner thanks to its great physical bulk and longevity with Wish and Regenerator, which it can use in conjunction with Flip Turn to keep Raging Bolt healthy, and it appreciates the help in beating Ogerpon-W. Steel-types like Assault Vest Iron Crown and
+
+Tinkaton
+
+can threaten Iron Valiant and Kyurem, while Galarian Slowking can check them as well as offering a slow pivot and a powerful Future Sight. Lastly, hazard removal options like Great Tusk,
+
+Cinderace
+
+, and Iron Treads can clear the field for Choice Specs Raging Bolt.
+
+When donning a Choice Specs, Raging Bolt's powerful STAB moves become even more dangerous to bulkier teams, threatening usual switch-ins like mixed defensive
+
+Clodsire
+
+and Assault Vest
+
+Gallade
+
+with 2HKOs. With this immediate boost in power, Draco Meteor becomes strong enough to OHKO
+
+Gliscor
+
+after Stealth Rock chip damage and 2HKO
+
+Swampert
+
+,
+
+Gastrodon
+
+, and
+
+Hisuian Goodra
+
+, limiting the number of options bulkier teams have for switch-ins. Thunderbolt eliminates common Water-types like
+
+Toxapex
+
+, Assault Vest
+
+Tornadus-T
+
+, and specially defensive
+
+Corviknight
+
+after chip damage while threatening to 2HKO bulky
+
+Gholdengo
+
+sets and OHKOing
+
+Scizor
+
+after Stealth Rock chip damage. Thunderclap, when boosted by Choice Specs, allows Raging Bolt to OHKO
+
+Iron Valiant
+
+after chip damage while removing threats such as
+
+Enamorus
+
+and
+
+Hisuian Samurott
+
+. Volt Switch allows Raging Bolt to make use of its overwhelming presence and ability to force switches to pivot into one of its powerful teammates while also dealing damage. Maximum investment in Speed with a Timid nature allows Raging Bolt to outspeed threats like Modest or Adamant
+
+Hoopa-U
+
+, Adamant
+
+Dragonite
+
+, and physically defensive
+
+Great Tusk
+
+sets.
+
+Raging Bolt appreciates the defensive backbone that
+
+Archaludon
+
+and Hisuian Goodra provide. Archaludon's access to Stealth Rock allows Raging Bolt to nab KOs that it normally wouldn't get consistently, like against the aforementioned Gliscor and Scizor. Archaludon also takes hits from
+
+Roaring Moon
+
+and
+
+Meowscarada
+
+while threatening them back with Body Press and Flash Cannon. Hisuian Goodra handles threats on the special side, namely Fairy- and Dragon-types, such as
+
+Hatterene
+
+,
+
+Flutter Mane
+
+, and Choice Specs
+
+Dragapult
+
+. It also uses Knock Off to remove items from defensive Pokemon that would hope to switch in on Raging Bolt like
+
+Iron Hands
+
+'s Assault Vest and opposing Hisuian Goodra's Leftovers. Furthermore, Hisuian Goodra also uses Dragon Tail to force out Pokemon that use Raging Bolt as setup fodder after a Draco Meteor, like
+
+Volcarona
+
+. Dragapult can support Raging Bolt by burning threats like Meowscarada and
+
+Mamoswine
+
+with Will-O-Wisp or slowing down foes like Iron Valiant and
+
+Ogerpon-H
+
+with Thunder Wave. It can also opt to run a physically offensive set to take advantage of the special walls that Raging Bolt lures in, like Gastrodon and Assault Vest Hoopa-U. Dragapult can also utilize U-turn with a Choice item to form a powerful pivoting core with Raging Bolt, crucially luring in Pokemon like physically defensive Great Tusk and Archaludon.
+
+Garchomp
+
+provides additional entry hazards with Spikes, which pairs well with Choice Specs Raging Bolt's switch-forcing playstyle, while dealing with problematic Pokemon like Hisuian Goodra and Clodsire with Earthquake. In return, Raging Bolt can break through checks to its Swords Dance set by removing Corviknight,
+
+Dondozo
+
+, and Gliscor.
+
+Latias
+
+allows Raging Bolt to play very recklessly, as its Healing Wish enables Raging Bolt to trade health to get rid of threats to Dragon teams. Dragonite and Roaring Moon both benefit from Raging Bolt's ability to wear down physical walls like the aforementioned Dondozo. In return, these Pokemon can wear down special walls like
+
+Galarian Slowking
+
+and Hisuian Goodra.
+
+With its Electric-type STAB moves and access to Calm Mind, Raging Bolt finds itself as a powerful setup sweeper for Dragon teams capable of dealing with threats like
+
+Primarina
+
+,
+
+Greninja
+
+, and
+
+Enamorus
+
+. Draco Meteor threatens Ground-types like
+
+Gliscor
+
+that come into Raging Bolt's Electric-type moves, notably having a favorable chance of OHKOing it after Stealth Rock with one Calm Mind. Thunderbolt allows Raging Bolt to strike down Calm Mind Primarina,
+
+Dondozo
+
+, and defensive
+
+Gyarados
+
+, and Thunderclap lets it pick off faster threats like Greninja, Enamorus, and
+
+Hisuian Samurott
+
+. After a Calm Mind boost and Stealth Rock damage, Thunderclap is also capable of OHKOing neutral targets like
+
+Iron Valiant
+
+. Leftovers allows Raging Bolt to slowly heal itself and prevent it from being worn down too much from any chip damage. Air Balloon can be run over Leftovers to avoid Ground-type moves from Pokemon like Choice Scarf
+
+Landorus-T
+
+and Choice item
+
+Iron Treads
+
+, and use them as setup opportunities. The given EV spread lets Raging Bolt outpace Adamant
+
+Bisharp
+
+and survive
+
+Flutter Mane
+
+'s Moonblast after a Calm Mind.
+
+Setup sweepers like
+
+Roaring Moon
+
+and
+
+Kommo-o
+
+form a dangerous offensive core with Raging Bolt, as they deal with dedicated walls Raging Bolt is unlikely to break through such as
+
+Galarian Slowking
+
+and
+
+Hisuian Goodra
+
+, respectively.
+
+Archaludon
+
+sets up Stealth Rock, checks
+
+Weavile
+
+with Body Press, and switches into physical threats like
+
+Meowscarada
+
+and
+
+Azumarill
+
+. In return, Raging Bolt deals with special attacking threats like Greninja and
+
+Keldeo
+
+, which Archaludon detests.
+
+Dragapult
+
+can utilize a variety of sets to support Raging Bolt, as it can spread status with Will-O-Wisp and Thunder Wave to let Raging Bolt set up easier, don a Choice Scarf to revenge kill threats like Meowscarada with Draco Meteor or U-turn, or use a Choice Specs set to batter special walls like
+
+Alolan Muk
+
+alongside Raging Bolt.
+
+Garchomp
+
+provides more entry hazards with Spikes and deals with Hisuian Goodra and
+
+Clodsire
+
+with Earthquake, and it can use a Swords Dance set that thrives once Raging Bolt removes nuisances like
+
+Corviknight
+
+, Dondozo, and Gliscor. Choice Scarf
+
+Latias
+
+provides a Ground immunity, Trick to take advantage of shared checks in
+
+Ting-Lu
+
+and Galarian Slowking, which creates more setup opportunities for Raging Bolt, and Healing Wish, which lets Raging Bolt be more reckless in taking heavy damage to forcibly eliminate roadblocks for its teammates. Latias also deals with fast threats like Choice Scarf
+
+Great Tusk
+
+and Garchomp for Raging Bolt.
+
+Dragonite
+
+provides a Ground-type immunity that is not vulnerable to Mold Breaker
+
+Excadrill
+
+as well as powerful priority in Extreme Speed, which is extremely threatening once Raging Bolt removes
+
+Skarmory
+
+and
+
+Quagsire
+
+. Hisuian Goodra swaps into opposing Draco Meteor and forces progress by removing Heavy-Duty Boots and recovery items from key walls with Knock Off.
+
+Raging Bolt makes for a strong wallbreaker on Electric teams, with Calm Mind boosting its already high Special Attack stat. Draco Meteor is a strong and reliable nuke that allows it to weaken and eventually remove bulky walls that most Electric staples struggle against
+
+Archaludon
+
+and potentially
+
+Gliscor
+
+after one Calm Mind boost and potentially Gliscor without a boost. Thunderclap is a strong priority option that allows it to OHKO faster threats such as
+
+Barraskewda
+
+and Choice Scarf
+
+Enamorus
+
+as well as pick off weakened faster threats such as
+
+Iron Valiant
+
+. Equipped with Air Balloon, Raging Bolt is able to switch into predicted Ground-type attacks and can take advantage of threats that are Choice locked into a Ground-type move to set up a Calm Mind or use an attack against a predicted switch-in. Air Balloon's consumability also lets Raging Bolt wall
+
+Ceruledge
+
+once it pops, as Ceruledge is rendered unable to use Poltergeist. Heavy-Duty Boots is another option to prevent it from getting worn down easily by entry hazards. Leftovers can also be used so that Raging Bolt gets access to a form of recovery With 124 EVs invested into HP, Raging Bolt is able to survive a Moonblast from Choice Scarf
+
+Flutter Mane
+
+. An alternate spread with full investment into Speed allows it to outspeed
+
+Torterra
+
+and some
+
+Gholdengo
+
+, Gliscor, and
+
+Great Tusk
+
+variants.
+
+In order to wallbreak more efficiently, Raging Bolt appreciates entry hazard support from the likes of
+
+Galvantula
+
+'s Sticky Web and
+
+Sandy Shocks
+
+'s Stealth Rock and Spikes.
+
+Regieleki
+
+makes for another great teammate, being able to remove hazards with Rapid Spin so that Raging Bolt is able to switch in more safely. Regieleki is also able to spread paralysis with Thunder Wave reliably with its high Speed, allowing Raging Bolt to outspeed normally faster threats such as the
+
+Ogerpon
+
+formes.
+
+Rotom-W
+
+and
+
+Zapdos
+
+make for great additions for any Electric team, providing a Ground immunity while being able to check the likes of Great Tusk and
+
+Iron Treads
+
+. Rotom-W is also able to handle
+
+Excadrill
+
+under sand, which Raging Bolt doesn't like to face.
+
+Magnezone
+
+makes for another great teammate, providing a resistance against Fairy-types that Raging Bolt dislikes such as
+
+Hatterene
+
+and Flutter Mane. In return, Raging Bolt can handle the likes of
+
+Azumarill
+
+, Gliscor, and
+
+Gastrodon
+
+.
+
+Iron Hands
+
+is a strong, bulky teammate that can somewhat help in the Ground matchup, as with a combination of Shuca Berry and Ice Punch, it can eliminate offensive Ground-types that can easily sweep through Electric teams such as
+
+Landorus
+
+and
+
+Garchomp
+
+. Additionally, its Fighting typing helps against various Dark- and Normal-types such as
+
+Meowscarada
+
+,
+
+Weavile
+
+,
+
+Bisharp
+
+, and
+
+Blissey
+
+. In return, Raging Bolt is able to revenge kill boosted rain sweepers such as
+
+Kingdra
+
+and Barraskewda. Lastly,
+
+Pawmot
+
+is able to provide support with Revival Blessing, allowing Raging Bolt or any of its other teammates a second chance to punch holes in opponents' teams. Pawmot is also able to handle the likes of
+
+Hisuian Goodra
+
+, Air Balloon
+
+Heatran
+
+, and Weavile with either Close Combat or Mach Punch. Choice Scarf variants of Pawmot can handle speedy threats like Flutter Mane and Choice Scarf Landorus.
+
+Other Options
+
+Dragon
+
+Dragon Fang lets Raging Bolt outright OHKO
+
+Gliscor
+
+and OHKO
+
+Swampert
+
+,
+
+Iron Treads
+
+, and
+
+Hisuian Goodra
+
+after minimal chip damage with +1 Draco Meteor, but Raging Bolt is usually more likely to use Electric-type moves throughout a match. Dragon Fang also forces Raging Bolt to forego Leftovers, making it much easier to wear down. Heavy-Duty Boots is an alternative item that can be taken to help Raging Bolt deal with entry hazards consistently in order to prevent it from being worn down. Dragon Pulse can be used over Draco Meteor to prevent Raging Bolt from becoming setup fodder while still 2HKOing most of the targets Draco Meteor hits, such as
+
+Quagsire
+
+. However, the move's significant decrease in overall power against Raging Bolt's targets can result in it taking an extra hit or status move that it didn't need to before, most notably against Gliscor. An alternative EV spread of 252 HP / 92 Def / 108 SpA / 56 Spe with a Modest nature lets Raging Bolt avoid a 2HKO from Gliscor and Quagsire, always 2HKO both with Dragon Pulse, and outspeed Adamant
+
+Azumarill
+
+.
+
+Dragon (Choice Specs)
+
+Dragon Pulse can be used over Draco Meteor, as it has superior accuracy while still 2HKOing important threats like Gliscor and Quagsire, disallowing them from switching into Raging Bolt safely. A Modest nature can be used instead to nearly OHKO Gliscor without entry hazards and threaten 2HKOs against
+
+Gastrodon
+
+and Swampert, though this will leave Raging Bolt outsped by defensive
+
+Great Tusk
+
+sets.
+
+Assault Vest Raging Bolt makes the most of its titanic statline to check a variety of threats in the tier while leveraging disruptive utility moves to dictate the pace of battle for its teammates. Its monstrous Special Attack stat allows it to put out high damage with minimal investment and focus on maximizing its bulk, stat checking a large variety of special attackers present in the format. However, Raging Bolt sports an abysmal matchup against
+
+Landorus
+
+and a poor matchup against
+
+Ursaluna-B
+
+, two of the most common special wallbreakers in the format, as it can't threaten enough damage to incapacitate them or use its powerful Electric-Type STAB moves safely around them. Additionally, Raging Bolt's low Speed leaves it vulnerable to Ice-types and other Dragon-types in the format, having to rely on its titanic bulk or Terastallization to survive these matchups. Overall, while Raging Bolt's impressive stats and excellent movepool give it a fantastic toolkit that can impact almost any board, its typing hinders it against a large portion of the Doubles metagame's strongest attackers and prevents it from being truly elite.
+
+Thunderclap is a useful strong priority attack to clean up weakened foes and circumvent Raging Bolt's middling Speed stat and opposing teams' speed control.
+
+Draco Meteor is Raging Bolt's strongest attack, allowing it to OHKO some of the tier's many prominent Dragon-types such as
+
+Gouging Fire
+
+,
+
+Dragonite
+
+, and
+
+Roaring Moon
+
+and providing a solid way to chunk incoming Ground-types such as
+
+Landorus
+
+.
+
+Thunderbolt is Raging Bolt's most consistent STAB move, allowing it to OHKO maximum HP
+
+Tornadus
+
+with the given EVs and 2HKO Terastallized
+
+Ogerpon-W
+
+.
+
+Snarl is a fantastic disruptive tool that allows Raging Bolt to prevent opposing special attackers from making significant progress, letting it exploit its stellar bulk and typing to enter battle against common special attacking threats in
+
+Chi-Yu
+
+,
+
+Gholdengo
+
+, and
+
+Iron Crown
+
+. Snarl also makes it difficult for common special wallbreakers like Landorus,
+
+Ursaluna-B
+
+, and
+
+Regidrago
+
+to find entry points on Raging Bolt to remove it, having their damage severely reduced if they switch in directly.
+
+Electroweb is a good disruptive STAB option to hinder speed control from Tornadus, hit both foes for solid damage, and make it difficult for non-Ground-types to find safe entry.
+
+Volt Switch is an option to allow Raging Bolt to use its great bulk and low Speed to act as a pivot, providing safe entry points for aggressive partners such as Landorus and
+
+Chien-Pao
+
+against targets such as Gholdengo.
+
+Snarl is a great option for bulky structures centered around Pokemon like
+
+Diancie
+
+and
+
+Okidogi
+
+that don't like facing the tier's common special wallbreakers. Electroweb is typically best on teams centered around strong wallbreakers like Landorus and
+
+Ogerpon-H
+
+that focus on maintaining a Speed advantage to burst through enemy teams. Volt Switch is best on offensive teams that appreciate Raging Bolt's fantastic bulk to slowly pivot and bring in devastating threats like Choice Scarf Chi-Yu and Chien-Pao.
+
+Tera Fairy is recommended to make Raging Bolt immune to STAB attacks from the plentiful amount of Dragon-types in the format, including Regidrago, opposing Raging Bolt, and Dragonite, and leverage Raging Bolt's ability to threaten them back; Tera Fairy also provides useful neutralities against Ground- and Ice-type attacks from Landorus,
+
+Kyurem
+
+, and Chien-Pao. Tera Water is an option for teams that wish to preserve Raging Bolt's ability to check Gholdengo while still providing a typing neutral against Ground-type attacks at the cost of its matchup against the
+
+Ogerpon
+
+formes and
+
+Rillaboom
+
+.
+
+The given EV spread allows Raging Bolt to survive two Blizzards from Modest Kyurem and almost always withstand Adamant Chien-Pao's Icicle Crash.
+
+Assault Vest Raging Bolt leverages its Dragon typing incredibly well against Ogerpon-H and Ogerpon-W by resisting their STAB moves, which allows it to trade incredibly well with them using strong neutral STAB attacks.
+
+Raging Bolt is an incredibly potent switch-in to Gholdengo and Iron Crown, as it resists their Steel-type moves and uses Snarl to do solid damage and greatly reduce their damage output, all while largely ignoring their most common partners in Ogerpon and
+
+Indeedee-F
+
+, respectively. Raging Bolt's incredible bulk and access to priority and Snarl also make it a premier check to Trick Room special attackers, notably using
+
+Torkoal
+
+'s own sun against it for a damage boost and being able to strongly damage it with Thunderclap to mitigate Eruption damage while resisting Fire-type attacks. Snarl also irritates Expanding Force users on full Trick Room teams like
+
+Hatterene
+
+,
+
+Necrozma
+
+, and
+
+Hoopa-U
+
+by lowering their damage output and wasting Trick Room turns, greatly disrupting their gameplan.
+
+Raging Bolt greatly benefits from Pokemon that can deal with the powerful Ground-types of the format, as even with Snarl access and Assault Vest, Landorus and Ursaluna-B can quickly break it down. Some ideal partners include Ogerpon-W and Chien-Pao.
+
+Teammates like Diancie,
+
+Alolan Ninetales
+
+, and Rillaboom appreciate Assault Vest Raging Bolt's help in shutting down special attackers like Gholdengo, Tornadus, and Chi-Yu with Snarl. Teammates that can provide healing such as
+
+Sinistcha
+
+and
+
+Amoonguss
+
+also appreciate Raging Bolt's ability to slow down the pace of games with Snarl and provide space to heal the team.
+
+While not greatly threatened by them, Assault Vest Raging Bolt struggles to make meaningful progress against some of the tier's bulkiest physical attackers such as
+
+Ting-Lu
+
+,
+
+Kingambit
+
+, and
+
+Iron Hands
+
+. All of these Pokemon are largely unfazed by any disruptive or damaging tools Raging Bolt can offer and will require other pieces of the team to deal with them.
+
+Assault Vest Raging Bolt can struggle against Chien-Pao, which can use its Speed to circumvent Thunderclap's priority with Sucker Punch and can massively damage Bolt with powerful physical STAB Ice-type moves.
+
+Thunderclap lets Raging Bolt circumvent its mediocre Speed to get the jump on offensive threats that otherwise would force it out, such as
+
+Chien-Pao
+
+, and nab revenge KOs on weakened foes. Thunderbolt can also be used in place of Thunderclap, as the latter can be exploited by redirection like Follow Me as well as Dragon-resistant Pokemon, such as
+
+Gholdengo
+
+, using stat-boosting moves, like Nasty Plot.
+
+Dragon Pulse gives Raging Bolt a way to deal with common Dragon-types, such as
+
+Dragonite
+
+,
+
+Regidrago
+
+, and
+
+Gouging Fire
+
+, as well as the Grass- and Ground-types that aren't threatened by its Electric-type coverage.
+
+Calm Mind boosts Raging Bolt's already high Special Attack stat while increasing its special bulk, letting it function as a dangerous win condition that can quickly snowball out of control if left unchecked. Raging Bolt's natural typing also allows it to resist attacks from common physical attackers, such as
+
+Ogerpon-W
+
+,
+
+Ogerpon-H
+
+, and
+
+Rillaboom
+
+, which provides Raging Bolt more opportunities to set up with Calm Mind.
+
+Leftovers gives Raging Bolt more staying power, as the passive recovery it provides in conjunction with the stat boosts from Calm Mind makes Raging Bolt harder to KO. It also helps to negate any chip damage that Raging Bolt may receive. Booster Energy provides Raging Bolt with more immediate power at the cost of forgoing the added longevity provided by Leftovers. Covert Cloak can also be used to allow Raging Bolt to ignore the secondary effects of Fake Out, Mortal Spin, and Snarl, which can otherwise be quite troublesome.
+
+Tera Fairy offers Raging Bolt a useful immunity to the Dragon-type moves that normally threaten it; this allows it to completely flip the matchup against Regidrago, which would otherwise pose as a big obstacle. Tera Fairy also gives Raging Bolt a more neutral type matchup across the board, aiding it in its role as a bulky setup sweeper. Tera Grass provides Raging Bolt with a resistance to Ground-type moves, which improves its matchups against
+
+Landorus
+
+and
+
+Ursaluna-B
+
+, as well as useful immunities to Spore, Rage Powder, and Sleep Powder.
+
+The EV spread allows Raging Bolt to survive an Ice Spinner from Life Orb Chien-Pao and a +2 Kowtow Cleave from
+
+Kingambit
+
+.
+
+Raging Bolt pairs well with Pokemon that provide it with opportunities for setting up with Calm Mind, such as Fake Out users like Rillaboom and
+
+Incineroar
+
+as well as redirection support from the likes of Ogerpon-W and
+
+Amoonguss
+
+. Raging Bolt also pairs well with Landorus, which can beat the Steel- and Fairy-types such as Kingambit,
+
+Diancie
+
+, and Gholdengo that Raging Bolt struggles with; conversely, Raging Bolt is strong against the Flying-types that can freely switch in on Landorus's Ground-type STAB moves and the Water-types such as Ogerpon-W that offensively threaten it. Raging Bolt also pairs well with
+
+Sinistcha
+
+, as the latter provides additional longevity with its ability Hospitality while helping to cover for the former's Ground-type weakness with the redirection provided by Rage Powder.
+
+Raging Bolt's decent defensive typing, hefty bulk, and booming priority in Thunderclap make it an excellent bulky offensive Pokemon.
+
+Thunderbolt versus Discharge versus Volt Switch
+
+: Volt Switch makes Raging Bolt a great pivot, but it does mean that Raging Bolt lacks a reliable Electric-type STAB move or has worse coverage, making Thunderbolt a reasonable alternative. Discharge's higher paralysis chance can make the power drop worth it if using slow teammates like
+
+Ursaluna-B
+
+.
+
+Heavy Slam
+
+: When used with a Quiet nature, Heavy Slam OHKOes offensive
+
+Flutter Mane
+
+! If using Modest, it'll still put most Flutter Mane into Thunderclap's KO range as well.
+
+Modest versus Quiet
+
+: Quiet is mainly used for OHKOing offensive Flutter Mane with Heavy Slam, but even with that move, Modest makes sense if your team requires Speed investment.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Raging Bolt's good typing means Terastallization does have some drawbacks, such as making
+
+Urshifu-R
+
+harder to switch-into, but it has enough common weaknesses to types like Ground and Fairy that mean Terastallization will often be optimal.
+
+Fairy
+
+: Tera Fairy is a fantastic defensive typing, making Raging Bolt a spectacular check to most
+
+Urshifu-S
+
+and prancing around strong Dragon-type attacks.
+
+Steel
+
+: Retaining the common Ground weakness is unfortunate, but Tera Steel makes up for it by tanking Fairy-type attacks and shredding Flutter Mane with Heavy Slam.
+
+Ice
+
+: When used with Tera Blast, Tera Ice chills
+
+Landorus-T
+
+to the bone and deals tremendous damage to Ursaluna-B without firing off Draco Meteor.
+
+Water
+
+: Tera Water gives Raging Bolt a cool resistance to Ice-type attacks from the likes of
+
+Chien-Pao
+
+while still retaining the Surging Strikes resistance against Urshifu-R. Just watch out for Tera Electric Chien-Pao.
+
+Electric
+
+: Tera Electric makes sense for making Thunderclap an even more effective revenge killing tool and ridding Raging Bolt of its Fairy and Dragon weaknesses.
+
+Bug
+
+: This niche Tera type grants Raging Bolt a resistance to Ground without making it weak to Ice.
+
+EV Spread Examples
+
+148 HP / 156 Def / 204 SpA with Modest or Quiet
+
+: This survives both Adamant Landorus-T's Earthquake and Adamant Chien-Pao's Icicle Crash on all but the highest roll of damage, and it also OHKOes offensive Flutter Mane with +2 Thunderbolt.
+
+148 HP / 20 Def / 180 SpA / 4 SpD / 156 Spe with Modest
+
+: This spread outspeeds the rare but dangerous Timid Ursaluna-B while avoiding an OHKO from Timid Flutter Mane's unboosted Moonblast and +1
+
+Ogerpon-H
+
+'s Play Rough.
+
+140 HP / 236 SpA / 132 SpD with Modest or Quiet
+
+: These EVs are optimized for Assault Vest, letting Terastallized Raging Bolt to avoid a 2HKO from Timid Choice Specs Flutter Mane's Moonblast after Stealth Rock damage.
+
+Items
+
+Rocky Helmet
+
+: Rocky Helmet lets Raging Bolt punish Urshifu-R that lack Punching Glove for using Surging Strikes, since most Urshiu-R will switch out from Raging Bolt.
+
+Booster Energy
+
+: Booster Energy gives Raging Bolt a useful increase in power, with Thunderbolt now OHKOing
+
+Primarina
+
+that lack Assault Vest. However, it doesn't work well with Volt Switch and will usually tell your opponent that you aren't carrying it.
+
+Weakness Policy
+
+: Raging Bolt is bulky enough to take full advantage of Weakness Policy, turning Thunderclap into a vicious cleaning tool!
+
+Assault Vest
+
+: Raging Bolt's excellent bulk and pivoting prowess make it a great user of Assault Vest.
+
+Sitrus Berry
+
+: Sitrus Berry's quick burst of recovery is especially helpful when Terastallized into a type that doesn't resist Water against Urshifu-R. Just make sure to use an even HP number to eat the Berry after being hit by Ruination once.
+
+Choice Specs
+
+: Choice Specs transforms Raging Bolt into a fearsome wallbreaking pivot! However, it makes Thunderclap even riskier to use.
+
+Raging Bolt's incredible bulk and access to the crackling Thunderclap make it one of the most dangerous special attackers in the metagame!
+
+Dragon Pulse versus Draco Meteor
+
+: Dragon Pulse is a reliable STAB attack against Ground-type foes. Draco Meteor is harder to sweep teams with, but it severely damages Assault Vest
+
+Ursaluna-B
+
+enough that it's worth considering.
+
+Thunderbolt versus Discharge
+
+: A reliable Electric-type attack ensures that the risky Thunderclap isn't Raging Bolt's only option against Water-types, with Thunderbolt offering a tad more power, while Discharge's 30% paralysis rate is helpful for slow teammates like Ursaluna-B and
+
+Basculegion
+
+.
+
+Volt Switch with Draco Meteor
+
+: Volt Switch may seem completely contrary to sweeping with Calm Mind boosts, but it can be combined with Draco Meteor to transform Raging Bolt into a wallbreaking pivot rather than a bulky sweeper.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Raging Bolt's common weaknesses like Ground and Fairy, combined with its awesome bulk, makes it a good candidate for Terastallization to prevent revenge kills.
+
+Fairy
+
+: Tera Fairy is a brilliant defensive typing, ruining Dragon-type attacks and transforming Raging Bolt into a good
+
+Urshifu-S
+
+check in a pinch.
+
+Water
+
+: Tera Water is perfect for soaking up Ice-type attacks from
+
+Chien-Pao
+
+while still resisting
+
+Urshifu-R
+
+'s Surging Strikes.
+
+Electric
+
+: In addition to removing the annoying Fairy and Dragon weaknesses, Tera Electric makes Thunderclap an even more fearsome priority attack!
+
+Ice
+
+: Tera Ice is awful defensively, but when paired with Tera Blast, Raging Bolt can freeze specially defensive
+
+Landorus-T
+
+'s smug grin off with an OHKO!
+
+Steel
+
+Steel unfortunately retains that annoying Ground weakness, but the resistance to Dragon and Fairy is good enough to consider it against threats like
+
+Flutter Mane
+
+and offensive
+
+Archaludon
+
+.
+
+Bug
+
+: This niche Tera type gives Raging Bolt a Ground resistance without an Ice weakness that would doom it against Chien-Pao like Tera Flying would.
+
+Items
+
+Leftovers
+
+: Leftovers rewards Raging Bolt's longevity more than any item, making it the prime cut of items.
+
+Rocky Helmet
+
+: With Rocky Helmet, Raging Bolt can consistently punish Choice Scarf Urshifu-R for using Surging Strikes, giving it the perfect chance to set up Calm Mind as Urshifu-R switches out.
+
+Sitrus Berry
+
+: Sitrus Berry can be used with specalized EV spreads to prevent some useful 2HKOs. Just make sure to use an even HP stat so it's eaten after Raging Bolt is hit by Ruination one time.
+
+Booster Energy
+
+: Booster Energy is a more immediately offensive approach to Raging Bolt, letting it deal good damage without needing to set up Calm Mind.
+
+Figy, Aguav, Mago, Iapapa, or Wiki Berry
+
+: These berries restore more health than Sitrus Berry, though the 25% HP activation does make them riskier.
+
+EV Spread Examples
+
+140 HP / 180 Def / 44 SpA / 140 SpD / 4 Spe
+
+: This spread survives
+
+Annihilape
+
+'s Final Gambit, Adamant Landorus-T's Earthquake, and Adamant Chien-Pao's Icicle Crash. It also OHKOes offensive Urshifu-R with Thunderclap and survives Timid Flutter Mane's Moonblast after Stealth Rock damage.
+
+148 HP / 20 Def / 180 SpA / 4 SpD / 156 Spe with Modest
+
+: This Raging Bolt is fast enough to outspeed Timid Ursaluna-B, a rare but potentially game-ending threat! The defensive investment ensures that Raging Bolt survives a +1 Play Rough from Jolly
+
+Ogerpon-H
+
+and Moonblast from Timid Flutter Mane.
+
+140 HP / 4 Def / 244 SpA / 76 SpD / 44 Spe
+
+: This lets Sitrus Berry Raging Bolt avoid a 2HKO from Timid Flutter Mane's Moonblast after Raging Bolt boosts with Calm Mind, and it also outspeeds minimum Speed
+
+Dragonite
+
+.
+
+Offensive EV Benchmarks
+
+44 SpA
+
+: This lets Thunderclap OHKO offensive
+
+Urshifu-R
+
+.
+
+140 SpA
+
+: This 2HKOes Modest
+
+Ursaluna-B
+
+that have maximum HP and Special Defense investment with Tera Blast + Draco Meteor if using Booster Energy.
+
+204 SpA
+
+: This lets +2 Thunderbolt OHKO offensive
+
+Flutter Mane
+
+.
+
+Defensive EV Benchmarks
+
+140 HP
+
+This is the minimum amount of HP needed to survive
+
+Annihilape
+
+'s Final Gambit.
+
+148 HP / 20 Def
+
+: This lets Raging Bolt survive +1 Jolly
+
+Ogerpon-H
+
+'s Play Rough.
+
+140 HP / 76 SpD
+
+: This avoid a 2HKO from Timid Flutter Mane after Sitrus Berry Raging Bolt has a Calm Mind boost.
+
+140 HP / 108 Def
+
+: This survives Adamant Choice Band
+
+Chien-Pao
+
+'s Tera-boosted Crunch.
+
+140 HP / 180 Def
+
+: This survives Adamant
+
+Landorus-T
+
+'s Earthquale and Adamant Chien-Pao's Icicle Crash.
+
+20 HP / 172 Def
+
+: This is the most EV efficient way to survive Adamant Choice Band Chien-Pao's Tera-boosted Crunch, at the cost of being OHKOed by Annihilape's Final Gambit.
+
+Assault Vest EV Benchmarks
+
+140 HP / 92 SpD
+
+: This survives Modest Choice Specs Flutter Mane's Moonblast.
+
+140 HP / 132 SpD
+
+: This avoids a 2HKO from Timid Choice Specs Flutter Mane's Moonblast after Stealth Rock damage if Raging Bolt is Terastallized.
+
+Speed EV Benchmarks
+
+44 Spe
+
+: This outspeeds minimum Speed
+
+Dragonite
+
+.
+
+76 Spe
+
+: This outspeeds maximum Speed Modest Ursaluna-B.
+
+132 Spe
+
+: This outspeeds Jolly
+
+Ursaluna
+
+, a rare but powerful threat against Raging Bolt.
+
+156 Spe
+
+: This outspeeds Timid Ursaluna-B.
+
+220 Spe
+
+: This outspeeds Adamant
+
+Breloom
+
+, a rare threat that can stop Raging Bolt's sweeps with Spore.
+
+196+ Spe
+
+: This outspeeds Adamant
+
+Basculegion
+
+.
+
+204+ Spe
+
+: This outspeeds Adamant Dragonite.
+
+244+ Spe
+
+: This outspeeds Modest
+
+Archaludon
+
+.
+
+Raging Bolt, with a higher Special Attack than
+
+Flutter Mane
+
+, massive HP, and good defenses, serves its role as a bulky damage dealer exceptionally well.
+
+Don't let Raging Bolt's middling Speed fool you; its signature move, Thunderclap, prevents it from being an issue in a lot of situations and makes the
+
+Tornadus
+
++
+
+Urshifu-R
+
+matchup virtually trivial. Raging Bolt is also really strong into the
+
+Ogerpon
+
+formes and
+
+Rillaboom
+
+, as it resists all of their STAB moves except
+
+Ogerpon-C
+
+'s, unless the
+
+Ogerpon-H
+
+and Rillaboom are carrying Stomping Tantrum and High Horsepower as coverage, respectively.
+
+Raging Bolt pairs insanely well with Rillaboom and
+
+Incineroar
+
+, as they provide Fake Out pressure for Raging Bolt to take advantage of by lowering the foe's Special Attack or Speed on the Assault Vest set, set up with the Calm Mind set or deal massive damage with the three attacks set. Rillaboom also provides more longevity in Grassy Terrain for Raging Bolt, which can make it immensely difficult to KO.
+
+Chien-Pao
+
+and Choice Scarf Urshifu-R are also excellent partners thanks to dealing with Raging Bolt's worst matchup,
+
+Landorus
+
+.
+
+That said, Raging Bolt does still have bad matchups, one of which is the aforementioned Landorus due to it being able to threaten an OHKO against Raging Bolt with Earth Power. Chien-Pao can also be a tricky matchup, as it can deal massive damage with its Ice-type STAB move and cause mindgames with Sucker Punch. Flutter Mane is able to deal huge damage to Raging Bolt even when it Terastallizes and can very comfortably take unboosted Thunderclaps.
+
+Electroweb is sometimes run over Thunderbolt for speed control. Volt Switch allows for Raging Bolt to become a bulky pivot and pairs well with Draco Meteor, allowing it to switch out after the Special Attack drop. Snarl weakens opposing special attackers, enabling it to sit on the field for longer and deal damage. Tera Blast gives Raging Bolt a strong option into bulky Dark-types and Fighting-types like
+
+Ting-Lu
+
+and
+
+Iron Hands
+
+.
+
+Assault Vest allows Raging Bolt to fully take advantage of its amazing bulk, letting it sit on the field and tank hit after hit all while dealing respectable damage and disrupting the foe with moves like Snarl and Electroweb.
+
+The defensive investment allows Raging Bolt to always survive Icicle Crash from Adamant
+
+Chien-Pao
+
+and Moonblast from Choice Specs
+
+Flutter Mane
+
+. The Speed investment allows Raging Bolt to outspeed
+
+Glimmora
+
+and Modest
+
+Chi-Yu
+
+after an Electroweb. The rest of the EVs were put into offensive investment.
+
+Tera Fairy is just an incredibly strong neutral Tera type, especially for a Pokemon with as much bulk as Raging Bolt has, and provides a resistance to
+
+Urshifu-S
+
+'s STAB moves.
+
+Thunderclap is a good main STAB move, as it allows Raging Bolt to focus less on Speed and go all out on bulk investment, as it will be able to boost up then hit most foes before they can retaliate.
+
+While Dragon Pulse is usually an underwhelming move, it serves as a strong neutral STAB move into Pokemon that resist Electric-type attacks when paired with Calm Mind.
+
+In some situations, Thunderbolt can be used over Protect, due to Raging Bolt being bulky enough to where Protect isn't mandatory on Calm Mind sets, and for consistency against support Pokémon such as Follow Me
+
+Ogerpon-W
+
+where Thunderclap would fail.
+
+Leftovers is preferred on the Calm Mind set, providing immense longevity with Grassy Terrain from
+
+Rillaboom
+
+.
+
+The Defense EVs with the HP EVs allow Raging Bolt to live Icicle Crash from Adamant
+
+Chien-Pao
+
+. The HP EVs make the HP optimized for Leftovers and Grassy Terrain recovery. The bulk investment ensures that Raging Bolt is able to tank 2 unboosted Moonblasts from Timid
+
+Flutter Mane
+
+at +1 Special Defense after Leftovers and Grassy Terrain recovery combined with Protect. The Special Defense EVs hit an even number to be optimal for the Calm Mind boost.
+
+Raging Bolt utilizes Tera Fairy for the resistance to
+
+Urshifu-S
+
+'s STAB moves and neutral matchup against the majority of the metagame.
+
+Thunderbolt provides good consistent damage, especially with Tera Electric, while Thunderclap helps make up for Raging Bolt's middling Speed. Draco Meteor is a more powerful option, being able to OHKO Pokémon like
+
+Landorus
+
+when used with Booster Energy. However, it can be forced to switch out after a Special Attack drop and lose the boost.
+
+Booster Energy is a strong option, as boosting Raging Bolt's already huge base Special Attack even further turns it into an absolute nuke. Safety Goggles prevents
+
+Amoonguss
+
+from redirecting Thunderclaps away from
+
+Urshifu-R
+
+.
+
+The Speed investment allows Raging Bolt to outspeed
+
+Dragapult
+
+,
+
+Flutter Mane
+
+, and
+
+Chien-Pao
+
+while under Tailwind, allowing it to hit them with its stronger options like Thunderbolt and Draco Meteor.
+
+Tera Grass is a good option to not only resist Ground-type moves from Landorus but also ignore Amoonguss's Spore and redirection with Rage Powder without running Safety Goggles. Tera Electric will often be a consistent option for just raw damage output.
+
+Raging Bolt is an incredibly bulky special attacker that can stay on the field and survive hits from Restricted Pokemon, and threaten them back with its huge Special Attack stat and weaken their team with stat reducing moves. It matches up incredibly well into
+
+Urshifu-R
+
+, keeping it in check with Thunderclap,
+
+Koraidon
+
+, since it commonly doesn't run Dragon-type moves, common Fire / Water / Grass cores, which usually have
+
+Incineroar
+
+,
+
+Rillaboom
+
+, and Urshifu-R or
+
+Ogerpon-W
+
+, and multiple strong special attackers with Snarl, such as
+
+Kyogre
+
+,
+
+Calyrex-S
+
+, and
+
+Terapagos
+
+. Electroweb gives Raging Bolt a solid speed control option while still dealing relevant damage.  Thunderbolt is a consistent and strong STAB option, and Volt Switch gives it a strong way to reposition itself. Assault Vest allows it to survive hits more easily from strong special attackers such as Calyrex-S, Terapagos, Kyogre,
+
+Flutter Mane
+
+, and opposing Raging Bolt while punishing them with a Snarl, Electroweb, or stronger attacking move. The EV spread allows it to avoid the 2HKO from Choice Specs Astral Barrage from Calyrex-S, survive an Icicle Crash from
+
+Chien-Pao
+
+, and outspeed -1
+
+Gholdengo
+
+and Adamant
+
+Urshifu
+
+. Tera Electric significantly increases the damage it does at the cost of remaining vulnerable to strong Ground-type attackers such as
+
+Landorus
+
+and
+
+Groudon
+
+, while Tera Fairy allows it to gain an immunity to threatening Dragon-type attacks from the likes of
+
+Miraidon
+
+and opposing Raging Bolt while still having a very strong defensive typing into the current metagame.
+
+Raging Bolt synergizes well with multiple Pokemon and can work on many team structures, but some notable partners are Incineroar, since it can reduce the threat from physical moves that Raging Bolt cannot weaken, Koraidon, since it activates Raging Bolt's ability Protosynthesis by setting up sun, and Urshifu-R, which checks multiple strong threats to Raging Bolt like
+
+Calyrex-I
+
+, Flutter Mane, Chien-Pao, and Landorus. Another Pokemon that checks Raging Bolt is
+
+Amoonguss
+
+, since Raging Bolt can't stop a Spore from going off and Raging Bolt's attacks can be redirected by Rage Powder without many issues. It is also vulnerable to Fake Out, since Raging Bolt is unable to use Protect to block it because of its Assault Vest, and variants without Draco Meteor can't threaten Incineroar for high damage, allowing it to use Parting Shot and pivot out relatively safely.
+
+Raging Bolt is a strong special attacker that uses its good natural bulk and offensive typing to survive attacks and respond with strong Electric- and Dragon-type moves. Draco Meteor gives Raging Bolt a one-time nuke, while Dragon Pulse is a more consistent option for Life Orb sets. Thunderclap allows Raging Bolt to threaten faster Pokemon like Choice Scarf
+
+Urshifu-R
+
+before they can move. Booster Energy and Life Orb both allow Raging Bolt to deal more damage at the cost of either losing its boost on switch or taking recoil. Life Orb is used on sun teams, as its boost can stack with the Protosynthesis boost. Tera Electric boosts Thunderbolt and Thunderclap, allowing Raging Bolt to OHKO Pokemon such as bulky
+
+Kyogre
+
+with Thunderbolt and Urshifu-R with Thunderclap if Urshifu-R Terastallizes into a neutral type, as well as 2HKOing
+
+Calyrex-I
+
+with Thunderbolt. Tera Fairy makes Raging Bolt immune to Dragon-type attacks like
+
+Miraidon
+
+'s Draco Meteor in addition to being a good neutral type.
+
+Raging Bolt struggles into bulky Pokemon such as
+
+Amoonguss
+
+and
+
+Ting-Lu
+
+that resist or are immune to Thunderbolt, survive Draco Meteor or Dragon Pulse, and respond with Spore or a super effective attack. Faster offensive Pokemon like Miraidon,
+
+Zacian-C
+
+, and
+
+Landorus
+
+are also a problem for Raging Bolt, as they can threaten to OHKO it. Calyrex-I threatens the Grass-, Ground-, and Dragon-types that resist Thunderbolt, as well as setting up Trick Room to help Raging Bolt with faster threats. Raging Bolt can also hit the Water-types that resist Glacial Lance with Thunderbolt or Thunderclap. Pokemon that can set up sun such as
+
+Koraidon
+
+also pair well with Raging Bolt, as they allow it to get a Protosynthesis boost in addition to Life Orb. Raging Bolt can support them by threatening Water-types that resist Flare Blitz or by removing
+
+Pelipper
+
+, which is a common check to sun teams.
+
+Raging Bolt's good natural bulk allows it to function well as a bulky setup sweeper. It has good matchups against
+
+Kyogre
+
+and
+
+Urshifu-R
+
+due to STAB Thunderclap. Dragon Pulse is commonly used to break Pokemon that resist Thunderclap, like opposing Raging Bolt and
+
+Miraidon
+
+. Dragon Pulse may also aid against Pokemon with redirection like
+
+Ogerpon-W
+
+or Armor Tail
+
+Farigiraf
+
+that blocks Thunderclap. Leftovers is the preferred item on Calm Mind Raging Bolt due to the increased longevity, especially when paired with Grassy Terrain support from
+
+Rillaboom
+
+. Alternatively, Raging Bolt can use Booster Energy for an immediate power boost, threatening an OHKO on Miraidon and a 2HKO on
+
+Calyrex-S
+
+. 244 HP and 52 Defense EVs allow Raging Bolt to survive Adamant
+
+Chien-Pao
+
+'s Ice Spinner. The HP and Special Defense EVs allow +1 Special Defense Terastallized Raging Bolt to survive two attacks from both Modest
+
+Flutter Mane
+
+'s Moonblast and
+
+Landorus
+
+'s Earth Power. 92 Speed EVs allow Raging Bolt to outspeed 4 Speed Rillaboom. Tera Fairy is the Tera type of choice because it provides Raging Bolt an even matchup into most of the format.
+
+Good partners for Calm Mind Raging Bolt include Rillaboom because it can provide Grassy Terrain and create free turns with Fake Out, allowing Raging Bolt to set up more safely. Similarly,
+
+Incineroar
+
+is often paired with Raging Bolt, since it can offer damage reduction and Fake Out support. Redirection, such as Ogerpon-W's Follow Me, is greatly appreciated by Raging Bolt.
+
+Groudon
+
+and
+
+Koraidon
+
+are also good partners for Raging Bolt, since they can activate its Protosynthesis ability and check Pokemon like
+
+Amoonguss
+
+and
+
+Zacian-C
+
+, which are common checks for Raging Bolt. Amoonguss threatens Raging Bolt's Thunderclap via Rage Powder redirection and Spore. Zacian-C, Groudon, Choice Specs Flutter Mane,
+
+Calyrex-I
+
+, and Landorus can threaten Raging Bolt before and after it Terastallizes.
+
+Set Details
+
+Raging Bolt has phenomenal natural bulk and Special Attack, allowing it to stay on the field while chipping foes, and with priority in Thunderclap, it can finish off low-HP targets. Its potent STAB moves and survivability give it favorable matchups against
+
+Kyogre
+
+,
+
+Urshifu-R
+
+,
+
+Tornadus
+
+, and
+
+Koraidon
+
+.
+
+Although Draco Meteor can miss and weakens Raging Bolt's damage output afterwards, it's used for a higher burst of damage, notably OHKOing non-Assault Vest
+
+Miraidon
+
+and Raging Bolt as well as Tera Dragon
+
+Zamazenta-C
+
+. Dragon Pulse is more consistent, lacking those drawbacks, but doesn't offer the same immediate power.
+
+Magnet is the most consistent item since Raging Bolt primarily uses Electric-type STAB moves, which get boosted. Life Orb offers a higher damage increase than Magnet and applies to all moves but reduces survivability. Additionally, both Life Orb and Magnet stack with the power boost from Protosynthesis in sun. Booster Energy provides the same boost as Life Orb without the recoil, but the boost is lost after switching out.
+
+The Defense investment allows Raging Bolt to live Close Combat from Life Orb Koraidon, Glacial Lance from most
+
+Calyrex-I
+
+, and almost always live Ice Spinner from Adamant
+
+Chien-Pao
+
+. The Speed investment enables Raging Bolt to outspeed maximum Speed Koraidon, Chien-Pao, and Miraidon in Tailwind. The rest is put into Special Attack to maximize its damage output.
+
+Tera Electric is used to boost its Electric-type STAB moves, notably allowing it to score valuable chip damage on Pokemon like Zamazenta-C with Thunderbolt, even putting it in range of a Thunderclap. It also allows Raging Bolt to OHKO Kyogre with Thunderbolt and the Life Orb and Booster Energy variants to almost always 2HKO non-Leftovers Calyrex-I with Thunderbolt. Tera Electric can also help it live Dragon-, Ice-, and Fairy-type moves such as Draco Meteor from non-Choice Specs Miraidon, Icicle Crash from Chien-Pao, and Moonblast from
+
+Flutter Mane
+
+.
+
+Teambuilding
+
+Raging Bolt struggles against Chien-Pao, which threatens it with Icicle Crash and Ice Spinner, and it can pick Raging Bolt off with priority Sucker Punch, which outspeeds Thunderclap under normal circumstances.
+
+Landorus
+
+is problematic because it can outspeed and threaten Raging Bolt with Earth Power. Similarly,
+
+Ursaluna
+
+moves before Raging Bolt under Trick Room and threatens it with Headlong Rush.
+
+Calyrex-I and Miraidon teams are major threats, as Glacial Lance and Draco Meteor force Raging Bolt to Terastallize. Additionally, Choice Specs Miraidon can OHKO with Draco Meteor even if Raging Bolt Terastallizes.
+
+Zacian-C
+
+threatens to OHKO Raging Bolt with Play Rough, and
+
+Iron Treads
+
+pressures it with High Horsepower while not taking much damage in return.
+
+Grimmsnarl
+
+'s damage mitigation via Light Screen and Spirit Break make it difficult for Raging Bolt to get Pokemon low on HP and finish them off with Thunderclap.
+
+Terapagos
+
+can tank Raging Bolt's attacks fairly well, especially after setting up with Calm Mind, and it can later pressure with Earth Power. Similarly, Assault Vest
+
+Ting-Lu
+
+is hard to break; it takes even less from Raging Bolt's Dragon-type moves and can wear it down with Sand Tomb and Snarl.
+
+Amoonguss
+
+and
+
+Brute Bonnet
+
+can be troublesome for Raging Bolt, as it can't OHKO them and risks being put to sleep by Spore. They can also redirect Raging Bolt's Thunderclap with Rage Powder, preventing it from hitting their partners.
+
+Koraidon is a great partner for Raging Bolt, boosting its damage output through Protosynthesis in sun. It also helps cover several of Raging Bolt’s problem matchups, threatening Amoonguss and Calyrex-I with Flare Blitz and Ting-Lu and Terapagos with Close Combat or Collision Course. In return, Raging Bolt pressures Kyogre with its Electric-type STAB moves.
+
+Raging Bolt fits well on
+
+Calyrex-S
+
+and Zamazenta-C balance teams. Calyrex-S can chip foes into Thunderclap range with Astral Barrage, and Raging Bolt can do the same for Calyrex-S, allowing it to receive Grim Neigh boosts. Zamazenta-C helps against Chien-Pao and Terapagos and can block Glacial Lance from Calyrex-I with Wide Guard.
+
+Incineroar
+
+'s Intimidate and Parting Shot can help Raging Bolt survive some of the aforementioned attacks.
+
+Rillaboom
+
+and Raging Bolt both take hits well and apply priority pressure with Grassy Glide and Thunderclap, respectively. Chien-Pao also synergizes with Raging Bolt by threatening Amoonguss, Brute Bonnet, Miraidon, and Landorus with Icicle Crash or Ice Spinner while also contributing strong priority pressure, making it difficult for foes to attack freely.
+
+Set Details
+
+Assault Vest Raging Bolt is a great bulky special attacker with excellent versatility and longevity thanks to the Assault Vest and its great natural bulk. It has good matchups against Restricted Pokemon like
+
+Koraidon
+
+,
+
+Kyogre
+
+,
+
+Lunala
+
+, and
+
+Calyrex-S
+
+and non-Restricted threats such as
+
+Urshifu-R
+
+,
+
+Tornadus
+
+, and
+
+Ogerpon-H
+
+.
+
+Draco Meteor can be inconsistent, but it has the power to consistently OHKO threats like
+
+Miraidon
+
+and opposing Raging Bolt, something Dragon Pulse cannot do. Dragon Pulse, while more reliable, lacks that same level of immediate power. Electroweb gives Raging Bolt a form of speed control that still deals meaningful damage, letting it outspeed Pokemon like Kyogre,
+
+Chi-Yu
+
+, the
+
+Urshifu
+
+formes, and Lunala after one Electroweb. Snarl allows Raging Bolt to disrupt special attackers like Calyrex-S, Kyogre,
+
+Landorus
+
+,
+
+Terapagos
+
+, and Lunala, as well as dealing good damage to Calyrex-S and breaking Lunala's Shadow Shield.
+
+Assault Vest lets Raging Bolt take considerably more special attacks from Pokemon such as Calyrex-S, Lunala, Landorus, and Terapagos, such as being able to survive two of Life Orb Calyrex-S's Astral Barrages and two of Lunala's Moongeist Beams.
+
+The EV spread allows Raging Bolt to survive Glacial Lance from 116 Attack Adamant
+
+Calyrex-I
+
+, Icicle Crash from Jolly
+
+Chien-Pao
+
+, and Close Combat from Life Orb Koraidon. The Special Defense investment lets Raging Bolt survive Life Orb Landorus's Earth Power, two of Life Orb Calyrex-S's Astral Barrages, and Miraidon's Draco Meteor and Electro Drift after Terastallizing. The Speed investment lets Raging Bolt outspeed Landorus after a speed drop while outspeeding Calyrex-S and Choice Scarf Urshifu-R in Tailwind.
+
+Tera Electric is a great option to let Raging Bolt consistently 2HKO
+
+Flutter Mane
+
+, Calyrex-S, and
+
+Incineroar
+
+with Thunderbolt. Tera Fairy is a good general defensive typing to let it take
+
+Zamazenta-C
+
+'s Body Press and become immune to Dragon-type moves from Miraidon and opposing Raging Bolt.
+
+Teambuilding
+
+Raging Bolt can struggle against Pokemon such as Focus Sash Chien-Pao and Flutter Mane, as both can survive attacks from Raging Bolt and hit it for big damage with Ice Spinner, Icicle Crash, or Moonblast.
+
+Raging Bolt has bad matchups against Ground-type Pokemon like Landorus and
+
+Ursaluna
+
+, which are immune to Electric-type attacks and threaten Raging Bolt. Pokemon with Fake Out, such as Incineroar and
+
+Iron Hands
+
+, can also do well against this set, as it cannot use Protect to get around Fake Out, and both can take Raging Bolt's attacks well, allowing them to use Parting Shot or Low Kick in return.
+
+Raging Bolt synergizes with sun setters like Koraidon, as sun boosts Raging Bolt's Special Attack through Protosynthesis while Raging Bolt provides support for Koraidon against Kyogre. Raging Bolt also supports Pokemon like Calyrex-S against Tornadus and Urshifu-R with Thunderclap and helps Pokemon such as Calyrex-I and Zamazenta-C in the Koraidon matchup.
+
+Non-Restricted Pokemon like Urshifu-R and Chien-Pao pair nicely with Raging Bolt by hitting Ground- and Grass-type Pokemon such as Landorus and
+
+Rillaboom
+
+that Raging Bolt may be bad against. Incineroar is another great partner for Raging Bolt, being able to switch into threats like Chien-Pao and Flutter Mane and weaken Iron Hands and the aforementioned Chien-Pao with Intimidate. Encore Calyrex-S and Incineroar as well as other Fake Out users like Rillaboom help combat opposing Fake Out with Encore or their own Fake Out.
+
+Draft Order
+
+: Round 1 onwards
+
+Price Range
+
+: 13-14 points
+
+Tera Price Range
+
+: 18-19 points
+
+Overview
+
+: Boasting a monstrously high Special Attack stat with great overall bulk, Raging Bolt is able to hit hard while taking hits just as well. Thunderclap lets it clean up games and force opponents to make difficult decisions, and Draco Meteor can nuke foes that are slower than it. With the ability to Terastallize, it can check and break through just about any foe it needs to while giving it more opportunities to set up with Calm Mind if needed. Very little can threaten Raging Bolt, though it often struggles against faster physical wallbreakers, especially ones that can survive a Thunderclap or disrupt it with Substitute or Encore.
+
+Common Roles
+
+Setup Sweeper
+
+: Raging Bolt is able to use Calm Mind to break through most teams' defensive cores, firing off STAB moves for slower threats and Thunderclap for faster ones. Booster Energy can give it additional wallbreaking power, while Leftovers gives it more longevity, especially when combined with Substitute. It often utilizes Terastallization to gain valuable coverage as well as a better defensive typing to set up against specific foes.
+
+Bulky Offense
+
+: Raging Bolt can focus on checking specific foes while threatening the team with powerful attacks in return. It can set up with Calm Mind for further wallbreaking power, pivot with Volt Switch to maintain momentum while still dealing large amounts of damage, or even run Choice Specs to nuke whatever switches into it.
+
+Common Moves
+
+Primary STAB Moves
+
+: Thunderclap, Thunderbolt, Discharge, Volt Switch, Draco Meteor, Dragon Pulse
+
+Setup Moves
+
+: Calm Mind
+
+Utility Moves
+
+: Taunt, Dragon Tail, Thunder Wave, Substitute, Roar
+
+Coverage
+
+: Ancient Power, Body Press, Tera Blast
+
+Niche Moves
+
+Sunny Day
+
+: Sunny Day allows Raging Bolt to activate Protosynthesis without having to rely on Booster Energy or a teammate with Drought. This move gives it flexibility with its item slot and allows it to use Solar Beam and Weather Ball while granting a damage buff similar to Calm Mind.
+
+Solar Beam
+
+: Raging Bolt can use Solar Beam either under sun or with a Power Herb to break through Ground-types that might wall it otherwise.
+
+Weather Ball
+
+: On sun teams or with Sunny Day, Weather Ball gives Raging Bolt additional Fire-type coverage to hit bulky Grass- and Steel-types. It can also work as a surprise Ice-type move with snow from either Snow Warning or Chilly Reception.
+
+Common Items
+
+Booster Energy
+
+: Booster Energy allows Raging Bolt to begin wallbreaking immediately rather than having to spend a turn setting up. This works best with early- or late-game wallbreaking due to it being a single-use item.
+
+Leftovers
+
+: Leftovers provides valuable healing to Raging Bolt, especially when the opponent has poor entry hazard setters or is unable to reliably answer Calm Mind Raging Bolt. This works especially well with Substitute in order to keep it as healthy as possible.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots allows Raging Bolt to remain at full health upon switching in so that it can set up much easier. This item also works well when it wants to switch in frequently in order to check or revenge kill certain foes.
+
+Niche Items
+
+Choice Specs
+
+: Choice Specs's increased power can be valuable for immediate wallbreaking if Raging Bolt wants to switch in multiple times a game.
+
+Sitrus Berry
+
+: Sitrus Berry is a solid choice compared to Leftovers or Heavy-Duty Boots if Raging Bolt expects to take one strong hit and needs to remain relatively healthy.
+
+Assault Vest
+
+: Assault Vest allows Raging Bolt to utilize its strong defensive typing to check certain specially offensive foes in matchups where it may not need setup to be effective.
+
+Resistance Berry
+
+: A resistance Berry can help Raging Bolt set up easier or allow it to pick off a faster threat that it otherwise couldn't.
+
+Mental Herb
+
+: Mental Herb prevents Raging Bolt from being susceptible to Encore when trying to set up against faster foes.
+
+Other Damage-boosting Items
+
+: If Raging Bolt needs more than a one-time damage boost, items like Life Orb and Magnet let it hit damage benchmarks while not being Choice-locked by Choice Specs.
+
+Eject Pack
+
+: Raging Bolt can use Eject Pack in combination with Draco Meteor to damage opposing switch-ins that could otherwise tank its attacks and pivot out.
+
+Power Herb
+
+: Power Herb is ran with Solar Beam to break through specific Ground-types that would otherwise wall Raging Bolt.
+
+Tera
+
+Raging Bolt is one of the best Tera Captains in the format, so it should always be drafted with the intent of being one. It benefits massively from both offensive and defensive Tera types. Offensively, it's able to strengthen its already strong Thunderclap and Draco Meteor with STAB Tera types, and it can choose types such as Tera Water and Grass to gain needed coverage against Ground-types. Defensively, it's able to utilize Tera Fairy, Steel, Water, and Poison to give it better defensive matchups, allowing it to set up in front of foes that would otherwise beat it one-on-one.
+
+Draft Strategy
+
+Raging Bolt's lack of support options as well as its struggle against bulkier specially defensive walls means that it often requires a lot of team support. As a round 1 pick, it often looks for teammates such as physical wallbreakers, entry hazard setters and removers, and Pokemon with higher Speed to help it out.
+
+Physical Wallbreakers
+
+: Raging Bolt can struggle with breaking through specially defensive walls by itself, especially Ground-types. Pairing it with the likes of
+
+Landorus-T
+
+,
+
+Cinderace
+
+, and
+
+Weavile
+
+can help with this, as they can break through each other's checks, creating a powerful wallbreaking duo.
+
+Entry Hazard Control
+
+: A lot of the time, Raging Bolt wants the opposing team to be weakened so that it can easily clean with Thunderclap. Hazards are one of the easiest ways to achieve this; some good hazard setters that pair well with it include
+
+Ting-Lu
+
+,
+
+Glimmora
+
+, and
+
+Gliscor
+
+. Raging Bolt also appreciates being able to run items other than Heavy-Duty Boots, so reliable spinners, such as
+
+Iron Treads
+
+,
+
+Terapagos
+
+, and
+
+Tentacruel
+
+, make for strong pairings.
+
+Fast Teammates
+
+: Raging Bolt is plagued with a very mediocre Speed tier, meaning it often struggles against faster foes that do not get KOed by Thunderclap. It appreciates having partners with top-tier Speed such as
+
+Greninja
+
+,
+
+Meowscarada
+
+, and
+
+Darkrai
+
+, but it also appreciates base 95 through 110 Speed Pokemon such as
+
+Iron Crown
+
+,
+
+Urshifu-R
+
+, and
+
+Ogerpon-W
+
+to deny the opponent the ability to run damage-boosting natures on their Pokemon rather than Speed-boosting ones.
+
+Healing Wish
+
+: Raging Bolt struggles with longevity, so it benefits heavily from teammates that can give it a second chance with Healing Wish.
+
+Alomomola
+
+is an extremely common pairing due to its ability to slowly pivot as well, but teammates like
+
+Mesprit
+
+and
+
+Jirachi
+
+also work well.
+
+Dual Screens Support
+
+: Since Raging Bolt is reliant on being able to safely use Calm Mind a lot of the time, it appreciates additional opportunities generated from dual screens, whether that be from Prankster
+
+Klefki
+
+or teammates like
+
+Deoxys-S
+
+and
+
+Corviknight
+
+.
+
+Checks and Counters
+
+Bulky Grass- and Ground-types
+
+: While Draco Meteor can break through Grass- and Ground-types, Raging Bolt does not like being forced out afterwards, since it's a massive momentum sink to do so and provides the opponent a safe turn of setup. The likes of Iron Treads, Ting-Lu, and
+
+Rillaboom
+
+can be particularly annoying because they can survive a hit; they can then force it out or pivot to teammates that can capitalize on its lowered Special Attack after a Draco Meteor.
+
+Physical Wallbreakers
+
+: Many common foes, especially ones that resist Thunderclap like
+
+Great Tusk
+
+, Meowscarada, and
+
+Garchomp
+
+, can reliably break through Raging Bolt with a Choice Band or super effective attacks, forcing it to pick specific Tera types to survive hits. Many foes can also chip Raging Bolt down enough so that it can be reliably KOed by a revenge killer afterwards.
+
+Fast Encore / Substitute Users
+
+: Given the mass distribution of Encore, Raging Bolt can often find itself being locked into moves and forced out. Foes like
+
+Iron Valiant
+
+, Ogerpon-W, and
+
+Scream Tail
+
+can switch in on it and threaten it after it uses Calm Mind or force it into repeatedly using Thunderclap. Substitute, on the other hand, forces Raging Bolt to make difficult decisions if the foe would not survive a Thunderclap.
+
+Chip Damage
+
+: Due to its lack of reliable recovery, Raging Bolt can easily get weakened by entry hazards, status effects, and weaker attacks, allowing strong wallbreakers to OHKO it more reliably later on in the match. This is especially threatening due to its low Speed, meaning most foes can easily pivot on it or chip it down if they resist or can play around Thunderclap.
+
+Raging Bolt stands out as one of the premier special wallbreakers in the tier, boasting exceptional offensive stats and a formidable STAB combination. Lucarionite further amplifies its breaking power by granting it Adaptability and substantial stat boosts, whereas Diancite can be used to significantly raise its Speed stat, albeit at the cost of some firepower and bulk. Timid nature helps Diancite Raging Bolt outspeed
+
+Great Tusk
+
+,
+
+Arceus
+
+formes, and
+
+Eternatus
+
+; a Modest nature allows Lucarionite Raging Bolt to reach feats like OHKOing offensive
+
+Arceus-Ground
+
+after minimal entry hazard chip damage. Raging Bolt utilizes Draco Meteor for its immense firepower and hit-and-run potential with Volt Switch. Thunderbolt and Discharge provide options for either dealing more damage or fishing for paralysis, respectively. Additionally, Thunderclap allows Raging Bolt to reverse kill Pokemon such as
+
+Urshifu-R
+
+and
+
+Basculegion
+
+formes, and Volt Switch enables it go function as a strong pivot. Raging Bolt may also utilize moves such as Calm Mind and Substitute to serve as a devastating progress maker at the cost of Volt Switch's utility or Thunderclap's priority. It synergizes exceptionally well with pivots like Urshifu-R,
+
+Magearna
+
+, and
+
+Pecharunt
+
+to form incredible VoltTurn cores; Urshifu-R and the Latiasite versions of the latter two also deal with Ground-types such as Arceus-Ground and Great Tusk, with the former being able to check
+
+Blissey
+
+as well. Offensive partners such as
+
+Spectrier
+
+, Calm Mind Arceus formes, and
+
+Zamazenta
+
+also aid in dismantling opposing defensive cores and thus synergize well with Raging Bolt. Pairing Raging Bolt with hazard setters such as Hearthflame Mask Great Tusk and Magearna helps it secure KOs more efficiently, especially against foes such as Arceus formes. It faces troubles against Pixilate Extreme Speed users such as
+
+Dragonite
+
+and
+
+Regieleki
+
+; thus, it is usually paired with Pokemon such as Pecharunt and Arceus-Ground to deal with them.
+
+Thunderbolt is Raging Bolt's most consistent STAB attack and beats
+
+Primarina
+
+, non-Assault Vest
+
+Metagross
+
+, and
+
+Volcanion
+
+.
+
+Draco Meteor is Raging Bolt's strongest STAB attack and should be used against
+
+Skeledirge
+
+.
+
+Thunderclap allows Raging Bolt to get KOs after using Thunderbolt and Draco Meteor and helps in matchups against some
+
+Hoopa-U
+
+sets as well as against Custap Berry users like Primarina and the
+
+Urshifu
+
+formes.
+
+Taunt allows Raging Bolt to beat
+
+Pecharunt
+
+and
+
+Ogerpon-W
+
+.
+
+The HP and Defense EVs allow Raging Bolt to survive the Choice Band Urshifu formes' Close Combat, while the Special Defense EVs allow it to survive a Hyper Beam from Timid
+
+Porygon-Z
+
+. The Speed EVs allow Raging Bolt to outspeed Modest Primarina. The remaining EVs are put in Special Attack to maximize power for best odds against specially defensive Primarina.
+
+Draco Meteor into Thunderclap is stronger than Thunderbolt into Thunderclap, so in matchups where there is no recovery from the foe, such as against non-Sitrus Berry
+
+Annihilape
+
+, it is better to use Draco Meteor into Thunderclap.
+
+Thunderbolt is the main Electric-type STAB move, but Thunder makes Raging Bolt more reliable against
+
+Primarina
+
+, as Thunder can OHKO it, so you don't have to worry about potential Weakness Policy or Encore after using Calm Mind or Charge. Thunderbolt should be used when it does neutral or super effective damage against frailer foes like Primarina,
+
+Corviknight
+
+, and
+
+Metagross
+
+without an Assault Vest. Against foes that can survive Draco Meteor followed by Thunderclap like
+
+Hoopa-U
+
+and
+
+Urshifu-S
+
+, it is safer to use Thunderbolt or Thunder into Draco Meteor.
+
+Draco Meteor hits Electric-resistant foes like
+
+Rillaboom
+
+and should be used against bulkier foes like Hoopa-U and
+
+Skeledirge
+
+. It also 2HKOes Unaware Skeledirge.
+
+Thunderclap is a priority move that helps to KO low HP Pokemon like non-Assault Vest Metagross after one use of Thunderbolt. Draco Meteor into Thunderclap does slightly more damage than Thunderbolt into Thunderclap against neutral targets, but Thunder into Thunderclap does more. Thunderclap also counters Custap Berry users like Primarina and Hoopa-U by attacking on the turn they use their Custap Berry.
+
+Calm Mind and Charge are both here to boost Raging Bolt's power and special bulk. Both moves especially help against Primarina, though Charge is more reliable against it and Calm Mind is useful in more matchups like against Rillaboom,
+
+Iron Hands
+
+, and
+
+Spectrier
+
+.
+
+Haban Berry allows Raging Bolt to win against Dragon-types such as
+
+Walking Wake
+
+, as it can OHKO them after surviving a Dragon-type move. However, if those Dragon-types are holding a Haban Berry, Raging Bolt can't OHKO them and is 2HKOed back.
+
+Raging Bolt's amazing bulk, high Special Attack stat, and great typing both defensively and offensively allow it to become a dangerous wallbreaker and sweeper, threatening common defensive pieces like
+
+Toxapex
+
+,
+
+Moltres
+
+, and
+
+Zapdos
+
+. Draco Meteor brings Raging Bolt exceptional power, allowing it to OHKO Ground-types like
+
+Landorus-T
+
+,
+
+Garchomp
+
+, a
+
+Great Tusk
+
+trying to switch into it, the former with a Calm Mind boost. However, Dragon Pulse is a great option if you want consistent damage, threatening the opposition for longer at a time. Weather Ball is an amazing option when paired with weather teams, as it removes Grass-types like
+
+Ferrothorn
+
+and
+
+Rillaboom
+
+in sun and threatens Ground-types like
+
+Ting-Lu
+
+and
+
+Iron Treads
+
+in rain. Dragonium Z gives Raging Bolt a one-time nuke, letting it obliterate most non-resistant foes, such as
+
+Gliscor
+
+and
+
+Galarian Slowking
+
+, with a Calm Mind boost, opening up its teammates. Do note that Dragonium Z should only be used with Draco Meteor, as the damage reduction with Dragon Pulse is quite noticeable. Booster Energy boosts Raging Bolt's Special Attack, allowing it to get OHKOs on Pokemon that it would normally run from, such as
+
+Iron Valiant
+
+with Thunderclap and Gliscor with Draco Meteor, both at +1. Leftovers lets it switch into Pokemon like
+
+Mega Charizard Y
+
+and
+
+Ogerpon-W
+
+more consistently, allowing it to set up easily.
+
+Raging Bolt is best on more offensive teams that appreciate it wearing down other Pokemon like Toxapex, Moltres, and Ting-Lu. Its main weakness is Ground-types like Ting-Lu, Gliscor, Great Tusk, and Landorus-T, as they can come in on a Thunderbolt and threaten it out with a super effective Earthquake. Pokemon like
+
+Urshifu-R
+
+, Ogerpon-W, and
+
+Hisuian Samurott
+
+can help remove these foes for Raging Bolt, and in return, it can eliminate bulky Water-types like Toxapex,
+
+Alomomola
+
+, and
+
+Slowbro
+
+. Hisuian Samurott in particular, along with Ferrothorn and
+
+Heatran
+
+, can set up entry hazards for Raging Bolt in order to chip down Pokemon like Ferrothorn and Ting-Lu into KO range of its attacks quicker. Raging Bolt doesn't have the best Speed stat, and that can be taken advantage of by Pokemon like
+
+Weavile
+
+and Choice Scarf
+
+Tapu Lele
+
+, which can bypass its Thunderclap either through their own priority for the former or Psychic Terrain for the latter and threaten to KO it. Steel-types like
+
+Melmetal
+
+,
+
+Kingambit
+
+, and
+
+Mega Scizor
+
+help in this regard, as well as absorbing Fairy-type attacks from Pokemon like
+
+Mega Diancie
+
+and Iron Valiant; Kingambit can also threaten Galarian Slowking and
+
+Mega Latios
+
+, two Pokemon that Raging Bolt has trouble with. In return, Raging Bolt can chip down Toxapex, Moltres, and
+
+Zamazenta
+
+for Kingambit’s own sweep later in the game. Finally, Raging Bolt fits very well on weather-based teams. On sun teams, Raging Bolt's Protosynthesis is activated, allowing it to hit harder; it also synergizes well with Mega Charizard Y, as Mega Charizard Y can switch into the Ground-type moves that Raging Bolt baits out while also dealing with Ferrothorn. In return, Raging Bolt can deal with Toxapex, Moltres, and
+
+Dragonite
+
+, which would otherwise give Mega Charizard Y trouble. Rain, on the other hand, gives Raging Bolt a Weather Ball capable of demolishing the Ground-types that would otherwise give it much trouble. In return, Raging Bolt provides a check for Grass- and Electric-types like Rillaboom, Zapdos, and Ogerpon-W that would give rain teams trouble.
+
+Raging Bolt is an excellent pivot, using its stellar offensive presence and ability to force out Pokemon such as
+
+Toxapex
+
+,
+
+Zapdos
+
+, and
+
+Moltres
+
+to gain momentum for its teammates. Not only that, Raging Bolt's solid defensive typing makes it have favorable matchups against Pokemon like
+
+Ogerpon-W
+
+and
+
+Mega Charizard Y
+
+. Thunderclap is a useful form of priority, being the main way Raging Bolt threatens out faster threats such as
+
+Urshifu-R
+
+,
+
+Iron Valiant
+
+, and
+
+Mega Medicham
+
+. Draco Meteor gives Raging Bolt the ability to hit Pokemon that would effortlessly block Volt Switch, such as
+
+Landorus-T
+
+and
+
+Gliscor
+
+. Taunt is an option over Thunderbolt, allowing Raging Bolt to stop entry hazards from being set up by the likes of
+
+Heatran
+
+and
+
+Ferrothorn
+
+and deny recovery for Pokemon like
+
+Mega Scizor
+
+,
+
+Blissey
+
+, and
+
+Garganacl
+
+. Heavy-Duty Boots lets Raging Bolt pivot safely in the face of hazards, particularly Spikes, while Dragonium Z gives Raging Bolt the ability to OHKO Gliscor and Landorus-T and muscle through weakened checks like Garganacl and
+
+Mega Tyranitar
+
+. Alternatively, Leftovers grants Raging Bolt more longevity to check Pokemon like Mega Charizard Y, Ogerpon-W, and Urshifu-R more consistently. When using Heavy-Duty Boots, an EV spread with maximum Special Attack and Speed is preferred. However, the second EV spread ensures Raging Bolt outspeeds defensive Landorus-T while also surviving a Landorus-T's Earthquake after Stealth Rock.
+
+Raging Bolt fits best on bulky offense and balance teams, where its pivoting abilities are much appreciated to keep momentum and bring in wallbreakers such as Mega Medicham and
+
+Kingambit
+
+against Pokemon like Ferrothorn,
+
+Galarian Slowking
+
+, and Mega Tyranitar. Raging Bolt checking Ogerpon-W and
+
+Tornadus-T
+
+is appreciated by teammates such as
+
+Alomomola
+
+and
+
+Great Tusk
+
+. In return, Alomomola provides Wish support, making up for Raging Bolt's poor longevity, and Great Tusk removes Spikes, which cut into Raging Bolt lacking Heavy-Duty Boots. Due to Raging Bolt's lack of power, it loves the Spikes set by teammates like Samurott-H and Ferrothorn, chipping down its checks such as opposing Ferrothorn and Heatran. Raging Bolt is also hindered by Ground-types that easily outpace it such as
+
+Garchomp
+
+and Great Tusk, since they also block its Volt Switch, stopping it from gaining momentum. Teammates that check these foes, such as Moltres and Landorus-T, are good partners for Raging Bolt.
+
+Calm Mind Raging Bolt is a potent wallbreaker and setup sweeper for Electric teams, possessing a high Special Attack, excellent defenses, and incredible priority in Thunderclap to pick off faster foes like
+
+Sneasler
+
+and
+
+Ceruledge
+
+. With Devastating Drake, Raging Bolt breaks through bulkier targets like
+
+Mega Venusaur
+
+and
+
+Archaludon
+
+, and it also applies tremendous pressure on bulky Ground-types, having a high chance to KO
+
+Gliscor
+
+without a boost, OHKOing specially defensive
+
+Swampert
+
+at +1, and providing good odds to OHKO Water Absorb
+
+Clodsire
+
+at +1. With its typing, Raging Bolt switches in against foes like
+
+Mega Charizard Y
+
+and
+
+Ogerpon-W
+
+and threatens them out with its STAB moves. Thunderclap lets Raging Bolt revenge kill faster threats like
+
+Greninja
+
+and
+
+Enamorus
+
+as well as
+
+Iron Valiant
+
+at +1. 136 Speed EVs allow Raging Bolt to outspeed Jolly
+
+Ursaluna
+
+and specially defensive
+
+Heatran
+
+.
+
+Rotom-W
+
+and
+
+Zapdos
+
+provide crucial Ground-immune teammates for the team. Rotom-W can take on threats like Sand Rush
+
+Excadrill
+
+,
+
+Mega Swampert
+
+, and Choice Scarf
+
+Landorus-T
+
+, and Zapdos can remove foes like
+
+Ferrothorn
+
+and
+
+Tapu Bulu
+
+and serve an offensive or defensive role, assisting against Ground and Fighting teams.
+
+Tapu Koko
+
+threatens Dragon- and Dark-types like
+
+Latios
+
+,
+
+Hydreigon
+
+, and
+
+Weavile
+
+, and with Grass Knot and Hidden Power Ice, it helps in alleviating Ground matchups, removing threats like
+
+Landorus
+
+. Tapu Koko also sets Electric Terrain to boost Raging Bolt's Electric-type moves, most notably allowing it to OHKO bulkier threats like
+
+Mega Diancie
+
+and
+
+Galarian Darmanitan
+
+with +1 Thunderclap.
+
+Iron Hands
+
+and Choice Band
+
+Zeraora
+
+eliminate special walls like
+
+Hisuian Goodra
+
+and
+
+Blissey
+
+as well as Ferrothorn while also covering Ice- and Dark-types like
+
+Kyurem
+
+and
+
+Mega Tyranitar
+
+.
+
+Regieleki
+
+and
+
+Alolan Raichu
+
+offer valuable speed control. Regieleki possesses incredible natural Speed, outspeeding Choice Scarf
+
+Tapu Lele
+
+, Iron Valiant, and +1
+
+Volcarona
+
+, while Alolan Raichu can outspeed +1
+
+Roaring Moon
+
+, Choice Scarf
+
+Meowscarada
+
+, and even Sand Rush Excadrill when under Electric Terrain. Raging Bolt appreciates entry hazard control from teammates like Rotom-W, Zapdos, and Regieleki.
+
+-The given EV spread allows Raging Bolt to survive Icicle Crash from
+
+Chien-Pao
+
+and outspeed
+
+Flutter Mane
+
+during Tailwind, allocating the remaining EVs into Special Attack.
+
+The alternative EV spread allows Raging Bolt to outspeed the vast majority of
+
+Tapu Fini
+
+in order to immediately threaten an OHKO. The remaining bulk is used to ensure Terastallized Raging Bolt is 3HKO'd by Jolly Chien Pao's Ice Spinner or Adamant Chien Pao's Sucker Punch.

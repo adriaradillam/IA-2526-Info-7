@@ -1,0 +1,2002 @@
+Assault Vest Primarina is a great special tank while being a remarkable offensive threat itself, capable of trading hits against offensive teams. It can check threats like
+
+Walking Wake
+
+,
+
+Dragapult
+
+,
+
+Darkrai
+
+, and
+
+Iron Valiant
+
+and stomach even strong super effective hits from foes like
+
+Iron Moth
+
+and
+
+Raging Bolt
+
+, all while having a decent matchup against common physical attackers like
+
+Zamazenta
+
+,
+
+Great Tusk
+
+, and
+
+Cinderace
+
+. Psychic Noise hits
+
+Toxapex
+
+super effectively and blocks healing from walls like
+
+Blissey
+
+,
+
+Clodsire
+
+, and
+
+Clefable
+
+, allowing Primarina to chip them down for itself and its partners. It also lets Primarina pick off Zamazenta and Iron Moth behind a Substitute. Flip Turn turns Primarina into a pivot, letting it bring in a teammate in safely, either after being attacked or on predicted switches to gain momentum. Whirlpool can be used to stallbreak by trapping the likes of Blissey and Toxapex that may otherwise outlast Primarina, especially in conjunction with Psychic Noise to keep them low. While Torrent is preferred, Liquid Voice can be used on sets that forgo Surf to still maintain a strong STAB move from Psychic Noise; this also allows Primarina shut down even Tera Dark Blissey. Tera Poison and Steel improves its matchup against Iron Valiant, provides a poison immunity from foes like
+
+Pecharunt
+
+and Clodsire, and flip Primarina's Poison and Grass weakness against moves like
+
+Rillaboom
+
+'s Wood Hammer and Iron Moth's Sludge Wave. Tera Poison lets Primarina maintain its decent matchup against Zamazenta and is better against Iron Moth and Focus Blast Darkrai, while Tera Steel lets it check
+
+Deoxys-S
+
+,
+
+Hatterene
+
+, and
+
+Galarian Slowking
+
+better and pivot more freely in the face of Stealth Rock. Tera Grass aids Primarina's matchup into
+
+Ogerpon-W
+
+and can help it against Raging Bolt in a pinch too. 176 Speed EVs let Primarina outspeed Adamant
+
+Kingambit
+
+and
+
+Ursaluna
+
+, while the remaining HP EVs allow Primarina to reach feats such as surviving Protosynthesis Thunderbolt from Raging Bolt, +1 Speed Booster Energy Iron Moth's Sludge Wave, +2
+
+Gliscor
+
+'s Earthquake, and two Heavy Slams from Zamazenta. However, a bulkier EV spread of 252 HP / 208 SpA / 48 SpD is also an option to survive two Tera Water Choice Specs Walking Wake's Hydro Steam under sun.
+
+Assault Vest Primarina is best used on bulky offense teams that appreciate a Pokemon that has both offensive and defensive prowess, generally teams that are particularly weak to special attackers.
+
+Landorus-T
+
+provides Intimidate and checks the physical attackers that Primarina struggles with like Kingambit and Great Tusk. Great Tusk is another great teammate, as it provides entry hazard removal and checks Galarian Slowking, which tends to threaten Primarina. In return, Primarina can handle threats like Darkrai and Walking Wake. Kingambit and
+
+Weavile
+
+appreciate support from Primarina that can switch in on and threaten Pokemon like Iron Valiant and Zamazenta. Furthermore, both of these Pokemon help check Galarian Slowking for Primarina, along with resisting Grass-type attacks.
+
+Gholdengo
+
+appreciates Primarina's ability to check Fire-types like Cinderace and
+
+Heatran
+
+, as well as Walking Wake. Primarina struggles with Grass-types like Ogerpon-W,
+
+Meowscarada
+
+, and Rillaboom, so it's essential to have checks to these such as Rillaboom, Cinderace, and Kingambit. Cinderace, aside from resisting Grass-type attacks, can also help with hazard removal with Court Change, allowing Primarina to switch in more often. Dragapult and Cinderace can form a great pivoting core with Primarina, and they can also spread burn in order to help improve Primarina's matchup against physical attackers like Great Tusk.
+
+With an excellent typing and serviceable Speed and bulk, Primarina is one of the better users of Calm Mind for Fairy teams, as it deals with common roadblocks for Fairy like
+
+Corviknight
+
+,
+
+Clodsire
+
+, and Choice Scarf
+
+Urshifu-R
+
+. Psychic Noise prevents all forms of recovery, making it harder for walls like the aforementioned Clodsire and
+
+Articuno
+
+to keep up with Primarina. Coincidentally, Psychic Noise also helps Primarina muscle past other bulky setup sweepers like
+
+Dragonite
+
+and
+
+Clefable
+
+. Draining Kiss improves Primarina's longevity and threatens Dragon- and Dark-types like
+
+Roaring Moon
+
+and
+
+Weavile
+
+. Surf sweeps away
+
+Heatran
+
+,
+
+Skarmory
+
+, and Choice Scarf
+
+Landorus
+
+, all of which are nuisances for Fairy teams. 60 Speed EVs let Primarina outspeed Corviknight and prevent it from recovering with Psychic Noise, making it easier to wear down, while the rest of the EVs are invested in Defense and HP to improve Primarina's matchup against Steel teams.
+
+Due to Primarina's relatively low Defense stat, dual screens support from
+
+Klefki
+
+is vital for its success, as it lets Primarina check Swords Dance
+
+Ceruledge
+
+and
+
+Bisharp
+
+. In return, Primarina deals with Clodsire and Corviknight, which all take advantage of Klefki.
+
+Iron Valiant
+
+deals with
+
+Ogerpon
+
+formes,
+
+Kyurem
+
+, and Landorus, which overwhelm Primarina, and also deals with bulky Steel-types like Bisharp and
+
+Hisuian Goodra
+
+with Close Combat and Ice Punch. In return, Primarina checks
+
+Volcarona
+
+, which can take advantage of Choice-locked Iron Valiant. Choice Specs
+
+Flutter Mane
+
+outspeeds and vaporizes Choice Specs
+
+Greninja
+
+, Choice Specs
+
+Latios
+
+,
+
+Spectrier
+
+, and
+
+Ogerpon-H
+
+; in return, Primarina breaks down defensive Pokemon such as Articuno, Corviknight, Clodsire, and Skarmory for it. Entry hazards, especially Toxic Spikes, greatly hinder Primarina's ability to set up, so Primarina greatly appreciates
+
+Hatterene
+
+'s ability to bounce back entry hazards with Magic Bounce. Hatterene also has a wide array of supportive moves like Nuzzle and Healing Wish which help circumvent Primarina's low Speed and give it a second chance to sweep. For instance, being able to slow down Articuno and
+
+Tornadus
+
+and subject Corviknight and
+
+Toxapex
+
+to the prospect of getting fully paralyzed makes Primarina's job easier. Belly Drum
+
+Azumarill
+
+is a secondary sweeper that deals with Hisuian Goodra and
+
+Alolan Muk
+
+, which Primarina struggles to beat, and it's also able to threaten Bisharp and
+
+Gliscor
+
+more. Choice Scarf
+
+Enamorus
+
+deals with fast threats like
+
+Dragapult
+
+and Choice Specs Greninja with Moonblast and loves Primarina being able to soften up opposing teams. Enamorus also provides Healing Wish, which gives Primarina a second chance to threaten opposing teams. Clefable can form a Calm Mind core with Primarina to overload special walls like Articuno and Alolan Muk, or it can set Stealth Rock and slow down the opposing team for Primarina with Thunder Wave.
+
+Mimikyu
+
+provides a failsafe against sweepers like Ceruledge due to Disguise, and it can use a Swords Dance set to clean up opposing teams late-game.
+
+With Calm Mind, Primarina turns into a great option for Water teams against Fighting and Dragon teams, being able to threaten the likes of
+
+Scrafty
+
+and
+
+Hydreigon
+
+. When running Liquid Voice, Psychic Noise turns into Primarina's main Water-type STAB move, while running Torrent makes it great coverage against
+
+Clodsire
+
+. Draining Kiss is Primarina's main source of longevity, being especially effective against the aforementioned Fighting- and Dragon-types. When running Liquid Voice, Primarina can run Ice Beam to threaten
+
+Garchomp
+
+,
+
+Gliscor
+
+, and both
+
+Landorus
+
+formes. Surf is the better option for Primarina when it chooses to run Torrent so it has a stronger Water-type STAB attack. Alternatively, Encore can be used to take advantage of slower walls like
+
+Ting-Lu
+
+by locking them into an undesirable move. 60 Speed EVs allow Primarina to outspeed
+
+Corviknight
+
+.
+
+Primarina struggles against Poison-types such as
+
+Alolan Muk
+
+and
+
+Sneasler
+
+; therefore, it appreciates teammates such as
+
+Swampert
+
+and
+
+Gastrodon
+
+to check them. The two of them also provide an Electric immunity and entry hazard support.
+
+Toxapex
+
+absorbs Toxic Spikes while dealing with Grass-types that Primarina struggles with such as
+
+Meowscarada
+
+and the
+
+Ogerpon
+
+formes. In return, Primarina deals with some of Toxapex's checks like
+
+Great Tusk
+
+and
+
+Mamoswine
+
+.
+
+Keldeo
+
+and
+
+Urshifu-R
+
+are great offensive teammates that can muscle through Steel-types such as
+
+Archaludon
+
+,
+
+Hisuian Goodra
+
+, and
+
+Bisharp
+
+. Primarina deals with
+
+Iron Valiant
+
+in return. Choice Scarf
+
+Hisuian Samurott
+
+handles Ghost-types like
+
+Gholdengo
+
+,
+
+Dragapult
+
+, and
+
+Spectrier
+
+, and in return, Primarina threatens Fighting-types like Urshifu-R and Keldeo. Choice Specs
+
+Greninja
+
+handles threats that Primarina struggles against, such as the Ogerpon formes, opposing Primarina,
+
+Amoonguss
+
+, and
+
+Okidogi
+
+.
+
+Ogerpon-W
+
+pairs well offensively with Primarina, handling Landorus,
+
+Ursaluna
+
+, and
+
+Iron Treads
+
+, while Primarina deals with various Fighting-, Dragon-, and Dark-types like Urshifu-R,
+
+Roaring Moon
+
+, and
+
+Sableye
+
+.
+
+Assault Vest Primarina is a solid offensive pivot for Water teams capable of taking hits from threats like
+
+Darkrai
+
+and
+
+Dragapult
+
+comfortably. Moonblast nails Fighting-, Dark-, and Dragon-types such as
+
+Kommo-o
+
+, Darkrai, and
+
+Archaludon
+
+. Surf handles Steel-types like
+
+Gholdengo
+
+and
+
+Heatran
+
+. Psychic Noise catches would-be checks like
+
+Toxapex
+
+and Water Absorb
+
+Clodsire
+
+. Finally, Flip Turn can safely pivot in teammates such as
+
+Urshifu-R
+
+and
+
+Hisuian Samurott
+
+on walls that check Primarina like
+
+Hisuian Goodra
+
+and
+
+Galarian Slowking
+
+. The EV spread enables Primarina to outspeed
+
+Corviknight
+
+while preventing it from being 2HKOed from Choice Scarf Archaludon's Thunderbolt after Stealth Rock.
+
+Assault Vest Primarina fits best onto more offensive-leaning teamstyles such as rain, making teammates like
+
+Barraskewda
+
+and
+
+Kingdra
+
+great partners. While rain is up, they are able to outspeed and check faster threats such as
+
+Meowscarada
+
+and
+
+Kyurem
+
+. Barraskewda also uses its strong coverage to break through special walls Primarina struggles with like Hisuian Goodra and Water Absorb Clodsire with Close Combat and Psychic Fangs, respectively.
+
+Pelipper
+
+enables rain through Drizzle, and its Ground immunity helps against threats like
+
+Landorus-T
+
+and
+
+Great Tusk
+
+while being able to pivot Primarina in with U-turn. Hisuian Samurott provides Spikes support with Ceaseless Edge to wear down foes like
+
+Alolan Muk
+
+and
+
+Flutter Mane
+
+while using Sucker Punch to catch faster threats like
+
+Latios
+
+and
+
+Spectrier
+
+. Choice Scarf Urshifu-R can outspeed and handle threats like Choice Specs Flutter Mane and the
+
+Ogerpon
+
+formes for Primarina.
+
+Swampert
+
+provides a strong defensive support, being able to take on Poison- and Electric-types such as Galarian Slowking,
+
+Sandy Shocks
+
+, and
+
+Raging Bolt
+
+. Toxapex can handle Grass-types such as Meowscarada and the Ogerpon formes for Primarina, as well as use Toxic to wear down bulky targets like
+
+Iron Hands
+
+.
+
+Alomomola
+
+can support Primarina by being able to take hits from physical attackers such as
+
+Mamoswine
+
+and
+
+Kleavor
+
+and use Wish to keep Primarina healthy.
+
+With an Assault Vest, Primarina leverages its natural special bulk to serve an incredible role on Fairy teams as a special tank, being able to take hits from the likes of
+
+Gholdengo
+
+,
+
+Iron Moth
+
+, and
+
+Landorus
+
+. Surf hits problematic Fire-types for Fairy such as
+
+Heatran
+
+and Iron Moth while also being able to force out Gholdengo and
+
+Spectrier
+
+before it uses Calm Mind. Moonblast hits Water-resistant foes like
+
+Hydrapple
+
+and
+
+Kyurem
+
+. Flip Turn gives Primarina a solid pivoting tool to switch out on threats it cannot handle, such as
+
+Alolan Muk
+
+,
+
+Articuno
+
+, and
+
+Hisuian Goodra
+
+. Finally, Psychic Noise allows Primarina to hit Poison-types like
+
+Amoonguss
+
+,
+
+Toxapex
+
+, and
+
+Okidogi
+
+. The EV spread used lets Primarina outspeed threats like Adamant Azumaril. The alternative EV spread is a bulkier set that outspeeds
+
+Corviknight
+
+and makes it more reliable against threats like Choice Specs
+
+Latios
+
+and
+
+Flutter Mane
+
+.
+
+With Primarina's limited recovery options,
+
+Hatterene
+
+provides excellent support, being able to keep entry hazards off the field and allowing Primarina to come in safely. Hatterene can also spread paralysis against threats like Gholdengo,
+
+Tornadus-T
+
+, and
+
+Gallade
+
+using Nuzzle.
+
+Klefki
+
+can provide hazard and dual screens support, allowing Primarina to combat special walls like Alolan Muk and Hisuian Goodra.
+
+Clefable
+
+can provide hazard support in Stealth Rock, along with Wish support to heal Primarina. Flutter Mane appreciates Primarina's neutrality to Steel-type attacks from the likes of Choice Scarf Gholdengo, while Primarina appreciates Flutter Mane's strong movepool that can hinder problematic threats like Articuno,
+
+Ogerpon-H
+
+, and
+
+Raging Bolt
+
+. Flutter Mane also enjoys Primarina's Flip Turn to grant it safe entry. Primarina values physical
+
+Iron Valiant
+
+'s ability to remove special walls like
+
+Blissey
+
+,
+
+Galarian Slowking
+
+, and
+
+Clodsire
+
+. In return, Iron Valiant takes advantage of Primarina's ability to take on threats like Choice Scarf Latios, Choice Specs
+
+Dragapult
+
+, and Choice Scarf
+
+Enamorus
+
+.
+
+Mimikyu
+
+appreciates Primarina's pivoting to grant it safe entry and setup opportunities. In exchange, Primarina welcomes Mimikyu's ability to remove threats like Flutter Mane and
+
+Iron Hands
+
+. Choice Scarf Enamorus can remove fasters threats like
+
+Sneasler
+
+and Iron Valiant and provide Healing Wish support.
+
+Other Options
+
+Fairy (Calm Mind)
+
+Heavy-Duty Boots may be used over Leftovers due to Fairy having poor hazard control, but Primarina finds it a bit harder to set up without passive recovery. Alternatively, Covert Cloak may be used to prevent
+
+Alolan Muk
+
+'s Poison Jab or
+
+Sneasler
+
+'s Dire Claw from inflicting status on Primarina. Chilling Water lets Primarina take on physical attacking walls like Alolan Muk and
+
+Hisuian Goodra
+
+, as it lowers their Attack to manageable levels, but the greatly reduced base power compared to Surf makes Primarina lose out on OHKOing
+
+Landorus
+
+and
+
+Ursaluna-B
+
+and 2HKOing
+
+Gholdengo
+
+and
+
+Skeledirge
+
+at +1. An EV spread of 252 HP / 64 Def / 192 Spe with a Bold nature may be considered, as it lets Primarina outspeed and KO Modest Ursaluna-B which otherwise severely damages Primarina with Blood Moon, but the reduced bulk is detrimental to Primarina's ability to check
+
+Gouging Fire
+
+. If one opts for a fast variant of Primarina, Encore over Draining Kiss or Psychic Noise may also be considered to lock threats such as Belly Drum
+
+Azumarill
+
+and Bulk Up
+
+Corviknight
+
+into unfavorable moves. Liquid Voice may be considered to compress the effects of Psychic Noise and Surf into one move, making it easier to fit Encore, but being unable to hit Water Absorb
+
+Clodsire
+
+is undesirable. Substitute over Draining Kiss can also be considered to dodge status and force damage on switch-ins, but the lack of recovery apart from Leftovers can be detrimental.
+
+Fairy (Assault Vest)
+
+Draining Kiss can be used over Psychic Noise to grant Primarina a form of recovery. However, this comes with the cost of being walled by Poison-types like
+
+Toxapex
+
+and
+
+Amoonguss
+
+. Alternatively, Primarina can run Psychic Noise with Liquid Voice, which can block the healing of Dark-types like Alolan Muk, but this restricts its coverage and allows Water Absorb Clodsire to wall it.
+
+With its great bulk, power, and typing, Primarina is a fantastic offensive and defensive presence in the BSS metagame.
+
+Sparkling Aria
+
+: Sparkling Aria allows Primarina to get around Substitute attempts from foes like
+
+Garganacl
+
+that might try to stall out Moonblast.
+
+Psychic Noise
+
+: Psychic Noise can allow Primarina to potentially muscle through walls such as
+
+Toxapex
+
+by preventing them from healing off its attacks. Additionally, it allows Primarina to better stand up to
+
+Ogerpon
+
+formes running Horn Leech as their Grass-type STAB move.
+
+Energy Ball
+
+: Energy Ball provides Primarina with coverage to hit other Water-types, being particularly useful against
+
+Ogerpon-W
+
+and other Primarina.
+
+Aqua Jet
+
+: Aqua Jet can allow Primarina to finish off weakened foes that might otherwise outspeed it, notably allowing Assault Vest variants to more consistently win the
+
+Flutter Mane
+
+matchup.
+
+Flip Turn
+
+: Flip Turn allows Primarina to scout switches and provide safe entry for its teammates.
+
+Other Options
+
+Perish Song
+
+: If utilizing Choice Specs, Perish Song can allow Primarina to pressure foes that might otherwise wall it and disrupt attempts at Baton Pass use.
+
+Tera Blast
+
+: If using Tera Fire, Tera Blast grants Primarina coverage to hit opposing Grass-types such as
+
+Serperior
+
+.
+
+Items
+
+Assault Vest
+
+: Assault Vest accentuates Primarina’s excellent special bulk, allowing it to more effectively trade hits with threats such as Flutter Mane.
+
+Choice Specs
+
+: Choice Specs allows Primarina to more effectively leverage its fantastic STAB combination, turning it into a shockingly powerful wallbreaker.
+
+EV Spreads
+
+180 HP / 252 SpA / 76 Spe with Modest
+
+: This spread maximizes power and bulk while allowing Primarina to keep pace with uninvested base 70 Pokemon like
+
+Wo-Chien
+
+.
+
+Tera Types
+
+Tera Dependancy - Low
+
+: Primarina’s incredible base typing allows it to go head to head with many prominent metagame threats without needing to Terastallize.
+
+Fire
+
+: Tera Fire grants Primarina important Grass, Fairy, and Steel resistances while maintaining its all important Ice resistance.
+
+Poison
+
+: Tera Poison allows Primarina to deny Toxic attempts from the likes of Toxapex and
+
+Gliscor
+
+while still granting it a Fairy resistance.
+
+Water
+
+: Tera Water grants an extra boost to Sparkling Aria while remaining a good defensive typing.
+
+This set's write-up has not started yet, but here's some basic info to get you started!
+
+Psychic Noise and Liquid Voice
+
+: Liquid Voice turns Psychic Noise into a Water-type attack, giving up Sparkling Aria's power under Torrent in exchange for better match-ups against defensive Pokemon like
+
+Toxapex
+
+.
+
+Using a Focus Sash on Primarina may seem like a waste, but Primarina's high Special Attack, Sparkling Aria ignoring Substitute, and Torrent make it very tricky for offensive teams to check.
+
+Aqua Jet
+
+: Despite it being weak, Aqua Jet's ability to pick off faster Focus Sash foes like
+
+Iron Bundle
+
+makes it essential.
+
+Encore
+
+: Thanks to the Speed investment, this Primarina is especially good at catching normally faster, bulky Pokemon like Calm Mind
+
+Raging Bolt
+
+and Stamina
+
+Archaludon
+
+off guard.
+
+Psychic Noise
+
+: Psychic Noise is Primarina's best option for shutting down
+
+Toxapex
+
+,
+
+Porygon2
+
+, and defensive
+
+Dragonite
+
+'s walling capabilities, and it even punishes Horn Leech
+
+Ogerpon-H
+
+.
+
+Energy Ball
+
+: Energy Ball improves Primarina's odds of winning mirror matches, and it deals more damage than anything else to
+
+Alomomola
+
+and
+
+Swampert
+
+.
+
+Calm Mind
+
+: Calm Mind's boost lets Primarina potentially OHKO bulkier Assault Vest
+
+Ursaluna-B
+
+variants.
+
+Speed EVs
+
+: Maximizing Primarina's Speed lets variants with a Modest nature outspeed up to
+
+Landorus-T
+
+with no Speed investment. While the power drop from Timid loses a guaranteed OHKO on offensive Ursaluna-B, it does let Primarina outspeed the rare but very dangerous Adamant
+
+Breloom
+
+.
+
+Other Options
+
+Icy Wind
+
+: Icy Wind's speed control comes in handy against defensive Dragon Dance Dragonite, but Primarina's low Speed makes it a lesser option.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Primarina will usually only Terastallize to improve its power or gain certain immunities, since Focus Sash makes this Pokemon rather disposable. Otherwise, it's best to leave Terastallization for other teammates.
+
+Water
+
+: Tera Water's boost to Sparkling Aria makes it the easiest choice to recommend.
+
+Stellar
+
+: Since Primarina rarely terastallizes anyways, Tera Stellar's flexibility can make sense for late-game sweeping scenarios.
+
+Ground
+
+: Tera Ground saves Primarina from Electric-type attacks, with Raging Bolt and Tera Electric
+
+Chien-Pao
+
+being particularly good foes to flip.
+
+Ghost
+
+: Despite Primarina's low Speed, most Extreme Speed Dragonite sets are slower than this set, letting Tera Ghost potentially ruin a revenge kill attempt.
+
+Primarina excels at dealing consistent damage and wearing down opposing Pokemon. Its strong offensive typing, high Special Attack, and ability to take advantage of STAB Hyper Voice with Liquid Voice make it a formidable threat. Additionally, it puts pressure on common metagame Pokemon like
+
+Incineroar
+
+and
+
+Garchomp
+
+.
+
+Haze prevents setup Pokémon from exploiting Primarina's slower offensive pace. More importantly, it's often used to counter the
+
+Dondozo
+
+and
+
+Tatsugiri
+
+matchup.
+
+While Throat Spray provides a power boost after using Hyper Voice, Life Orb offers more immediate damage, making it better suited for more aggressive teams. For example, Life Orb guarantees an OHKO on
+
+Hisuian Typhlosion
+
+with Hyper Voice while allowing Primarina to 2HKO
+
+Sneasler
+
+and Choice Specs
+
+Gholdengo
+
+with Hyper Voice. Sitrus Berry, on the other hand, enables Primarina to take on a more passive role, consistently enhancing its survivability. For instance, Sitrus Berry's recovery enables it to live two Stomping Tantrums from Life Orb Garchomp.
+
+Tera Poison allows Primarina to resist both of Sneasler's STAB moves and, unlike the other two recommended Tera types, doesn't introduce many common weaknesses. Tera Steel gives Primarina an immunity to Poison-type moves like Sneasler's Dire Claw and a resistance to Steel-type attacks, making it particularly effective against Gholdengo's Make it Rain. Tera Grass, like Tera Poison and Tera Steel, offers a resistance to Grass-type moves from Pokemon like
+
+Rillaboom
+
+. It also provides a resistance to Electric-type attacks like Electro Shot from
+
+Archaludon
+
+, and an immunity to Spore, preventing
+
+Amoonguss
+
+from shutting it down.
+
+With the given Defense and HP investment, Primarina is guaranteed to survive Grassy Glide from maximum Attack Rillaboom and a 100-Base Power Last Respects from non-Adaptability Choice Band
+
+Basculegion
+
+. The Special Defense investment ensures it can withstand Tera Steel Make it Rain from Choice Specs Gholdengo, Blood Moon from Life Orb
+
+Ursaluna-B
+
+, and two Freeze-Dry hits from
+
+Alolan Ninetales
+
+. The Special Attack investment gives Primarina a good chance to OHKO Garchomp with Moonblast and non-bulky
+
+Talonflame
+
+with Hyper Voice, while the Speed investment is designed to outspeed maximum Speed
+
+Maushold
+
+in Tailwind.
+
+Teambuilding
+
+Primarina fits well on balance teams, as it benefits from utility moves like Fake Out, healing, and redirection support that allow it to attack freely while other Pokemon cover its weaknesses.
+
+Primarina synergizes well with
+
+Sneasler
+
+, as Sneasler covers its Grass-type weakness. Additionally,
+
+Rillaboom
+
+offers Fake Out utility and passive Grassy Terrain recovery, benefiting a bulkier attacker like Primarina.
+
+Electabuzz
+
+is an effective redirector, shielding Primarina from threats like
+
+Archaludon
+
+and Sneasler while also redirecting Spores from
+
+Amoonguss
+
+thanks to its Vital Spirit ability and providing speed control with Electroweb. Similarly,
+
+Magmar
+
+makes a great partner with its access to Vital Spirit and Follow Me. In addition, Magmar resists Rillaboom's Grass-type attacks and can use Will-O-Wisp to compensate for Primarina’s lower physical bulk.
+
+Though Primarina sits in an awkward Speed tier, it can operate on teams with a Trick Room mode such as compositions with
+
+Porygon2
+
+and
+
+Ursaluna
+
+.
+
+Kingambit
+
+is a strong offensive partner for Primarina. With Primarina's chip damage, Kingambit can more easily secure KOs with Sucker Punch. Additionally, most Kingambit sets include Swords Dance, allowing it to punish passive plays and forcing the opponent to choose between Primarina or Kingambit to target.
+
+Gholdengo
+
+is another common partner for Primarina, as they effectively cover each other's weaknesses. Primarina threatens Pokemon like
+
+Incineroar
+
+and
+
+Garchomp
+
+, which can beat Gholdengo, while Gholdengo walls and pressures threats like Sneasler, Rillaboom, and Amoonguss.
+
+Strategy Comments
+
+As a slower-paced offensive piece, Primarina excels when it's positioned to safely chip away at opponents. For instance, being alongside a redirection Pokemon allows it to unleash substantial chip damage with Hyper Voice. Due to its respectable bulk, Primarina can often continue using Hyper Voice until a Pokémon that poses a significant immediate threat, such as Rillaboom, enters the field.
+
+The strategy with Primarina is to wait for the opportunity to establish a strong offensive position. Typically, this involves pivoting it around until it can come in and clean up effectively mid- or late-game.
+
+As mentioned earlier, Rillaboom and Archaludon are significant threats; however, Sneasler effectively counters both. When facing opposing Sneasler or setup sweepers like Gholdengo or
+
+Volcarona
+
+, it's crucial to position Primarina correctly—either by placing it next to a redirector, so it can attack freely, or by utilizing other Pokemon to apply more immediate pressure. This is because Primarina is most effective when its consistent spread chip damage is sufficient to prevent it from being outpaced on offense.
+
+Primarina is one of the strongest special wallbreakers in the tier, with an excellent typing that gives it opportunities to switch in and spam its powerful and reliable STAB moves. Primordial Sea boosts Weather Ball and lets Primarina check Desolate Land users such as
+
+Moltres
+
+, non-Discharge
+
+Iron Moth
+
+, and non-Gunk Shot
+
+Cinderace
+
+. However, these same threats are also great checks to Primarina if they negate Primordial Sea, so Psychic is helpful as the strongest option against them, particularly Iron Moth, while Psychic Noise is a weaker alternative that prevents recovery moves from Moltres and Iron Moth. Flip Turn lets Primarina pivot on special walls such as
+
+Manaphy
+
+and Bulletproof
+
+Iron Treads
+
+, generating momentum for its team.
+
+Primarina fits well on balance and bulky offense teams, where its mix of defensive utility and offensive pressure is put to good use. It resists the STAB moves of many common Choice item wallbreakers such as
+
+Chien-Pao
+
+and
+
+Zamazenta
+
+, though it still needs backup from physical walls like
+
+Corviknight
+
+and
+
+Pecharunt
+
+, especially against the
+
+Ogerpon
+
+formes.
+
+Great Tusk
+
+and Corviknight can also provide entry hazard removal, letting Primarina stay healthy so it can threaten out the aforementioned Choice Band wallbreakers. Faster special attackers such as
+
+Zapdos
+
+,
+
+Latios
+
+, and
+
+Deoxys-S
+
+are also problematic, so special walls such as Iron Treads and
+
+Swampert
+
+are good teammates. In exchange, Primarina can deter Fire-type moves that threaten Corviknight and Iron Treads. Primarina struggles against special walls like Manaphy and the aforementioned Desolate Land users, especially specially defensive Moltres, so it appreciates physical attackers like the Ogerpon formes and
+
+Roaring Moon
+
+.
+
+An excellent type combination, good natural bulk and access to Flip Turn allow Primarina to function as a solid RegenVest user . Psychic Noise hits Desolate Land
+
+Iron Moth
+
+and
+
+Moltres
+
+for a good chunk of damage and denies recovery as well. Energy Ball is useful against
+
+Swampert
+
+,
+
+Manaphy
+
+, and opposing Primarina. This moveslot may also be swapped for Surf or Hydro Pump to provide a second powerful STAB option for more reliable neutral damage against
+
+Corviknight
+
+and
+
+Skarmory
+
+. This set runs a Speed-reducing nature and 0 Speed IVs to ensure that Primarina is the slowest Pokemon on the field and can safely pivot to bring in teammates using Flip Turn.
+
+RegenVest Primarina performs well as a bulky pivot on offensive archetypes due to its excellent mixed defensive profile, checking tier staples both on the physical and special side. Although it cannot learn Knock Off, unlike other RegenVest Water types, Primarina is able to counter the likes of
+
+Roaring Moon
+
+,
+
+Chien-Pao
+
+,
+
+Great Tusk
+
+, and
+
+Zamazenta
+
+with its Fairy typing, as well as handling specially offensive threats such as
+
+Gholdengo
+
+and
+
+Latios
+
+quite well.
+This set must be wary of potential Knock Off users as its ability to take special hits is crippled if it loses its Assault Vest. Therefore, Primarina appreciates support from teammates like Great Tusk and Corviknight to absorb Knock Off; they can also aid Primarina with entry hazard removal. Strong Electric-type attackers like offensive
+
+Iron Hands
+
+,
+
+Zapdos
+
+, and
+
+Sandy Shocks
+
+can pressure and break through Primarina, so it could use Electric-immune teammates like Great Tusk,
+
+Iron Treads
+
+and Volt Absorb Corviknight. Desolate Land users such as
+
+Heatran
+
+or Moltres can deny Primarina Flip Turn pivots and immediately threaten it with Solar Beam. Primordial Sea Zapdos or Well-Baked Body Gholdengo can switch into these threats and give Primarina safe entry.
+
+Other Options
+
+On RegenVest sets, Psychic can be used instead of Psychic Noise for a chance to 2HKO
+
+Iron Moth
+
+but is generally less useful due to the latter's denial of HP recovery. Hydro Pump can also be considered for more immediate damage on RegenVest sets in place of Energy Ball or Surf. Primarina does have a few niche sets, mainly a physically defensive set with the Stamina ability and Leftovers. This set aims to rack up stat boosts through its ability and the move Calm Mind to sweep with the move Stored Power.
+
+Checks and Counters
+
+Electric Types
+
+: Electric-types like
+
+Zapdos
+
+and
+
+Sandy Shocks
+
+force out Primarina with their strong attacks, often 2HKOing RegenVest sets and OHKOing offensive Primarina.
+
+Desolate Land Users
+
+: Desolate Land users such as
+
+Heatran
+
+and
+
+Moltres
+
+can deny Primarina's Flip Turn and take all of Primarina's attacks relatively easily.
+
+Grass-Types
+
+: Primarina is threatened by several Grass-types that are staples on teams in the tier. On the physical side, it is threatened by Power Whip from the
+
+Ogerpon
+
+formes and Flower Trick from Sword of Ruin
+
+Meowscarada
+
+. On the special side,
+
+Sinistcha
+
+threatens Primarina with Matcha Gotcha and can often KO it after a Calm Mind boost.
+
+Draft Order
+
+: Round 4 onwards
+
+Price Range
+
+: 11-12 points
+
+Overview
+
+: Primarina is an excellent offensive threat thanks to its high Special Attack, enabling it to punch holes in opposing teams with its powerful STAB combination. It also possesses a nice defensive typing and special bulk, allowing it to check many special attackers and take on a role as a setup sweeper when using Calm Mind. Primarina can sometimes struggle to stay on the field due to its poor Speed and physical bulk, but it is still a dangerous offensive threat that must be carefully managed by your opponents.
+
+Common Roles
+
+Wallbreaker
+
+: Few Pokemon can stomach the combination of Choice Specs-boosted Moonblast or Hydro Pump, allowing Primarina to severely dent or outright OHKO many Pokemon. Flip Turn allows Primarina to generate momentum for its teammates, taking advantage of most unfavorable matchups it encounters.
+
+Setup Sweeper
+
+: Primarina's impressive special bulk and excellent defensive typing allow it many opportunities to set up a Calm Mind, preparing it to sweep. Draining Kiss allows Primarina to stay healthy, and Psychic Noise helps break down bulky Pokemon that attempt to check Primarina. Liquid Voice turns Psychic Noise into a Water-type move if the coverage is not useful in the matchup, allowing more room for utility alongside Calm Mind, such as Substitute.
+
+Defensive Pivot
+
+: With defensive investment, Primarina can pivot into many attacks thanks to its great defensive typing and safely pivot to a teammate with a slow Flip Turn. Rocky Helmet can punish anticipated U-turn or Flip Turn, Assault Vest can help sponge special attacks, and Heavy-Duty Boots are useful on pivot sets if you anticipate switching Primarina into entry hazards.
+
+Common Moves
+
+Primary STAB Moves
+
+: Moonblast, Hydro Pump, Sparkling Aria, Surf, Draining Kiss, Alluring Voice
+
+Setup Moves
+
+: Calm Mind
+
+Utility Moves
+
+: Flip Turn, Substitute, Encore, Haze
+
+Coverage
+
+: Psychic, Energy Ball, Psychic Noise, Ice Beam, Shadow Ball
+
+Niche Moves
+
+Whirlpool + Perish Song
+
+: The combination of Whirlpool and Perish Song can be used to trap and remove pivots or troublesome Pokemon that otherwise wall Primarina, such as
+
+Toxapex
+
+,
+
+Blissey
+
+, and other specially bulky Assault Vest users.
+
+Aqua Jet
+
+: Due to the combination of Moonblast and Hydro Pump being resisted by few Pokemon, Primarina rarely needs to run coverage moves, leaving ample space for other utility options. Despite Primarina's low Attack, Aqua Jet can be used to pick off weakened Fire- and Ground-types.
+
+Endure
+
+: Endure + Custap Berry can be used to launch a Torrent-boosted Water-type move or surprise a faster foe attempting to KO Primarina.
+
+Dual Screens
+
+: Primarina can set up dual screens and subsequently pivot to a teammate with Flip Turn to maximize their effect.
+
+Common Items
+
+Choice Specs
+
+: Choice Specs boosts Primarina's Special Attack to absurd levels, allowing it to dish out incredibly powerful Moonblast and Hydro Pump.
+
+Leftovers
+
+: Leftovers allows Primarina to keep its HP high, supplement the healing gained by Draining Kiss, and is an effective pick for setup variants.
+
+Heavy-Duty Boots
+
+: Primarina's typing leaves it vulnerable to all forms of entry hazards, and Heavy-Duty Boots allows it to switch into the field uninhibited.
+
+Assault Vest
+
+: Primarina's already high Special Defense is boosted by Assault Vest, allowing it to check dangerous special attackers and retaliate with its powerful STAB attacks or safely Flip Turn to another teammate to handle the threat.
+
+Niche Items
+
+Rocky Helmet
+
+: Primarina's poor physical bulk does not allow it to take many strong physical hits, but its typing grants it numerous opportunities to punish resisted pivot moves, such as U-turn and Flip Turn, and other various weaker attackers with Rocky Helmet.
+
+Resistance Berries
+
+: Resistance Berries can allow Primarina to maintain offensive investment and surprise KO an opposing Pokemon expecting to knock out Primarina. Kebia Berry allows Primarina to sponge the common Poison Jab or Gunk Shot coverage it encounters from both
+
+Urshifu
+
+formes and
+
+Greninja
+
+and subsequently KO them. Wacan or Rindo Berry can be similarly useful.
+
+Choice Scarf
+
+: A Choice Scarf and a Timid nature allow Primarina to outpace up to base 114 speed Pokemon. This allows Primarina to surprise OHKO or 2HKO many naturally faster Pokemon such as
+
+Garchomp
+
+,
+
+Latios
+
+, and
+
+Chi-Yu
+
+.
+
+Light Clay
+
+: Light Clay can be used when running dual screens to maximize their uptime.
+
+Tera
+
+Primarina has an excellent defensive typing that grants it many opportunities to switch in to attacks during most games, which limits the need for defensive Terastallization. Additionally, its STAB combination already offers great coverage offensively, limiting the need for a different Tera Blast type. However, Primarina can still make good use of Tera both offensively and defensively. On offensive sets, Tera Water or Tera Fairy can push the damage output from its STAB moves even higher, enabling it to score more KOs that it wouldn't normally. Defensively, Primarina can make good use of many different typings, such as Tera Steel, Poison, or Fairy, to sponge hits or give it additional time to set up Calm Mind.
+
+Draft Strategy
+
+Primarina is a great choice for teams that are looking for a relatively self-sufficient wallbreaker that is capable of making extremely effective trades, thanks to the combination of its bulk, defensive typing, and offensive output. It is typically capable of securing KOs by itself, but it shines when placed on an offensive team that can safely pivot it in and provide entry hazard support to amplify its wallbreaking power.
+
+Cleaning Partners
+
+: Primarina's wallbreaking capability enables many sweepers to take advantage of the holes it creates in opposing teams. Faster Pokemon like
+
+Iron Boulder
+
+,
+
+Roaring Moon
+
+, and
+
+Iron Moth
+
+are excellent at cleaning up teams weakened by Primarina.
+
+Entry Hazard Setters
+
+: With hazards set on the opponent's side of the field, Primarina's offensive prowess shines even further. Primarina can turn many 2HKOs into outright OHKOs, and the hazards add additional chip to bulky Assault Vest users attempting to switch in to sponge its attacks.
+
+Gliscor
+
+and
+
+Sandy Shocks
+
+make great partners with their access to Stealth Rock and Spikes, and Primarina covers their weaknesses to Water- and Ice-type moves.
+
+Physically Bulky Partners
+
+: Primarina's major weakness is its poor physical bulk, making it essential to have good partners to switch in to powerful physical attackers. Garchomp and
+
+Landorus-Therian
+
+make excellent partners for Primarina, thanks to their great physical bulk and abilities—Rough Skin and Intimidate—allowing them to check physical attackers .
+
+Checks and Counters
+
+Special Walls
+
+: Dedicated special walls or some Assault Vest users are capable of checking Choice-locked Primarina and retaliating or pivoting to a teammate. Blissey and Toxapex, in particular, can shrug off Primarina's STAB moves and set up entry hazards or inflict status on Primarina. However, many special walls can be defeated by setup variants of Primarina, so they must be cautious when switching in.
+
+Phazing and Encore
+
+: Calm Mind variants of Primarina are vulnerable to Encore and phazing moves due to Primarina's low Speed and lack of access to Taunt.
+
+Strong Physical Attackers
+
+: Primarina's poor physical bulk leaves it liable to being quickly KOed by strong physical attackers. Many of the format's Dragon- or Fighting-types are often able to power through Primarina with their secondary STAB moves or coverage options before it can react.
+
+This spread allows Primarina to beat Pokemon that it usually can't, such as Timid Weakness Policy
+
+Iron Crown
+
+and non-Agility
+
+Corviknight
+
+.
+
+Generally, the sequence against Iron Crown is to use Encore on the first turn to lock it into using Calm Mind, then use Icy Wind twice to lower its Speed so Primarina can lock it with Encore back into Calm Mind in the following turn, then use Moonblast once and use Encore once again, then alternate between Hydro Cannon and Encore, keeping the recharge turn and Life Orb damage in mind. In case Iron Crown uses Tachyon Cutter on the first turn, it activates Torrent on turn two, which allows Primarina to OHKO it with Hydro Cannon.
+
+This spread allows Primarina to survive a Poison Jab or Sludge Wave from Adamant Choice Band
+
+Urshifu
+
+formes and Timid Life Orb
+
+Landorus
+
+and then OHKO them with Moonblast or Icy Wind, respectively.
+
+An alternative EV spread of 56 HP / 192 Def / 8 SpA / 252 Spe lets Primarina bulk Jolly Choice Band Urshifu formes' attacks but not Adamant Choice Band variants, dropping that matchup in order to gain a more consistent Iron Crown matchup, since Primarina's higher Speed stat means it can outspeed Iron Crown after a single Icy Wind and threaten Special Attack Booster Energy variants with a Torrent-boosted Hydro Cannon if Iron Crown decides to go for an attack. This spread also allows Primarina to outspeed
+
+Ursaluna
+
+and OHKO it with Hydro Cannon.
+
+Against
+
+Spectrier
+
+, use Encore on turn one. If Spectrier attacks on turn one, use Hydro Cannon on turn two. If Spectrier uses a status move, use Icy Wind thrice with the main spread or twice with the alternative spread, then use Encore to lock Spectrier into a status move while dealing damage with Moonblast and Hydro Cannon.
+
+Moonblast allows Primarina to beat commonly used Dragon- and Fighting-type Pokemon, such as
+
+Roaring Moon
+
+,
+
+Dragapult
+
+, the Urshifu formes, and
+
+Iron Valiant
+
+.
+
+Since Primarina is weak to Poison-type or STAB attacks from foes such as
+
+Sneasler
+
+,
+
+Pecharunt
+
+,
+
+Volcanion
+
+,
+
+Hoopa
+
+,
+
+Raging Bolt
+
+, and
+
+Ogerpon-Wellspring
+
+, it is suggested to pair Primarina with Dragon- and Steel-type Pokemon such as Roaring Moon, Iron Crown, and
+
+Metagross
+
+to form the well-known Dragon / Fairy / Steel core.
+
+Primarina is one of the strongest Pokemon in 1v1 thanks to its unique typing, important role compression, and variety of sets.
+
+The combination of Weakness Policy and Charm or Reflect allows Primarina to take care of slower threats that aim to defeat it with their super effective moves, such as
+
+Iron Hands
+
+with Supercell Slam and
+
+Donphan
+
+and
+
+Ursaluna
+
+with Gunk Shot.
+
+Charm can work multiple times, which can help if Primarina is trying to stall a foe or to get to Torrent range to fire off an extremely strong Hydro Cannon, while Reflect can take care of Clear Amulet Pokemon, an item these Pokemon can run to be a hard counter to the Charm variant.
+
+Hydro Cannon can KO Ursaluna and Donphan after a boost from Weakness Policy on the former and a Draining Kiss on the latter.
+
+Draining Kiss and Moonblast can threaten both
+
+Urshifu
+
+formes, and while Draining Kiss is especially helpful for the Donphan matchup, Moonblast can also be utilized for overall damage against
+
+Haxorus
+
+.
+
+Calm Mind lets it set up in front of potential threats like Clear Amulet
+
+Cresselia
+
+.
+
+Thanks to its huge investment in Speed, Primarina can outrun Ursaluna, Iron Hands, and Donphan while threatening KOs in return, with its Defense and HP maximized for the best rolls against Choice Band Haxorus.
+
+Primarina should be used in teams where its weaknesses to Grass, Electric, and Poison are patched up, so it really likes pairing with Dragon-types like
+
+Raging Bolt
+
+, Steel-types like
+
+Corviknight
+
+and
+
+Hisuian Goodra
+
+, or Psychic-types like
+
+Hoopa-U
+
+and
+
+Iron Crown
+
+.
+
+Custap Berry Primarina looks to flip matchups it usually loses, like Choice Specs
+
+Kyurem
+
+, and provide reliability against
+
+Landorus-T
+
+; it achieves this by surviving attacks it would normally be OHKOed by with Endure, moving first on the second turn with Custap Berry, and firing back with its extremely strong attacks.
+
+Hydro Cannon can hit both
+
+Ursaluna
+
+formes,
+
+Skeledirge
+
+, and
+
+Great Tusk
+
+, and it's boosted by Torrent if Primarina is at or below 1/3rd of its maximum HP, which is often reached when Primarina loses enough health for Custap Berry to activate the following turn, allowing it to outspeed and wash out these Pokemon with little issue.
+
+Moonblast hits
+
+Haxorus
+
+,
+
+Iron Valiant
+
+, and both
+
+Urshifu
+
+formes.
+
+Encore helps against Pokemon that attempt to set up on or attack Primarina like non-Choice Scarf or Specs
+
+Porygon-Z
+
+and Weakness Policy
+
+Metagross
+
+, while Calm Mind helps it boost against the likes of Passho Berry
+
+Volcarona
+
+.
+
+Primarina's HP and Defense EVs help it survive a Timid Life Orb
+
+Landorus
+
+'s Sludge Wave as well as an Adamant Choice Band Urshifu's Poison Jab, with the remaining EVs going into Special Attack.
+
+Primarina finds itself struggling against Grass-, Electric- and Poison-types like offensive
+
+Ogerpon-W
+
+,
+
+Raging Bolt
+
+, and
+
+Pecharunt
+
+, so it appreciates having partners that can deal with these threats like
+
+Hoopa-U
+
+and
+
+Iron Crown
+
+.
+
+Hydro Cannon is Primarina's strongest attack and should be used against both
+
+Landorus
+
+formes, non-Custap Berry
+
+Skeledirge
+
+, and non-Substitute
+
+Volcarona
+
+.
+
+Moonblast defeats
+
+Haxorus
+
+and
+
+Garchomp
+
+.
+
+Energy Ball should be used against
+
+Rhyperior
+
+and is Primarina's best way to deal with non-Sap Sipper
+
+Azumarill
+
+.
+
+Liquid Voice + Uproar makes Primarina defeat
+
+Registeel
+
+and gives it an option to defeat Custap Berry Skeledirge and Substitute Volcarona, while Psychic Noise + Torrent allows it to beat
+
+Whimsicott
+
+reliably. Torrent Primarina is also more consistent agaisnt bulkier Choice Specs
+
+Hoopa
+
+sets, as Moonblast does not always OHKO them.
+
+The HP and Defense EVs allow Primarina to survive Earthquake from Choice Band
+
+Landorus-T
+
+, while the Special Defense EVs allow it to survive Sludge Wave from Timid Choice Specs Landorus.
+
+Choice Specs Primarina, unlike other Primarina sets, loses to Encore + Disable
+
+Iron Valiant
+
+sets, so it is important to use a teammate that can defeat the aforementioned sets.
+
+Possessing decent bulk and a stellar typing, Calm Mind Primarina can sweep teams with its near-perfect offensive coverage. With valuable resistances to offensive typings like Dark and Fighting, Primarina can check common Pokemon such as
+
+Urshifu-R
+
+and
+
+Hisuian Samurott
+
+and even set up on them. Although Primarina competes with
+
+Tapu Fini
+
+for the same role, it has useful traits that separates it. Scald is a consistent damaging move that works well alongside Calm Mind, giving it chances to burn switch-ins such as
+
+Ferrothorn
+
+,
+
+Galarian Slowking
+
+, and
+
+Toxapex
+
+. Scald should be paired with Torrent for an extra damage boost at low health, guaranteeing the OHKO on
+
+Mega Diancie
+
+and, when Calm Mind-boosted, breaking through Galarian Slowking and Z-Move
+
+Gholdengo
+
+. Psychic Noise combined with Liquid Voice is slightly weaker than Scald but lets Primarina stop healing from Pokemon like
+
+Alomomola
+
+, Toxapex, and
+
+Zapdos
+
+; it also allows Primarina to beat other setup Pokemon like Substitute
+
+Volcarona
+
+in a one-on-one. Draining Kiss helps Primarina stay healthy and gives it more chances to sweep through teams, while Moonblast has a much better damage output, keeping Pokemon like
+
+Ogerpon-W
+
+and
+
+Tapu Lele
+
+from coming in as freely. Leftovers offsets damage taken from Substitute. 124 Speed EVs allow Primarina to outspeed 0 Speed
+
+Mega Scizor
+
+and
+
+Raging Bolt
+
+and other Pokemon around its Speed tier, like
+
+Clefable
+
+and
+
+Corviknight
+
+, which Primarina can boost up on behind a Substitute.
+
+Primarina provides good value for bulky offense teams; it checks Dark-type Pokemon such as Hisuian Samurott and
+
+Weavile
+
+and Fighting-types like Urshifu-R and
+
+Zamazenta
+
+while also threatening sweeps of its own. Weavile itself and
+
+Kingambit
+
+make nice teammates, as they appreciate Primarina's help against Urshifu-R and annoying Fire-types like
+
+Moltres
+
+and Volcarona, and in return, they Pursuit trap threats to Primarina's sweep like Galarian Slowking.
+
+Dragonite
+
+defends against Ogerpon-W and
+
+Kartana
+
+in exchange for Primarina weakening and potentially burning Steel-types like Ferrothorn, Mega Scizor, and
+
+Melmetal
+
+and chipping Fairy-types such as
+
+Hatterene
+
+,
+
+Iron Valiant
+
+, and Tapu Fini. Primarina has a hard time breaking through Grass-types like Ogerpon-W and Ferrothorn, so teammates such as
+
+Rillaboom
+
+and Volcarona can be paired with Primarina to give it better odds of breaking through or finishing off weakened teams. Rillaboom notably provides Grassy Terrain, which provides additional healing and makes Primarina better defensively against Ground-types like
+
+Garchomp
+
+and
+
+Landorus-T
+
+. Rillaboom is also good at baiting in Pokemon like Ferrothorn and Toxapex and weakening them for Primarina, which switches well into threats to Rillaboom like
+
+Cinderace
+
+and Dragonite. Poison-types like Toxapex and Galarian Slowking can be tough for Primarina, so it can pair with
+
+Heatran
+
+and Gholdengo while pressuring their checks such as Hisuian Samurott and
+
+Ting-Lu
+
+. Primarina can struggle with entry hazards due to its lack of immediate recovery, so it appreciates hazard removers like
+
+Great Tusk
+
+and Landorus-T. These Pokemon can scare out Galarian Slowking, Raging Bolt, and bulky Steel-types like Melmetal, while Primarina can beat Urshifu-R and Alomomola and pressure Flying-types like Corviknight and Moltres for them.
+
+Thanks to its good special bulk and defensive typing, Primarina with an Assault Vest can function as a defensive pivot capable of checking powerful special attackers like
+
+Mega Latios
+
+,
+
+Tapu Lele
+
+lacking Psyshock, and
+
+Volcarona
+
+. It can also check some physical attackers like
+
+Urshifu-R
+
+and
+
+Zamazenta
+
+. It performs a crucial offensive role alongside its vital defensive role, being able to exert pressure on common defensive backbones like
+
+Gliscor
+
+,
+
+Ting-Lu
+
+, and
+
+Moltres
+
+. Despite Primarina's excellent special bulk, it often competes with less entry hazard-prone pivots with good longevity like
+
+Alomomola
+
+and
+
+Pecharunt
+
+, although it can exert more offensive pressure. Scald is preferred over other Water-type attacks like Surf and Hydro Pump, as it can burn physical attackers like
+
+Melmetal
+
+,
+
+Kingambit
+
+, and
+
+Mega Scizor
+
+, hindering their offensive presence. Flip Turn lets Primarina generate momentum for its teammates and pivot out of healthy checks like
+
+Galarian Slowking
+
+and
+
+Ferrothorn
+
+. Psychic Noise is a coverage move that allows Primarina to super effectively target and deny recovery for Poison-types like Pecharunt,
+
+Toxapex
+
+, and
+
+Mega Venusaur
+
+on the switch in as well as being able to prevent Alomomola from Wish passing. Torrent is the preferred ability, as it further increases Primarina's damage output and trading capabilities, allowing it to score a guaranteed OHKO on
+
+Tapu Koko
+
+and
+
+Tornadus-T
+
+after Stealth Rock. A Modest nature increases Primarina's damage output, allowing it to OHKO maximum HP
+
+Landorus-T
+
+after Stealth Rock. 176 Speed EVs ensure that Primarina outspeeds Adamant Kingambit.
+
+Primarina fits best on offense and bulky offense teams that appreciate its ability to serve as a specially defensive blanket and pressurize the likes of Gliscor and
+
+Heatran
+
+. Potent wallbreakers like
+
+Mega Diancie
+
+and Tapu Lele appreciate Primarina's ability to muscle through the aforementioned defensive Pokemon. In return, they break common defensive backbones in
+
+Zapdos
+
+and Toxapex that Primarina struggles to force progress against. Powerful wallbreakers and sweepers such as Volcarona,
+
+Ogerpon-W
+
+, and Urshifu-R benefit from Primarina's ability to threaten Dragon-types, including
+
+Dragonite
+
+and Mega Latios. Primarina appreciates their ability to threaten Steel-types such as Melmetal and Ferrothorn in return. Primarina's glaring weakness to entry hazards means it appreciates excellent hazard removal options like
+
+Great Tusk
+
+,
+
+Terapagos
+
+, and Defog Landorus-T. Additionally, Great Tusk can switch into common physical attackers such as Kingambit and
+
+Mega Tyranitar
+
+, while Landorus-T can switch into Electric-type Pokemon like Tapu Koko lacking Hidden Power Ice and
+
+Raging Bolt
+
+, which Primarina struggles against defensively. In return, Primarina can comfortably switch into wallbreakers like
+
+Iron Valiant
+
+and Mega Latios, which the aforementioned hazard removal options in Great Tusk and Landorus-T struggle against. Viable revenge killers such as Zamazenta,
+
+Mega Lopunny
+
+, and
+
+Weavile
+
+are also appreciated, as they threaten defensive staples that Primarina cannot consistently pressurize like Ferrothorn and Galarian Slowking. As a teammate, Primarina can prevent defensive pieces that check the aforementioned revenge killers like Mega Venusaur and Pecharunt from remaining healthy. Primarina struggles against Grass-types such as Ogerpon-W and
+
+Serperior
+
+, which means that Grass-type answers such as Dragonite and Melmetal are appreciated. In return, Primarina acts as a check to certain foes that can revenge kill Dragonite, such as Urshifu-R and Tapu Lele, and Fire-types like Volcarona and Heatran, which Melmetal cannot defensively answer.
+
+This spread prevents Substitute from being broken by
+
+Amoonguss
+
+’s Sludge Bomb at +1.
+
+These are sample sets, stay tuned for future updates!

@@ -1,0 +1,1225 @@
+With Swords Dance, Weak Armor, and an excellent STAB combination, Ceruledge is a solid setup sweeper and late-game cleaner. Bitter Blade's additional benefit of allowing Ceruledge to recover HP lets it survive revenge killing attempts and gives it even more setup opportunities. Shadow Sneak allows Ceruledge to finish off faster and weakened foes like
+
+Ogerpon-W
+
+and
+
+Dragapult
+
+if Weak Armor hasn't been activated yet. Poltergeist gives Ceruledge a powerful STAB move that hits
+
+Pecharunt
+
+and neutral foes like
+
+Alomomola
+
+,
+
+Primarina
+
+,
+
+Moltres
+
+, and
+
+Dragonite
+
+. Close Combat complements its STAB moves to hit
+
+Hisuian Samurott
+
+and
+
+Garganacl
+
+, which would otherwise wall it, while giving it a strong nuke against
+
+Ting-Lu
+
+and
+
+Kyurem
+
+. Solar Blade with Tera Grass can be used on sun teams to hit checks such as Alomomola and
+
+Dondozo
+
+. If Ceruledge opts to run a Jolly nature, it can outspeed
+
+Gholdengo
+
+as well as, after a Weak Armor boost, +1
+
+Iron Valiant
+
+, but it causes Ceruledge to miss out on KOs Adamant would otherwise net such as guaranteed OHKOing Garganacl with a +2 Close Combat. Life Orb augments Ceruledge's damage output while also working well with Bitter Blade to offset the recoil; in particular, this lets Ceruledge threaten OHKOs against the likes of
+
+Gliscor
+
+and
+
+Zapdos
+
+with +2 Poltergeist. Focus Sash allows Ceruledge to withstand attacks from faster foes such as
+
+Great Tusk
+
+, Ogerpon-W, and
+
+Zamazenta
+
+, as well as revenge killing attempts from
+
+Kingambit
+
+, and combines with Weak Armor to outspeed the aforementioned physical attackers on the next turn. Air Balloon and Heavy-Duty Boots are other options that make Ceruledge less reliant on keeping entry hazards off the field, with Air Balloon often forcing Pokemon like
+
+Landorus-T
+
+and Great Tusk to hit Ceruledge with U-turn and Ice Spinner respectively, activating Ceruledge's Weak Armor in the process. Tera Ghost enhances the strength of Poltergeist and Shadow Sneak while also allowing Ceruledge to remove its weaknesses to Water- and Ground-type attacks from common foes such as Ogerpon-W and Great Tusk. When running Close Combat, Tera Fighting is recommended to enhance its power, notably letting Ceruledge secure an OHKO on Ting-Lu after a Swords Dance. Tera Fighting also grants Ceruledge a Dark resistance, allowing it to turn the tables on Dark-type foes like Kingambit and
+
+Darkrai
+
+.
+
+Ceruledge's offensive tools means it best fits on hyper offense teams where it finds its home as a sweeper that appreciates entry hazards and the presence of other sweepers such as Dragonite, Zamazenta, Gholdengo, and Darkrai. Great Tusk and
+
+Iron Treads
+
+are excellent partners; both offer reliable hazard control to keep Ceruledge's Focus Sash intact, while Ceruledge can eliminate their common checks. Ceruledge also pairs well with hazard setters such as
+
+Glimmora
+
+and Hisuian Samurott, which can allow Ceruledge to secure KOs it would fall short of, especially when utilizing a Jolly nature, such as OHKOing Ting-Lu and Garganacl with a +2 non-Tera Fighting Close Combat. Additionally, Ceruledge can deny Rapid Spin from opposing Iron Treads and Great Tusk while threatening
+
+Corviknight
+
+. Ceruledge generally appreciates special sweepers such as Calm Mind Iron Valiant and
+
+Raging Bolt
+
+, threatening its checks and counters such as Garganacl and Dragonite. In return, Ceruledge can handle
+
+Blissey
+
+and
+
+Galarian Slowking
+
+, which would otherwise deny a sweep from these special sweepers. Ceruledge is also a consideration on sun teams alongside a setter in
+
+Ninetales
+
+or
+
+Torkoal
+
+, since Ceruledge becomes extremely threatening with sun-boosted Bitter Blade paired with Solar Blade, the latter of which rips apart its usual checks in Great Tusk and Alomomola.
+
+Walking Wake
+
+and Ceruledge form a nearly unwallable duo, as Walking Wake can deal heavy damage to Pokemon that would otherwise wall Ceruledge like Dragonite and Zamazenta. Other sun partners such as
+
+Slither Wing
+
+and
+
+Hatterene
+
+provide pivoting and other utility that can support a Ceruledge sweep. Another hyper offense archetype Ceruledge can fit on is Sticky Web teams with setters like
+
+Ribombee
+
+and
+
+Araquanid
+
+. On these teams, Ceruledge acts as a spinblocker and sweeper that pairs excellently with its previously mentioned teammates.
+
+Ceruledge is a terrifying sweeper, particularly good against balance teams, with Bulk Up, the longevity from Bitter Blade, and a unique set of traits catered to take advantage of common balance team staples such as
+
+Garganacl
+
+and
+
+Alomomola
+
+. Shadow Sneak allows Ceruledge to pick off faster targets like
+
+Dragapult
+
+and
+
+Deoxys-S
+
+. Taunt shuts down status moves that would otherwise deny a Ceruledge sweep, such as
+
+Gliscor
+
+'s Toxic,
+
+Zamazenta
+
+'s and
+
+Moltres
+
+'s Roar, and Alomomola's Tickle. It also denies recovery from Garganacl and
+
+Pecharunt
+
+. With Covert Cloak, powerful secondary effects from moves such as Pecharunt's Malignant Chain, Garganacl's Salt Cure,
+
+Hatterene
+
+'s Psychic Noise and Nuzzle, and, after Ceruledge has Terastallized, Alomomola's Scald are nullified, making it more difficult to wear down Ceruledge. Tera Bug lets Ceruledge take on Ground-types such as
+
+Great Tusk
+
+,
+
+Iron Treads
+
+, and Gliscor while not being weak to their common coverage options. Flash Fire further complements Tera Bug, nullifying its Fire weakness and most sources of burn that would otherwise cripple a Terastallized Ceruledge. The given EV spread lets Ceruledge outspeed Gliscor while maximizing special bulk to complement Bulk Up's Defense boosting.
+
+Ceruledge is commonly found on hyper offense teams, most notably Aurora Veil teams that have a poor matchup into balance teams. Ceruledge itself is a great support for these hyper offense teams because with Taunt, it denies Defog attempts from
+
+Galarian Weezing
+
+and
+
+Corviknight
+
+. With Aurora Veil, Ceruledge is given opportunities to get multiple boosts. Special attackers such as
+
+Darkrai
+
+and Deoxys-S can apply pressure to
+
+Dondozo
+
+and
+
+Landorus-T
+
+, which would give Ceruledge trouble. Entry hazard control, provided by the likes of Great Tusk, Iron Treads, and Hatterene, is required to ensure Ceruledge does not get worn down by hazards. In return, Ceruledge can defeat Alomomola, which walls Great Tusk and Iron Treads, and
+
+Galarian Slowking
+
+, which gives Hatterene trouble. Other physical attackers, such as Dragon Dance
+
+Dragonite
+
+and
+
+Kyurem
+
+and Swords Dance Gliscor and
+
+Ogerpon-W
+
+, complement Ceruledge's balance-breaking capabilities by threatening checks to Ceruledge. Dragonite's Multiscale and set variety make it strong into offensive Pokemon that Ceruledge struggles against. It can set up on Ogerpon-W, and both Tera Normal Extreme Speed and Scale Shot variants are exceptional at cleaning up offensive teams. Kyurem can threaten Dragonite and
+
+Zapdos
+
+with its powerful Icicle Spear, especially after a Dragon Dance boost. Gliscor can take on
+
+Glimmora
+
+and Landorus-T, and Ogerpon-W can also break Glimmora while taking on Dondozo with its Grass-type attacks. In return, they all appreciate Ceruledge's ability to beat their checks, such as Gliscor, Garganacl, and Pecharunt. Zamazenta provides speed control, outrunning most of the metagame bar Dragapult and Deoxys-S, allowing it to threaten Darkrai and Ogerpon-W. In return, Ceruledge is a check to Pecharunt and Alomomola, both of which Zamazenta is walled by. Additionally, Knock Off support from the aforementioned Great Tusk, Ogerpon-W, and Gliscor is appreciated to remove Rocky Helmet from Landorus-T and Alomomola that would wear down Ceruledge.
+
+Ceruledge is an exceptional wallbreaker on Fire teams with its access to strong STAB moves and priority. Swords Dance allows it to set up quickly, enabling it to break walls like
+
+Iron Hands
+
+and
+
+Hisuian Goodra
+
+with relative ease. Bitter Blade allows Ceruledge to re-enable its Focus Sash if it's not already consumed. Poltergeist hits foes that resist Bitter Blade like
+
+Archaludon
+
+,
+
+Toxapex
+
+, and
+
+Heatran
+
+. Shadow Sneak allows Ceruledge to check faster threats like
+
+Dragapult
+
+,
+
+Iron Boulder
+
+, and
+
+Flutter Mane
+
+. Jolly Nature makes Ceruledge faster than threats like Choice Scarf Iron Boulder and Choice Scarf
+
+Landorus
+
+after a boost from Weak Armor, checking the former with Poltergeist and the latter with +2 Bitter Blade.
+
+Both sun setters,
+
+Ninetales
+
+and
+
+Torkoal
+
+, are amazing teammates for Ceruledge. Ninetales has access to utility moves such as Encore and Healing Wish to ensure Ceruledge can come safely on the field and can also use Solar Beam to punish
+
+Gastrodon
+
+and
+
+Swampert
+
+, while Torkoal can set Stealth Rock up and remove opposing entry hazards with Rapid Spin. Sun is especially primordial for Ceruledge, as it boosts the power of Bitter Blade and enhances Ceruledge's wallbreaking capabilities, notably allowing it to OHKO specially defensive
+
+Gliscor
+
+after a Swords Dance.
+
+Cinderace
+
+provides support with Court Change, ensuring Ceruledge's Focus Sash remains intact, and can take out Dark-type foes such as
+
+Hydreigon
+
+and
+
+Tyranitar
+
+with High Jump Kick.
+
+Ogerpon-H
+
+is a great wallbreaking partner for Ceruledge, hitting Heatran whose Air Balloon has been popped as well as Water- and Ground-type threats such as
+
+Hisuian Samurott
+
+,
+
+Keldeo
+
+, Swampert, and
+
+Hippowdon
+
+. Air Balloon Heatran is another great partner, providing a Ground immunity and dealing with Flutter Mane. Finally,
+
+Volcarona
+
+is a valuable teammate, as it can ease Ceruledge's job by disposing of Toxapex and
+
+Urshifu-R
+
+while benefiting from the breaches Ceruledge can create against opposing special walls such as Gliscor and
+
+Clodsire
+
+.
+
+Ceruledge is an impeccable wallbreaker and late-game setup sweeper on Ghost teams, boasting a great Attack stat, a useful ability in Weak Armor, and a hard-hitting STAB combination. Poltergeist is Ceruledge's hardest hitting STAB move, notably OHKOing walls like
+
+Clodsire
+
+,
+
+Sinistcha
+
+, and
+
+Pecharunt
+
+after a Swords Dance. Alternatively, Close Combat may be used to threaten Dark-types such as
+
+Ting-Lu
+
+,
+
+Roaring Moon
+
+, and
+
+Hisuian Samurott
+
+as well as Steel-types such as
+
+Heatran
+
+and
+
+Archaludon
+
+. However, Ceruledge without a powerful Ghost-type STAB move will be walled by
+
+Skeledirge
+
+,
+
+Garchomp
+
+, and
+
+Toxapex
+
+. Bitter Blade allows Ceruledge to eliminate Steel-types like
+
+Skarmory
+
+, and
+
+Iron Treads
+
+as well as recover any chip damage so Focus Sash can be properly utilized. Furthermore, Bitter Blade can be used to trade with threats like
+
+Alolan Muk
+
+,
+
+Weavile
+
+, and
+
+Meowscarada
+
+. Shadow Sneak scares away faster Ghost-types such as
+
+Flutter Mane
+
+,
+
+Dragapult
+
+, and
+
+Spectrier
+
+, OHKOing them after Ceruledge boosts its Attack stat. A Jolly nature enables Ceruledge to outpace Choice Scarf users like
+
+Darkrai
+
+,
+
+Iron Boulder
+
+,
+
+Greninja
+
+, and Meowscarada after a Weak Armor boost, while an Adamant nature allows Ceruledge to OHKO Archaludon and
+
+Rotom-W
+
+after a Swords Dance and Stealth Rock damage.
+
+Flutter Mane is a great teammate due to its ability to check Dark-types like
+
+Mandibuzz
+
+,
+
+Hydreigon
+
+, and Greninja while in return, Ceruledge takes out specially defensive walls such as Heatran, Clodsire, and
+
+Hisuian Goodra
+
+. Air Balloon
+
+Gholdengo
+
+breaks past threats like
+
+Ursaluna
+
+and Toxapex should Ceruledge not opt for Poltergeist. In exchange, Ceruledge threatens the aforementioned Steel-types and breaks past specially defensive walls like
+
+Blissey
+
+and
+
+Swampert
+
+. Sinistcha leverages its resistance to Ground and Water to switch into attacks from
+
+Ogerpon-W
+
+,
+
+Excadrill
+
+, and
+
+Keldeo
+
+, and it can also spread burns via Matcha Gotcha to weaken walls. Dragapult spreads status ailments through Thunder Wave and Will-O-Wisp to chip down physically defensive walls and threatens Dragon-types such as
+
+Kommo-o
+
+,
+
+Raging Bolt
+
+, and
+
+Dragonite
+
+. Spectrier also spreads burns with Will-O-Wisp and appreciates Ceruledge weakening teams so it can easily clean late-game by setting up Calm Mind repeatedly or sweeping via a Choice Scarf set.
+
+Brambleghast
+
+removes entry hazards with Rapid Spin to maintain Ceruledge's Focus Sash and provides the same resistances that Sinistcha does.
+
+Hisuian Zoroark
+
+offers a Ghost-type immunity and the ability to remove Dark-types like Hydreigon and Hisuian Samurott via Focus Blast.
+
+Froslass
+
+provides Spikes support to wear down foes and prevents hazards from being set by using Taunt.
+
+Golurk
+
+offers Stealth Rock support and can set up beneficial trades using Berries or a Focus Sash.
+
+This is a winning set from the
+
+Monotype Rising sets project
+
+. This will be updated as we work on
+
+new analyses
+
+. Stay tuned!
+
+Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.
+
+If you feel this analysis is not up to date,
+
+feel free to check out the thread for this Pokemon and post suggestions
+
+. For more discussion and resources on Series 1 in general,
+
+check out this thread
+
+.
+
+With a stellar offensive typing, a unique set of attacks, Weak Armor allowing it to outspeed a large part of the metagame, and its immunity to Extreme Speed and Mach Punch, Ceruledge proves itself to be a very solid Focus Sash option.
+
+Bitter Blade's recovery can make Focus Sash usable even if entry hazards chip it. If Ceruledge is brought down to 1 HP, a +2 Bitter Blade can heal it to the point that it can tank an extra attack.
+
+Close Combat hits the Normal-, Dark-, and Rock-types that resist Ceruledge's STAB combination. Still, Shadow Claw is a noteworthy choice to guarantee the KO on
+
+Mimikyu
+
+and let Ceruledge pressure
+
+Skeledirge
+
+. Note, however, that maximum Defense Skeledirge can recover more than Shadow Claw's damage, barring critical hits, and a Terastallized Skeledirge can completely wall this set.
+
+As powerful as Swords Dance boosted attacks from Ceruledge are, the abundance of Unaware Pokemon, primarily
+
+Dondozo
+
+, has made some players opt to use Destiny Bond to attempt Dondozo—makes Destiny Bond viable to snag surprise kills. KOs. Destiny Bond can also make the matchup against KOing common Sucker Punch Pokemon, such as
+
+Meowscarada
+
+and
+
+Kingambit
+
+, easier to win without having to rely on predictions. less prediction reliant.
+
+Adamant's added damage output is valuable, but Jolly allows Ceruledge to outspeed non-Scarf
+
+Gholdengo
+
+, and gives it a chance at outspeeding Modest
+
+Rotom
+
+formes and
+
+Glimmora
+
+. All of the mentioned examples are Special Attackers, meaning Ceruledge's Weak Armor often does not trigger in these matchups.
+
+Tera Types
+
+Fire
+
+: Giving Bitter Blade an extra push in damage is quite useful, giving Ceruledge more recovery.
+
+Normal
+
+: Normal is an exceedingly common Tera Type on Ghost types due to the immunity it brings to the table. Ceruledge makes particularly excellent use of Normal Tera by resisting both Steel and Fairy, making it very difficult for Gholdengo and Mimikyu to click anything other than a Ghost type move when facing off against Ceruledge.
+
+Fighting
+
+: Giving extra reach power to Close Combat, a powerful option against Pokemon such as
+
+Hydreigon
+
+, makes Fighting a solid choice for a Tera Type.
+
+Bulk Up Ceruledge makes excellent use of both Ceruledge's respectable bulk and Bitter Blade's high recovery. By changing its typing to a more defense oriented one, while maintaining the Fire immunity thanks to Flash Fire, Ceruledge can set up Bulk Ups on a variety of common Pokemon, ranging from
+
+Corviknight
+
+,
+
+Kingambit
+
+,
+
+Azumarill
+
+and
+
+Gholdengo
+
+.
+
+Taunt lets Ceruledge set up Bulk Up without needing to fear common phasing moves (with the exception of attacking moves such as Dragon Tail), as well as opposing setup moves such opposing Bulk Up and Iron Defense, provided you outspeed.
+
+Priority of some form is always nice to have on a Pokemon, which makes Shadow Sneak an easy contender for the last move. Gaining extra added strength against Pokemon such as
+
+Dragapult
+
+and
+
+Annihilape
+
+is certainly charming.
+
+Grass Tera Blast allows Ceruledge to eliminate
+
+Dondozo
+
+more quickly. While Taunt can shut down Dondozo's Yawn, it cannot shut down Fissure. The only way to beat Dondozo would be to eliminate it as quickly as possibly, which Grass Tera Blast aids with.
+
+Flame Charge provides Ceruledge an extra net of safety against potential Scarf users and Annihilape, who are capable of turning the tides against it. While normally, Ceruledge is prone to faster Taunt + Bulk Up users and Scarfed Trick, Flame Charge helps mitigate both of those weaknesses.
+
+Will-O-Wisp is a good option to let Ceruledge be a status spreader in games where it can't set up as easily. It also helps Ceruledge set up more easily against threats such as Unaware
+
+Clodsire
+
+.
+
+Tera Types
+
+Grass
+
+: An immunity to Spore and a resistance to Water makes Grass the most notable Tera type for this set. Flash Fire eliminating one of Grass's many weaknesses is also noteworthy.
+
+Fire
+
+: Increasing Bitter Blade's power will always be a valuable trait. Eliminating Ghost's weaknesses to Ghost and Dark also allows Ceruledge to set up more comfortably.
+
+Bug
+
+: Tera Bug is similar to Tera Grass, but in exchange for losing the Water resistance and maintaining the Rock weakness of Fire / Ghost, Ceruledge can tank
+
+Volcarona
+
+'s Bug Buzz with significantly more ease.
+
+EV Spreads
+
+252 HP / 252 Def with Impish
+
+: Investing into Defense prepares Ceruledge and its mediocre physical bulk for the physical-biased metagame. Bulk Up will boost its Defense, but it can struggle to take some physical hits even after a boost, and its special bulk is naturally high.
+
+252 HP / 252 Spe with Jolly
+
+: A faster spread helps Ceruledge outspeed other Bulk Up users, like Annihilape opting to invest in bulk. Being faster, more often than not, lets Ceruledge win these matchups with ease.
+
+252 HP / 252 SpD with Careful
+
+: While most threats in the metagame at the moment are physical, a specially defensive spread is still noteworthy for its ability to surprise Hydreigons.
+
+With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more.
+
+For more information on Series 2, check out the resource thread.
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Bulk Up Ceruledge makes excellent use of both its respectable bulk and Bitter Blade's high recovery. By changing its typing to a more defense oriented one, while maintaining the Fire immunity thanks to Flash Fire, Ceruledge can set up Bulk Ups on a variety of common Pokemon, ranging from
+
+Corviknight
+
+,
+
+Kingambit
+
+,
+
+Azumarill
+
+and
+
+Gholdengo
+
+.
+
+Taunt
+
+: Taunt lets Ceruledge set up Bulk Up without needing to fear common phasing moves (with the exception of attacking moves such as Dragon Tail), as well as opposing setup moves such opposing Bulk Up and Iron Defense, provided you outspeed.
+
+Shadow Sneak
+
+Priority of some form is always nice to have on a Pokemon, which makes Shadow Sneak an easy contender for the last move. Gaining extra added strength against Pokemon such as
+
+Flutter Mane
+
+,
+
+Dragapult
+
+and
+
+Annihilape
+
+is certainly charming.
+
+Grass Tera Blast
+
+: This allows Ceruledge to eliminate
+
+Dondozo
+
+more quickly. While Taunt can shut down Dondozo's Yawn, it cannot shut down Fissure. The only way to beat Dondozo would be to eliminate it as quickly as possibly, which Grass Tera Blast aids with.
+
+Flame Charge
+
+: Flame Charge provides Ceruledge an extra net of safety against potential Scarf users and Annihilape, who are capable of turning the tides against it. While normally, Ceruledge is prone to faster Taunt + Bulk Up users and Scarfed Trick, Flame Charge helps mitigate both of those weaknesses.
+
+Will-O-Wisp
+
+: Ceruledge can be a status spreader in games where it can't set up as easily. It also helps Ceruledge set up more easily against threats such as Unaware
+
+Clodsire
+
+.
+
+Tera Types
+
+Fairy
+
+: Tera Fairy helps Ceruledge's matchup against prominent Dark-types such as
+
+Roaring Moon
+
+and
+
+Hydreigon
+
+.
+
+Grass
+
+: An immunity to Spore and a resistance to Water makes Grass the most notable Tera type for this set. Flash Fire eliminating one of Grass's many weaknesses is also noteworthy.
+
+Fire
+
+: Increasing Bitter Blade's power will always be a valuable trait. Eliminating Ghost's weaknesses to Ghost and Dark also allows Ceruledge to set up more comfortably.
+
+Bug
+
+: Tera Bug is similar to Tera Grass, but in exchange for losing the Water resistance and maintaining the Rock weakness of Fire / Ghost, Ceruledge can tank
+
+Volcarona
+
+'s Bug Buzz with significantly more ease.
+
+EV Spreads
+
+252 HP / 252 Def with Impish
+
+: Investing into Defense prepares Ceruledge and its mediocre physical bulk for the physical-biased metagame. Bulk Up will boost its Defense, but it can struggle to take some physical hits even after a boost, and its special bulk is naturally high.
+
+252 HP / 252 Spe with Jolly
+
+: A faster spread helps Ceruledge outspeed other Bulk Up users, like Annihilape opting to invest in bulk. Being faster, more often than not, lets Ceruledge win these matchups with ease.
+
+252 HP / 252 SpD with Careful
+
+: While most threats in the metagame at the moment are physical, a specially defensive spread is still noteworthy for its ability to surprise Hydreigon.
+
+With a stellar offensive typing, a unique set of attacks, Weak Armor allowing it to outspeed a large part of the metagame, and its immunity to Extreme Speed and Mach Punch, Ceruledge proves itself to be a very solid Focus Sash option.
+
+Bitter Blade
+
+: Bitter Blade's recovery can make Focus Sash usable even if entry hazards chip it. If Ceruledge is brought down to 1 HP, a +2 Bitter Blade can heal it to the point that it can tank an extra attack.
+
+Close Combat versus Shadow Claw
+
+: Close Combat hits the Normal-, Dark-, and Rock-types that resist Ceruledge's STAB combination. Still, Shadow Claw is a noteworthy choice to guarantee the KO on
+
+Mimikyu
+
+and let Ceruledge pressure
+
+Skeledirge
+
+. Note, however, that maximum Defense Skeledirge can recover more than Shadow Claw's damage, barring critical hits, and a Terastallized Skeledirge can completely wall this set.
+
+Swords Dance versus Destiny Bond
+
+: As powerful as Swords Dance boosted attacks from Ceruledge are, the abundance of Unaware Pokemon, primarily
+
+Dondozo
+
+, has made some players opt to use Destiny Bond to snag surprise kills. Destiny Bond can also make the matchup against KOing common Sucker Punch Pokemon, such as
+
+Meowscarada
+
+and
+
+Kingambit
+
+, easier to win without having to rely on predictions.
+
+Adamant versus Jolly
+
+: Adamant's added damage output is valuable, but Jolly allows Ceruledge to outspeed non-Scarf
+
+Gholdengo
+
+, and gives it a chance at outspeeding Modest
+
+Rotom
+
+formes and
+
+Glimmora
+
+. All of the mentioned examples are Special Attackers, meaning Ceruledge's Weak Armor often does not trigger in these matchups.
+
+Tera Types
+
+Fire
+
+: Giving Bitter Blade an extra push in damage is quite useful, giving Ceruledge more recovery.
+
+Normal
+
+: Normal is an exceedingly common Tera Type on Ghost types due to the immunity it brings to the table. Ceruledge makes particularly excellent use of Normal Tera by resisting both Steel and Fairy, making it very difficult for Gholdengo and Mimikyu to click anything other than a Ghost type move when facing off against Ceruledge.
+
+Fighting
+
+: Giving extra reach power to Close Combat, a powerful option against Pokemon such as
+
+Hydreigon
+
+, makes Fighting a solid choice for a Tera Type.
+
+Draft Order
+
+: Round 4 onwards
+
+Price Range
+
+: 11-12 points
+
+Overview
+
+: Ceruledge is a versatile and fearsome setup sweeper thanks to its great STAB combination, abilities, and decent bulk. Its signature move, Bitter Blade, allows it to simultaneously dish out damage and sustain its own HP, giving it great flexibility in choosing setup moves or coverage options. Terastallization makes Ceruledge truly shine, where it takes advantage of its abilities and solid bulk to set up and begin sweeping. Without use of Tera, Ceruledge is let down by its multitude of weaknesses to common offensive types. Its mediocre Speed often allows foes to attack it before it can get set up. However, when positioned well, it is capable of scoring multiple KOs or outright winning games on its own.
+
+Common Roles
+
+Weak Armor Sweeper
+
+: Ceruledge can boost its Speed when physically attacked thanks to Weak Armor, allowing it to boost to +2 Speed and Attack on the same turn when using Swords Dance, enabling it to sweep through weakened teams with ease.
+
+Bulky Setup
+
+: Great special bulk and the ability Flash Fire allow Ceruledge many opportunities to set up with Bulk Up with the use of Tera. Bitter Blade sustains Ceruledge's HP, and Shadow Sneak patches up its low Speed to pick off faster attackers.
+
+Common Moves
+
+Primary STAB Moves
+
+: Bitter Blade, Poltergeist, Shadow Sneak, Shadow Claw, Flare Blitz
+
+Setup Moves
+
+: Swords Dance, Bulk Up, Iron Defense, Flame Charge
+
+Utility Moves
+
+: Will-O-Wisp, Taunt, Destiny Bond, Clear Smog, Substitute, Brick Break
+
+Coverage
+
+: Close Combat, Iron Head, Poison Jab, Psycho Cut, X-Scissor, Tera Blast
+
+Niche Moves
+
+Solar Blade
+
+: Solar Blade can be used either in sun or with a Power Herb to surprise Pokemon weak to Grass-type moves such as
+
+Swampert
+
+and
+
+Gastrodon
+
+.
+
+Endure
+
+: Endure can be used to trigger Weak Armor and activate pinch Berries or outspeed a target to surprise it with Destiny Bond.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Ceruledge is weak to Stealth Rock and is affected by Spikes, and Heavy-Duty Boots helps it enter the field unimpeded.
+
+Leftovers
+
+: Leftovers supplements recovery generated from Bitter Blade and allows Ceruledge to stay on the field longer.
+
+Damage-boosting Items
+
+: Charcoal and Spell Tag boost the power of Ceruledge's STAB moves to help it secure KOs and recover more HP from Bitter Blade.
+
+Niche Items
+
+Focus Sash
+
+: A Focus Sash can guarantee Ceruledge lives a physical attack, allowing it to set up a Swords Dance and boost its Speed with Weak Armor.
+
+Resistance Berries
+
+: A resistance Berry can help Ceruledge set up by living a super effective attack from an anticipated check either before or after Terastallization.
+
+Pinch Berries
+
+: Salac or Liechi Berry can be used either alone or in conjunction with Endure and Weak Armor to guarantee activation and a Speed boost to facilitate a sweep.
+
+Air Balloon
+
+: An Air Balloon helps Ceruledge set up vs Ground-type attacks and often forces coverage moves to break it. This often activates Ceruledge's Weak Armor in the process.
+
+Tera
+
+Ceruledge truly shines as a Tera Captain, and you should ideally draft it with the intention of making it one. Two amazing abilities, a multitude of setup moves, and a great offensive movepool make it an extremely robust Tera Captain. Flash Fire sets maintain an immunity to Fire with Tera Grass, Steel, or Bug, and Tera types like Fairy and Flying are effective to check Fire-type threats with strong secondary STAB moves, such as
+
+Chi-Yu
+
+and
+
+Gouging Fire
+
+. Weak Armor sets typically take advantage of Tera Ghost or Fire to maximize damage output from Ceruledge's STAB moves, Tera Fighting to boost the power of Close Combat, or another Tera type such as Fairy or Water to provide coverage it lacks via Tera Blast.
+
+Draft Strategy
+
+Ceruledge is heavily reliant on Tera to be an effective threat and should be drafted with this in mind. While it can still be a serviceable Weak Armor sweeper without Tera, Ceruledge being unable to Terastallize significantly hamstrings its flexibility.
+
+Non-Tera-reliant Partners
+
+: Early-round Pokemon that are either restricted from Tera use or are not reliant on Tera ideally should be selected to partner with Ceruledge. Pokemon like
+
+Great Tusk
+
+,
+
+Garchomp
+
+, and
+
+Palafin
+
+make great partners due to their ability to perform their roles without Tera.
+
+Entry Hazard Control
+
+: Ceruledge makes good use of a wide variety of items, making hazard control essential, especially for Weak Armor variants. Rapid Spin users such as
+
+Iron Treads
+
+and
+
+Terapagos
+
+make great partners, as they are non-Tera-reliant spinners. They also enjoy Ceruledge's immunity to Fighting.
+
+Wallbreakers
+
+: Ceruledge enjoys opposing teams being weakened to help facilitate its sweeping capabilities. Special wallbreakers with pivoting capabilities make especially good partners, as they can bring bring Ceruledge onto the field with a pivoting move.
+
+Latios
+
+,
+
+Primarina
+
+, or
+
+Iron Bundle
+
+are partners that can fulfill this role to great effect.
+
+Checks and Counters
+
+Fire-resistant Physical Walls
+
+: Fire-resistant Pokemon like Gouging Fire,
+
+Arcanine
+
+, and
+
+Dondozo
+
+can wear down and defeat Ceruledge by preventing Bitter Blade from restoring meaningful amounts of HP. Checks to Ceruledge can also run no item or consumable items to become immune to Poltergeist.
+
+Strong Special Attackers
+
+: Special attacks do not activate Weak Armor, limiting Ceruledge's ability to sweep. Additionally, while Ceruledge's special bulk is excellent, it has no way to boost its Special Defense, making it liable to be worn down with strong special attacks.
+
+Taunt and Encore
+
+: As Ceruledge is setup-reliant, it can be disrupted with Taunt or Encore, with many faster threats carrying one of these moves to stop its setup.
+
+Entry Hazards
+
+: Ceruledge is susceptible to all forms of entry hazards, including a weakness to Stealth Rock.
+
+With its high Attack stat, powerful STAB combination, access to Swords Dance, and a great ability in Weak Armor, Ceruledge becomes an incredible wallbreaker for Ghost teams, hitting walls like
+
+Heatran
+
+,
+
+Hisuian Goodra
+
+, and
+
+Alolan Muk
+
+. At +2, Poltergeist outright OHKOs non-Unaware
+
+Clodsire
+
+and OHKO
+
+Mega Sableye
+
+,
+
+Swampert
+
+, and Heatran after a layer of Spikes. Bitter Blade allows Ceruledge to deal with Steel-types like
+
+Ferrothorn
+
+,
+
+Celesteela
+
+, and
+
+Mega Scizor
+
+while restoring its HP, letting it reactivate Focus Sash if not already consumed. Shadow Sneak allows Ceruledge to revenge kill weakened threats like
+
+Barraskewda
+
+,
+
+Iron Boulder
+
+, and opposing Ceruledge while also letting it clean opposing Ghost teams. Focus Sash guarantees that Ceruledge activates Weak Armor if it's hit with a physical attack while setting up with Swords Dance. Weak Armor's activation allows Ceruledge to outspeed faster threats like
+
+Mega Lopunny
+
+and Choice Scarf users like
+
+Meowscarada
+
+, Iron Boulder, and the
+
+Landorus
+
+formes.
+
+Mimikyu
+
+handles Dark-types like
+
+Mandibuzz
+
+,
+
+Ting-Lu
+
+, and
+
+Hydreigon
+
+, and, in return, Ceruledge can deal with Steel- and Poison-types like Ferrothorn, Mega Scizor, and
+
+Mega Venusaur
+
+.
+
+Sinistcha
+
+boasts Water and Ground resistances, which allow it to check foes like
+
+Ogerpon-W
+
+,
+
+Urshifu-R
+
+, and
+
+Great Tusk
+
+. Mega Sableye provides entry hazard control, allowing Ceruledge to maintain its Focus Sash.
+
+Galarian Corsola
+
+and
+
+Brambleghast
+
+set entry hazards, which makes it easier for Ceruledge to break through bulky foes. Additionally, Brambleghast provides entry hazard removal with Rapid Spin while also providing the same resistances as Sinistcha.
+
+Hisuian Zoroark
+
+,
+
+Gengar
+
+, and
+
+Gholdengo
+
+are excellent partners that help Ceruledge against physical walls like
+
+Archaludon
+
+,
+
+Toxapex
+
+, and Great Tusk. In return, Ceruledge deals with special walls such as Clodsire,
+
+Blissey
+
+, Swampert, and Hisuian Goodra.
+
+Ceruledge is a strong late-game sweeper on Fire teams that checks Ghost- and Psychic-types thanks to its powerful STAB moves, setup in Swords Dance, and a great ability in Weak Armor, punishing physical attackers that hit it. At +2, Ceruledge 2HKOes
+
+Great Tusk
+
+and has a good chance to OHKO
+
+Gliscor
+
+after Stealth Rock damage with Poltergeist. Shadow Sneak allows Ceruledge to take out boosted albeit weakened Pokemon like
+
+Dragonite
+
+,
+
+Alolan Raichu
+
+,
+
+Iron Boulder
+
+, and opposing Ceruledge. With Focus Sash, Ceruledge ensures its Weak Armor is activated from most physical attacks, and it lets Ceruledge set up Swords Dance once.
+
+Cinderace
+
+and
+
+Torkoal
+
+are great partners for Ceruledge, as they provide entry hazard control with Court Change and Rapid Spin, respectively, so that its Focus Sash is kept intact. Additionally, Torkoal sets up sun to further boost Ceruledge's Bitter Blade and Stealth Rock to aid its sweeping, while Cinderace targets Dark-types such as
+
+Ting-Lu
+
+,
+
+Hydreigon
+
+, and
+
+Tyranitar
+
+, which can pose challenges to Ceruledge's sweeping. Wallbreakers such as Choice Band
+
+Victini
+
+and
+
+Mega Charizard X
+
+remove bulky Pokemon that Ceruledge dislikes. Victini takes on Water-types such as
+
+Tapu Fini
+
+,
+
+Urshifu-R
+
+, and
+
+Dondozo
+
+, while Mega Charizard X breaks past
+
+Heatran
+
+. In return, Victini appreciates Ceruledge handling Psychic-types like Iron Boulder and
+
+Mega Latias
+
+.
+
+Hisuian Arcanine
+
+revenge kills boosted sweepers such as
+
+Roaring Moon
+
+so that Ceruledge can sweep, and it can threaten Flying-types such as
+
+Galarian Moltres
+
+and
+
+Zapdos
+
+. Ceruledge can also enable other sweepers and cleaners such as
+
+Volcarona
+
+by removing Pokemon that threaten them such as
+
+Skeledirge
+
+so they can start their own sweep.

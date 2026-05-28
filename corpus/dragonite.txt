@@ -1,0 +1,3375 @@
+Dragonite stands out as one of the most dominant Pokemon in SV OU, able to wield a myriad of coverage moves, Tera type options, and items to threaten most teams with the right set while also possessing a remarkable defensive profile, essentially letting it fit onto an incredibly wide array of team archetypes. It is one of the tier's most potent setup sweepers, as Dragon Dance enables a variety of sweeping methods and couples with any mix of strong physical attacks and crafty utility moves that Dragonite pleases. Dragonite can also wallbreak and revenge kill foes more reliably with its Choice Band set. Furthermore, all of this is enabled by its natural bulk, typing, and potentially Roost, as not only do these give Dragonite easy setup opportunities, but they also allow it to check common threats like
+
+Ogerpon-W
+
+,
+
+Iron Moth
+
+, and
+
+Rillaboom
+
+; furthermore, with Multiscale intact, it can also emergency check even threatening foes like
+
+Iron Valiant
+
+,
+
+Enamorus
+
+, and
+
+Raging Bolt
+
+, making it a menace against offensive teams. This also allows Dragonite to employ a utility-focused bulky attacking set that lets it act as a catch-all answer to most offensive threats of the tier while not being entirely passive like most walls. With all this variability, checking Dragonite can be a headache, but physically bulky Pokemon such as
+
+Great Tusk
+
+,
+
+Zamazenta
+
+, and
+
+Corviknight
+
+can often break its Multiscale and force it to reveal its set, if not beat it in a one-on-one outright.
+
+Dondozo
+
+also stands out as a particularly good answer, ignoring any boosts from Dragon Dance that Dragonite may have accrued while having the bulk to take it on. Even after a Dragon Dance, Dragonite is still outsped by threats such as
+
+Deoxys-S
+
+, Iron Valiant, Choice Scarf Enamorus, and Speed Booster Energy Great Tusk, particularly if it's not running Extreme Speed, with Zamazenta and
+
+Dragapult
+
+being added to the list if Dragonite is not running a Speed-boosting nature. While Dragonite's typing is incredible in most situations, it also presents a serious 4x weakness to Ice-type moves such as
+
+Darkrai
+
+'s Ice Beam,
+
+Kyurem
+
+'s Freeze-Dry, and Great Tusk's Ice Spinner, meaning that Dragonite often will need to Terastallize to avoid being revenge killed and continue its sweep. Its Stealth Rock weakness also warrants strong hazard control from its teammates or the use of Heavy-Duty Boots, which presents another issue where foes like Rillaboom and Ogerpon-W that it wants to check often carry Knock Off as well.
+
+Dragon Dance Dragonite is one of the tier's most formidable setup sweepers due to its plethora of coverage variations and defensive profile. Extreme Speed maximizes its matchup against offensive teams, compensating for Dragonite's subpar Speed tier by taking care of the archetype's frail or boosted foes like
+
+Darkrai
+
+,
+
+Iron Valiant
+
+, and
+
+Kyurem
+
+while also outprioritzing revenge killers like
+
+Weavile
+
+and
+
+Raging Bolt
+
+. Earthquake covers Pokemon like
+
+Garganacl
+
+,
+
+Pecharunt
+
+,
+
+Galarian Weezing
+
+, and Steel-types like
+
+Kingambit
+
+and
+
+Gholdengo
+
+. Ice Spinner dents foes like
+
+Gliscor
+
+,
+
+Landorus-T
+
+,
+
+Zapdos
+
+,
+
+Sinistcha
+
+, and opposing Dragonite while popping Air Balloon from Gholdengo, Pecharunt, and Tera Ghost Kingambit. Dragonite can forgo Extreme Speed, as Ice Spinner + Earthquake grants it with sufficient coverage to hit most of the metagame for at least neutral effectiveness. Either Roost or Encore gives it more setup opportunities; Roost lets it activate Multiscale repeatedly and is the preferred move on bulkier playstyles to emphasize its defensive utility further, while Encore punishes opposing setup and passive plays from threats and walls like
+
+Zamazenta
+
+, Raging Bolt, Landorus-T, and
+
+Corviknight
+
+. A coverage move can be used instead; Rock Slide obliterates a would-be check in
+
+Moltres
+
+, OHKOing it at +1, and hits Zapdos without triggering Static, with the riskier but stronger Stone Edge being an alternative that has good chances to straight up OHKO the former and 2HKO the latter unboosted. Similar to Ice Spinner + Earthquake, either of the Rock-type moves + Earthquake can be used as the sole attacking moves so it can run Encore or Roost in its last moveslot. Fire Punch super effectively hits Corviknight,
+
+Skarmory
+
+, and Air Balloon Steel-types like Kingambit, GholdOengo, and
+
+Tinkaton
+
+. On hyper offense teams, Outrage alongside Life Orb is an option to exacerbate its wallbreaking power, letting it nuke neutral walls like
+
+Alomomola
+
+, Moltres, and Zapdos much easily. While Heavy-Duty Boots is preferred to reliably keep its Multiscale intact even in the face of Stealth Rock, teams that commit to strong entry hazard removal can run other items; Leftovers improves its general longevity, while Lum Berry ignores crippling status from foes like
+
+Dragapult
+
+, Moltres, Pecharunt, and Gholdengo. More offensive choices like Silk Scarf and Soft Sand can be used with their appropriate Tera types. Tera Normal is only used on sets running Extreme Speed, as it importantly boosts the move while giving Dragonite a neutral typing against all of its weaknesses, such as against
+
+Enamorus
+
+, Kyurem, Ice Spinner
+
+Great Tusk
+
+, and Ice Beam Darkrai. Non-Extreme Speed sets can go for Tera Ground to boost its Earthquake, such as letting it 2HKO Pecharunt and OHKO Garganacl at +1, and defensively grants Dragonite an immunity to Gholdengo's Thunder Wave and Raging Bolt's Thunderclap. An Adamant nature is preferred, but Jolly can be used to outspeed Dragapult and Zamazenta at +1 and, at worst, Speed tie opposing Dragonite. Particularly for Tera Normal + Extreme Speed variants, Dragonite can invest its Speed EVs into bulk instead to make setup much easier, such as an EVs spread of 164 HP / 252 Atk / 92 Spe, running enough Speed to outrun Jolly Kingambit; Roost is preferred as the last move to accentuate the extra bulk.
+
+Dragonite's sweeping potential and defensive utility makes it an exceptional pick for most playstyles, anything that ranges from hyper offense to balance. Physically offensive teammates like
+
+Ogerpon-W
+
+, Zamazenta, and Kingambit can either overwhelm, surprise, or pressure a majority of its checks, which include the likes of Pecharunt, Alomomola, Zapdos, and
+
+Clefable
+
+. Special attackers like Darkrai,
+
+Iron Moth
+
+, Raging Bolt, Gholdengo, and Iron Valiant are similarly great to immediately threaten Dragonite's checks, especially Defense-boosting users like Zamazenta, Corviknight,
+
+Dondozo
+
+, and Great Tusk looking to go one-on-one against Dragonite. Moreover, they're particularly capable of forcing damage onto Air Balloon users like Gholdengo, Kingambit, and Tinkaton, giving Dragonite an easier time against them later on. Leads like
+
+Deoxys-S
+
+,
+
+Hisuian Samurott
+
+, and Landorus-T can also soften the opposition with their entry hazards so Dragonite can sweep more easily. The aforementioned Great Tusk and other hazard control options like
+
+Cinderace
+
+,
+
+Iron Treads
+
+,
+
+Glimmora
+
+, and
+
+Hatterene
+
+—even running a combination of them simultaneously—on offensive teams give Dragonite more freedom to forgo Heavy-Duty Boots. On bulkier teams, Dragonite immensely loves teammates like Galarian Weezing, Corviknight, Pecharunt, Sinistcha, and Alomomola that can switch into and check foes such as Iron Valiant, Zamazenta, and Weavile that force it out. Other walls like
+
+Ting-Lu
+
+, Gliscor, and Clefable are also great hazard setters for Dragonite's sweeping mission. The aformentioned Corviknight also provides Defog as extra insurance in case Dragonite's Heavy-Duty Boots is removed by Ogerpon-W, Great Tusk, and Hisuian Samurott, but Corviknight itself alongside Gliscor and Clefable are great Knock Off absorbers in the first place. In return, all of them appreciate Dragonite's defensive utility, such as checking Iron Moth for Corviknight, Tinkaton, and Galarian Weezing;
+
+Ogerpon
+
+and
+
+Rillaboom
+
+for Alomomola, Ting-Lu, and Garganacl; and Ogerpon-W for all of them. On top of providing these teams with a setup sweeper that they might lack, Dragonite's ability to emergency check most threats in general also alleviates the pressure against these walls, especially with its good matchup against offensive teams that can otherwise run them over.
+
+Utilizing Loaded Dice and Scale Shot, Dragonite speeds through OU, giving it a powerful STAB move to hit many threats at least neutrally, OHKOing its fellow Dragon-types like
+
+Kyurem
+
+and
+
+Raging Bolt
+
+and, after a Dragon Dance, the likes of
+
+Ogerpon-W
+
+and
+
+Darkrai
+
+. Furthermore, after a Speed boost from Scale Shot or Dragon Dance, Dragonite can outspeed almost the entirety of the unboosted metagame, excluding
+
+Dragapult
+
+,
+
+Zamazenta
+
+, and
+
+Deoxys-S
+
+, and further usage of Scale Shot can make it extremely difficult to outspeed Dragonite without priority. Fire Punch slams the Steel-types that Scale Shot misses, like
+
+Corviknight
+
+,
+
+Gholdengo
+
+, and
+
+Kingambit
+
+, while letting it hit Fairy-types like
+
+Clefable
+
+and
+
+Hatterene
+
+. Finally, Encore shuts down both defensive and offensive Pokemon that dare to set up or recover on Dragonite, like Corviknight, Zamazenta, and
+
+Garganacl
+
+. Tera Fire boosts Fire Punch, pushing Corviknight into the 2HKO range and guaranteeing the 2HKO on
+
+Skarmory
+
+, Gholdengo, and Kingambit, and nullifies
+
+Cinderace
+
+'s and
+
+Moltres
+
+'s Will-O-Wisp, allowing Dragonite to turn potential checks into setup opportunities. Tera Fire also flips its weakness to Ice and Fairy from Pokemon like
+
+Weavile
+
+,
+
+Iron Valiant
+
+, and Clefable. Due to Scale Shot's Speed-boosting side effect, Dragonite can comfortably run an Adamant nature, guaranteeing the OHKO on threats like Kyurem.
+
+With its power and versatility, Dragonite finds itself on offense and hyper offense teams. Due to Dragonite's lack of Heavy-Duty Boots, entry hazard control is more important than ever to maintain both Multiscale and to avoid chip damage, so hazard control teammates like
+
+Iron Treads
+
+,
+
+Great Tusk
+
+, and Hatterene are crucial, with the latter also serving as a status blocker from pesky defensive Pokemon like Moltres and
+
+Gliscor
+
+. Speaking of status spreaders, Dragapult is a flight hazard for Dragonite, with a speedy Will-O-Wisp and devastating Dragon Darts, so partners like
+
+Primarina
+
+and Iron Valiant are solid picks to scare it away. An exceptional partner for Dragonite is
+
+Landorus-T
+
+, which brings hazard support in Stealth Rock, a fast Taunt that can deny Stealth Rock from setters like
+
+Glimmora
+
+and Ting Lu, and the ability to bring Dragonite in safely through U-turn. Other strong partners for Dragonite are Gholdengo and
+
+Iron Crown
+
+, as they can scare threats like Iron Valiant and Zamazenta, which Dragonite often struggles to switch into; the latter also works as a pivot through Volt Switch. Similarly, Dragonite also enjoys pairing with
+
+Galarian Slowking
+
+, which threatens Iron Valiant, Primarina, and other Fairy-types that halt Dragonite's attack and can also pivot with Chilly Reception. Dragonite alongside other physical attackers like Ogerpon-W can overwhelm physical walls like Gholdengo and Skarmory together, clearing the way for each other to wreak havoc. Dragonite can also take advantage of Water- and Grass-types like
+
+Hisuian Samurott
+
+and Ogerpon-W, covering for defensive partners like Primarina, Landorus-T, and Great Tusk. Kingambit also appreciates Dragonite as a teammate, as Dragonite can lure in checks like Cinderace and Moltres before flipping the tables with Tera Fire, allowing for an easier late-game sweep with Kingambit.
+
+Dragonite can fully lean into its defensive profile even more and complement it further with its strong STAB Dragon Tail and Extreme Speed to become a remarkable anti-offense tool. Its hit-taking ability allows it to emergency check and phaze even dangerous threats like
+
+Darkrai
+
+,
+
+Dragapult
+
+, and
+
+Raging Bolt
+
+with Dragon Tail more reliably; the move is also helpful against other setup sweepers like
+
+Zamazenta
+
+,
+
+Gliscor
+
+, and Air Balloon
+
+Gholdengo
+
+that can otherwise set up on and overwhelm Dragonite after enough boosts. Moreover, potentially forcing offensive staples like Zamazenta,
+
+Iron Moth
+
+, and Raging Bolt into the field when they're not ready to sweep yet essentially wastes their Dauntless Shield and Booster Energy. Dragon Tail has the added benefit of forcing out walls and switch-ins like
+
+Skarmory
+
+,
+
+Dondozo
+
+, and
+
+Alomomola
+
+that it can't easily threaten, especially preventing the latter from passing Wish to the desired teammate via Flip Turn. Once the offensive threats are weakend enough, they are picked off easily by Extreme Speed, especially frail ones like
+
+Iron Valiant
+
+and other priority users like Raging Bolt and non-Tera Ghost
+
+Kingambit
+
+. Earthquake rounds out its coverage to hit Steel-types like Kingambit, Gholdengo, and
+
+Iron Treads
+
+. At the cost of no longer hitting Gholdengo, Low Kick is an alternative option that similarly hits the Steel-types hard, particularly Kingambit—OHKOing even bulky variants and doesn't care about Air Balloon sets—while also providing strong coverage against foes like
+
+Ting-Lu
+
+,
+
+Garganacl
+
+, and
+
+Tyranitar
+
+. Tera Normal boosts the power of its Extreme Speed, letting it reach crucial benchmarks such as 2HKOing Iron Valiant, Darkrai, and
+
+Hisuian Samurott
+
+. Additionally, it sheds all of Dragonite's weaknesses and grants it a solidly neutral typing, notably improving its matchup against threats like
+
+Enamorus
+
+,
+
+Kyurem
+
+, and Dragapult. 16 Speed EVs are enough to let Dragonite outspeed Adamant Kingambit.
+
+Dragonite is used on balance and bulky offense teams that appreciate its defensive utility and decent pressure, especially against offensive teams. It pairs well with all manner of walls found on these archetypes; Steel-types like Gholdengo,
+
+Corviknight
+
+, and
+
+Tinkaton
+
+can cover most of its shortcomings by handling foes like Kyurem,
+
+Weavile
+
+, Iron Valiant, and Enamorus, with Tinkaton and Gholdengo in particular being great as a stopgap to other Fairy-type setup sweepers like
+
+Clefable
+
+and
+
+Hatterene
+
+that not only threaten Dragonite out but cannot be phazed by its Dragon Tail. In return, Dragonite can switch into Ground-type moves from the likes of
+
+Landorus-T
+
+aimed at Gholdengo and Tinkaton. The aforementioned Corviknight and other Pokemon like Clefable and Gliscor are great Knock Off absorbers against Pokemon like
+
+Great Tusk
+
+and opposing Gliscor and Clefable, letting Dragonite keep its valuable Heavy-Duty Boots. However, Pokemon that Dragonite is supposed to switch into, like
+
+Ogerpon-W
+
+and Hisuian Samurott, will inevitably hit it with a Knock Off; Great Tusk,
+
+Galarian Weezing
+
+, and the aforementioned Corviknight are great as entry hazard removers to make sure Stealth Rock still won't be an issue. Additionally, Gliscor, Clefable, and other Pokemon like Ting-Lu and Skarmory are valuable as hazard setters themselves, letting the team rack up chip damage when paired with Dragonite's Dragon Tail, and notably put offensive threats like Enamorus and Iron Moth closer into Extreme Speed range, with Ting-Lu's Ruination forcing immediate progress in that regard for Dragonite to clean late-game more easily. Ting-Lu and Clefable are also great at switching into Dragapult, which otherwise cannot be revenge killed by and forces out Dragonite. In return, Dragonite covers threats such as Ogerpon-W and Iron Moth for all of them, with its ability to emergency check other offensive threats in general giving them more breathing room. Gliscor, Clefable, and more offensive Pokemon like Darkrai and Weavile are also great Knock Off users, removing Heavy-Duty Boots to synergize well with the team's entry hazards and Dragonite's Dragon Tail, softening up the opposition more effectively for Dragonite to clean late-game. The aforementioned Darkrai and Weavile alongside other offensive Pokemon like Zamazenta also match up well against offensive teams so Dragonite isn't overwhelmed defensively when facing against highly aggressive teams. On more bulky offensive teams, Dragonite can even employ an even wider range of offensive teammates, including Ogerpon-W, Kingambit, and Iron Valiant. Ogerpon-W in particular matches up well against the bulky teams that Dragonite struggles with, while Iron Valiant and its Encore can limit Fairy-type and Tera Fairy setup sweepers like Clefable and Raging Bolt that Dragonite cannot phaze. Moreover, Dragonite's propensity to force offensive threats like Iron Valiant, Darkrai, and Weavile to Terastallize into a Ghost-type to avoid its Extreme Speed allows Kingambit, Darkrai, and Weavile to deal with them more easily. While offensive, these threats also provide defensive utility for Dragonite; for instance, Kingambit checks Dragapult and Kyurem, Zamazenta handles Kingambit, and both of them deal with Weavile.
+
+Choice Band Dragonite is a strong wallbreaker and revenge killer for offensive teams. Extreme Speed enables Dragonite to revenge kill a myriad of threatening sweepers such as
+
+Iron Valiant
+
+and
+
+Iron Moth
+
+while doing solid neutral damage to most of the tier with the use of Tera Normal. Tera Normal Extreme Speed notably OHKOes offensive variants of
+
+Primarina
+
+after Stealth Rock and is favored to 2HKO even physically defensive
+
+Clefable
+
+. Ice Spinner OHKOes both
+
+Gliscor
+
+and fast
+
+Landorus-T
+
+, common physical answers that often switch in against Dragonite to stuff potential Dragon Dance sets. It also notably hits Dragon-types like opposing Dragonite,
+
+Hydrapple
+
+, and
+
+Raging Bolt
+
+without the risk of locking into Outrage. Fire Punch is the ideal fourth move, being Dragonite's highest damage option against
+
+Skarmory
+
+,
+
+Corviknight
+
+, and Air Balloon
+
+Gholdengo
+
+, all of which are always 2HKOed after Stealth Rock. Earthquake is another option, providing a safer option into certain Pokemon like Raging Bolt and being a uniquely powerful option against
+
+Heatran
+
+, but it leaves Dragonite walled by airborne Steel-types like Skarmory. An Adamant nature is chosen because Extreme Speed reduces the need for a Jolly nature and it importantly removes the need for good damage rolls against aforementioned Pokemon like Corviknight and Primarina. Tera Normal enables revenge killing with Extreme Speed while removing all of Dragonite's original weaknesses. This reduces damage from Stealth Rock and enables Dragonite to survive attacks like
+
+Dragapult
+
+'s Dragon Darts and
+
+Weavile
+
+'s Triple Axel.
+
+Choice Band Dragonite needs specific support to thrive. As it is weak to Stealth Rock, wants to preserve Multiscale, and does not run Heavy-Duty Boots, it appreciates entry hazard control from the likes of
+
+Great Tusk
+
+or
+
+Hatterene
+
+. Similarly, to preserve Multiscale and to find good opportunities to break, pivots are great teammates.
+
+Galarian Slowking
+
+, Landorus-T, and Primarina can all support the team defensively while using their pivot moves to safely get in Dragonite. Primarina additionally can switch into and force out threats like Dragapult, while Galarian Slowking can set up dangerous checkmate scenarios with Future Sight to limit defensive checks like Clefable and
+
+Zamazenta
+
+. Hazards greatly help to set up consistent 2HKOs and the potential for a late-game Extreme Speed sweep, so Spikes setters like
+
+Hisuian Samurott
+
+and
+
+Ting-Lu
+
+also fit in, as do Stealth Rock setters like Landorus-T and Great Tusk. Other offensive Pokemon fit best with Dragonite, with fast sweepers like Iron Valiant and Iron Moth especially appreciating Dragonite's breaking power and defensive utility in Multiscale and priority. Gholdengo and Iron Moth are strong teammates, as they take advantage of the Fairy- and Steel-types that threaten Dragonite while keeping up offensive pressure. As the set relies on a Choice item, Protect users like
+
+Alomomola
+
+,
+
+Garganacl
+
+, and Gliscor can greatly lessen the threat that Dragonite poses.
+
+Ogerpon-W
+
+is a teammate that threatens all of them while also generally helping against the style of teams that those Pokemon find themselves on.
+
+Kingambit
+
+deserves a mention, as both it and Dragonite can wear down physical walls for each other and threaten to clean late-game with their strong priority attacks.
+
+Tinkaton
+
+is another option as a Stealth Rock setter that also helps to check opposing would-be revenge killers like Dragapult and
+
+Darkrai
+
+while spreading Thunder Wave paralysis to give Dragonite more opportunities to attack freely.
+
+Other Options
+
+Hurricane alongside a Naughty or Naive nature can be used as a flex option on its Dragon Dance set to surprise
+
+Zamazenta
+
+and
+
+Great Tusk
+
+while also potentially 3HKOing
+
+Dondozo
+
+, even preventing them from matching Dragonite with their own boosts. Dragon Dance sets can run Dragon Tail to prevent IronPress users like non-Roar Zamazenta,
+
+Corviknight
+
+, and
+
+Skarmory
+
+from beating it one-on-one; stops opposing phazers like
+
+Ting-Lu
+
+and Zamazenta if it's running a Jolly nature from forcing it out first; and lets it act as a sturdier emergency check against opposing setup sweepers that it can't immediately KO. Iron Head can be used in conjunction with Tera Steel to gain resistances to incoming Ice-, Dragon-, and Fairy-type attacks while OHKOing
+
+Hatterene
+
+,
+
+Iron Valiant
+
+, and
+
+Clefable
+
+, as well as potentially flinching its way out of otherwise impossible situations. Many teams try to limit Dragonite via Will-O-Wisp or Flame Body, so Facade can be used on Tera Normal + Extreme Speed sets to surprise these teams thinking they're safe once Dragonite is burned. Defensive sets can be used alongside moves like Thunder Wave to long-term cripple dangerous threats and Ice Beam to hit
+
+Gliscor
+
+,
+
+Landorus-T
+
+, and opposing Dragonite hard. If the team has enough hazard control, this set can even employ Rocky Helmet to punish foes that rely on making contact to deal damage, like
+
+Rillaboom
+
+and Zamazenta, or Red Card to further make use of its hit-taking ability to act as an emergency check to boosted foes.
+
+Dragonite is a great setup sweeper boasting nearly unresisted coverage, a useful Flying typing, and a convenient ability in Multiscale, allowing for an easier time setting up. Outrage is preferred due to the lack of Fairy-types and its utter power, allowing Dragonite to sweep opposing Dragon teams with the help of
+
+Baxcalibur
+
+and
+
+Dragapult
+
+late-game. Earthquake allows Dragonite to nail Poison- and Steel-type switch-ins such as
+
+Toxapex
+
+,
+
+Clodsire
+
+, and
+
+Gholdengo
+
+. Alternatively, Fire Punch threatens would-be checks like
+
+Corviknight
+
+and Air Balloon Gholdengo. Extreme Speed picks off weakened threats such as
+
+Greninja
+
+and
+
+Iron Valiant
+
+attempting to revenge kill it, while Encore may be used to lock physical walls like
+
+Dondozo
+
+,
+
+Quagsire
+
+, and
+
+Ting-Lu
+
+into a move, either letting Dragonite deal extra chip damage or effortlessly set up in front of them. A Jolly nature allows Dragonite to outpace Dragapult after a Dragon Dance so that Dragonite can OHKO them with Outrage, at the cost of power.
+
+Dragonite appreciates Baxcalibur's immunity to Will-O-Wisp from threats such as
+
+Sableye
+
+and
+
+Skeledirge
+
+, neutrality to Ice-type moves, and ability to threaten Ting-Lu. In return, Dragonite checks troublesome Fighting-types like
+
+Quaquaval
+
+and
+
+Slither Wing
+
+.
+
+Garchomp
+
+sets up entry hazards in the form of Stealth Rock and Spikes, chipping down Dragonite's switch-ins such as
+
+Forretress
+
+,
+
+Archaludon
+
+, and Quagsire. Dragapult breaks past walls such as Dondozo and Corviknight and prevents Rapid Spin users like
+
+Great Tusk
+
+and
+
+Iron Treads
+
+from clearing Garchomp's entry hazards.
+
+Dragalge
+
+'s secondary Poison typing and commendable bulk allow it to check Fairy-types like Iron Valiant and
+
+Flutter Mane
+
+, and it supports Dragonite's sweeping with Toxic Spikes, notably wearing down Ting-Lu,
+
+Slowbro
+
+, and Quagsire. Choice Scarf
+
+Roaring Moon
+
+is a great revenge killer and method of speed control, as it outpaces and deals with Choice Scarf
+
+Latias
+
+and Choice Specs Greninja.
+
+Walking Wake
+
+is another plausible Choice Scarf user due to its ability to threaten
+
+Weavile
+
+and singlehandedly sweep Fire teams.
+
+Dragonite is a terrifying wallbreaker on Flying teams by virtue of its high Attack stat further boosted by Choice Band as well as its great coverage moves. Furthermore, a great ability in Multiscale allows it to survive super effective attacks from the likes of
+
+Iron Valiant
+
+and
+
+Hydreigon
+
+. Extreme Speed allows Dragonite to serve as a sweeper, easily sweeping through frail foes that don't resist it, and it also revenge kills boosted, albeit weakened, setup sweepers such as
+
+Volcarona
+
+. Earthquake targets Steel- and Poison-types like
+
+Iron Treads
+
+,
+
+Bisharp
+
+,
+
+Heatran
+
+, and
+
+Toxapex
+
+. Fire Punch allows Dragonite to threaten foes that resist Outrage and are immune to Earthquake like
+
+Corviknight
+
+,
+
+Skarmory
+
+, and Air Balloon
+
+Gholdengo
+
+.
+
+Corviknight is an essential teammate for Dragonite, since it handles Rock-, Fairy-, and Ice-types like
+
+Ogerpon-C
+
+,
+
+Hatterene
+
+, and
+
+Weavile
+
+with Iron Head, pivots it in with U-turn, and uses Defog to remove Stealth Rock that would otherwise wear Dragonite down over time and break Multiscale. In return, Corviknight appreciates Dragonite handling the aforementioned Fire-types as well as Electric-types like
+
+Magnezone
+
+and
+
+Raging Bolt
+
+. Skarmory and
+
+Gliscor
+
+set up entry hazards to help Dragonite in its wallbreaking. Additionally, Skarmory can wall physical attackers like Bisharp and
+
+Iron Boulder
+
+with Iron Defense and threaten them back with Body Press, while Gliscor aids in the Electric matchup thanks to its Ground typing.
+
+Zapdos
+
+makes for a great partner, as it can pivot Dragonite in with Volt Switch and take care of physically bulky threats like
+
+Amoonguss
+
+and Iron Defense Corviknight. Dragonite handles Iron Treads and
+
+Clodsire
+
+in return. Choice Scarf
+
+Enamorus
+
+is great speed control, as it takes care of faster threats that can threaten Dragonite like
+
+Dragapult
+
+,
+
+Garchomp
+
+, and Choice Specs
+
+Greninja
+
+. In return, Enamorus appreciates Dragonite taking out Steel-types like Gholdengo and Iron Treads with Earthquake and Fire Punch.
+
+Landorus
+
+, with its colorful coverage, takes out threats to Dragonite like Choice Band
+
+Hisuian Arcanine
+
+,
+
+Kyurem
+
+, and
+
+Archaludon
+
+. Dragonite's wallbreaking is appreciated by late-game sweepers like
+
+Galarian Moltres
+
+that take advantage of Dragonite removing its checks like Clodsire and Toxapex to set up and sweep.
+
+Equipped with a Choice Band, Dragonite makes for a strong wallbreaker on Dragon teams with its great coverage. With Extreme Speed, Dragonite not only revenge kills weakened threats, but it also serves as a cleaning option against foes that lack the proper physical bulk to deal with it. Earthquake breaks through bulky Poison- and Steel-types such as
+
+Toxapex
+
+,
+
+Alolan Muk
+
+, non-Air Balloon
+
+Heatran
+
+, and
+
+Hisuian Goodra
+
+. Fire Punch handles Grass- and Ice-types like
+
+Amoonguss
+
+and
+
+Frosmoth
+
+, as well as foes that can otherwise ignore Dragonite's other moves like unboosted
+
+Corviknight
+
+and
+
+Skarmory
+
+.
+
+Dragonite appreciates entry hazard support from the likes of
+
+Archaludon
+
+and
+
+Garchomp
+
+. Additionally, Archaludon's great physical bulk allows it to switch in on physical attackers it easily shrugs off hits from like the
+
+Ogerpon
+
+formes,
+
+Meowscarada
+
+, and
+
+Kleavor
+
+, while Garchomp has to potential to set up and sweep late-game with Swords Dance and Scale Shot. In return, Dragonite handles
+
+Volcarona
+
+for Archaludon, while Garchomp appreciates the removal of Corviknight and Skarmory.
+
+Dragapult
+
+with Will-O-Wisp pairs well with Dragonite, as it weakens physical attackers such as
+
+Bisharp
+
+and
+
+Iron Hands
+
+so that Dragonite deals with them more easily, and Dragonite removes Alolan Muk for Dragapult in return. Hisuian Goodra makes for a great defensive partner, as with its great special bulk, it shrugs off attacks from the likes of
+
+Greninja
+
+and
+
+Flutter Mane
+
+, and it threatens Fairy-types like the aforementioned Flutter Mane. Hisuian Goodra also has access to Knock Off to remove items like Leftovers and Black Sludge from their holders so that Dragonite can threaten them more easily. Choice Scarf
+
+Roaring Moon
+
+provides great speed control, and with its colorful moveset, it threatens Ghost- and Fairy-types like Dragapult,
+
+Spectrier
+
+, non-Choice Scarf Flutter Mane, and
+
+Iron Valiant
+
+and brings Dragonite in safely with U-turn. In return, Roaring Moon appreciates Dragonite handling Bug- and Fighting-types like
+
+Scizor
+
+, Volcarona, and
+
+Okidogi
+
+. Choice Scarf
+
+Latias
+
+is another great form of speed control, as it handles fast Dragon- and Fighting-types like Choice Specs Dragapult, Iron Valiant, and
+
+Great Tusk
+
+and it can use Trick to shut down walls like Amoonguss and Skarmory so Dragonite can more easily deal with them. Additionally, it provides Healing Wish support to not only give Dragonite another chance at wallbreaking also restore its Multiscale. Dragonite's wallbreaking opens the door for late-game sweepers such as Swords Dance Garchomp, Calm Mind
+
+Raging Bolt
+
+, and Calm Mind
+
+Latios
+
+to set up and start their own sweep.
+
+Dragonite is the premier setup sweeper on Flying teams thanks to its access to Dragon Dance and diverse movepool. Outrage or Dragon Claw are the STAB attacks of choice, hitting Dragon-type threats such as
+
+Dragapult
+
+,
+
+Latios
+
+, and
+
+Kyurem
+
+, while Earthquake provides solid coverage, removing Steel-types like non-Air Balloon
+
+Heatran
+
+and
+
+Gholdengo
+
+along with hitting Fire- and Rock-types such as
+
+Hisuian Arcanine
+
+and
+
+Glimmora
+
+. Extreme Speed provides utility in allowing Dragonite to clean up weakened threats along with catching Choice Scarf threats that outspeed it even after a Dragon Dance such as
+
+Meowscarada
+
+. Alternatively, Fire Punch hits both
+
+Skarmory
+
+and
+
+Corviknight
+
+, which could otherwise wall Dragonite, while Roost provides a way to keep Dragonite healthy, regain Multiscale, and safely tank resisted hits from the likes of
+
+Barraskewda
+
+. An Adamant nature is preferred, allowing Dragonite to remove
+
+Raging Bolt
+
+without a boost, while Jolly is an option to outspeed threats like Dragapult and
+
+Flutter Mane
+
+at +1.
+
+Corviknight and Skarmory both make great support for Dragonite, with both handling Ice- and Rock-type threats like
+
+Weavile
+
+,
+
+Mamoswine
+
+, and
+
+Tyranitar
+
+. Corviknight can continue to support Dragonite by using U-turn to provide safe entry and Defog to remove Stealth Rock should Dragonite lose its Heavy-Duty Boots, while Skarmory supports Dragonite with entry hazards to chip down bulky walls such as
+
+Galarian Weezing
+
+, Corviknight, and opposing Skarmory, which can prove problematic.
+
+Gliscor
+
+and the
+
+Landorus
+
+formes remove Electric- and Rock-type threats such as Raging Bolt,
+
+Regieleki
+
+, and
+
+Iron Boulder
+
+along with using Stealth Rock to provide additional entry hazard support. Choice Scarf
+
+Enamorus
+
+removes Dragon- and Dark-type threats like Latios, Dragapult, and
+
+Sableye
+
+, giving Dragonite safer sweeping opportunities, and provides Healing Wish support to reactivate Multiscale, allowing Dragonite another chance to set up.
+
+Tornadus-T
+
+forms a solid wallbreaking core, with its powerful special attacks removing physical walls such as Galarian Weezing and
+
+Great Tusk
+
+, along with taking on foes like
+
+Ogerpon-H
+
+, which can pose challenges to Dragonite.
+
+Other Options
+
+Dragon Dance (Flying)
+
+Encore can be used on threats such as
+
+Raging Bolt
+
+,
+
+Primarina
+
+, and
+
+Bisharp
+
+to lock them into setup moves while also allowing Dragonite to take advantage of
+
+Gliscor
+
+,
+
+Skarmory
+
+, and
+
+Toxapex
+
+on a predicted non-damaging or non-status move. A combination of Thunder Punch and Ice Spinner can be used to deal with opposing Flying teams with its perfect coverage, but such a set needs to have Iron Defense Skarmory removed prior.
+
+Thanks to the sheer power of Tera Normal Extreme Speed, Dragonite is one of DOU’s biggest threats, threatening to KO a large portion of the metagame. Dragonite also has excellent coverage, allowing it to hit any Pokémon that aren't afraid of Extreme Speed, such as
+
+Gholdengo
+
+and
+
+Iron Treads
+
+. Dragonite’s Dragon/Flying allows it to take attacks such as
+
+Chi-Yu
+
+'s Heat Wave and
+
+Palafin
+
+'s Jet Punch while also granting it immunity to Earthquakes from
+
+Garchomp
+
+and
+
+Great Tusk
+
+. Tera Normal also allows it to survive threatening Dragon- and Ice-type attacks. Inner Focus lets Dragonite avoid Attack drops from Intimidate and flinches from Fake Out. Dragonite is most commonly paired with
+
+Chien-Pao
+
+, as Sword of Ruin lowers the Defense of foes, allowing Extreme Speed to deal more damage. This pairing is preferred by offensive teams but can fit on other archetypes appreciate Dragonite's power and priority. Due to Dragonite's heavy dependence on Extreme Speed, Pokemon that can block priority moves such as
+
+Farigiraf
+
+,
+
+Tsareena
+
+, and
+
+Indeedee-F
+
+limit its effectiveness. Dragonite also struggles against Pokémon with high physical bulk that can take an Extreme Speed and threaten it in return such as Great Tusk,
+
+Iron Hands
+
+,
+
+Amoonguss
+
+, and
+
+Garganacl
+
+. Additionally, Dragonite is greatly hindered by Stealth Rock, which nullifies Multiscale and limits its longevity.
+
+Extreme Speed allows Dragonite to KO opposing priority users such as
+
+Murkrow
+
+and
+
+Palafin
+
+before they can move.
+
+Dragon Claw gives Dragonite a strong STAB move in positions where using Extreme Speed is undesirable. It also threatens an OHKO on opposing Dragonite and
+
+Garchomp
+
+.
+
+Ice Spinner allows Dragonite to remove the priority-blocking Psychic Terrain, threaten an OHKO on opposing Dragonite and Garchomp, and hit the many Ground-types in the tier super effectively.
+
+Alternatively, Facade allows Dragonite to avoid the damage reduction from being burned and is boosted by Tera Normal.
+
+One of Fire Punch, Stomping Tantrum, or Earthquake is wanted to damage Steel-types. Fire Punch allows Dragonite to hit Grass- and Ice-types such as
+
+Amoonguss
+
+,
+
+Abomasnow
+
+, and
+
+Chien-Pao
+
+, while Earthquake allows it to hit Rock-, Electric-, and Fire-type Pokemon such as
+
+Glimmora
+
+,
+
+Iron Hands
+
+, and
+
+Armarouge
+
+. Earthquake is most useful on teams with teammates that are immune to Ground-type attacks.
+
+The given EV spread maximizes Dragonite's damage and bulk, as it does not need to invest in Speed thanks to Extreme Speed's priority.
+
+Multiscale can be used over Inner Focus on teams that want additional bulk and have a method of entry hazard removal.
+
+Choice Band lets Dragonite focus on spamming Extreme Speed and boosts its damage immensely.
+
+Other Options
+
+Life Orb can be used on offensive teams that need Dragonite to be capable of switching moves while still dealing lots of damage.
+
+A mixed Life Orb set with Hurricane is a viable set on rain teams. Life Orb or Sharp Beak allows Dragonite to threaten an OHKO on
+
+Amoonguss
+
+.
+
+Iron Head Dragonite is useful on teams that want increased damage against Fairy-types such as
+
+Grimmsnarl
+
+and
+
+Sylveon
+
+.
+
+Running an Assault Vest on Dragonite gives it more bulk and allows it to switch between moves at the cost of decreasing its offensive presence.
+
+Weakness Policy Tailwind Dragonite can use Multiscale to tank a hit and leverage speed control while dealing increased damage.
+
+This Pokemon has been updated for the return of the Regulation G format and its powerful restricted threats!
+
+Choice Band makes Dragonite both an effective late-game cleaner and revenge killer with Extreme Speed, and a powerful wallbreaker against foes such as
+
+Ting-Lu
+
+,
+
+Ursaluna-B
+
+, and
+
+Dondozo
+
+.
+
+Extreme Speed
+
+: Boosted by both Choice Band and Tera Normal, Extreme Speed easily 2HKOes up to maximum HP
+
+Miraidon
+
+that aren't running Electric Seed.
+
+Outrage
+
+: Outrage is strong enough to potentially 2HKO Bold Ursaluna-B and Impish Dondozo after Stealth Rock damage, though it leaves Dragonite very vulnerable to getting revenge killed.
+
+Earthquake
+
+: Earthquake provides the best overall coverage against Steel-types that resist Extreme Speed and Outrage.
+
+Low Kick
+
+: Low Kick is Dragonite's best move against Ursaluna-B, making it much more difficult for Ursaluna-B to stall with Moonlight without defensive Terastallization.
+
+Ice Spinner
+
+: Ice Spinner is primarily used to punish
+
+Landorus-T
+
+that try to switch in, and being super effective against common Dragon-types makes it a rather effective midground option when trying to predict switches.
+
+Other Options
+
+Tera Blast Flying
+
+: While not as dominating as in past regulations, Tera Blast Flying is still one of Dragonite's hardest-hitting moves that has no type immunities to worry about. If using this option, a Special Attack IV of 17 or lower is needed to prevent Tera Blast from flipping to a special attack after being hit by
+
+Flutter Mane
+
+'s Charm.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: This Dragonite will usually want to Terastallize to either increase its revenge killing or wallbreaking capabilities, but Choice Band's power doesn't make this strictly necessary.
+
+Normal
+
+: Tera Normal massively boosts Dragonite's revenge killing potential with Extreme Speed and cuts off
+
+Calyrex-S
+
+'s Astral Barrage from doing any damage.
+
+Flying
+
+: With Tera Blast, Tera Flying is a strong wallbreaking option that lets Dragonite potentially 2HKO bulky Pokemon like defensive Ursaluna-B. It also lets Dragonite demolish offensive
+
+Urshifu
+
+formes without the need for Outrage.
+
+Dragonite is a great user of Scale Shot, utilizing its bulk and Multiscale to set up easily.
+
+Dragon Dance
+
+: A single Dragon Dance makes Scale Shot much more consistent at OHKOing Focus Sash
+
+Chien-Pao
+
+while also enabling five-hit Scale Shot to OHKO offensive
+
+Urshifu
+
+.
+
+Iron Head
+
+: Iron Head punishes Fairy-types and Tera Fairy users that try to block Scale Shot.
+
+Earthquake
+
+: Earthquake provides great all-around coverage while reliably hitting common Steel-types.
+
+Extreme Speed
+
+: Extreme Speed is useful for revenge killing faster foes and helps Dragonite outrun other priority users trying to exploit Scale Shot's Defense drops.
+
+Adamant versus Jolly
+
+: Jolly allows Dragonite to outspeed Chien-Pao,
+
+Flutter Mane
+
+,
+
+Koraidon
+
+, and
+
+Miraidon
+
+after a single Dragon Dance. However, many of these targets employ means of raising their Speed, so it is usually more worth it to maximize damage with Adamant and try to hit +2 Speed instead.
+
+Other Options
+
+Low Kick
+
+: Low Kick gives Dragonite the most damage output against
+
+Ursaluna-B
+
+, which is otherwise strong at stopping Dragonite's momentum.
+
+Encore
+
+: Encore with Dragon Dance makes it easier to set up on passive foes, but the sacrifice in coverage can make it difficult to fit.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Dragonite's bulk and Multiscale still go a long way in helping it set up, but Terastallization can extend its reach and make it harder to revenge kill.
+
+Steel
+
+: Tera Steel is a powerful response to Fairy-types like Flutter Mane, resisting Moonblast and boosting Iron Head. The resistance to Normal-type moves is also strong, helping cushion Ursaluna-B and opposing Extreme Speed Dragonite.
+
+Normal
+
+: Tera Normal remains a strong option for boosting Extreme Speed and shedding Dragonite's Dragon-type weaknesses. It also shuts down Astral Barrage from
+
+Calyrex-S
+
+.
+
+With Tera Normal, Dragonite can do its best impression of
+
+Arceus
+
+, with a powerful Extreme Speed that makes Dragonite a great revenge killer, and even a sweeper if using Dragon Dance!
+
+Earthquake
+
+: Earthquake offers the best coverage against the widest variety of Normal-type resistances, with
+
+Archaludon
+
+,
+
+Glimmora
+
+, and
+
+Scizor
+
+being big targets.
+
+Encore
+
+: Encore lets Dragonite disrupt passive Pokemon and gives it incredible switch-in opportunities, making it a worthy move to consider. It can give free setup when paired with Dragon Dance, or it can turn Dragonite into a long-term defensive disruptor when paired with Roost.
+
+Tera Dependency - High
+
+: This set benefits immensely from the ability to Terastallize to both boost Extreme Speed's power while also removing Dragon type weaknesses. However, care should be taken on the timing of Terastallization depending on the matchup, as Dragonite more effectively checks several prominent threats, such as
+
+Urshifu-R
+
+and
+
+Ogerpon-H
+
+, with its base typing.
+
+Other Options
+
+Dragon Tail
+
+: Dragon Tail is a unique alternative to Encore, allowing Dragonite to phaze out fast setup attackers that are risky to switch into or otherwise catch with Encore, such as
+
+Calyrex-S
+
+.
+
+Items
+
+Rocky Helmet
+
+: Rocky Helmet lets Dragonite play more passively against physical threats, which is especially relevant before it Terastallizes. In particular, Urshifu-R without Punching Gloves takes a lot of damage from using Surging Strikes.
+
+Silk Scarf
+
+: Silk Scarf gives a small but significant boost to Extreme Speed's cleaning power. When used with Tera Normal, Dragonite can 2HKO offensive
+
+Miraidon
+
+!
+
+Leftovers
+
+: The residual recovery of Leftovers makes it easier to maintain Multiscale when using Roost.
+
+Heavy-Duty Boots
+
+: Stealth Rock is commonly set up specifically to break Dragonite's Multiscale, so Heavy-Duty Boots are a good way to always preserve Dragonite's ability to set up and revenge kill.
+
+Alternate EV Spread
+
+252 HP / 252 Def / 4 Spe with Impish
+
+Going fully defensive means Dragonite won't sweep nearly as easily, but Dragonite is still capable of being an effective defensive Pokemon even after Terastallization.
+
+Speed EV Benchmarks
+
+After a single Dragon Dance or Scale Shot, Dragonite will always outspeed up to Adamant Urshifu-formes regardless of Dragonite's Speed investment.
+
+12 Spe
+
+: At +1, this outspeeds Modest
+
+Chi-Yu
+
+.
+
+44 Spe
+
+: This outspeeds uninvested
+
+Archaludon
+
+.
+
+76 Spe
+
+: At +1, this outspeeds Jolly Urshifu-formes.
+
+92 Spe
+
+: This outspeeds uninvested
+
+Landorus-T
+
+. At +1, this outspeeds Timid Chi-Yu. At +2, this outspeeds Timid
+
+Calyrex-S
+
+.
+
+100 Spe
+
+: This outspeeds the uncommon Jolly
+
+Ursaluna
+
+.
+
+132 Spe
+
+: This outspeeds uninvested
+
+Mimikyu
+
+.
+
+140 Spe
+
+: This outspeeds uninvested Urshifu-formes.
+
+172+ Spe
+
+: At +1, this outspeeds Adamant
+
+Zacian-C
+
+.
+
+204+ Spe
+
+: At +1, this outspeeds Pokemon with base Speeds of 135 and a positive Speed nature such as Jolly
+
+Chien-Pao
+
+and Timid
+
+Miraidon
+
+.
+
+With Multiscale's incredible bulk potential and Dragon Tail bypassing Taunt, Dragonite is a unique and very effective phazer that massively ups the danger of entry hazards!
+
+Dragon Tail VS. Roar
+
+: Dragon Tail is preferred for it disregarding Taunt and providing some good chip damage. However, Roar can phaze out meddlesome Fairy-types and users of Substitute.
+
+Entry Hazard Teammates
+
+: For this Dragonite to be at its most effective, you'll need some partners to at least set up Stealth Rock.
+
+Ting-Lu
+
+and
+
+Archaludon
+
+are particularly bulky examples that pair well, but other options include
+
+Landorus-T
+
+,
+
+Swampert
+
+, and
+
+Annihilape
+
+.
+
+Earthquake VS. Iron Head
+
+: Earthquake is the most wide-reaching coverage move, ensuring good damage against Normal resistances like
+
+Garganacl
+
+and Archaludon. If using Roar, Iron Head prevents Levitate Pokemon from completely walling Dragonite, and its flinch rate synergies well with Thunder Wave.
+
+Thunder Wave
+
+: Dragonite's bulk makes it an ace at spreading paralysis, making it more of a team supporter.
+
+Substitute versus Encore
+
+: Substitute is a fantastic option against Pokemon with status moves that threaten Dragonite's phazing cycles, such as Garganacl,
+
+Porygon2
+
+, and
+
+Toxapex
+
+. Encore won't do as well against these threats but does punish opposing foes carrying Substitute that can be a problem for Dragon Tail along with slower foes that use status moves in general such as Ting-Lu and
+
+Ursaluna-B
+
+. Encore can even be used over extra coverage if teammates can deal with Fairy-types.
+
+Extreme Speed versus Aqua Jet
+
+: Extreme Speed's ability to pick off threats is useful, even on defensive variants of this set. Despite being half as powerful, Aqua Jet is still worth considering for its ability to pick off weakened
+
+Flutter Mane
+
+, which can be difficult for this set to handle due to its power when Multiscale isn't in play.
+
+Items
+
+Leftovers
+
+: Leftovers is a high value item, but it's worth using on Dragonite if using Substitute, as it gives Dragonite a serious chance of passively gaining Multiscale's effect back.
+
+Rocky Helmet
+
+: Rocky Helmet allows Dragonite to play more passively, punishing Pokemon that rely on contact moves like Choice Item
+
+Urshifu-R
+
+and Annihilape.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots' Stealth Rock immunity makes Multiscale more flexible, especially if Dragon Tail brings in a threat Dragonite isn't equipped to handle.
+
+Alternate EV Spreads
+
+252 HP / 76 Def / 180 Spe with Impish
+
+: This spread gives up quite a bit of bulk in exchange for outspeeding Adamant
+
+Breloom
+
+, while still often mantaining a Substitute against Garganacl's Salt Cure.
+
+252 HP / 124 Atk / 108 Def / 4 SpD / 20 Spe with Adamant
+
+: This EV spread is optimized for use with Earthquake and Aqua Jet, allowing Dragonite to 2HKO 4 Defense Flutter Mane with that combination of moves without needing to Terastallize. Only Modest Tera Fairy Flutter Mane will have a chance to OHKO through Multiscale.
+
+252 HP / 252 Atk / 4 Spe with Adamant
+
+: This EV spread is a far more offensive approach, mainly for use with Extreme Speed to pick off threats more effectively.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Dragonite's defensive typing can be quite helpful against foes like Urshifu-R and
+
+Chi-Yu
+
+, but some of the huge exploitable weaknesses to Pokemon like
+
+Chien-Pao
+
+and Flutter Mane will require Terastallization to cover.
+
+Fairy
+
+: Tera Fairy's Dragon immunity gels well with Dragonite and is a great defensive typing in general against foes like Chien-Pao and
+
+Urshifu
+
+.
+
+Steel
+
+: Tera Steel is not only an incredible defensive typing that covers much of Dragonite's former weaknesses, but the power boost it provides to Iron Head lets it OHKO all but the most bulky Flutter Mane.
+
+Normal
+
+: Tera Normal isn't that incredible defensively, but it can be worth it for boosting Extreme Speed's power, letting offensive EV spreads 2HKO Chien-Pao with it.
+
+Paraflinch Dragonite is a defensively oriented Dragonite set that takes full advantage of Terastallization and the element of surprise to cripple and downright defeat numerous Pokemon. Multiscale allows Dragonite to paralyze its foes relatively safely, becoming a massive nuisance for unprepared opponents.
+
+Air Slash vs. Iron Head
+
+: Air Slash is a more practical move for this set, as it can cover a wider range of Pokemon for at least neutral damage. Air Slash also does not trigger Rocky Helmet and is naturally boosted by Dragonite's STAB. The Iron Head variant of Paraflinch, however, gives Dragonite an easier time against a number of common threats such as
+
+Flutter Mane
+
+, at the cost of struggling against
+
+Gouging Fire
+
+before they Terastallize.
+
+Encore vs. Substitute
+
+: Encore will allow Dragonite to effectively check a wider variety of Pokemon such as
+
+Ursaluna-B
+
+by locking them into an unfavorable move, giving it a free opportunity to land Thunder Wave on your opponent's switch-in on the following turn. Substitute, on the other hand, will give Dragonite a much easier time dealing with defensive Pokemon that rely on status infliction such as
+
+Porygon2
+
+and Dragon Tail
+
+Archaludon
+
+.
+
+Other Options
+
+Waterfall
+
+: Waterfall can be a viable option. However, the move is less reliable for the application of this set, as its chance to flinch is 20% as opposed to Air Slash and Iron Head's 30%. It does deal more damage to common Electric-types like
+
+Thundurus-T
+
+though.
+
+EV and IV Spreads
+
+244 HP / 236 Def / 28 Spe
+
+: 52 Speed EVs are the minimum Speed requirement to outspeed paralyzed
+
+Iron Bundle
+
+that lack Booster Energy.
+
+252 HP / 140 Def / 116 Spe
+
+: This is the minimum requirement to outspeed paralyzed Modest Choice Scarf
+
+Chi-Yu
+
+.
+
+0 Attack IVs
+
+: If using Air Slash, 0 Attack IVs are highly recommended for having a high chance of retaining Substitute against STAB Foul Play users such as Porygon2
+
+Tera Types
+
+Tera Dependency - High
+
+: In order for Dragonite to survive multiple turns against the likes of
+
+Chien-Pao
+
+and Flutter Mane, Terastallizating into a better defensive typing is usually a must.
+
+Steel
+
+: Steel is a great defensive type that provides resistance to Fairy-type attacks, such as Moon Blast from Flutter Mane. If using the physical set, Tera Steel also provides a significant boost to the damage of Iron Head.
+
+Fairy
+
+: Tera Fairy is Dragonite's best option against opposing Dragon-types, such as
+
+Roaring Moon
+
+and Gouging Fire.
+
+Water
+
+: Tera Water provides Dragonite with the much-needed defensive versatility to paralyze and wall common threats, such as Chien-Pao and
+
+Azumarill
+
+. Water is an excellent defensive type in general with its only weaknesses being Electric and Grass.
+
+Dragonite's good bulk gives it plenty of chances to set up Dragon Dance, while still providing a solid defensive backbone.
+
+Earthquake
+
+: Earthquake is a reliable move for covering Steel-types, and Fire-types like
+
+Gouging Fire
+
+if using Iron Head and Tera Steel.
+
+Breaking Swipe
+
+: While weak, Breaking Swipe's Attack drop makes it even easier for Dragonite to set up, making it preferred over Dragon Claw.
+
+Encore
+
+: Encore makes setting up on slower defensive foes such as
+
+Corviknight
+
+fairly easy, though the lack of coverage makes Terastallizing far more important.
+
+Thunder Punch versus Electric Tera Blast
+
+: If using Tera Electric, Thunder Punch is a low-power but reliable STAB option. However, while Tera Blast almost certainly requires Dragonite to Terastallize, it does avoid Rocky Helmet chip damage and is a tad more powerful.
+
+Other Options
+
+Ice Spinner
+
+: Ice Spinner deals massive damage to
+
+Landorus-T
+
+and other Flying-types, making it a reasonable coverage option to consider if using a Tera type that can deal with Steel-types, like Water or Electric.
+
+Items
+
+Rocky Helmet
+
+: Rocky Helmet lets Dragonite play more passively thanks to the chip damage, and can be paired with Encore to severely punish slower physical attackers like
+
+Scizor
+
+.
+
+Clear Amulet
+
+: Clear Amulet stops common Attack debuffers such as Charm
+
+Flutter Mane
+
+and Intimidate Landorus-T from ruining Dragonite's offenses, making it much harder to cycle around. As a bonus, it also stops Rock Tomb Speed drops from common foes like
+
+Ogerpon-H
+
+.
+
+Heavy-Duty Boots
+
+: Preserving Multiscale even when Stealth Rock is set up can help Dragonite survive attacks in emergencies.
+
+Leftovers
+
+: Leftovers's passive healing gives Dragonite a better matchup against passive foes it can Encore.
+
+Covert Cloak
+
+: With Covert Cloak and Encore, Dragonite becomes a very solid check to
+
+Garganacl
+
+, as well as no longer fearing Breaking Swipe or flinches.
+
+Weakness Policy
+
+: Since Multiscale makes Dragonite very difficult to OHKO, Weakness Policy is a viable option to turn the tables on foes targeting Dragonite's weaknesses.
+
+EV Spreads
+
+252 HP / 188 Defense / 76 Spe with Impish
+
+: This EV spread outspeeds up to Jolly
+
+Urshifu
+
+after one Dragon Dance, and
+
+Iron Bundle
+
+after two Dragon Dances.
+
+252 HP / 52 Def / 204 Spe with Jolly
+
+: This is the minimum Speed needed to outspeed Timid Iron Bundle after a boost, and it also outspeeds Flutter Mane and
+
+Chien-Pao
+
+.
+
+252 HP / 140 Defense / 112 Speed with Impish
+
+: This spread outspeeds Adamant
+
+Roaring Moon
+
+, Jolly
+
+Garchomp
+
+, and Timid
+
+Chi-Yu
+
+after Dragon Dance, all of which are threats that can easily revenge kill Dragonite once Multiscale is broken.
+
+Tera Types
+
+Tera Dependency - High / Almost Required
+
+: This Dragonite lacks a powerful STAB attack without Terastallization, making it highly recommended. If using Tera Flying with Tera Blast as the only attack, this set will need Terastallization to function.
+
+Steel
+
+: Tera Steel covers Dragonite's former weaknesses very well, and can still work somewhat well even if not Terastallized thanks to Iron Head, though note it makes this Dragonite much more vulnerable to Urshifu and Ogerpon-H.
+
+Flying
+
+: With Tera Blast, Tera Flying gives Dragonite a solid mono-attacking option and defensive typing in one, at the cost of almost always needing to Terastallize to function.
+
+Electric
+
+: Though this requires extra coverage to be viable, Tera Electric shields Dragonite from paralysis, which can be combined with Clear Amulet to ruin more supportive Flutter Mane sets! Being only weak to Ground-type attacks also makes it a solid defensive Tera Type for Dragonite.
+
+Fairy
+
+: Tera Fairy gives Dragonite an excellent mono-attacking Tera Blast that gives it an advantage over other Dragon-types.
+
+Water
+
+: Tera Water gifts Dragonite a resistance to Chien-Pao's Icicle Crash without being weak to Sacred Sword, plus it pairs well with Waterfall.
+
+Due to Dragonite's offensive presence and high bulk, many opponents choose to either check it defensively or set up against it to break through Roost + Multiscale. Against either option, Encore can turn Dragonite practically invincible allowing it to reside on the field indefinitely in most cases.
+
+Fire Spin
+
+: This allows Dragonite to defeat almost any Pokemon universally by simply making full use of its longevity. Trapping an Encore locked Pokemon in the field is also highly valuable. Fire Spin is used instead of Wrap because it affects Ghost-types and doesn't trigger chip damage from Rough Skin and Rocky Helmet.
+
+Earthquake versus Iron Head
+
+: Earthquake prevents Dragonite from being entirely passive against
+
+Archaludon
+
+,
+
+Gouging Fire
+
+, and
+
+Flutter Mane
+
+. Meanwhile, Iron Head fits using Tera Steel, and does massive damage to Flutter Mane.
+
+Draco Meteor
+
+: With a Bold Nature, Draco Meteor is a powerful move that can catch opposing Dragon-types off-guard and deal big damage to
+
+Ursaluna-B
+
+and
+
+Urshifu
+
+formes.
+
+Items
+
+Leftovers versus Heavy-Duty Boots
+
+Generally, Leftovers preserves Dragonite’'s longevity best, as it cancels out the damage from Sandstorm and makes timer stall easier. However, the increased usage of entry hazard setters in response to Dragonite makes Heavy-Duty Boots a strong option.
+
+Rocky Helmet
+
+: Rocky Helmet makes it easier for Dragonite to defeat Pokemon such as opposing Dragonite,
+
+Urshifu-R
+
+, and Gouging Fire (while Dragonite is Terastallized), and its residual damage can be used to execute a win condition.
+
+Covert Cloak
+
+: With Covert Cloak, this Dragonite becomes a very effective check to
+
+Garganacl
+
+, in addition to no longer being vulnerable to flinches from
+
+Chien-Pao
+
+'s Icicle Crash while Terastallizing.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Dragonite's typing does have some fairly exploitable weaknesses that can harm its defensive capability, but an immunity to Toxic Spikes and useful resistances to common attack types such as Ground, Fire, and Fighting mean that Terastallization is not always the right play.
+
+Fairy
+
+: Due to Dragonite’'s low Speed compared to other Dragon-types, Tera Fairy is a great response against them. This also retains its advantage against Urshifu formes.
+
+Steel
+
+: Tera Steel massively improves Dragonite's matchups against Flutter Mane and
+
+Iron Bundle
+
+, at the cost of being even more vulnerable to Salt Cure and Urshifu formes.
+
+Water
+
+: Tera Water adds a resistance to Ice without losing Dragonite's innate Fire-type resistance, which is helpful against Chien-Pao and Urshifu-R.
+
+Poison
+
+: The niche Tera Poison gives Dragonite a way to remove its common weaknesses without being vulnerable to Toxic Spikes, while still resisting Fighting unlike Tera Steel.
+
+With Flying-type Tera Blast OHKOing physically frail and Flying-weak Pokemon such as
+
+Flutter Mane
+
+,
+
+Ogerpon-H
+
+, and
+
+Urshifu-R
+
+, this set is effective at fooling opponents into thinking that it's Choice Band Dragonite.
+
+Aqua Jet
+
+: It may seem redundant with Extreme Speed, but Aqua Jet is a key move for picking off weakened Ghost-types, such as Flutter Mane, and surprising Focus Sash Pokemon that might use Tera Ghost to avoid being sniped by Extreme Speed, such as
+
+Iron Bundle
+
+. This can also work against
+
+Chien-Pao
+
+, but Icicle Crash's flinch chance makes this rather risky.
+
+Earthquake versus Low Kick
+
+: Earthquake is the preferred coverage move for dealing big damage against
+
+Archaludon
+
+and
+
+Gholdengo
+
+, common responses to a Dragonite locked into Tera Blast. Low Kick trades smacking Gholdengo for revenge killing opposing Tera Normal Dragonite and dealing massive damage to
+
+Ting-Lu
+
+.
+
+Adamant versus Jolly
+
+: Adamant is the best nature for needing less chip damage to revenge kill weakened targets with priority attacks, but Jolly can make sense if outspeeding foes like Modest Gholdengo, Adamant
+
+Gouging Fire
+
+, and the rare Jolly
+
+Breloom
+
+is appealing.
+
+Tera Dependency - Almost Required
+
+: This set is highly reliant on using Tera Blast as a luring tool, so Terastallization should be a top priority for Dragonite.
+
+Items
+
+Sharp Beak
+
+: Sharp Beak gives Dragonite the most offensive presence with the fewest drawbacks, giving Flying-type Tera Blast just enough of a boost to usually 2HKO
+
+Ursaluna-B
+
+, or 3HKO defensive variants.
+
+Assault Vest
+
+: Assault Vest vastly improves Dragonite's matchup against Iron Bundle and Flutter Mane, especially if Multiscale's protection has been lost.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots means Stealth Rock will no longer remove this set's ability to trade blows with powerful threats.
+
+While giving up Extreme Speed and Scale Shot may seem unusual, it allows Dragonite to use both Multiscale and the unpredictability of Terastallization to become an extremely dangerous bulky sweeper that teams often have the wrong response to!
+
+Roost
+
+: Despite this set's more offensive approach, Roost is still highly recommended for taking full advantage of Multiscale.
+
+Iron Head
+
+: Iron Head is a good choice if using Tera Steel, but even outside of that, it offers much more damage against
+
+Flutter Mane
+
+and common Tera Fairy foes like
+
+Raging Bolt
+
+and
+
+Toxapex
+
+than Earthquake.
+
+Outrage
+
+: Outrage has tremendous power compared to any other attack from Dragonite, but Flutter Mane flipping it into a chance to revenge kill means it's best to lock-in late-game when the sweeping shot is clear.
+
+Ice Spinner
+
+: Ice Spinner works best with Clear Amulet, making sure
+
+Landorus-T
+
+and Dragonite are easy to break through before they Terastallize.
+
+Adamant versus Jolly
+
+: Adamant is usually preferred for the extra damage output, and the given EV spread still outspeeds Adamant
+
+Chien-Pao
+
+after a Dragon Dance. Jolly is required for outspeeding Timid Flutter Mane and
+
+Iron Bundle
+
+though.
+
+Other Options
+
+Fire Punch
+
+: Fire Punch is handy for roasting
+
+Scizor
+
+and dealing good damage to
+
+Corviknight
+
+, but it can't replace Earthquake, since hitting
+
+Archaludon
+
+hard is extremely important.
+
+Thunder Punch
+
+: If using Tera Electric, Thunder Punch is a less risky alternative to Tera Blast in exchange for getting hit by Rocky Helmet. It's best used with Ice Spinner over Earthquake.
+
+Low Kick
+
+: Low Kick is an easy way to OHKO Chien-Pao compared to Earthquake, but Flutter Mane laughing at it means Iron Head becomes required coverage, and it does less damage to Archaludon than Earthquake.
+
+Items
+
+Clear Amulet
+
+: Clear Amulet protects Dragonite from Pokemon that can ruin its sweep with Attack debuffs, such as Landorus-T and Charm Flutter Mane, as well as Breaking Swipe users like
+
+Gouging Fire
+
+and opposing Dragonite.
+
+Lum Berry
+
+: Lum Berry is an effective way around common status spreaders like Flutter Mane, Archaludon, and
+
+Dragapult
+
+.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots ensures that Stealth Rock won't break Multiscale.
+
+Rocky Helmet
+
+: If using Roost, Rocky Helmet is a good way of punishing
+
+Urshifu-R
+
+'s Surging Strikes if it lacks Punching Glove or if switching into Aqua Jet.
+
+Tera Types
+
+Tera Dependency - High / Medium
+
+: If making use of Tera Blast for Tera types like Flying, Dragonite will usually want to Terastallize as much as possible. Without Tera Blast, it becomes less necessary, but it's still often worth doing due to it making Dragonite a nightmare to OHKO!
+
+Flying
+
+: Tera Blast Flying offers incredible power with no drawbacks outside of Terastallizing, making it a great choice for sweeping!
+
+Steel
+
+: Tera Steel is a more defensive approach to this set, covering Dragonite's common weaknesses to Fairy, Dragon, and Rock.
+
+Ground
+
+: When combined with Clear Amulet, Tera Ground gives Dragonite the tools to defeat common support Flutter Mane moves like Thunder Wave and Charm in addition to a powerful Earthquake.
+
+Electric
+
+: Tera Electric works great with Ice Spinner covering Landorus-T, giving Dragonite another way to soak up Thunder Wave and even
+
+Serperior
+
+'s Glare!
+
+Fairy
+
+: Tera Fairy isn't as great defensively for Dragonite as Tera Steel, but the Dragon immunity is great for keeping Multiscale intact, and it makes Dragonite a good check against
+
+Urshifu-S
+
+.
+
+Dragonite's great movepool, well-rounded stats, great ability in Inner Focus that makes it immune to Fake Out and Intimidate from
+
+Incineroar
+
+, and stellar matchups into threats like
+
+Urshifu-R
+
+,
+
+Rillaboom
+
+, and
+
+Ogerpon-W
+
+makes Dragonite a great Pokemon in Regulation F.
+
+When holding a Choice Band, Dragonite becomes one of the scariest Pokemon in the metagame for its breaking power. Its best partner,
+
+Chien-Pao
+
+, supports it with Sword of Ruin and pressures Pokemon that prevent Extreme Speed, such as
+
+Indeedee
+
+and
+
+Flutter Mane
+
+. Dragonite and Chien-Pao also are good into Rillaboom and Ogerpon-W, making
+
+Dondozo
+
+and
+
+Tatsugiri
+
+, which struggle with these two, great partners as well.
+
+Flutter Mane is also a great partner, as it breaks through
+
+Iron Hands
+
+and
+
+Gholdengo
+
+for Dragonite, while Dragonite is a great switch into Scarf Urshifu-R and Rillaboom.
+
+Extreme Speed is a priority move that hits the majority of the metagame for neutral damage, making it ideal to lock into.
+
+Aerial Ace allows Dragonite to OHKO Pokemon like
+
+Urshifu-R
+
+,
+
+Rillaboom
+
+, and Amoongus without having to be lock into Outrage. Aqua Jet is secondary priority and allows it to double up with its partner on Ghost-types like
+
+Flutter Mane
+
+, and Ice Spinner allows it to remove
+
+Indeedee-F
+
+'s Psychic Terrain while still having coverage for Pokemon like Rillaboom and Amoongus.
+
+Outrage is used as its Dragon-type STAB move and allows it to OHKO almost the entire metagame.
+
+Stomping Tantrum gives coverage into Steel-types like
+
+Kingambit
+
+and
+
+Archaludon
+
+.
+
+The Speed EVs allow Dragonite to outspeed
+
+Dragapult
+
+in Tailwind, with the remaining EVs maximize its Attack and round out its bulk, allowing it to live attacks such as Choice Specs Flutter Mane's Dazzling Gleam
+
+Normal is used as the Tera type, boosting Dragonite's Extreme Speed to stellar levels of power and removing its weaknesses to common Fairy- and Ice-type moves.
+
+Loaded Dice Dragonite threatens heavy damage and a boost to its Speed with Scale Shot, allowing it to outspeed Adamant
+
+Chien-Pao
+
+and Modest
+
+Flutter Mane
+
+. Inner Focus can be used to stop
+
+Incineroar
+
+from slowing it down, while Multiscale can make it difficult to remove, letting it get a key Scale Shot off.
+
+Dragonite is common on teams with partners that make it even harder to remove, especially if it has Multiscale, such as
+
+Ting-Lu
+
+'s Vessel of Ruin weakening foes like Flutter Mane and
+
+Raging Bolt
+
+, or
+
+Sinistcha
+
+'s Hospitality healing it back to full HP and reactivating Multiscale. Partners that struggle into Incineroar, such as Chien-Pao and
+
+Gouging Fire
+
+, appreciate Dragonite blocking Intimidate with Inner Focus and threatening it with damage.
+
+Scale Shot is Dragonite's strongest Dragon-type attack without risking locking into Outrage. Iron Head can threaten an OHKO on opposing Fairy-types like Flutter Mane and deal large damage to Tera Fairy Raging Bolt after Scale Shot pressures it to Terastallize. Extreme Speed can pick off low-HP targets and beat out other priority moves like Sucker Punch and Thunderclap.
+
+Loaded Dice turns Scale Shot into a much more powerful move on average, with four hits OHKOing less bulky variants of Raging Bolt and five hits nearly always securing an OHKO.
+
+After a Speed boost from Scale Shot, Dragonite outspeeds most of the unboosted metagame, allowing it to run an Adamant nature to improve damage rolls. Once its Speed is boosted, it can OHKO Focus Sash Chien-Pao with a five-hit Scale Shot and flinch slower foes with Iron Head. An Adamant nature is necessary for OHKOs on bulky Raging Bolt, and a Chien-Pao on the field can further improve damage rolls with Sword of Ruin.
+
+Tera Steel turns Dragonite's weaknesses to Dragon-, Fairy-, and Ice-type moves into resistances, helping against Draco Meteor from Raging Bolt, Moonblast from Flutter Mane, and Icicle Crash from Chien-Pao. Additionally, it boosts Iron Head's damage output, guaranteeing an OHKO on bulky Flutter Mane.
+
+Dragonite uses its high Attack and strong defenses, which are further boosted by Multiscale, to be a very powerful bulky physical attacker. It can be used to check a variety of metagame threats, including
+
+Sneasler
+
+,
+
+Rillaboom
+
+, and
+
+Torkoal
+
+, and provide support for itself and its teammates through the likes of Tailwind and Haze.
+
+Scale Shot gives Dragonite a consistent and powerful STAB option, and the Speed boost gives it the potential to sweep teams. Tailwind allows Dragonite to support its team through speed control. Extreme Speed gives Dragonite a strong priority option to finish off low HP foes. Additionally, Haze can be used to counter setup sweepers like
+
+Dondozo
+
+. Ice Spinner provides coverage for Dragon-types with a 4x weakness to Ice such as
+
+Garchomp
+
+and can be used to clear Terrains, namely Psychic Terrain, from the field, whereas Stomping Tantrum gives it coverage for Steel- and Fire-types such as
+
+Kingambit
+
+and
+
+Incineroar
+
+.
+
+Tera Fairy gives Dragonite an important immunity to Dragon-type moves, particularly Scale Shot from opposing Dragonite, giving it strong defensive utility and the ability to check powerful Dragons like Garchomp while removing Dragonite's Fairy and Ice weaknesses. Fairy is also a good defensive typing, being neutral or resistant to the majority of metagame-relevant attacks. However, this Tera type can leave it vulnerable to other important attacks, including Dire Claw from Sneasler and Make It Rain from
+
+Gholdengo
+
+. Tera Steel gives Dragonite a resistance to Ice-, Dragon- and Fairy-type attacks, including Blizzard from
+
+Alolan Ninetales
+
+, Moonblast from
+
+Primarina
+
+, and Dragon Claw from Garchomp that threaten it, while providing an immunity to Sneasler's Dire Claw and a resistance to Gholdengo's Make It Rain. This Tera type can also make it vulnerable to Ground-, Fire- and Fighting-type attacks.
+
+52 Speed EVs with an Adamant Nature allow Dragonite to outspeed
+
+Dragapult
+
+under Tailwind while allowing it to naturally outspeed Rillaboom and
+
+Archaludon
+
+and
+
+Ursaluna-B
+
+with low Speed investment while maximizing its damage output and maintaining its massive bulk. This Speed investment should only be used with an Adamant nature; a Jolly nature and maximum Speed investment can be used to increase the scope of things that Dragonite can outspeed after a Scale Shot; an example of a threat that Dragonite now outspeeds is Dragapult.
+
+Teambuilding
+
+Dragonite is a very common bulky physical attacker on balance and physically offensive Coaching teams. Dragonite shines particularly well against weakened teams. It also appreciates redirection or speed control to make up for its mediocre Speed. It works well at supporting teams against hyper offensive teams, with its Multiscale sets allowing it to survive attacks from many common wallbreakers, including
+
+Garchomp
+
+and
+
+Kingambit
+
+. Dragonite works well on balance teams, which value more the great consistency and versatility in matchups and the support it can provide to the team through Haze and Tailwind.
+
+Dragonite works very well in tandem with
+
+Gholdengo
+
+and Kingambit, which can cover the Fairy- and Ice-types that may threaten Dragonite. Dragonite also appreciates Coaching support from partners such as
+
+Sneasler
+
+, which can allow it to mitigate Defense drops from Scale Shot and become difficult to remove for many teams with just a few Coaching boosts. Additionally, redirection from
+
+Amoonguss
+
+and Fake Out from
+
+Rillaboom
+
+and
+
+Incineroar
+
+allow it to better fulfill both its offensive and supportive roles on a team.
+
+Dragonite's main issues are its relatively low Speed, weakness to Intimidate, and inability to hit Fairy- and Steel-types except with relatively weak coverage options. Therefore, partners like Kingambit and Sneasler can help hit Dragonite's checks heavily. Additionally, Coaching can help shore up its lesser damage output, particularly against Intimidate from Incineroar, and Defiant from the aforementioned Kingambit as well as
+
+Annihilape
+
+can help punish Intimidate cycling. Another issue for Dragonite are Pokemon that are faster than it and can threaten to OHKO it, such as
+
+Dragapult
+
+,
+
+Alolan Ninetales
+
+, and Garchomp. Therefore, redirection is of great use to these Dragonite sets to deal with such threats.
+
+Strategy Comments
+
+Dragonite's main role on teams is as a bulky attacker that can also provide support for its team through Haze and Tailwind. It uses its power and priority to clean up weakened teams while maintaining usefulness throughout the game.
+
+Dragonite is best used for its heavy damage output and large bulk, so it must be positioned it carefully around potential threats. Dragonite is at its best when Multiscale is kept intact, so keeping it away from weak attacks that may break it is crucial, as having Multiscale can allow Dragonite to tank a powerful hit from a threatening Pokemon and KO back. It can be used as a strong lead into offensive strategies or as a late-game cleaner against more balanced teams. It can also provide important support for its team if it is running Tailwind.
+
+Dragonite's biggest issues are against Steel-types that are capable of withstanding its coverage options, such as Gholdengo and
+
+Corviknight
+
+, and strong Fairy- and Ice-types like Alolan Ninetales. To mitigate these threats, position your other Pokemon that can handle them and hit them with heavy damage early in the game with partners such as Sneasler and Incineroar so Dragonite can pick them off later in the game once correctly positioned. Another way around these threats is with redirection to protect Dragonite or Coaching support so it can overpower its checks.
+
+Dragonite is an incredible defensive utility Pokemon thanks to its good stats and useful typing that let it check foes such as
+
+Landorus
+
+,
+
+Ogerpon-W
+
+, and
+
+Ogerpon-H
+
+. It also has a good movepool, with Haze and Dragon Tail making for great anti-setup moves and Roost providing recovery for its team; Multiscale also helps to improve the team's defensive capabilities. Dragon Tail and Haze are good against setup sweepers like
+
+Iron Hands
+
+,
+
+Gholdengo
+
+, and Swords Dance
+
+Ogerpon
+
+formes. Dragon Tail is good for accumulating chip damage, especially on entry hazard-stacking teams, while Haze can clear both foes' stat boosts and teammates' Intimidate drops, and it also works against Fairy-types like
+
+Primarina
+
+and
+
+Diancie
+
+as well as Tera Fairy users like
+
+Archaludon
+
+. Iron Head is good against the aforementioned Fairy-types and
+
+Alolan Ninetales
+
+as well as
+
+Chien-Pao
+
+. Ice Spinner hits both Landorus formes, as well as clearing Psychic Terrain. Roost helps provide the team with longevity, helping Dragonite fulfill its role as a defensive wall better. The given EV spread allows Dragonite to survive an Adamant Chien Pao's Icicle Crash and a Life Orb
+
+Kyurem
+
+'s Blizzard with Multiscale. Dragonite struggles against foes that can hit it super effectively like
+
+Porygon2
+
+, Chien-Pao, Primarina, and
+
+Raging Bolt
+
+. Dragonite also does not like
+
+Incineroar
+
+, as it can weaken Dragonite's damage output with Intimidate, prevent it from moving with Fake Out, and remove its Heavy-Duty Boots with Knock Off to prevent it from switching in as often if Stealth Rock is up. Tera Steel grants Dragonite a boost to its Iron Head's damage and allows it to flip the matchup on the aforementioned checks, gaining a resistance to the Ice-, Fairy-, and Dragon-type moves that would otherwise threaten it. However, Tera Steel does worsen the matchup against Incineroar and prevents Dragonite from checking foes that it normally checks, like Landorus and Ogerpon-H.
+
+Notable Partners
+
+Entry Hazard Setters
+
+: Teammates like
+
+Landorus-T
+
+and
+
+Ting-Lu
+
+make for good partners, as Dragonite can take advantage of their entry hazards and its ability to phaze foes to rack up extra hazard chip damage. In return, Dragonite helps them with the longevity issues they struggle with. Be wary of stacking up Ice-weak teammates when using these partners, as foes like Chien-Pao and Kyurem may become problematic to deal with.
+
+Fire- and Steel-types
+
+: Pokemon like Incineroar,
+
+Volcanion
+
+, and Gholdengo appreciate Dragonite's ability to switch in on the Ground-type moves that threaten them. Dragonite can also provide recovery to the former two, helping them stay on the field for longer. In return, these partners are good against the Ice- and Fairy-types that Dragonite struggles with, and Incineroar can help Dragonite tank physical attacks better thanks to Intimidate, while Gholdengo gives Dragonite a Spore immunity with Good as Gold.
+
+Draft Order
+
+: Round 2 onwards
+
+Price Range
+
+: 15-16 points
+
+Overview
+
+: Dragonite is a strong, versatile physical attacker that can serve well as a setup sweeper or wallbreaker. Its Multiscale ability provides it with easy setup opportunities and can let it serve as a roadblock to opposing Pokemon, and its wide variety of coverage moves, including strong priority in Extreme Speed, can break holes in an opponent's team. However, Dragonite is harmed by its poor access to STAB moves, mediocre base Speed, reliance on Heavy-Duty Boots to stay at full health, and unfortunate case of four-moveslot syndrome.
+
+Common Roles
+
+Setup Sweeper
+
+: Using Multiscale, Dragonite usually gets at least one free opportunity to set up with Dragon Dance. The main decision when building Dragonite for this role is whether to use three attacks, sacrificing recovery and possible additional chances at using Multiscale to set up further, or use two attacks and Roost, gaining that recovery but sacrificing coverage, a STAB move, or priority with Extreme Speed. It can also sometimes use Encore instead of Roost to punish foes and give itself more setup opportunities.
+
+Wallbreaker
+
+: In this role, Dragonite uses a Choice Band—or occasionally a special set with Choice Specs—to break the opposing team. Its powerful attacks like Outrage and Earthquake can heavily damage foes, and it can revenge kill or clean up a weakened team with boosted Extreme Speed.
+
+Offensive Utility
+
+: Dragonite can use its already-substantial Attack to wear down foes without needing a boost. Its bulk is also solid, and it can stop many Pokemon in their tracks with Multiscale when it is at full health. When acting in this role, it usually uses Roost to restore Multiscale and often takes advantage of utility moves like Thunder Wave and Dragon Tail.
+
+Common Moves
+
+Primary STAB Moves
+
+: Dragon Claw, Outrage, Scale Shot, Hurricane, Draco Meteor, Air Slash, Dragon Pulse
+
+Setup Moves
+
+: Dragon Dance, Agility
+
+Utility Moves
+
+: Roost, Substitute, Thunder Wave, Encore, Dragon Tail, Roar, Haze
+
+Coverage
+
+: Extreme Speed, Earthquake, Iron Head, Thunder Punch, Fire Punch, Stone Edge, Rock Slide, Ice Spinner, Aqua Tail, Waterfall, Low Kick, Blizzard, Ice Beam, Fire Blast, Flamethrower, Focus Blast, Hydro Pump, Surf, Thunderbolt, Thunder
+
+Niche Moves
+
+Brick Break
+
+: Against teams with strong dual screens setters, Dragonite can use Brick Break to remove Reflect, Light Screen, and Aurora Veil.
+
+Aerial Ace
+
+: Although normally too weak to be worth running, Aerial Ace is Dragonite's best physical Flying-type STAB move. In matchups where the opposing team is weak to Flying-type moves, Aerial Ace can be adequate once Dragonite is set up with a Dragon Dance or two.
+
+Fire Spin
+
+: Using Fire Spin, Dragonite can trap an overly passive foe and set up on it with Dragon Dance or force a switch-in to stay in while it switches to an ally.
+
+Rain Dance
+
+: Uncommonly, Dragonite can use Rain Dance to boost the accuracy of Hurricane, get rid of opposing sun, and support teammates.
+
+Common Items
+
+Heavy-Duty Boots
+
+: On Dragonite sets that rely on Multiscale, Heavy-Duty Boots is often essential to prevent Stealth Rock from damaging Dragonite and bringing it below full HP. Even on less Multiscale-reliant sets, Dragonite appreciates Heavy-Duty Boots removing its weakness to Stealth Rock.
+
+Choice Band
+
+: A Choice Band can enhance Dragonite's wallbreaking power. Teams lacking a Dragon immunity can be severely threatened by a Choice Band-boosted Outrage, and Dragonite can revenge kill with its empowered Extreme Speed or clean up weakened teams late-game once any Normal-resistant foes have been KOed or sufficiently damaged.
+
+Leftovers
+
+: When its teammates support it with reliable entry hazard removal or the opponent has non-threatening Stealth Rock setters, Leftovers can be used on bulkier Dragonite sets alongside Roost to consistently restore Multiscale.
+
+Lum Berry
+
+: As a setup sweeper, Dragonite greatly suffers from status effects. A Lum Berry can cure any status it receives from foes, as well as being able to remove confusion if it runs Outrage.
+
+Niche Items
+
+Weakness Policy
+
+: While Multiscale is active, Dragonite is not particularly threatened by most super effective moves, so a Weakness Policy can exploit this to boost its stats.
+
+Choice Specs
+
+: Dragonite is viable as a special wallbreaker when the opponent has physical walls that stop it in its tracks, with access to strong special STAB moves like Draco Meteor and Hurricane and coverage options like Fire Blast and Thunderbolt.
+
+Damage-boosting Items
+
+: Dragonite's wide variety of coverage makes running damage-boosting items tempting. Silk Scarf is especially good, as it boosts Extreme Speed. However, Dragonite normally prefers not to run Life Orb because it breaks Multiscale.
+
+Loaded Dice
+
+: If using Scale Shot, Loaded Dice can make it a more powerful Dragon-type STAB move than Dragon Claw.
+
+Ability Shield
+
+: Ability Shield can preserve Multiscale against foes with Mold Breaker or other ability-ignoring options.
+
+Mental Herb
+
+: Against foes with Taunt or Encore, Mental Herb can help Dragonite set up without getting disrupted.
+
+Eject Pack
+
+: When running Draco Meteor, Eject Pack can allow Dragonite to pivot out once, maintaining momentum after using a powerful attack.
+
+Tera
+
+Dragonite is normally Tera-banned. If it is allowed to Terastallize, it can be an extremely strong and versatile option and likely should be your primary Tera Captain. Tera Normal can boost Dragonite's Extreme Speed to game-winning levels, especially when strengthened by Dragon Dance or Choice Band, while Tera Flying can give it a stronger physical Flying-type STAB move than Aerial Ace. Other Tera types can boost Dragonite's many coverage moves, such as Tera Ground to boost its already-powerful Earthquake and flip its weaknesses to enable it to set up, Tera Steel to resist all its weaknesses and help it avoid status, and Tera Fire to gain an immunity to burn.
+
+Draft Strategy
+
+Dragonite can be a solid wincon with the right support, using Multiscale to be nearly guaranteed a turn of setup with Dragon Dance. Drafts are not often built around it, as it is somewhat flawed in terms of base Speed and access to STAB moves compared to other top-tier wincons, but it can fit onto many rosters looking for a secondary threat. It can also function as an effective wallbreaker with access to a good priority move in Extreme Speed.
+
+Entry Hazard Removal
+
+: Partners that can reliably remove entry hazards, such as
+
+Iron Treads
+
+and
+
+Cyclizar
+
+, can help with Dragonite's weakness to Stealth Rock and make it less reliant on running Heavy-Duty Boots to preserve Multiscale.
+
+Pivots
+
+: Dragonite prefers not to directly switch into attacks, as taking even a little damage breaks Multiscale. Offensive pivots that scare foes out and then use a pivoting move, such as
+
+Meowscarada
+
+and
+
+Iron Bundle
+
+, and defensive pivots that can take a hit and then switch, such as
+
+Galarian Slowking
+
+and
+
+Corviknight
+
+, can synergize well with Dragonite.
+
+Steel-types
+
+: Steel-type Pokemon are excellent partners for Dragonite, as they resist all of its weaknesses and threaten three of them—Ice, Fairy, and Rock—offensively.
+
+Scizor
+
+,
+
+Tinkaton
+
+, and
+
+Heatran
+
+are all very solid in this regard.
+
+Entry Hazard Setting
+
+: As a primarily offensive Pokemon, Dragonite appreciates entry hazards like Stealth Rock and Spikes, which make netting KOs easier for it. Hazard setters that pair well with Dragonite include Iron Treads and
+
+Skarmory
+
+.
+
+Checks and Counters
+
+Physical Walls
+
+: Physical walls can often deal with Dragonite, especially ones that resist its Dragon-type STAB moves or aren't threatened by Earthquake. Pokemon like
+
+Galarian Weezing
+
+,
+
+Dondozo
+
+, and
+
+Rotom-W
+
+can wall Dragonite and stop its sweep until they are dealt with. Dragonite can sometimes run special attacks to play around these Pokemon, but its special sets often perform worse than physical sets once the surprise factor is lost.
+
+Ice-type Moves
+
+: Ice Beam and Ice Spinner are widely distributed coverage moves that Dragonite has a quadruple weakness to. Pokemon with access to these moves that can outspeed Dragonite or survive its attacks after setting up can spell doom for it. Iron Bundle is a particular terror, often using Booster Energy or Choice Scarf to outspeed Dragonite even after a Dragon Dance, forcing it out with the threat of an Ice Beam and then using the opportunity to pivot out with Flip Turn to keep momentum. Additionally, Pokemon with access to Triple Axel like
+
+Weavile
+
+threaten Dragonite even more, as Triple Axel breaks Multiscale with its first hit and normally KOes Dragonite with the next two.
+
+Stealth Rock
+
+: If Dragonite isn't running Heavy-Duty Boots or its item gets removed with Knock Off, its weakness to Stealth Rock can substantially worsen its performance. Taking damage from Stealth Rock upon entering the field breaks Multiscale and thus removes one of its core strengths.
+
+Status Effects
+
+: Being inflicted with status is very bad for Dragonite. It can function around paralysis by increasing its Speed with Dragon Dance and also by using Extreme Speed, but poison breaks Multiscale every turn even if Dragonite recovers with Roost, and burn does the same along with hindering its Attack.
+
+Dragonite is one of the most formidable setup sweepers in the metagame, capable of unleashing incredibly powerful Pixilate-boosted Extreme Speed, further amplified by Dragon Dance. Additionally, it boasts exceptional coverage options to deal with foes that can safely switch into its Extreme Speed. Fire Punch handles
+
+Magearna
+
+and
+
+Corviknight
+
+. Alternatively, Earthquake deals more damage to Magearna,
+
+Pecharunt
+
+, and
+
+Garganacl
+
+, but is completely walled by Latiasite variants of the former two, as well as setup Corviknight. Waterfall, on the other hand, hits all the aforementioned foes reliably, albeit weakly, along with dealing super effective damage to
+
+Ho-Oh
+
+and Hearthflame Mask
+
+Great Tusk
+
+; it can also be used to fish for flinches in dicey situations. Dragonite may also utilize Facade to severely punish attempts to burn it by foes like
+
+Milotic
+
+, Ho-Oh, and
+
+Arceus
+
+formes, as well as turn the tables against Gyaradosite Pecharunt when Pecharunt poisons it. Roost is nearly essential to provide Dragonite with reliable recovery. The Speed EVs allow it to outspeed uninvested Manectite Magearna. Dragonite can fit seamlessly into various offense and balance teams, where it can serve as a potent revenge killer and sweeper. Pairing it with entry hazard setters such as Magearna, Great Tusk, and
+
+Swampert
+
+applies immense offensive pressure on the opposing team as Dragonite spams Extreme Speed. Similarly, hazard removers like Great Tusk and Corviknight are amazing allies, allowing it to avoid getting easily chipped and preventing Multiscale from breaking pre-Mega Evolution. Dragonite is vulnerable to other Altarianite Extreme Speed users, such as
+
+Entei
+
+,
+
+Hisuian Arcanine
+
+, and
+
+Regieleki
+
+, making checks to these like defensive
+
+Eternatus
+
+and Hearthflame Mask Great Tusk excellent pairing options. Hearthflame Mask Great Tusk also applies pressure on Magearna and Pecharunt, two of Dragonite's most troublesome walls.
+
+Aerilate Dragonite sacrifices its defensive utility to become a more offensively potent setup sweeper; it uses its already good Attack stat boosted by Pinsirite as well as Multiscale pre-Mega Evolution to maul defensive staples like
+
+Pecharunt
+
+,
+
+Hippowdon
+
+, and
+
+Ho-Oh
+
+that Altarianite variants struggle with while still keeping its revenge killing prowess for
+
+Urshifu-R
+
+and
+
+Spectrier
+
+. Salamencite is also a usable option if a teammate is already using Pinsirite, as it still gives Aerilate as well as boosting Dragonite's Defense, which can come in handy with setting up. Earthquake lets Dragonite deal with Pokemon like
+
+Raging Bolt
+
+and non-Latiasite
+
+Magearna
+
+and
+
+Garganacl
+
+that would otherwise give Dragonite major trouble. Fire Punch prevents Dragonite from being completely countered by
+
+Corviknight
+
+and Latiasite Magearna, while Facade allows Dragonite to take advantage of burns from
+
+Arceus-Water
+
+,
+
+Milotic
+
+, and Ho-Oh, as well as poison from Pecharunt and
+
+Eternatus
+
+. If more longevity is required, Roost can be used in order to keep Dragonite healthy in the span of longer games. The Speed EVs allow Dragonite to outspeed Pinsirite Magearna unboosted. Aerilate Dragonite has an amazing offensive presence, but due to its Stealth Rock weakness and overall limited longevity, it is only usable on more offensive teams. Dragonite appreciates entry hazard control from removers like
+
+Great Tusk
+
+and
+
+Regieleki
+
+or Sablenite users like
+
+Swampert
+
+and Magearna, so it doesn't take huge damage from Stealth Rock and can keep Multiscale active before Mega Evolving. Hazard setters like Swampert, Great Tusk, and Magearna help wear down Dragonite's checks like defensive
+
+Arceus
+
+formes, Great Tusk, and Raging Bolt. They also help in checking Altarianite Extreme Speed users like
+
+Hisuian Arcanine
+
+, Regieleki, and opposing Dragonite, preventing them from revenge killing it. Pokemon like
+
+Entei
+
+,
+
+Lunala
+
+, and Great Tusk can also help in wearing down Dragonite’s checks, as they can break down walls Dragonite heavily struggles with like
+
+Arceus-Fairy
+
+, Arceus-Water, and Ho-Oh for it to sweep, and vice versa. Other Pokemon that can deal with the aforementioned walls, like Raging Bolt and
+
+Iron Crown
+
+, are also greatly appreciated.
+
+Dragonite is an elite offensive Pokemon that can disrupt common balance structures when holding a Z-crystal; common switch-ins to Dragonite like offensive
+
+Great Tusk
+
+,
+
+Landorus-T
+
+, and
+
+Gliscor
+
+fall to +1 Devastating Drake. Dragonite also has great defensive utility, using Multiscale to effectively set up Dragon Dance in front of foes such as
+
+Ogerpon-W
+
+and
+
+Urshifu-R
+
+. Earthquake grants Dragonite the opportunity to hit Pokemon such as
+
+Heatran
+
+and
+
+Toxapex
+
+, which can discourage any Stealth Rock-setting or Haze attempts, respectively. It also threatens other Steel-type Pokemon like
+
+Kingambit
+
+and
+
+Melmetal
+
+. Fire Punch discourages bulky Steel-types that don't mind Earthquake such as
+
+Ferrothorn
+
+, Air Balloon
+
+Gholdengo
+
+, and
+
+Corviknight
+
+from coming in freely. A Jolly nature is usually preferred, as it allows Dragonite to outspeed foes like
+
+Zamazenta
+
+and
+
+Tapu Koko
+
+at +1.
+
+This variant of Dragonite is found on more offensive structures, where it is paired with Pokemon such as
+
+Mega Diancie
+
+; it can deny any attempts of entry hazard setting from the opposition, as this Dragonite set lacks Heavy-Duty Boots. Dragonite, in return, provides a valuable Water- and Grass-resistant teammate for Mega Diancie to aid against foes such as
+
+Rillaboom
+
+and Choice Scarf Urshifu-R. These teams appreciate Dragonite providing a valuable Water-resistant ally, as it is an effective answer to foes like Ogerpon-W and Urshifu-R. Kingambit values Dragonite weakening its checks, such as Great Tusk and Zamazenta, to give it a more favorable end-game. In return, Kingambit can remove key items from checks like Corviknight and Great Tusk to enable Dragonite to use its moves more freely. Heatran is also an effective partner, since it is able to answer Pokemon Dragonite doesn't immediately threaten such as
+
+Clefable
+
+while also being a good answer to Choice Scarf
+
+Tapu Lele
+
+, which still threatens Dragonite after a Dragon Dance. Even at +1 Speed, Dragonite is still outsped by Choice Scarf users like Landorus-T and Tapu Lele, so it appreciates partners like Air Balloon Gholdengo as a partner to potentially use those foes as setup fodder. Spinners such as Great Tusk and
+
+Terapagos
+
+are also effective teammates, as they can provide hazard removal through Rapid Spin to ensure Dragonite does not take Stealth Rock damage to keep Multiscale intact. Great Tusk and Dragonite often form a core to overwhelm their shared checks, such as
+
+Alomomola
+
+,
+
+Slowbro
+
+, and
+
+Skarmory
+
+.
+
+Volcarona
+
+also appreciates Dragonite being able to provide a crucial Water resistance, helping it against Pokemon such as Ogerpon-W. At the same time, Volcarona can find setup opportunities versus Choice Scarf Tapu Lele, which usually comes in to revenge kill Dragonite with Moonblast. Dragonite values hazard-setting leads such as Mega Diancie and Landorus-T, as the latter is able to provide Taunt to keep opposing hazards off whereas the former denies hazards through Magic Bounce while breaking down the opposition with its strong STAB moves.
+
+Dragonite is a very unique sweeper, as it is able to set up reliably in the face of offensive Pokemon like
+
+Urshifu-R
+
+,
+
+Ogerpon-W
+
+, and
+
+Mega Charizard Y
+
+. Earthquake allows it to target foes such as
+
+Gholdengo
+
+,
+
+Heatran
+
+, and
+
+Toxapex
+
+, preventing them from staying in to spread status through moves such as Thunder Wave from the former and Toxic from the latter two. Ice Spinner grants Dragonite the ability to threaten foes like
+
+Gliscor
+
+and
+
+Landorus-T
+
+, which are usually key defensive pillars of their teams, and stops them from coming in for free to land Toxic on Dragonite. Ice- and Ground-type coverage additionally hits a vast amount of Pokemon in the metagame. Roost gives Dragonite the longevity to answer Pokemon like Ogerpon-W and Urshifu-R and also provides more setup opportunities, which allows Dragonite to break through foes like Toxapex and
+
+Ferrothorn
+
+. Extreme Speed can be used over Roost, as it helps Dragonite pick off weakened faster Pokemon like
+
+Iron Valiant
+
+and
+
+Tapu Koko
+
+that would normally outspeed and threaten it. Dual Wingbeat hits Pokemon such as
+
+Great Tusk
+
+and
+
+Zamazenta
+
+significantly harder.
+
+Dragonite is used on a plethora of different bulky offense and balance teams, as they appreciate Dragonite's defensive utility, with it being able to switch into offensive Water-types like Urshifu-R and Ogerpon-W and find many different opportunities to set up Dragon Dance. Pokemon like
+
+Mega Diancie
+
+appreciate Dragonite's ability to respond to foes like Choice Scarf Urshifu-R and Landorus-T. In return, Mega Diancie can pressure Dragonite's checks like Ferrothorn with Mystical Fire and
+
+Zapdos
+
+with Diamond Storm. Dragonite can have a difficult time in the face of Pokemon such as Choice Scarf
+
+Tapu Lele
+
+that still outspeed it after a Dragon Dance, so it values the presence of Steel-types like Gholdengo and Heatran to switch into it. Scale Shot
+
+Garchomp
+
+and Icicle Spear
+
+Kyurem
+
+also outspeed and break through Dragonite's Multiscale. Therefore, allies such as Choice Scarf Tapu Lele and Speed Booster Energy Speed Iron Valiant are appreciated to outspeed and threaten these foes.
+
+Kingambit
+
+also helps versus Air Balloon Gholdengo, which Dragonite does not immediately threaten.
+
+Volcarona
+
+is also an effective partner, as it can respond to Pokemon that directly threaten Dragonite like Choice Scarf Tapu Lele and Speed Booster Energy Iron Valiant, the former of which blocks Dragonite's Extreme Speed with Psychic Terrain. Great Tusk is an effective partner, since it is able to wear down checks such as Landorus-T with both Stealth Rock and Ice Spinner, letting Dragonite break through opposing teams more easily mid-game. Great Tusk can also help break through Toxapex with Headlong Rush and hit Ferrothorn with Close Combat. In return, Dragonite responds to Water-types like Urshifu-R and Ogerpon-W that force out Great Tusk.
+
+With its useful typing, wide offensive movepool, and strong boosting capabilities bolstered by Multiscale, Dragonite can become a frightening setup threat on Dragon teams. After a Dragon Dance boost, Dragonite can outrun and defeat numerous threats to Dragon teams such as
+
+Iron Valiant
+
+,
+
+Mega Gallade
+
+,
+
+Tapu Koko
+
+,
+
+Keldeo
+
+, and
+
+Volcarona
+
+depending on the coverage moves given. At +1, Dragon Claw eliminates
+
+Kyurem
+
+and, after chip damage,
+
+Garchomp
+
+,
+
+Latios
+
+, and
+
+Latias
+
+. Dual Wingbeat smashes the aforementioned Fighting-types that cause issues for Dragon teams. Earthquake is a solid coverage option that allows Dragonite to blow up Steel- and Poison-types like
+
+Gholdengo
+
+,
+
+Toxapex
+
+, and
+
+Alolan Muk
+
+for its teammates that may struggle to break through them. Thunder Punch enables Dragonite to hit common switch-ins like
+
+Corviknight
+
+and
+
+Celesteela
+
+, along with bulky Water-types like
+
+Tapu Fini
+
+and
+
+Slowbro
+
+. Fire Punch is another option for coverage, as it can deal with Corviknight, Celesteela,
+
+Mega Scizor
+
+, and
+
+Ferrothorn
+
+. Extreme Speed prevents Dragonite from being easily revenge killed by Choice Scarf threats that outspeed it after a boost, such as
+
+Meowscarada
+
+and
+
+Greninja
+
+. Alternatively, Roost grants Dragonite the ability to heal itself, potentially letting it regain Multiscale for further setup opportunities.
+
+Archaludon
+
+and
+
+Hisuian Goodra
+
+are essential teammates for Dragonite, as both cover its crippling Ice weakness on both sides of the defensive spectrum. Additionally, Archaludon can answer Choice Scarf Meowscarada and
+
+Iron Boulder
+
+with its ability to resist the common moves they use against Dragonite such as Mighty Cleave, Play Rough, and Triple Axel, while Hisuian Goodra can switch into threats like
+
+Tapu Lele
+
+and Kyurem alongside providing an extra way to stop Volcarona’s setup via Dragon Tail if Dragonite chooses to forgo Dual Wingbeat.
+
+Kommo-o
+
+is a strong partner for Dragonite, using its own boosting capabilities to crush Steel-types like Air Balloon
+
+Heatran
+
+and Ferrothorn, as well as picking off Ice-types that threaten Dragonite like
+
+Weavile
+
+and
+
+Mamoswine
+
+with Vacuum Wave.
+
+Roaring Moon
+
+appreciates Dragonite dealing with the Fighting-types that threaten it, and in return, Roaring Moon can allow entry for Dragonite via U-turn and pick off threats like
+
+Mega Diancie
+
+with Iron Head. Choice Scarf Latias enjoys Dragonite removing Steel-types with Earthquake and can provide a second chance for Dragonite to sweep with Healing Wish. Additionally, Latias can revenge kill threats like Kommo-o and Iron Valiant for Dragonite. Kyurem provides an Ice-type neutrality and destroys potential walls to Dragonite such as
+
+Skarmory
+
+, while also removing
+
+Gliscor
+
+, which can prevent Dragonite from sweeping with Toxic or Taunt.
+
+Choice Band Dragonite is a fearsome wallbreaker that also has access to strong priority in Extreme Speed, allowing it to both break through defensive cores and revenge kill major offensive threats to Flying teams like
+
+Greninja
+
+and
+
+Volcarona
+
+. The immediate boost in power that Choice Band gives it means that common defensive staples like
+
+Toxapex
+
+and
+
+Archaludon
+
+struggle to switch in. Fire Punch and Thunder Punch both give Dragonite the ability to hit Ground-immune Steel-types like
+
+Corviknight
+
+and
+
+Celesteela
+
+, which otherwise completely wall it. The former is generally better against Steel-types and threatens an OHKO on
+
+Ferrothorn
+
+, while the latter can also hit Water / Fairy type Pokemon like
+
+Tapu Fini
+
+and
+
+Azumarill
+
+. Earthquake rounds out Dragonite's offensive profile, hitting Steel-types like Archaludon and Rock-types like
+
+Mega Diancie
+
+. While it makes Dragonite a bit worse against the Pokemon that most threaten Flying team structures, Superpower poses an even greater threat to Dark and Normal team staples like
+
+Ting-Lu
+
+and
+
+Porygon2
+
+. It also allows Dragonite to easily remove common Air Balloon users like
+
+Iron Treads
+
+and
+
+Heatran
+
+. For teammates, Spikes
+
+Gliscor
+
+is a great partner that can chip opposing Pokemon into Extreme Speed range with entry hazards and pivot Dragonite into wallbreaking opportunities with U-turn. Corviknight is able to remove Stealth Rock for Dragonite while checking revenge killers like
+
+Weavile
+
+and
+
+Meowscarada
+
+.
+
+Tornadus-T
+
+can use Knock Off against shared checks to Dragonite like Corviknight and Porygon2 while helping create openings with Nasty Plot or bring it in with U-turn. Choice Scarf users like
+
+Enamorus
+
+and
+
+Landorus-T
+
+are able to revenge kill faster threats like Greninja and
+
+Zeraora
+
+while offering support in the form of Healing Wish and U-turn, respectively.
+
+Mega Charizard Y
+
+is a powerful wallbreaker that can help Dragonite break through defensive cores. It also acts as an important stopgap to certain Pokemon that can use take advantage of a Choice-locked Dragonite to set up, like Swords Dance Gliscor and Calm Mind Tapu Fini.
+
+Dragonite makes for a great wallbreaker and late-game cleaner on Flying teams, outspeeding threats such as
+
+Zeraora
+
+and
+
+Mega Diancie
+
+after a Dragon Dance boost. Earthquake threatens Steel-, Poison-, and Rock-types like
+
+Gholdengo
+
+,
+
+Alolan Muk
+
+, and non-Choice Band
+
+Hisuian Arcanine
+
+. Roost grants Dragonite longevity as well as potentially reactivating Multiscale if its HP is restored to full. Substitute allows it to take advantage of passive Pokemon such as
+
+Toxapex
+
+, Will-O-Wisp
+
+Rotom-W
+
+, and
+
+Clodsire
+
+to set up Dragon Dance, but Roost is preferred since it grants Dragonite more opportunities to sweep. Heavy-Duty Boots is preferred so that Dragonite doesn't need to rely on entry hazard removal to switch in, while Leftovers grants it a form of longevity when it chooses to forego Roost.
+
+Mega Charizard Y
+
+is Dragonite's most important teammate, forming a great offensive pairing, with it threatening Ice-, Steel-, and Water-types such as
+
+Articuno
+
+,
+
+Alolan Ninetales
+
+,
+
+Corviknight
+
+, and
+
+Swampert
+
+, while Dragonite handles
+
+Galarian Slowking
+
+and
+
+Mega Charizard X
+
+. Corviknight and
+
+Celesteela
+
+deal with Fairy-, Ice-, and Rock-types such as
+
+Tapu Lele
+
+,
+
+Weavile
+
+, and
+
+Ogerpon-C
+
+; Corviknight also acts as a slow pivot to bring Dragonite in on Gholdengo. Choice Scarf
+
+Enamorus
+
+provides great speed control, outspeeding and threatening the likes of
+
+Mega Altaria
+
+and
+
+Iron Valiant
+
+while also dealing with Dark-types such as
+
+Mandibuzz
+
+and
+
+Mega Sableye
+
+. Additionally, Dragonite appreciates Healing Wish from Enamorus, as it can give Dragonite another opportunity to sweep. Thanks to Dragonite acting as a wallbreaker, it can enable fellow sweepers such as
+
+Mega Aerodactyl
+
+and
+
+Galarian Moltres
+
+. Mega Aerodactyl deals with
+
+Mega Lopunny
+
+and Articuno, while Galarian Moltres handles
+
+Tapu Bulu
+
+and
+
+Pecharunt
+
+.

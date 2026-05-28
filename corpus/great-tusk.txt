@@ -1,0 +1,3196 @@
+Behold, OU's premier entry hazard remover; leveraging its excellent stats, typing, and movepool, Great Tusk offers strong role compression. Ice Spinner complements Headlong Rush, allowing Great Tusk to greatly threaten the likes of
+
+Landorus-T
+
+,
+
+Dragonite
+
+,
+
+Gliscor
+
+, and
+
+Hydrapple
+
+. Rapid Spin clears hazards and takes advantage of Great Tusk's good matchup against setters such as
+
+Iron Treads
+
+,
+
+Glimmora
+
+, and
+
+Garganacl
+
+. The move also allows it to outspeed
+
+Dragapult
+
+,
+
+Zamazenta
+
+, and
+
+Darkrai
+
+to potentially enable late-game cleaning if its checks are weakened. Stealth Rock plays into its role compression further, freeing up teammates to run other options. Knock Off is a strong middle ground option that hits Air Balloon
+
+Gholdengo
+
+and
+
+Pecharunt
+
+for good damage on switch-in as well as removes Heavy-Duty Boots from checks such as
+
+Zapdos
+
+,
+
+Moltres
+
+,
+
+Alomomola
+
+, and
+
+Dondozo
+
+. It also generally makes good progress by removing various utility items like Leftovers and Rocky Helmet from
+
+Clefable
+
+,
+
+Corviknight
+
+, and opposing Great Tusk. Close Combat is a complementary STAB move that hits the likes of
+
+Ting-Lu
+
+,
+
+Hisuian Samurott
+
+, and
+
+Kyurem
+
+for super effective damage and does massive damage to
+
+Ogerpon-W
+
+, all of which aren't threatened by most of Great Tusk's moves. Head Smash is an interesting option that can hit Moltres and Zapdos hard, common switch-ins to it; similarly, Stone Edge is a viable and safer alternative, keeping Great Tusk healthy and hitting them without fearing Flame Body and Static at the cost of no longer guaranteeing the OHKO on Moltres and bulky
+
+Tornadus-T
+
+. Particularly on sun teams, Temper Flare grants super effective coverage against would-be checks like Corviknight and Air Balloon Gholdengo, especially if they just switched into its Headlong Rush the previous turn. Heavy-Duty Boots improves its matchup against the entry hazards it's tasked with removing, while Rocky Helmet can punish physical attackers such as opposing Great Tusk,
+
+Ceruledge
+
+, and
+
+Kingambit
+
+. Booster Energy is a choice on more offensive teams that appreciate Great Tusk's wallbreaking niche more and don't switch around often where the boost gets wasted easily otherwise. Great Tusk isn't often the main Tera user, but in a pinch, it can utilize several beneficial Tera types to take a hit or defeat its usual checks. Tera Steel allows Great Tusk to flip many of its weaknesses to moves such as
+
+Hatterene
+
+and
+
+Iron Crown
+
+’s Psychic Noise,
+
+Iron Valiant
+
+and
+
+Enamorus
+
+'s Moonblast, Ogerpon-W and
+
+Rillaboom
+
+'s Power Whip and Wood Hammer, and Zapdos's Hurricane. Tera Ice powers up Ice Spinner, letting it beat otherwise solid checks by 2HKOing Zapdos and
+
+Sinistcha
+
+as well as OHKOing Landorus-T through Intimidate and having good odds to do so against physically defensive Gliscor and Hydrapple. Tera Fire allows Great Tusk to avoid potential burns from Moltres's Flame Body and Will-O-Wisp from users like Darkrai and Dragapult. Both Tera types also grant Great Tusk a resistance to Ice-type moves from Kyurem and
+
+Weavile
+
+, with Tera Ice being even sturdier against the former due to the lack of Earth Power weakness. When utilizing Booster Energy, Tera Ground and Tera Fighting can both be run to bring Headlong Rush and Close Combat to absurd power levels, such as letting it OHKO even the bulkiest of Pecharunt sets and, with Terastallization, OHKO Ting-Lu and 2HKO Corviknight and Alomomola. However, Tera Ground can also be utilized on non-Booster Energy sets to secure a KO on the likes of Garganacl.
+
+Great Tusk fits on a myriad of offense and balance teams that appreciate the utility it provides. Physical setup sweepers such as Dragonite and Kingambit appreciate Great Tusk's support from the long-term chip damage of either Stealth Rock or Knock Off, making opposing Pokemon vulnerable to entry hazards; Great Tusk and these powerful physical attackers can potentially overwhelm or force their common checks, such as Pecharunt, Zapdos, and Zamazenta, to Terastallize. Spikes setters such as Glimmora, Hisuian Samurott, and Ting-Lu can form a strong pairing with Stealth Rock variants to accumulate large amounts of chip damage or be enabled by Knock Off variants. Glimmora can provide Toxic Spikes with its Toxic Debris while doubling as hazard control in a pinch. Hisuian Samurott checks spinblockers such as Dragapult and Gholdengo with its Ceaseless Edge. Ting-Lu walls special attackers, which Great Tusk is vulnerable to, and can run Stealth Rock to free up a moveslot for Great Tusk. Pivots in general appreciate Great Tusk's Rapid Spin support, especially hazard-prone ones like Ogerpon-W and Iron Crown. Ogerpon-W greatly threatens bulky Water-type foes such as
+
+Primarina
+
+, Dondozo, and Alomomola with its strong Power Whip, and with Water Absorb, its mere presence discourages Water-type attacks. Alomomola itself is a strong teammate that can provide Wish and Flip Turn support, allowing Great Tusk to utilize its hazard-removing utility more, and it checks most Water-types except Ogerpon-W. In return, Great Tusk can free up Alomomola to run an item other than Heavy-Duty Boots.
+
+Galarian Slowking
+
+and the aforementioned Iron Crown can patch up Great Tusk's vulnerability to special attacks by being good switch-ins to Fairy-types such as Enamorus and Clefable. In return, Great Tusk benefits from Galarian Slowking's Future Sight + Chilly Reception combination by threatening Future Sight switch-ins such as Iron Crown, Hisuian Samurott, and Gholdengo with its powerful attacks. Other Steel-types, such as Gholdengo and
+
+Scizor
+
+, that can check Kyurem and Iron Valiant are greatly appreciated as well. Pecharunt is a physically defensive pivot that checks Ogerpon-W and Rillaboom and appreciates Great Tusk's Headlong Rush to handle Steel-types such as
+
+Heatran
+
+and Kingambit. While Great Tusk is an excellent hazard remover, Ghost-types such as Gholdengo, Dragapult, and Pecharunt may require extra prediction to beat. Therefore, checks to them, such as Garganacl, Ting-Lu, and Kingambit, ease the need to predict. Great Tusk is a staple on Sticky Web teams, especially with Booster Energy,  functioning as the team's hazard remover while being a potent threat under Sticky Web with its powerful Headlong Rush and coverage moves. Another offense-oriented archetype Great Tusk fits on is sun, where it gets the Protosynthesis Attack boost and provides Rapid Spin support for
+
+Torkoal
+
+or
+
+Ninetales
+
+. While seemingly redundant at first, Great Tusk pairs well with other hazard control, such as
+
+Cinderace
+
+and Hatterene, as it lets Great Tusk run other items like Rocky Helmet and Booster Energy without missing Heavy-Duty Boots too much. Cinderace can pivot to let Great Tusk get in more easily and check Corviknight for it. Hatterene's appeal is its advantageous matchup against Iron Defense Zamazenta and
+
+Deoxys-S
+
+, two of Great Tusk's worst matchups,  and it offers potent utility with Nuzzle and Pain Split; in return, Great Tusk can  handle Hatterene's checks, such as Gholdengo and Glimmora. Another strong Fairy-type that pairs well with Great Tusk is Enamorus, which revenge kills Dragapult and Kyurem and provides Healing Wish support, while Great Tusk checks Heatran and Galarian Slowking, as well as clearing Stealth Rock for Enamorus.
+
+Great Tusk presents itself as a premier defensive backbone with its solid defensive typing, access to Rapid Spin, and immense strength even without investment. Headlong Rush is used over Earthquake because its greater power lets Great Tusk OHKO
+
+Raging Bolt
+
+after Stealth Rock and OHKO both uninvested
+
+Gholdengo
+
+and bulky
+
+Cinderace
+
+while not being weakened by
+
+Rillaboom
+
+'s Grassy Terrain. Ice Spinner lets it get past Flying-types like
+
+Dragonite
+
+,
+
+Gliscor
+
+, and
+
+Landorus-T
+
+while both threatening Rillaboom and removing its Grassy Terrain. Rapid Spin allows it to remove entry hazards for its teammates, and the Speed boost lets it scare out usually faster threats like
+
+Darkrai
+
+and
+
+Iron Crown
+
+. Stealth Rock is used for role compression, letting Great Tusk both set hazards as well as remove them from its own side. Knock Off, meanwhile, gets rid of items such as Heavy-Duty Boots and Leftovers on foes like
+
+Moltres
+
+and
+
+Clefable
+
+. It additionally threatens Ghost-types like
+
+Pecharunt
+
+, Air Balloon Gholdengo, and
+
+Dragapult
+
+, letting Great Tusk spin more consistently. Rocky Helmet is the preferred item, as it wears down physical attackers like
+
+Kingambit
+
+,
+
+Zamazenta
+
+, and opposing Great Tusk while punishing U-turn from Cinderace and
+
+Corviknight
+
+. It also has the added benefit of breaking Dragonite's Multiscale upon contact, letting Great Tusk have an instant OHKO on Dragonite with Ice Spinner. Leftovers provides longevity and makes Great Tusk more able to take on Salt Cure
+
+Garganacl
+
+and Swords Dance Gliscor. Heavy-Duty Boots protects Great Tusk from repeated hazard damage from Spikes, status inflicted by Toxic Spikes, and the Speed drop from Sticky Web. Tera Water is used to combat
+
+Hisuian Samurott
+
+and Cinderace, while Tera Steel lets Great Tusk resist Rillaboom's Grassy Glide and better take on
+
+Deoxys-S
+
+,
+
+Tornadus-T
+
+, and Clefable. Both Tera Water and Tera Steel help combat Ice-type attacks like
+
+Weavile
+
+'s Triple Axel and Darkrai's Ice Beam. Other Tera types can be considered; Tera Ice strengthens Ice Spinner to OHKO specially defensive Gliscor, while Tera Fire gives a burn immunity for Cinderace and Moltres. Tera Ghost makes Great Tusk itself a spinblocker against opposing Great Tusk and
+
+Iron Treads
+
+while letting it more easily handle Zamazenta. Maximum HP and Speed investment are used to outspeed targets like Hisuian Samurott,
+
+Glimmora
+
+, and Gholdengo while making it be able to tank attacks from physical attackers from Kingambit easier.
+
+Great Tusk fits well on balance and bulky offense teams, which highly appreciate its defensive properties and utility while still remaining offensively potent. Offensive Pokemon weak to Spikes such as
+
+Ogerpon-W
+
+and
+
+Heatran
+
+enjoy Great Tusk's ability to remove entry hazards, letting them not be worn down in longer games. Ogerpon-W threatens
+
+Alomomola
+
+,
+
+Ting-Lu
+
+, Moltres, and
+
+Dondozo
+
+, while it appreciates Great Tusk switching into Kingambit. Heatran checks Rillaboom, Corviknight, and Gholdengo and uses Stealth Rock itself, letting Great Tusk run Knock Off. Additionally, both Ogerpon-W and Heatran appreciate Great Tusk checking Dragonite and switching in on non-IronPress Zamazenta. Ghost-types like Pecharunt, Air Balloon Gholdengo, and Dragapult make Great Tusk's job of removing hazards much harder, as they are able to threaten it out. Thus, strong teammates that can take out Ghost-types such as Choice Scarf Gholdengo, Hisuian Samurott, and Kingambit can be used to threaten them out, allowing Great Tusk to spin. Hisuian Samurott is an especially strong teammate, as it is able to both set Spikes and threaten Moltres and Gholdengo. Alomomola is a solid partner for Great Tusk, as Wish is able to keep Great Tusk healthy to check Gliscor and Garganacl longer. Assault Vest Alomomola and
+
+Galarian Slowking
+
+can take on Fairy-types like
+
+Enamorus
+
+,
+
+Primarina
+
+, and
+
+Iron Valiant
+
+.
+
+Hatterene
+
+and Cinderace are also nice to have as additional hazard removal, making teams nearly impervious to the hazards being set on their side of the field. Assault Vest Hatterene checks
+
+Kyurem
+
+, Deoxys-S, and can additionally help against Raging Bolt, which can greatly damage Great Tusk with its Dragon-type attacks, while Rocky Helmet Hatterene in combination with Rocky Helmet on Great Tusk can very easily wear down U-turn users like Landorus-T and Cinderace. In return, Great Tusk checks variants of Gholdengo, Heatran, and Kingambit. Cinderace, meanwhile, is able to pivot Great Tusk in with U-turn and threaten Rillaboom and Corviknight, while Great Tusk can take on Glimmora and Gliscor. The combination of Cinderace or Hatterene and Great Tusk can enable hazard-weak threats such as Assault Vest Tornadus-T and Kyurem and frees Dragonite from using Heavy-Duty Boots for Dragon Dance sets. Grass-types like Rillaboom and Dragon-types like Dragapult, Raging Bolt, and the aforementioned Dragonite assist in taking on Ogerpon-W, with the first three also being able to deal with Dondozo. In return, Great Tusk can combat Steel-types like Kingambit and
+
+Scizor
+
+.
+
+Torkoal
+
+or
+
+Ninetales
+
+on sun teams are teammates that allow Great Tusk to get a Speed boost from Protosynthesis, which lets it outspeed threats like Dragapult and Darkrai without needing to use Rapid Spin. Torkoal can run Stealth Rock, which lets Great Tusk run Knock Off and lessens the burden on Torkoal to use Rapid Spin. Ninetales, on the other hand, is able to run Healing Wish, letting Great Tusk have a second chance to stay healthy against physical attackers. Common teammates on sun like
+
+Walking Wake
+
+and Raging Bolt can additionally aid against physical walls like Dondozo, Moltres, and Alomomola, while Great Tusk can remove hazards for them and threaten out special tanks like Galarian Slowking.
+
+Bulk Up Great Tusk is a deadly wincon, capable of taking games thanks to its great natural physical bulk, Speed, and power. Headlong Rush provides great power and is not affected by Grassy Terrain, but Earthquake doesn't drop Great Tusk's defenses, which can let it better check physical attackers. Ice Spinner ensures Great Tusk can hit Flying-types like
+
+Gliscor
+
+,
+
+Landorus-T
+
+, and
+
+Tornadus-T
+
+. The last moveslot has a lot of options. Rapid Spin still allows Great Tusk to spin entry hazards away for the rest of the team while also racking up Speed boosts, and at +1 Speed, Great Tusk outspeeds almost every unboosted threat like
+
+Dragapult
+
+and
+
+Zamazenta
+
+. Close Combat can overwhelm
+
+Corviknight
+
+and
+
+Skarmory
+
+better than Ice Spinner and smashes Grass-types like
+
+Rillaboom
+
+and
+
+Ogerpon-W
+
+. Knock Off provides utility thanks to its ability to remove items, which can force progress, not to mention that it smacks Ghost-types like Dragapult and
+
+Gholdengo
+
+, which normally uses Air Balloon. Last but not least, Taunt allows Great Tusk to prevent status moves from the likes of Dragapult, Corviknight, and
+
+Ting-Lu
+
+that will attempt to disrupt its ability to win. A quick mention goes to Stone Edge, which forms neutral coverage with its other attacks but can also help a lot against
+
+Moltres
+
+in particular. Head Smash is an alternative that can outright OHKO Moltres without needing a boost, but it's a contact move, so beware activating Flame Body. Maximum HP and Speed investment allow Booster Energy to give Great Tusk a Speed boost that lets it outspeed almost all of the unboosted metagame. Consider Leftovers and Rocky Helmet as alternatives only if Great Tusk has sun support, because sun will naturally activate Protosynthesis. Great Tusk also has a good variety of Tera types. Tera Ice boosts the power of Ice Spinner, letting Great Tusk OHKO
+
+Dragonite
+
+after a Bulk Up, and lets it get a Defense boost under snow. Tera Steel flips its common weaknesses into resistances, granting better matchups against Rillaboom,
+
+Deoxys-S
+
+,
+
+Iron Valiant
+
+, Tornadus-T, and
+
+Kyurem
+
+. Tera Ghost combines particularly well with Taunt; together, they stonewall IronPress Pokemon like the aforementioned Zamazenta, Corviknight, and Skarmory, allowing Great Tusk to take advantage of them, and its newfound weakness to Dark-types like
+
+Kingambit
+
+and
+
+Hisuian Samurott
+
+can be mitigated thanks to the Defense boosts Bulk Up provides. Tera Fire grants Great Tusk an immunity to Will-O-Wisp from common users like
+
+Cinderace
+
+and Dragapult and resistances to Grass-, Ice-, and Fairy-type attacks, letting Great Tusk safely set up against Cinderace and improving the matchup against the likes of Iron Valiant and Rillaboom.
+
+This set finds itself in both hyper offense and sun teams as a wincon that can snowball out of control pretty fast. The biggest weakness this set faces is Great Tusk's poor Special Defense, which lets special attackers like Iron Valiant, Tornadus-T,
+
+Enamorus
+
+, Deoxys-S, and many others beat it. Depending on the set, physical walls like Zamazenta, Corviknight,
+
+Alomomola
+
+, Moltres, and
+
+Dondozo
+
+have no problem taking it on. Rillaboom and Ogerpon-W are physical attackers that eviscerate Great Tusk even at +1 Defense. Dragonite is a great partner that can threaten all of these special attackers thanks to its strong priority move. These two can potentially beat each other's checks, with Dragonite having tools like Encore for status moves like Thunder Wave on
+
+Clefable
+
+and Stealth Rock on Ting-Lu and coverage to beat Great Tusk checks like Zamazenta and Corviknight. In return, Great Tusk can do the same to Dragonite checks with Stone Edge for Moltres and Taunt for Dondozo. Special attackers like Deoxys-S,
+
+Iron Moth
+
+, and Gholdengo can help beat targets like Corviknight and Zamazenta. The former can beat Moltres and provides Knock Off, dual screens, and entry hazards that allow Great Tusk to set up and sweep. Iron Moth can beat Rillaboom, while Gholdengo can beat Clefable. Great Tusk provides help to these special attackers by breaking through special walls like
+
+Blissey
+
+, Ting-Lu, and
+
+Galarian Slowking
+
+. If running sun,
+
+Torkoal
+
+is also a must because of its access to Stealth Rock and Rapid Spin, which can help alleviate the need for Rapid Spin on Great Tusk.
+
+Venusaur
+
+benefits from Great Tusk inviting in Grass- and Fairy-types that give it free entry and setup, vaporizing them with Sludge Bomb.
+
+Walking Wake
+
+can break through teams, with Hydro Steam blasting Pokemon that don't resist Water and Flamethrower dealing with Pokemon that do resist Water like Rillaboom and Ogerpon-W, allowing Great Tusk to sweep. When running hyper offense,
+
+Alolan Ninetales
+
+is an amazing partner thanks to its Aurora Veil giving Great Tusk more chances to set up. Another good partner is an offensive Stealth Rock user like
+
+Glimmora
+
+or Ting-Lu whose hazards can be maintained through offensive pressure.
+
+Tera Ground can turn Headlong Rush into a devastating STAB attack that can break through bulky targets Great Tusk normally wouldn’t, such as
+
+Scream Tail
+
+and
+
+Dondozo
+
+.
+
+Tera Fighting lets Great Tusk crush
+
+Corviknight
+
+with Close Combat, which severely hurts defensive structures reliant on it. This opens up powerful teammates like
+
+Flutter Mane
+
+and
+
+Iron Bundle
+
+.
+
+Earthquake makes Great Tusk harder to revenge kill than Headlong Rush does, as it doesn’t drop its defenses.
+
+Rapid Spin works well for teams weak to entry hazards. It's a great way to support powerful threats weak to Stealth Rock, like
+
+Chien-Pao
+
+,
+
+Chi-Yu
+
+, and Iron Bundle.
+
+Knock Off provides fantastic item-removing support, and it especially cripples walls reliant on Leftovers like Scream Tail and Dondozo, allowing its team to more easily break past them.
+
+Play Rough can be used to OHKO
+
+Koraidon
+
+without Terastallizing, as well as beating opposing Great Tusk. However, it has very little practical use outside of this.
+
+Choice Scarf Great Tusk functions most effectively as a wallbreaker in the early- and mid-game, suited best for offensive structures that struggle with physical walls like the aforementioned Scream Tail and Dondozo. When building teams, remember Great Tusk must use Terastallization to actually break through said walls, so it may be hard for teammates to Terastallize.
+
+Choice Band Great Tusk only functions well on Sticky Web teams, where the stronger and slower set appreciates Sticky Web dropping foes' Speed.
+
+Koraidon is a great partner, setting up sun and activating Protosynthesis for Great Tusk. It further resists Water- and Grass-type moves aimed at Great Tusk, weakening the former. Koraidon also effectively baits in
+
+Skeledirge
+
+, which Great Tusk reliably threatens.
+
+Miraidon
+
+is also a great partner, as it can threaten Flying-types, like Corviknight and the rarer
+
+Pelipper
+
+and
+
+Dragonite
+
+. This helps to make Great Tusk’s Headlong Rush much more spammable.
+
+Gholdengo
+
+is also a good partner for Great Tusk, as it resists Ice-, Fairy-, and Grass-type moves aimed at Great Tusk, and it can threaten to KO Ice- and Fairy-types with super effective STAB Make It Rain. In addition, Gholdengo also blocks all hazard removal, helping to wear down walls for Great Tusk's team to eventually break through.
+
+Great Tusk is the best offensive Stealth Rock or Rapid Spin user in the tier thanks to its solid typing and good physical bulk.
+
+If Great Tusk is paired with Pokemon such as
+
+Corviknight
+
+, then Stealth Rock can be run instead of Rapid Spin. If paired with teammates that set Stealth Rock, then the best set would be Rapid Spin / Headlong Rush / Close Combat / Knock Off.
+Knock Off makes progress on Corviknight and covers the Air Balloon
+
+Gholdengo
+
+matchup.
+
+Tera Ground lets Great Tusk deal incredible damage with Headlong Rush while also letting it survive
+
+Flutter Mane
+
+'s Moonblast from full HP. Tera Steel flips the Fairy matchup and lets Great Tusk take on Ice- and Dragon-type attacks, but the additional weaknesses to Fighting and Ground make Great Tusk unable to take on
+
+Koraidon
+
+,
+
+Ting-Lu
+
+, and
+
+Iron Treads
+
+easily.
+
+Great Tusk can be used to take on entry hazard setters like Ting-Lu and Iron Treads one-on-one by forcing them out and removing hazards.
+Jolly is usually preferred to outspeed Gholdengo, Modest
+
+Chi-Yu
+
+, and
+
+Glimmora
+
+, but Adamant lets Tera Ground Headlong Rush OHKO Koraidon and specially defensive
+
+Annihilape
+
+after one layer of Spikes or Stealth Rock.
+
+Great Tusk should be used aggressively to force out and keep entry hazards off the field against other setters, such as Ting-Lu and Iron Treads, since Great Tusk is generally difficult to switch into.
+Great Tusk pairs well with Koraidon thanks to Orichalcum Pulse's sun, letting Great Tusk become an incredibly potent wallbreaker, and Great Tusk can clear entry hazards so that Koraidon can repeatedly come in.
+
+Miraidon
+
+also appreciates Great Tusk, as it forces out common checks such as
+
+Clodsire
+
+, Ting-Lu, and Iron Treads. Great Tusk also appreciates
+
+Blissey
+
+being able to take on all of the special attackers that force Great Tusk out, such as Flutter Mane, Miraidon, and
+
+Iron Bundle
+
+.
+
+Bulk Up allows Great Tusk to be a threatening sweeper. It can comfortably set up on common physical walls like
+
+Ting-Lu
+
+,
+
+Iron Treads
+
+,
+
+Corviknight
+
+, and defensive Great Tusk.
+
+The STAB combination of Headlong Rush and Close Combat hits most physical walls for at least neutral damage. Earthquake may be used as the Ground-type STAB move to avoid defensive drops, but it is a weaker move, and it can't secure important OHKOs and 2HKOs at +1 Attack against some physical walls such as
+
+Toxapex
+
+,
+
+Scream Tail
+
+, and
+
+Alomomola
+
+.
+
+A Jolly nature is used to outspeed all viable unboosted Pokemon after one Rapid Spin. An Adamant nature makes Great Tusk stronger while still letting it outspeed unboosted
+
+Iron Bundle
+
+at +1 Speed, but it misses out on outspeeding maximum Speed
+
+Gholdengo
+
+and tying Jolly Great Tusk.
+
+Terastallizing into the Ground typing boosts Headlong Rush and guarantees some additional OHKOs and 2HKOs on foes like Toxapex and Scream Tail. Additionally, getting rid of the Fighting typing lets Great Tusk survive Fairy-type attacks such as Dazzling Gleam from
+
+Miraidon
+
+and Moonblast from
+
+Flutter Mane
+
+without Life Orb or Choice Specs, and it facilitates taking Dazzling Gleam and Play Rough from Scream Tail and Alomomola.
+
+Alternatively, using Tera Steel gives Great Tusk resistances to Fairy-type attacks, Ice-type attacks from
+
+Chien-Pao
+
+and Iron Bundle, and Draco Meteor from Miraidon, allowing it to surprise them with a strong attack.
+
+Koraidon
+
+is a solid partner because its sun activates Great Tusk's Protosynthesis, making its attacks even stronger. In return, Great Tusk can break through or strongly dent common Koraidon checks like Scream Tail, Alomomola, and
+
+Skeledirge
+
+, which allows Koraidon to clean more easily. Miraidon is also an excellent teammate, since Great Tusk can easily hard switch into its common checks and either threaten them with its attacks or set up on them.
+
+Special attackers like Miraidon, Flutter Mane, and Iron Bundle hugely threaten Great Tusk, so it is recommended to pair it with appropriate special walls like
+
+Blissey
+
+, Ting-Lu, Iron Treads, and
+
+Clodsire
+
+.
+
+Gothitelle
+
+is a less popular pick but it helps eliminate bulky checks like
+
+Dondozo
+
+and
+
+Pelipper
+
+, allowing Great Tusk to sweep more easily.
+
+Thanks to its solid physical bulk under sun and good defensive typing, Great Tusk acts as one of the best checks to
+
+Koraidon
+
+while also providing teams with entry hazard removal and a fantastic switch-in to other Ground-types in the tier such as
+
+Ting-Lu
+
+,
+
+Clodsire
+
+, and
+
+Iron Treads
+
+.
+
+Play Rough threatens a KO on Koraidon after entry hazard damage. Knock Off can be used to take on Air Balloon
+
+Gholdengo
+
+and wear down foes that want to switch into Great Tusk such as
+
+Corviknight
+
+and
+
+Annihilape
+
+, but it is generally outclassed by the sheer utility of Rapid Spin and Stealth Rock. The combination of Knock Off and Body Press can be used to pressure Corviknight switch-ins.
+
+Bulk Up is an option to boost alongside opposing Great Tusk and Swords Dance
+
+Kingambit
+
+and Koraidon.
+
+Great Tusk can Terastallize into the Fairy typing to take on physical attackers such as Koraidon,
+
+Chien-Pao
+
+, and
+
+Palafin
+
+in sun. However, be wary of Terastallizing against Koraidon that can still Terastallize themselves, as Choice Band Tera Fire Koraidon can take on Great Tusk one-on-one. Great Tusk can also Terastallize into the Ground typing or the Water typing, with both options removing its weakness to Fairy. The former also lets it fire off stronger Earthquakes as well, while the latter provides useful resistances to Fire moves from Koraidon as well as Ice- and Water-type moves, barring Freeze-Dry, from
+
+Iron Bundle
+
+.
+
+Great Tusk fits on most teams as a bulky Stealth Rock setter and Koraidon check. Great Tusk can utilize Rocky Helmet to punish the use of U-turn, though this hurts its longevity, as it then loses Leftovers's passive recovery.
+
+Great Tusk pairs well with defensive
+
+Scream Tail
+
+and
+
+Blissey
+
+, both of which can take on Iron Bundle while also providing Wish support for Great Tusk. Blissey can also take on
+
+Chi-Yu
+
+and
+
+Miraidon
+
+, while Scream Tail can take on
+
+Iron Valiant
+
+.
+
+Great Tusk also pairs well with Gholdengo, as it appreciates Great Tusk forcing out Koraidon while preventing hazard removal in exchange. Choice Scarf Chi-Yu is a good partner due to its ability to pressure faster special attackers that trouble Great Tusk such as Iron Bundle and
+
+Flutter Mane
+
+. Great Tusk also pairs well with Miraidon, as non-Heavy-Duty Boots Miraidon appreciates it removing entry hazards and taking on Clodsire, Iron Treads, and Ting-Lu. Finally, Koraidon is a good partner, as it can set up sun, pivot into Great Tusk, and force out most hazard removal options besides opposing defensive Great Tusk.
+
+With an impressive physical statline, Great Tusk smashes through the competition, providing great utility and offensive presence all in one slot. Focus Sash synergizes well, as it lets Great Tusk take an attack from
+
+Flutter Mane
+
+and KO it in return and get rid of popular Air Balloon users such as
+
+Glimmora
+
+,
+
+Heatran
+
+, and
+
+Raging Bolt
+
+through the combination Rapid Spin and Earthquake. Earthquake is Great Tusk's key STAB move, threatening Poison-, Electric-, and Fire-types like
+
+Toxapex
+
+,
+
+Iron Hands
+
+, non-Air Balloon Heatran, and
+
+Ceruledge
+
+. Headlong Rush is another option to secure an OHKO on
+
+Greninja
+
+after Stealth Rock. Knock Off hits both
+
+Dragapult
+
+and
+
+Latios
+
+hard while providing general utility against the rest of the tier such as removing Choice Scarf, Rocky Helmet, and Heavy Duty Boots from the opposing team. Alternatively, Ice Spinner can be used to improve the Flying matchup, as it deals with
+
+Dragonite
+
+and
+
+Gliscor
+
+. Rapid Spin plays an important role by removing entry hazards from Great Tusk's side and boosting its Speed, allowing Great Tusk to outspeed many prominent threats such as Choice Specs Flutter Mane, Dragapult, and Latios. Taunt can be used instead to notably prevent
+
+Skarmory
+
+, Ting Lu, and
+
+Corviknight
+
+from setting up entry hazards, setting up itself, or using utility moves like Defog, Roost, and Whirlwind. Lastly, Great Tusk can set Stealth Rock up, ensuring opposing Focus Sashes will not impede the team's progress in the game.
+
+Assault Vest Iron Hands and
+
+Gallade
+
+are both great partners, as they can absorb special hits that would OHKO Great Tusk from foes like
+
+Hatterene
+
+, Choice Scarf Greninja, and Choice Scarf
+
+Enamorus
+
+. They also aid Great Tusk, should its Focus Sash be disabled, by checking and OHKOing in retaliation popular Choice Specs users like Dragapult, Latios, and Flutter Mane, while they both appreciate Great Tusk's ability to remove entry hazards from the field. They both come with their matchups of predilection: Flying and Fairy for Iron Hands and Poison and Water for Gallade. Iron Hands takes on
+
+Primarina
+
+, Hatterene, and Corviknight, while Gallade slashes through
+
+Amoonguss
+
+,
+
+Galarian Weezing
+
+, and
+
+Keldeo
+
+. Choice Scarf
+
+Sneasler
+
+can deal with Grass- and Fairy-types such as the
+
+Ogerpon
+
+formes, Primarina, and
+
+Iron Valiant
+
+while retaining momentum with U-turn. With its especially large movepool, Iron Valiant can help Great Tusk in many ways, from getting rid of Flying-type Pokemon with BoltBeam coverage like
+
+Landorus
+
+, Corviknight, and Gliscor to deleting physical walls such as
+
+Sableye
+
+and
+
+Hippowdon
+
+with STAB Moonblast, and it appreciates Great Tusk's ability to remove Assault Vest from
+
+Tornadus-T
+
+. Water-type wallbreakers like Keldeo and
+
+Urshifu-R
+
+also synergize quite well with Great Tusk, as Great Tusk provides a useful Electric immunity, allowing them to focus on dismantling opposing defensive Pokemon such as Corviknight and Skarmory. Finally,
+
+Hisuian Lilligant
+
+provides some utility in the form of Sleep Powder and can also aid offensively in the Flying, Water, and Ground matchups with its Victory Dance set, effectively suppressing the likes of Urshifu-R,
+
+Swampert
+
+, and Landorus.
+
+Boasting impressive bulk, Great Tusk takes the physical wall role for Fighting teams, being able to tank multiple hits from physical attackers such as
+
+Dragonite
+
+and
+
+Ceruledge
+
+. Earthquake threatens Poison-, Electric-, and Fire-types like
+
+Clodsire
+
+,
+
+Iron Hands
+
+, and non-Air Balloon
+
+Heatran
+
+. Knock Off hits Earthquake switch-ins such as Air Balloon
+
+Gholdengo
+
+,
+
+Latios
+
+, and
+
+Tornadus-T
+
+and removes their item. Alternatively, Ice Spinner can threaten
+
+Gliscor
+
+and Dragonite, preventing them from setting up on Great Tusk. Rapid Spin provides entry hazard control and boosts Great Tusk's Speed, which can allow it to weaken offensive foes such as Latios. Taunt can be used instead to notably prevent
+
+Skarmory
+
+,
+
+Ting-Lu
+
+, and
+
+Hippowdon
+
+from setting up hazards and prevents
+
+Corviknight
+
+'s Defog. Lastly, Great Tusk can set Stealth Rock up, breaking Focus Sash on Ceruledge and
+
+Breloom
+
+and greatly helping the team progress in the game. The EV spread lets Great Tusk outspeed maximum Speed Modest
+
+Raging Bolt
+
+while maximizing Great Tusk's physical bulk.
+
+Defensive Great Tusk appreciates teammates that can make up for its abysmal special bulk like Assault Vest Iron Hands and Assault Vest
+
+Gallade
+
+. Assault Vest Iron Hands deals with Flying- and Fairy-types threats such as
+
+Primarina
+
+,
+
+Hatterene
+
+, and
+
+Gyarados
+
+. Gallade gives Fighting teams the edge in troublesome matchups like Poison and Water by slashing through
+
+Keldeo
+
+,
+
+Amoonguss
+
+, and
+
+Galarian Weezing
+
+. In return, they both appreciate Great Tusk dealing with
+
+Excadrill
+
+. Defensive Great Tusk also synergizes well with popular Fighting team sweepers such as
+
+Iron Valiant
+
+, Keldeo, and
+
+Sneasler
+
+, removing entry hazards and taking physical hits for them, while they break through the opponent's team. Iron Valiant can delete Fighting-, Dark-, and Dragon-types like Keldeo,
+
+Sableye
+
+, and Choice Specs Latios with Moonblast while threatening Flying teams thanks to its access to BoltBeam. Keldeo appreciates the Electric immunity Great Tusk comes with, as it lets it focus more on overwhelming defensive cores like Corviknight and Skarmory. Sneasler takes on Fairy- and Grass-types threats such as
+
+Enamorus
+
+, Iron Valiant, and
+
+Ogerpon
+
+formes while providing U-turn support to bring Great Tusk in on physical threats such as Gliscor.
+
+Hisuian Lilligant
+
+can put a foe to sleep and dispose of Ground- and Water-types foes with its Victory Dance set such as
+
+Landorus
+
+,
+
+Swampert
+
+, and
+
+Urshifu-R
+
+.
+
+A Choice Scarf combined with high-power STAB moves, great physical bulk, and high Attack makes Great Tusk one of the best options on Ground teams for a wallbreaker and late-game cleaner, threatening the likes of Choice Scarf
+
+Gholdengo
+
+and
+
+Bisharp
+
+. Close Combat hits different threats to Ground teams like Choice Specs
+
+Greninja
+
+and
+
+Hoopa-U
+
+. Headlong Rush OHKOes
+
+Flutter Mane
+
+. Earthquake can be used over Headlong Rush despite its lower power due to not causing Defense and Special Defense drops, making it better for sweeping. Ice Spinner targets the likes of
+
+Garchomp
+
+,
+
+Dragonite
+
+,
+
+Gliscor
+
+, and
+
+Landorus
+
+. Alternatively, Stone Edge targets Flying- and Bug-types such as
+
+Articuno
+
+,
+
+Talonflame
+
+, and
+
+Volcarona
+
+. Megahorn can also be used to target Grass- and Psychic-types such as
+
+Ogerpon-W
+
+,
+
+Latios
+
+, and
+
+Slowbro
+
+; Slowbro is notably 2HKOed by it after Stealth Rock damage. Knock Off prevents Air Balloon Gholdengo from walling Great Tusk, and it also removes items from foes such as Heavy-Duty Boots from
+
+Gyarados
+
+and
+
+Brambleghast
+
+and Leftovers from
+
+Corviknight
+
+.
+
+Clodsire
+
+,
+
+Ting-Lu
+
+,
+
+Hippowdon
+
+, and Gliscor provide entry hazard support in wearing down foes to aid Great Tusk, guaranteeing a 2HKO on specially defensive Corviknight and an OHKO on the
+
+Ogerpon
+
+formes. Additionally, Clodsire provides a Water immunity, and its Poison typing allows it to melt Toxic Spikes and threaten Grass- and Fairy-types such as
+
+Meowscarada
+
+, Flutter Mane, and
+
+Clefable
+
+; Ting-Lu phazes setup sweepers such as Volcarona and Dragonite with Whirlwind; Hippowdon sets up sand to wear down foes further; and Gliscor spreads status with Toxic and shuts down passive walls with Taunt. In return, they appreciate Great Tusk dealing with Ice-types like
+
+Kyurem
+
+. Sand-boosted
+
+Excadrill
+
+takes out Choice Scarf users such as
+
+Iron Valiant
+
+,
+
+Enamorus
+
+, and
+
+Iron Boulder
+
+. In return, Great Tusk deals with Dragon-types like Garchomp. When Great Tusk chooses to forego Ice Spinner,
+
+Mamoswine
+
+makes for a great teammate to cover Dragon- and Flying-types like Choice Scarf
+
+Latias
+
+, Dragonite, and Landorus. Landorus makes for another great partner, as with its colorful coverage, it takes on the likes of
+
+Primarina
+
+and Clefable, and it can also provide Gravity support so Great Tusk fares better against Corviknight and
+
+Skarmory
+
+. Landorus appreciates Great Tusk taking out Ice-types in return.
+
+Iron Treads
+
+provides immense utility that helps Great Tusk, such as hazard removal and pivoting via Volt Switch, and it appreciates Great Tusk taking out Excadrill in return. Garchomp is a great late-game sweeper that appreciates Great Tusk's ability to take out bulky Pokemon such as Articuno, Ting-Lu, and Gliscor with the appropriate coverage, which in turn allows Garchomp to sweep much more easily.
+
+Great Tusk's primal physical prowess and great support options make it a good choice for a bulky Fighting-type.
+
+Earthquake versus Headlong Rush
+
+: Headlong Rush's defensive drops and vulnerability to Rocky Helmet make it a riskier option than Earthquake, but the extra power OHKOes maximum HP
+
+Gholdengo
+
+.
+
+Ice Spinner
+
+: This is highly recommended to avoid getting walled by
+
+Dragonite
+
+before it Terastallizes, while also dealing good damage to common Tera Flying Pokemon such as Gholdengo and
+
+Kingambit
+
+.
+
+Rapid Spin
+
+: Great Tusk is one of the best Rapid Spin users, being able to take advantage of it offensively and heavily pressuring
+
+Ting-Lu
+
+to Terastallize or switch out.
+
+Knock Off
+
+: Beyond the usefulness of removing items, this is Great Tusk's best move against Air Balloon Gholdengo.
+
+Other Options
+
+Rock Tomb
+
+: Rock Tomb is a good speed control option, great for breaking through Dragonite's Multiscale while nullifying its potential Speed boost, while letting other teammates take advantage of speed control. It also lets Great Tusk hit troublesome Focus Sash Ghost-types such as
+
+Flutter Mane
+
+and
+
+Gengar
+
+, something Rapid Spin can't do.
+
+Iron Head
+
+: If using Tera Steel, Iron Head is a decent option for OHKOing Flutter Mane without using Headlong Rush, and it deals heavy damage to
+
+Baxcalibur
+
+and Tera Fairy
+
+Rotom-W
+
+.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Terastallization can help with Great Tusk's poor special bulk by resisting certain hits, but it works fine without it.
+
+Steel
+
+: Tera Steel greatly aids against the many Fairy-, Ice-, and Flying-types that would otherwise prey on Great Tusk, such as
+
+Mimikyu
+
+,
+
+Iron Bundle
+
+, and Tera Flying Dragonite.
+
+Water
+
+: Tera Water massively improves the matchup against
+
+Chien-Pao
+
+, and can let Great Tusk survive an encounter with offensive
+
+Iron Moth
+
+or
+
+Chi-Yu
+
+that lack Choice Specs.
+
+Ground
+
+: The furious increase in power Tera Ground provides can be useful late game, giving Earthquake a high chance to OHKO even defensive Gholdengo and Headlong Rush the ability to 2HKO Terastallized
+
+Skeledirge
+
+.
+
+Fighting
+
+: Not only does Tera Fighting improve the Chien-Pao matchup, but it OHKOs even the bulkiest Ting-Lu with Close Combat.
+
+Items
+
+Assault Vest
+
+: This patches up Great Tusk's poor Special Defense, which can be paired with the correct Tera Type to help against foes like Iron Bundle, Flutter Mane, Iron Moth, and Chi-Yu.
+
+Booster Energy
+
+: When saving Great Tusk for late-game sweeps, Booster Energy is preferred over Life Orb for preserving its HP against priority attacks.
+
+Focus Sash
+
+: Focus Sash on such a bulky Pokemon may seem wasteful, but it vastly improves Great Tusk's matchups against special attackers such as Rotom-W and makes setting up Stealth Rock a far simpler task. If using Focus Sash, consider using the first alternate EV spread below.
+
+Alternate EV Spreads
+
+4 HP / 12 Def / 236 Atk / 252 Spe with Jolly
+
+: This EV spread survives Adamant Focus Sash
+
+Meowscarada
+
+'s Flower Trick followed by Sucker Punch, making it a good spread to use if using Focus Sash and Rapid Spin.
+
+Assault Vest EV Spreads
+
+All of these EV spreads will at least avoid a 2HKO from Modest Flutter Mane's Mystical Fire if using Tera Steel. If using a different Tera type, 16 Special Defense EVs can be redistributed.
+
+52 HP / 148 Atk / 4 Def / 164 SpD / 140 Spe with Adamant
+
+: This EV spread outspeeds Adamant
+
+Breloom
+
+, and the rare Timid
+
+Abomasnow
+
+.
+
+4 HP / 44 Atk / 4 Def / 164 SpD / 244 Spe with Adamant
+
+: This EV spread is for Rapid Spin, outspeeding Iron Bundle after a Speed boost.
+
+Great Tusk's fantastic Defense stat makes it a great option for setting up Bulk Up late-game.
+
+Taunt versus Substitute
+
+: Taunt preys on defensive Pokemon such as
+
+Wo-Chien
+
+and
+
+Corviknight
+
+, while Substitute protects Great Tusk from
+
+Garganacl
+
+'s Salt Cure. Dragon Tail from
+
+Garchomp
+
+and
+
+Dragonite
+
+, and OHKO moves from the likes of
+
+Dondozo
+
+and
+
+Kingambit
+
+.
+
+Ice Spinner
+
+: Dragonite is such a problematic foe that hitting it hard is worth more than a Fighting-type STAB move.
+
+Other Options
+
+Body Press
+
+: Although it is difficult to fit in without sacrificing utility or coverage, Body Press is a reasonable option if a Fighting-type STAB move is needed.
+
+Close Combat
+
+: Close Combat does not gel well with the defensive nature of this set, but it deals far more damage to
+
+Ting-Lu
+
+than any of Great Tusk's other options.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Great Tusk is a good bulky sweeper on its own, but Terstallization makes it far more difficult to revenge kill.
+
+Water
+
+: Not only is Tera Water an excellent option against
+
+Chien-Pao
+
+and
+
+Chi-Yu
+
+, but it also means Dondozo will never break Great Tusk's Substitute with Wave Crash, and Assault Vest
+
+Azumarill
+
+become an easy target to set up on.
+
+Steel
+
+: Tera Steel is a great option for dealing with Great Tusk's weaknesses, such as Fairy-types and makes
+
+Iron Bundle
+
+usually fail to 2HKO specially defensive Great Tusk without Choice Specs.
+
+Poison
+
+: Tera Poison is a decent alternative to Tera Steel, providing the vital Fairy-type resistance without the weaknesses to Fighting- and Fire-type attacks and an extremely useful immunity to being poisoned that eases the match-up against Toxic Spikes foes such as
+
+Clodsire
+
+and
+
+Meowscarada
+
+.
+
+Fire
+
+: Fire is not a great defensive type; however, not only does it do well against Fairy-types such as
+
+Flutter Mane
+
+, it also protects Great Tusk from fast Will-O-Wisp users such as
+
+Dragapult
+
+,
+
+Mimikyu
+
+, and
+
+Volcarona
+
+.
+
+Items
+
+Leftovers
+
+: The residual recovery from Leftovers best suits the slow set-up of this set, especially if using Substitute.
+
+Booster Energy
+
+: Depending on the EV spread, Booster Energy can boost Attack or Speed to increase Great Tusk's late-game cleaning potential.
+
+Covert Cloak
+
+: If a Garganacl check is desperately needed, Covert Cloak Great Tusk is up for the task.
+
+EV Spreads
+
+188 HP / 140 Atk / 4 Def / 36 SpD / 140 Spe with Adamant
+
+: This EV spread outspeeds Adamant
+
+Breloom
+
+and the rare Timid
+
+Abomasnow
+
+, survives Timid Iron Bundle's Freeze-Dry, and has a very good chance of avoiding a 2HKO from Adamant Azumarill after using Bulk Up. The Attack EVs OHKO Chien-Pao and defensive
+
+Gholdengo
+
+with Earthquake after Bulk Up.
+
+4 HP / 252 SpD / 252 Spe with Jolly
+
+: This spread gains a Speed boost from Protosynthesis, making Great Tusk an even better late-game sweeper at the cost of physical bulk.
+
+244 HP / 20 Atk / 84 Def / 20 SpD / 140 Spe with Impish
+
+: This EV spread is meant for use with Tera Steel or Tera Poison, maintaining Great Tusk's Substitute against Dondozo's Wave Crash after Terastallization. It also outspeeds Adamant Breloom and the rare Timid Abomasnow, and survives Timid Iron Bundle's Freeze-Dry.
+
+252 HP / 4 Atk / 252 SpD with Careful
+
+: Maximum investment in special bulk makes Great Tusk much more difficult to revenge kill with the likes of Gholdengo and Iron Bundle. The 4 Attack EVs gives an Attack boost from Protosynthesis, which is preferred for improving the
+
+Skeledirge
+
+matchup and sweeping more easily.
+
+Great Tusk's high power attacks make it a fine Choice item holder.
+
+Headlong Rush versus Earthquake
+
+: Headlong Rush is preferred for stampeding over maximum HP
+
+Gholdengo
+
+, but Earthquake avoids chip damage from Rocky Helmet and makes Great Tusk far less vulnerable to priority attacks from foes like
+
+Dragonite
+
+,
+
+Chien-Pao
+
+, and
+
+Palafin-H
+
+.
+
+Ice Spinner
+
+: Great Tusk should never leave its cave without a move to hit Dragonite hard!
+
+Knock Off
+
+: Knock Off deals massive damage to Air Balloon Gholdengo and is almost guaranteed to OHKO offensive
+
+Dragapult
+
+after Stealth Rock damage.
+
+Jolly versus Adamant
+
+: A Jolly nature ensures that Great Tusk outspeeds Gholdengo, and Choice Scarf variants outspeed Dragapult. Adamant is still a reasonable option for more power since Great Tusk will still outpace
+
+Breloom
+
+, and if using Choice Scarf,
+
+Iron Bundle
+
+,
+
+Flutter Mane
+
+, and Chien-Pao.
+
+Other Options
+
+Iron Head
+
+: If using Tera Steel, this is a reasonable option over Knock Off if Tera Fairy
+
+Rotom-W
+
+is an issue.
+
+Tera Types
+
+Tera Dependency - Low
+
+: While Terastallization can help it clean more easily, it's not an important aspect of this set otherwise.
+
+Ground
+
+: Tera Ground is the best option for late-game cleaning, dealing significant damage to
+
+Dondozo
+
+and OHKOing Dragapult with Headlong Rush.
+
+Fighting
+
+: Tera Fighting threatens to 2HKO
+
+Corviknight
+
+, an otherwise decent check to Great Tusk, and OHKO even the bulkiest
+
+Ting-Lu
+
+.
+
+Steel
+
+: While Great Tusk's special bulk is mediocre, Tera Steel can prevent it from being OHKOed by foes such as Iron Bundle and Flutter Mane.
+
+Items
+
+Choice Scarf
+
+: Since it outspeeds other major Choice Scarf Pokemon such as Gholdengo and Rotom-W, Great Tusk makes for a good revenge killer.
+
+Choice Band
+
+: Choice Band is a more niche option due to being extremely vulnerable to revenge kills, but does a much better job of wall-breaking, with Tera boosted Great Tusk even being able to 2HKO a maximum Defense Dondozo with Close Combat or Headlong Rush!
+
+Thanks to its enormous physical bulk, solid utility options, and wide variety of abilities it can use, Great Tusk functions as an excellent physical wall. Earthquake lets Great Tusk hit foes that would otherwise beat it like
+
+Pecharunt
+
+,
+
+Scream Tail
+
+, and defensive
+
+Gholdengo
+
+, whereas Body Press does more damage than Earthquake due to its defensive investment and does solid damage to non-Fluffy
+
+Corviknight
+
+and
+
+Skarmory
+
+. Knock Off allows Great Tusk to annoy switch-ins like Corviknight, Skarmory, and opposing Great Tusk by removing their items, while Ice Spinner does good damage to
+
+Zapdos
+
+. Rapid Spin allows Great Tusk to support its teammates by removing entry hazards. Stealth Rock lets Great Tusk residually chip Pokemon like
+
+Chien-Pao
+
+,
+
+Deoxys-S
+
+, and
+
+Heatran
+
+, while Taunt prevents Corviknight from using Defog, Skarmory from setting up hazards, and both of them from recovering with Roost. Scrappy lets Great Tusk use Rapid Spin against Ghost-types such as Gholdengo and Pecharunt while also being able to hit Gholdengo with Body Press; however, Regenerator gives Great Tusk longevity, which lets it check
+
+Roaring Moon
+
+and opposing Great Tusk without being scared of getting chipped down, but this means that Great Tusk is forced to be used with non-RegenVest special walls. Alternatively, Fluffy makes Great Tusk incredibly bulky, letting it easily switch in on Choice Band
+
+Zamazenta
+
+and Roaring Moon. Leftovers is appreciated on Scrappy and Fluffy sets, as Great Tusk lacks longevity, but Rocky Helmet is also an option to punish Corviknight, opposing Great Tusk, Zamazenta, and non-Magic Guard Roaring Moon. Heavy-Duty Boots is a bit more niche, but it lets Great Tusk remove hazards without being affected by them.
+
+Defensive Great Tusk is most often used on bulky offense or balance teams. Attackers that are easily chipped down by entry hazards like Chien-Pao, Deoxys-S, and non-Magic Guard Roaring Moon appreciate Great Tusk removing them with Rapid Spin. Teammates like Zapdos, Roaring Moon, and
+
+Iron Moth
+
+enjoy the Stealth Rock that Great Tusk sets up, as they can pivot out to slowly chip away at switch-ins such as Corviknight and RegenVest Roaring Moon. Great Tusk's low Special Defense requires special walls like RegenVest
+
+Manaphy
+
+,
+
+Swampert
+
+, and Roaring Moon as well as Heatran,
+
+Iron Treads
+
+, and
+
+Empoleon
+
+for Regenerator variants of Great Tusk. Great Tusk is also vulnerable to physical attackers like Chien-Pao,
+
+Iron Boulder
+
+,
+
+Meowscarada
+
+, and the
+
+Ogerpon
+
+formes; therefore, it appreciates aid from Pokemon such as physically defensive Manaphy, Skarmory, and
+
+Moltres
+
+.
+
+Offensive Great Tusk is an excellent spinner and wallbreaker due to its ability to threaten common spinblockers like
+
+Pecharunt
+
+and
+
+Gholdengo
+
+while serving as a great stopgap to the numerous Dark-types the tier has to offer in
+
+Kingambit
+
+and
+
+Roaring Moon
+
+. Knock Off is an extremely spammable move that cripples Great Tusk's switch-ins like
+
+Zapdos
+
+and
+
+Moltres
+
+, while Head Smash is an excellent option on Magic Guard sets for its ability to let Great Tusk lure in and remove the aforementioned Flying-types. Rapid Spin allows Great Tusk to provide more utility to its team and potentially snowball out of control when also using Bulk Up. Smack Down allows Great Tusk to deal hefty damage to Zapdos and Moltres as well as ground Flying-types like
+
+Corviknight
+
+,
+
+Skarmory
+
+, and the
+
+Landorus
+
+formes, letting it follow up with Headlong Rush. Taunt denies Roost attempts from Great Tusk's checks like Corviknight and Skarmory, Defog from the former, and setup sweepers like IronPress
+
+Zamazenta
+
+and Swords Dance Kingambit from setting up. Leftovers provides Great Tusk with much-needed longevity, Earth Plate allows Headlong Rush to 2HKO physically defensive
+
+Manaphy
+
+after mild chip damage, and Life Orb should exclusively be used with Magic Guard to gain a boost on all of Great Tusk's moves that has no drawbacks. Mold Breaker allows Great Tusk to bypass abilities that would hinder it from its checks like Fluffy Corviknight and Skarmory and Levitate or Earth Eater Gholdengo and
+
+Iron Hands
+
+. Scrappy allows Great Tusk to guarantee a Rapid Spin even in the face of would-be spinblockers while giving it an immunity to Intimidate, making Intimidate Corviknight and Skarmory much shakier checks to it. Magic Guard allows it to ignore passive chip damage and thus boosts its longevity, allowing it to switch in more consistently throughout a game without fear.
+
+Offensive Great Tusk fits best on offensive and bulky offense teams that appreciate its ability to stave off common anti-offense threats like Swords Dance Kingambit and Choice Scarf Roaring Moon while being able to consistently remove entry hazards. Great Tusk dreads special attackers and thus requires good specially defensive partners like RegenVest Roaring Moon, Manaphy, and
+
+Swampert
+
+. Great Tusk is unable to check many physical threats that can hit it super effectively like the
+
+Ogerpon
+
+formes and
+
+Chien-Pao
+
+, making secondary physical walls like Intimidate Pecharunt and the aforementioned Manaphy good teammates. Other physical wallbreakers that appreciate Great Tusk's ability to break through Pecharunt and Fluffy Corviknight and Skarmory, like Zamazenta, Roaring Moon, and Kingambit, pair well with it.
+
+Great Tusk's powerful STAB moves, massive attack stat, and Choice Band make it one of the strongest wallbreakers in the tier. Knock Off cripples
+
+Moltres
+
+and
+
+Zapdos
+
+by removing their Heavy-Duty Boots while helping to make progress against
+
+Corviknight
+
+and opposing Great Tusk by removing Rocky Helmet or Leftovers. It is also required on Sword of Ruin sets to hit Earth Eater Ghost-types such as
+
+Gholdengo
+
+and
+
+Pecharunt
+
+. Ice Spinner handles Flying-types like Zapdos and the
+
+Landorus
+
+formes that Great Tusk would otherwise struggle with, and Rapid Spin provides useful entry hazard control. Mold Breaker lets Great Tusk completely ignore Earth Eater on the aforementioned Gholdengo and Pecharunt, as well as bypassing Fluffy on Corviknight,
+
+Skarmory
+
+, and opposing Great Tusk. Sword of Ruin trades these matchups for more power, notably letting Great Tusk potentially 2HKO Corviknight through Intimidate.
+
+Choice Band Great Tusk works best on offense and balance teams, where other physical attackers can make up for its subpar Speed and take advantage of weakened physically defensive walls. Great Tusk can tailor its ability to the team's need, such as running Sword of Ruin when paired with
+
+Chien-Pao
+
+, thus being able to break past Corviknight regardless of whether it has Intimidate or Fluffy. Similarly, Choice Band
+
+Zamazenta
+
+can handle Intimidate Corviknight, while Mold Breaker Great Tusk helps threaten both Fluffy Corviknight and Pecharunt. Due to its low Speed and Special Defense, Great Tusk is vulnerable to special attackers such as
+
+Latios
+
+,
+
+Deoxys
+
+, and
+
+Scream Tail
+
+; special walls like
+
+Manaphy
+
+,
+
+Iron Treads
+
+, and
+
+Swampert
+
+can check these threats while also pivoting Great Tusk in.
+
+Other Options
+
+Wandering Spirit is a niche ability on physically defensive sets that prevents Regenerator Pokemon like
+
+Swampert
+
+and
+
+Roaring Moon
+
+from regaining their HP when they pivot out while also letting Great Tusk gain Regenerator. Magic Guard + Life Orb is a great combination for offensive sets, as this prevents Great Tusk from being chipped down by Rocky Helmet and poison from Malignant Chain or Toxic Spikes; it also lets Great Tusk make use of Supercell Slam to hit
+
+Corviknight
+
+and
+
+Skarmory
+
+as well as Head Smash for
+
+Zapdos
+
+and
+
+Moltres
+
+without taking any recoil. Mold Breaker is used on offensive sets to allow Great Tusk to bypass Fluffy used on Pokemon like Corviknight, Skarmory, and Great Tusk as well as Levitate and Earth Eater on
+
+Gholdengo
+
+and
+
+Pecharunt
+
+. Earth Eater gives Great Tusk immunity to Earthquake from
+
+Ting-Lu
+
+, Swampert, and opposing Great Tusk while also letting it counter
+
+Sandy Shocks
+
+. Great Tusk can opt for an EV spread of 252 HP / 4 Atk / 252 Spe to make it a fast utility Pokemon while still retaining its defensive prowess. Eject Button is a niche item that swings the momentum in your favor against Pokemon trying to pivot out with U-turn such as Roaring Moon and Corviknight.
+
+Checks and Counters
+
+Special Attackers
+
+: Great Tusk's incredibly low Special Defense makes it prone to being OHKOed by special attackers like
+
+Deoxys-S
+
+, Zapdos,
+
+Scream Tail
+
+, Gholdengo, and
+
+Iron Moth
+
+.
+
+Physical Attackers With Super Effective Moves
+
+:
+
+Chien-Pao
+
+,
+
+Iron Boulder
+
+,
+
+Meowscarada
+
+, and the
+
+Ogerpon
+
+formes can all 2HKO Great Tusk with their super effective attacks.
+
+Residual Damage
+
+: Residual damage like poison, Spikes, and Rocky Helmet all slowly chip away at Great Tusk, which is compounded by it lacking any sort of longevity if it isn't using Regenerator or Leftovers.
+
+Draft Order
+
+: Round 1 onwards
+
+Price Range
+
+: 19 points
+
+Overview
+
+: In terms of role compression, Great Tusk is excellent for its ability to be versatile in any given matchup. It is primarily used for its ability to control entry hazards, which is a role that is difficult to find given most Pokemon tend to be unreliable. Great Tusk also excels at being able to exert strong offensive pressure, which, alongside Booster Energy and its wide coverage, makes it a constant threat to your opponent's team. Finally, its bulk allows it to check strong physical threats, which can be difficult to handle given how easy it is for most Pokemon in the format can threaten to win the game on the spot. That said, Great Tusk can struggle taking special attacks due to it not having good Special Defense, so it's often pressured by strong special attackers or by Pokemon running special coverage moves to hit its weak point.
+
+Common Roles
+
+Offensive Utility
+
+: Great Tusk's utility lies in its ability to control entry hazards. By using Stealth Rock and Rapid Spin, it is able to control the field due to its ability to pressure opposing hazard setters and find opportunities to spin. Additionally, it can utilize other moves such as Knock Off and Taunt to facilitate the effectiveness of hazards.
+
+Tank
+
+: With its amazing bulk, Great Tusk can be built to take on strong offensive threats that would normally be difficult to check. It doesn't have to worry about compromising its offensive potential, since it has good natural Attack to hit these offensive threats back. In extreme cases, it can use Roar to phaze Pokemon that are difficult to handle.
+
+Setup Sweeper
+
+: Mid- or late-game, Great Tusk can clean up opposing teams, using either Rapid Spin or Booster Energy to immediately gain Speed. It can utilize Bulk Up to bolster its offense even further, though oftentimes it can win the game through its strong Attack and coverage. When using Booster Energy for Speed, keep in mind that Great Tusk is lacking in any attacking power due to the need to run maximum Speed and bulk, meaning that it's reliant on either Bulk Up or a very weakened opposing team to effectively win the game.
+
+Wallbreaker
+
+: Great Tusk can maximize its offensive potential to break through defensive cores early-game. By using its strong coverage options alongside items such as Choice Band and Booster Energy to bolster its Attack, it can heavily weaken these bulky Pokemon for its teammates that struggle to get past them.
+
+Common Moves
+
+Primary STAB Moves
+
+: Headlong Rush, Earthquake, Close Combat, Body Press
+
+Setup Moves
+
+: Bulk Up
+
+Utility Moves
+
+: Stealth Rock, Taunt, Roar, Knock Off, Rapid Spin, Brick Break
+
+Coverage
+
+: Head Smash, Heavy Slam, Ice Spinner, Megahorn, Play Rough, Stone Edge, Temper Flame, Supercell Slam, Zen Headbutt
+
+Niche Moves
+
+Substitute
+
+: Substitute can be useful for catching a pivot to scout for information and providing a safeguard against attacks.
+
+Bulldoze / Rock Tomb
+
+: These moves can useful for speed control against faster Pokemon and preventing setup sweepers from accumulating Speed boosts to win the game on the spot.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots allows Great Tusk to function well against entry hazards, which it will often need to come in and remove.
+
+Booster Energy
+
+: Booster Energy can be used to either give Great Tusk a brief but strong boost to its offensive capabilities or enable it to clean mid- or late-game.
+
+Leftovers
+
+: Leftovers give Great Tusk longevity that allows it to consistently switch into attacks, which can be crucial in ensuring its survival.
+
+Rocky Helmet
+
+: Rocky Helmet capitalizes on Great Tusk's physical bulk to better punish strong physical attackers.
+
+Niche Items
+
+Assault Vest
+
+: Assault Vest allows Great Tusk to check special attackers, which would normally be its main weak point.
+
+Resistance Berry
+
+: Resistance Berries can allow Great Tusk to check counters that would normally be difficult to handle. Examples include Roseli Berry for Moonblast
+
+Iron Valiant
+
+and Coba Berry for Hurricane
+
+Zapdos
+
+.
+
+Sitrus Berry
+
+: Sitrus Berry is good for fast-paced games where Great Tusk needs to check immediate threats.
+
+Choice Scarf
+
+: Choice Scarf serves an alternative option for Speed that doesn't make Great Tusk worry about wasting Booster Energy and can let it outspeed immediate threats.
+
+Choice Band
+
+: Choice Band maximizes Great Tusk's offensive output to break through sturdy walls.
+
+Eject Pack
+
+: Eject Pack takes advantage of Great Tusk's strongest STAB moves by unleashing its attacks and immediately pivoting out to its other partners.
+
+Lum Berry
+
+: Lum Berry can be useful on Great Tusk to protect from any status affliction that could prevent it from setting up.
+
+Tera
+
+Great Tusk isn't reliant on Terastallization due to its already good typing, and using it can take away the opportunity of utilizing Terastallization on a more useful Pokemon. That said, it does see experimentation due to its ability to be flexible with its sets and the cost of it Terastallizing being negligible. In terms of useful Tera types, Tera Fairy, Electric, and Ghost are good on offensive sets focused on its setup capabilities, while Tera Steel, Poison, and Water can help against its weaknesses and provide more defensive utility.
+
+Draft Strategy
+
+Great Tusk is usually a high priority to get early in the drafting phase for its ability to compress roles. It is a great starting point that allows you to flesh out your draft and cover what you need.
+
+Fast Pokemon
+
+: Having good fast options means not relying on Booster Energy and Rapid Spin for speed control on Great Tusk. Pokemon such as
+
+Darkrai
+
+,
+
+Roaring Moon
+
+, and
+
+Greninja
+
+have great Speed which, alongside benefiting from Great Tusk's wallbreaking power, can allow them to clean up the remaining Pokemon on the opposing team.
+
+Entry Hazard Setters
+
+: Employing different means of setting up Stealth Rock releases Great Tusk's burden of having to be the mandatory setter. Examples of other hazard setters include Pokemon such as
+
+Mesprit
+
+,
+
+Glimmora
+
+, and
+
+Metagross
+
+, which can be versatile in support for their ability to provide other utility outside of hazards.
+
+Setup Sweeper
+
+: While Great Tusk can be a strong wincon due to its ability to setup, oftentimes you want it either act as a wallbreaker or have it healthy for defensively checking threats. Therefore, having good setup sweepers like Roaring Moon,
+
+Dragonite
+
+, and
+
+Iron Crown
+
+can be beneficial for capitalizing on Great Tusk's wallbreaking and ability to find setup opportunities.
+
+Specially Defensive Pokemon
+
+: Since Special Defense is Great Tusk's weakest point, having Pokemon that are able to sponge special attacks will help with having a good defensive core. Pokemon such as
+
+Latias
+
+, Fezandipidi, and
+
+Jirachi
+
+have good typing and bulk to make good defensive partners alongside Great Tusk.
+
+Checks and Counters
+
+Ground-immune Pokemon
+
+: Ground-immune Pokemon often are able to resist Great Tusk's Fighting-type coverage and switch in effortlessly, making it difficult for Great Tusk to spam its STAB moves without potentially letting them in for free. It needs to be wary of Pokemon such as Zapdos,
+
+Tornadus-T
+
+, and Latias in order to not let them gain momentum.
+
+Ghost-type Pokemon
+
+: Ghost-type Pokemon can switch into Great Tusk's Fighting-type coverage and Rapid Spin, which are its common moves.
+
+Rotom
+
+,
+
+Gholdengo
+
+, and
+
+Pecharunt
+
+can be annoying, especially if the latter two use Air Balloon to effectively hard wall its STAB moves. They can also utilize Colbur Berry to weaken the power of Knock Off, which is often Great Tusk's only mean of hitting Ghost-types. Tera Ghost also needs to be kept in mind given how commonly it's used as a Tera type to block Rapin Spin and, by proxy, how difficult it can be for Great Tusk to play around.
+
+Special Attackers
+
+: Great Tusk takes severe damage from special attacks. Tornadus-T, Iron Valiant,
+
+Enamorus
+
+are among the plethora of strong special attackers that Great Tusk needs to be wary of, given it's often slower. It also needs to keep in mind of surprise mixed attackers that utilize strong special coverage to target its weak point, such as Draco Meteor
+
+Garchomp
+
+and Steel Beam
+
+Iron Treads
+
+.
+
+Status Conditions
+
+: Status conditions can be detrimental to Great Tusk's ability to function. A burn weakens its offensive capability, and poison can gradually weaken it over time, affecting its ability to tank attacks. Great Tusk also needs to be wary of abilities that activate on contact such as Flame Body, Static, and Poison Point due to it often using Close Combat and Knock Off to attack.
+
+Pinsirite Great Tusk cements itself as the metagame's premier entry hazard remover while also being a respectable offensive threat. Body Slam potentially cripples common switch-ins like
+
+Arceus-Water
+
+and Latiasite
+
+Pecharunt
+
+with paralysis. Bulk Up makes Great Tusk a formidable cleaner that's difficult to revenge kill, especially in conjunction with Rapin Spin. Smack Down can be used over Body Slam or Bulk Up to threaten Ground-immune targets such as Latiasite variants of
+
+Magearna
+
+and Pecharunt as well as
+
+Corviknight
+
+and
+
+Ho-Oh
+
+. 204 Speed EVs allow Pinsirite Great Tusk to outspeed Hearthflame Mask Great Tusk, while 144 HP EVs enable it to survive two maximum Attack Altarianite
+
+Dragonite
+
+Extreme Speeds after Stealth Rock. Strong wallbreakers such as
+
+Urshifu-R
+
+,
+
+Hisuian Arcanine
+
+,
+
+Raging Bolt
+
+,
+
+Entei
+
+, and
+
+Iron Moth
+
+benefit from Great Tusk's ability to remove hazards, potentially giving them more opportunities to hit the field. Defensive staples like
+
+Garganacl
+
+, Pecharunt, and bulky variants of Arceus-Water and
+
+Arceus-Fairy
+
+also appreciate it removing hazards and maximizing their longevity. Great Tusk struggles against Arceus-Water and Latiasite users like Magearna, so pairing it with answers such as Ho-Oh, Hisuian Arcanine, and Entei for Magearna as well as
+
+Eternatus
+
+and Raging Bolt for Arceus-Water is crucial. Great Tusk also appreciates specially bulky teammates such as Magearna and Garganacl because special attackers, especially Ice Beam users like
+
+Lunala
+
+, are troublesome for it.
+
+Hearthflame Mask Great Tusk is a fantastic entry hazard setter thanks to Hearthflame Mask providing Mold Breaker, which ignores all Magic Bounce stones being used while also punishing teams that use said ability as their only form of entry hazard control. Knock Off allows Great Tusk to rid switch-ins such as
+
+Ho-Oh
+
+and
+
+Lunala
+
+of their Heavy-Duty Boots. Head Smash still handles Ho-Oh while also 2HKOing Sablenite
+
+Mandibuzz
+
+at the cost of recoil damage. Stone Edge is a slightly weaker option that doesn't wear down Great Tusk as fast; however, it misses out on some key benchmarks, such as 2HKOing Sablenite Mandibuzz. Ice Spinner rounds out Great Tusk's coverage, nailing opposing Ground-types such as non-Hearthflame Mask Great Tusk and
+
+Arceus-Ground
+
+. Temper Flare is an alternative for a secondary STAB move that nails
+
+Corviknight
+
+specifically. Rapid Spin can also be slotted in the last slot as emergency hazard control; however, due to lacking an -ate ability, this set struggles to be a reliable spinner. Hearthflame Mask Great Tusk pairs extremely well with more offensive behemoths such as Metagrossite
+
+Urshifu-R
+
+and
+
+Raging Bolt
+
+thanks to its Fairy resistance, which lets it handle the likes of
+
+Magearna
+
+and Altarianite
+
+Hisuian Arcanine
+
+, and ability to provide chip damage for the aforementioned threats to achieve better benchmarks when aiming to KO the foe. Furthermore, Urshifu-R can threaten Ground-types such as opposing Great Tusk and Arceus-Ground, while Raging Bolt can handle the Water-types that threaten Great Tusk such as
+
+Arceus-Water
+
+and opposing Urshifu-R. Other good partners include specially defensive walls like Lunala,
+
+Garganacl
+
+, and Magearna, as they can shore up Great Tusk's weaker defensive stat and form a nice defensive core alongside Great Tusk.
+
+Rusted Sword Great Tusk is an incredibly powerful wallbreaker and sweeper thanks to its strong STAB moves in Headlong Rush and Behemoth Blade (Iron Head turns into Behemoth Blade upon switch-in), along with Intrepid Sword. It also offers great utility, with access to Rapid Spin and Stealth Rock. Great Tusk can also forgo Stealth Rock for Bulk Up to become a far more devastating sweeper or instead use a wide range of coverage moves such as Ice Spinner, Stone Edge, and Supercell Slam. Great Tusk fits especially well on hyper offense teams, where it can not only support its teammates by keeping entry hazards off the field while setting its own but also apply heavy offensive pressure as a lead. Great Tusk struggles against common Water-types such as
+
+Urshifu-R
+
+,
+
+Hisuian Samurott
+
+, and
+
+Arceus-Water
+
+; thus, teammates like
+
+Dragonite
+
+,
+
+Regieleki
+
+, and
+
+Raging Bolt
+
+help cover these weaknesses while further applying pressure against the opposing team. In return, Great Tusk helps check common Extreme Speed users, particularly those with Altarianite, that threaten the aforementioned Pokemon thanks to its Steel typing and STAB Behemoth Blade. Setup sweepers, such as
+
+Spectrier
+
+, Calm Mind
+
+Arceus
+
+formes, and the aforementioned Dragonite, greatly benefit from the hazard support that Great Tusk provides. Similarly, offensive pivots like Regieleki,
+
+Barraskewda
+
+, Raging Bolt, and
+
+Iron Crown
+
+force constant switches from foes, helping to rack up damage from Stealth Rock. Great Tusk can also be used on rain teams, where it more easily withstands Fire-type attacks from threats like
+
+Eternatus
+
+,
+
+Ho-Oh
+
+, and
+
+Entei
+
+. This makes
+
+Pelipper
+
+a great partner, providing both weather support and the ability to handle Ground- and Fighting-types such as opposing Great Tusk and Metagrossite Urshifu-R. Other Water-type attackers, such as
+
+Greninja
+
+and
+
+Basculegion
+
+, also pair well with Great Tusk, as they can also handle Ground-type foes like
+
+Arceus-Ground
+
+and opposing Great Tusk while also benefiting greatly from the rain.
+
+By using the Speed boost from Booster Energy, Great Tusk is able to outspeed Pokemon such as
+
+Meowscarada
+
+,
+
+Dragapult
+
+,
+
+Chien-Pao
+
+, and
+
+Spectrier
+
+.
+
+Headlong Rush deals with Pokemon like
+
+Metagross
+
+and
+
+Iron Hands
+
+.
+
+Close Combat is for Dark-type Pokemon such as
+
+Urshifu-S
+
+, Chien-Pao, Meowscarada, and
+
+Darkrai
+
+.
+
+Bulk Up allows Great Tusk to set up and win against Pokemon such as Metagross and
+
+Ursaluna
+
+while also improving the chances to win against Pokemon like
+
+Pecharunt
+
+and
+
+Annihilape
+
+.
+
+Megahorn is used for
+
+Hoopa-U
+
+, and it can be used to OHKO
+
+Ogerpon-W
+
+after a Bulk Up. Alternatively, Knock Off can be used to deal with Spectrier, offensive Dragapult, and Pokemon with Chople Berry such as Urshifu-S and
+
+Hisuian Goodra
+
+. Great Tusk can also run Ice Spinner for a guaranteed win against both
+
+Landorus
+
+formes and
+
+Garchomp
+
+. Taunt is also a viable option for better odds against
+
+Corviknight
+
+, Pecharunt, and stall Pokemon in general.
+
+The EV spread gives Great Tusk the Speed boost from Booster Energy and the maximum possible Attack while letting it survive an Overheat from Modest
+
+Heatran
+
+.
+
+While this set outspeeds most threats in the tier, it lacks the power to secure KOs against most bulky Pokemon like
+
+Raging Bolt
+
+and
+
+Volcanion
+
+; it also struggles against Fairy- and Water-type Pokemon like
+
+Sylveon
+
+,
+
+Primarina
+
+,
+
+Manaphy
+
+, and
+
+Walking Wake
+
+. Therefore, Pokemon like Hisuian Goodra, Metagross, Hoopa-U, and
+
+Iron Crown
+
+that can make up for Great Tusk's low initial power and low Special Defense are great partners for it.
+
+Choice Band Great Tusk takes advantage of its unique typing and offensive power to deal great amount of damage to foes like
+
+Iron Hands
+
+,
+
+Roaring Moon
+
+, and
+
+Diancie
+
+.
+
+Headlong Rush's damage gives Great Tusk better chances against foes like non-Weakness Policy
+
+Primarina
+
+if it's lacking Supercell Slam; if it doesn't have Heavy Slam, the move also has a chance to OHKO
+
+Sylveon
+
+and maximum Defense Diancie.
+
+Earthquake is an alternative to Headlong Rush that, despite making Great Tusk lose some matchups due to the lack of immediate power, helps against the Roaring Moon matchup if it's lacking Ice Spinner.
+
+Close Combat OHKOes
+
+Ursaluna
+
+and non-Chople Berry
+
+Urshifu-S
+
+.
+
+Megahorn is for defensive
+
+Ogerpon-W
+
+and slower
+
+Hoopa-U
+
+.
+
+Ice Spinner OHKOes
+
+Landorus-T
+
+,
+
+Garchomp
+
+, and Roaring Moon.
+
+Supercell Slam targets Water-types like non-Weakness Policy Primarina.
+
+Heavy Slam may be used for Diancie and Sylveon.
+
+The EV spread allows Great Tusk to tank a Power Whip from Jolly Ogerpon-W and outspeed
+
+Raging Bolt
+
+.
+
+Headlong Rush is a better option than Close Combat against foes like
+
+Hisuian Goodra
+
+, since it is able to defeat Great Tusk with the combination of Chople Berry + Counter.
+
+Against
+
+Corviknight
+
+, Close Combat is preferred against Agility or faster variants. Supercell Slam is better suited for slower, bulkier sets.
+
+Great Tusk often struggles against Fairy-type foes like
+
+Alolan Ninetales
+
+and
+
+Iron Valiant
+
+; therefore, teammates like
+
+Volcanion
+
+and
+
+Metagross
+
+are appreciated.
+
+Great Tusk is a behemoth of role compression. It provides an imposing offensive presence, access to entry hazards and hazard removal, and a defensive profile that enables it to check certain physical attackers such as
+
+Kingambit
+
+and
+
+Mega Tyranitar
+
+all in one slot. Rapid Spin enables the removal of hazards in the face of nearly every hazard setter in the tier such as
+
+Heatran
+
+,
+
+Garchomp
+
+, and
+
+Ting-Lu
+
+, which is specially given the difficulty of spinblocking Great Tusk, which is able to threaten massive damage on
+
+Gholdengo
+
+and
+
+Pecharunt
+
+. Additionally, Ice Spinner is necessary for threatening Flying-types such as
+
+Landorus-T
+
+,
+
+Gliscor
+
+, and
+
+Zapdos
+
+. Great Tusk is a good Stealth Rock setter given its ability to force switches against foes such as
+
+Galarian Slowking
+
+and Gholdengo and to threaten removal options such as Landorus-T and opposing Great Tusk if carrying Icium Z. Close Combat can be run to deny
+
+Ogerpon-W
+
+a safe switch in and better pressure
+
+Skarmory
+
+,
+
+Corviknight
+
+, and
+
+Rotom-W
+
+. Alternatively, Knock Off is an option for making progress against Great Tusk's checks, such as through removing Heavy-Duty Boots from
+
+Alomomola
+
+,
+
+Moltres
+
+, and Zapdos, as well as hitting Air Balloon Gholdengo for more damage. Stone Edge OHKOes Moltres and
+
+Volcarona
+
+, as well as 2HKOes Zapdos without making contact. Heavy-Duty Boots protects Great Tusk from Spikes and particularly Toxic Spikes, which is important given its role as hazard removal. Leftovers is another source of longevity, providing passive recovery for longer matchups in exchange for increased vulnerability to offensive hazard pressure. Booster Energy makes Great Tusk nigh unwallable, enabling it to threaten 2HKOs on standard Alomomola, Corviknight, and Rotom-W with its STAB options. Booster Energy sets should always carry Close Combat to maximize wallbreaking potential. Subzero Slammer lets Great Tusk OHKO
+
+Tornadus-T
+
+and Zapdos, as well as Landorus-T even after Intimidate, while weakening the effect of Knock Off from the likes of Kingambit and Mega Tyranitar. Finally, Rocky Helmet provides a source of chip damage against the physical attackers Great Tusk switches into, including punishing U-turn from pivots such as Landorus-T and
+
+Mega Scizor
+
+.
+
+Great Tusk's ability to perform a plethora of roles leads it to fit best on offense and bulky offense due to its lack of longevity. However, it is also effective on balance teams, especially with the right teammates such as Alomomola, as its traits are highly coveted nonetheless. Great Tusk is often forced out by special attackers, such as
+
+Tapu Lele
+
+and
+
+Mega Charizard Y
+
+, meaning teammates such as
+
+Melmetal
+
+and
+
+Toxapex
+
+are strong teammates. Great Tusk is also not a blanket check to physical attackers, as its somewhat double-edged defensive typing leaves it with common weaknesses to attacks from Ogerpon-W,
+
+Weavile
+
+, and
+
+Kartana
+
+. As a result, defensive Pokemon with complementary typings such as
+
+Ferrothorn
+
+and Alomomola are effective partners. In particular, the latter can also provide Great Tusk with Wish support to mitigate its lack of longevity. With regards to its offensive profile, Great Tusk appreciates the ability of powerful special wallbreakers such as
+
+Raging Bolt
+
+and Tapu Lele to break through its checks such as Alomomola and Skarmory. In return, Great Tusk can exploit their checks such as Ting-Lu, Ferrothorn, and Melmetal as opportunities to set up Stealth Rock or remove entry hazards with ease. On offense teams, Great Tusk can pair well with other physical attackers such as Kingambit and Swords Dance
+
+Iron Valiant
+
+, being able to overwhelm or threaten common switch-ins such as Landorus-T and Moltres. Finally, Great Tusk forms a powerful core with Mega Charizard Y, providing premium hazard removal to address its crippling Stealth Rock weakness, the ability to switch into powerful physical attackers such as Mega Tyranitar, and threatening Mega Charizard Y's checks such as
+
+Dragonite
+
+, Toxapex, and Raging Bolt. In exchange, Mega Charizard Y's Drought provides Great Tusk with a Protosynthesis boost at no cost to the item slot while using Great Tusk's switch-ins such as Alomomola and
+
+Slowbro
+
+as wallbreaking opportunities.
+
+Defensive Great Tusk acts as important glue on teams due to its incredible role compression by acting as a defensive wall, setting entry hazards, and clearing them. Utilizing its high bulk and HP, defensive Great Tusk acts as a great check to many metagame staples such as all-out attacker
+
+Zamazenta
+
+,
+
+Kingambit
+
+,
+
+Mega Lopunny
+
+, and
+
+Mega Tyranitar
+
+. Earthquake is the preferred STAB move on Great Tusk, but Headlong Rush can also be run for better damage rolls, such as an OHKO on offensive
+
+Gholdengo
+
+and a 2HKO on
+
+Kartana
+
+, at the cost of lowering its defenses. Moreover, Headlong Rush isn't weakened by Grassy Terrain. Ice Spinner is used mainly to threaten
+
+Landorus-T
+
+,
+
+Gliscor
+
+, and
+
+Dragonite
+
+while also hitting
+
+Zapdos
+
+and opposing Great Tusk super effectively. Great Tusk can freely remove hazards, since spinblockers like
+
+Dragapult
+
+and Gholdengo are threatened by moves such as Ice Spinner and Earthquake, respectively, and Knock Off. The last slot on this set is flexible; running Stealth Rock turns Great Tusk into an effective hazard setter, threatening most hazard removal options such as Landorus-T and opposing Great Tusk with Ice Spinner. Knock Off can also be run to remove key items, like Heavy-Duty Boots from the likes of Zapdos,
+
+Tornadus-T
+
+, and
+
+Moltres
+
+as well as Leftovers from Landorus-T and opposing Great Tusk, with the added benefit of being able to hit Air Balloon Gholdengo and Dragapult super effectively. Body Press is an option in the final slot to surprise
+
+Ferrothorn
+
+,
+
+Ting-Lu
+
+, and
+
+Terapagos
+
+that has had its Tera Shell broken. 40 Speed EVs allow defensive Great Tusk to outspeed base 90s like Moltres as well as other prominent threats such as uninvested Landorus-T and bulky Gholdengo. Heavy-Duty Boots prevents Great Tusk from taking too much chip damage from hazards, while Leftovers helps in checking the threats and increases Great Tusk's longevity. Rocky Helmet is another item that can be run on Great Tusk to punish many physical attackers that either attack it recklessly or try to gain momentum like Landorus-T, Zamazenta, and Kingambit.
+
+Defensive Great Tusk fits best on balance and bulky offense teams, which value its role compression. The main attributes hindering Great Tusk are its typing and lack of longevity. Thus, Great Tusk appreciates partners like
+
+Alomomola
+
+, which helps with its lack of longevity by Wish passing; additionally, Alomomola is able to switch into common Water-types like
+
+Hisuian Samurott
+
+and
+
+Urshifu-R
+
+. It also appreciates Pokemon such as Volt Switch
+
+Raging Bolt
+
+and Zapdos that can reliably switch in against common Flying-types such as Zapdos, Tornadus-T, and
+
+Mega Charizard Y
+
+and Water-types like
+
+Ogerpon-W
+
+while also threatening them offensively. Steel-type partners like
+
+Mega Scizor
+
+and
+
+Melmetal
+
+are greatly valued due to their ability to switch into fast Fairy-type foes like
+
+Tapu Lele
+
+. Moreover, the hazards set up by Great Tusk pressure many switch-ins on entry, forcing progress over time. Being able to remove the items on checks to Raging Bolt like Leftovers from Ting-Lu and Assault Vest from Melmetal allows Raging Bolt to break through switch-ins with its STAB moves aided by Great Tusk's hazards. Furthermore, these teammates appreciate Great Tusk's ability to spin away hazards for them and can continue to check threats to Great Tusk. Defensive Great Tusk also pairs extremely well with Mega Charizard Y, which appreciates Great Tusk removing Stealth Rock and checking Pokemon such as Mega Tyranitar. In return, Mega Charizard Y is able to break through walls like Alomomola,
+
+Clefable
+
+,
+
+Skarmory
+
+, and
+
+Corviknight
+
+. Mega Charizard Y also sets up sun, granting Great Tusk a Defense boost due to Protosynthesis, which allows it to better wall physical attackers.
+
+Great Tusk's already great Attack and physical bulk combined with Bulk Up make it a premier setup sweeper that can use its bulk to set up with ease on Pokemon like
+
+Dragonite
+
+,
+
+Garchomp
+
+, and
+
+Mega Scizor
+
+. Ice Spinner takes care of most Pokemon immune to Headlong Rush like
+
+Landorus-T
+
+,
+
+Zapdos
+
+,
+
+Mega Latios
+
+, and
+
+Gliscor
+
+, among others, while also dealing with Grass-types like
+
+Rillaboom
+
+and
+
+Meowscarada
+
+. Rapid Spin is an amazing utility move for Great Tusk, as the extra boosts to Great Tusk's Speed help it avoid revenge killing attempts from Speed Booster Energy
+
+Iron Valiant
+
+and Choice Scarf
+
+Tapu Lele
+
+and let it boost Speed after its Booster Energy is used up. Rapid Spin also removes entry hazards for Great Tusk's teammates to clean up after it. The EV spread guarantees Great Tusk gains a Speed boost from its Booster Energy, allowing it to threaten Pokemon it would normally be threatened by, like
+
+Mega Diancie
+
+,
+
+Dragapult
+
+, and
+
+Mega Medicham
+
+.
+
+Bulk Up sets are most commonly used on hyper offense teams that appreciate another setup sweeper that can threaten common Pokemon like Landorus-T,
+
+Kingambit
+
+, and
+
+Raging Bolt
+
+for its teammates to cleave through. These teams also appreciate Great Tusk's ability to remove entry hazards, which is extremely helpful for Pokemon like
+
+Mega Charizard Y
+
+and Z-Move Dragonite. Great Tusk is easily revenge killed by Pokemon like mixed Iron Valiant and Choice Scarf users like Tapu Lele and
+
+Urshifu-R
+
+even with the Speed boost. Therefore, Pokemon that can switch into these Pokemon such as Mega Scizor for Tapu Lele and
+
+Kartana
+
+and Dragonite for Urshifu-R are appreciated. Great Tusk is weak to special attackers like the aforementioned Iron Valiant, Tapu Lele,
+
+Terapagos
+
+, and
+
+Volcarona
+
+, so Pokemon like Kingambit, Raging Bolt,
+
+Roaring Moon
+
+and your own Terapagos can be useful. Great Tusk also thuds into Pokemon that can take both of its moves, like
+
+Ogerpon-W
+
+,
+
+Moltres
+
+,
+
+Slowbro
+
+, and
+
+Alomomola
+
+, so Pokemon like your own Ogerpon-W, Raging Bolt, and
+
+Gholdengo
+
+are great partners that can chip down these Pokemon for Great Tusk to sweep.
+
+With a handy dandy Choice Scarf, Great Tusk breaks the threshold of 450 Speed to outspeed threats like
+
+Greninja
+
+,
+
+Latios
+
+, and
+
+Latias
+
+, shifting the sands of the battle. Knock Off is great for removing items from pesky bulky Pokemon like Rocky Helmet on
+
+Skarmory
+
+and Eject Button on
+
+Hippowdon
+
+. Ice Spinner helps versus Flying-types like
+
+Gliscor
+
+,
+
+Landorus
+
+, and
+
+Dragonite
+
+while also hitting
+
+Mega Altaria
+
+for a 2HKO; Great Tusk outspeeds it even after a Dragon Dance. Alternatively, Megahorn can be used to deal with
+
+Ogerpon-W
+
+,
+
+Celebi
+
+,
+
+Slowbro
+
+, and Latios, and Latias, which makes Great Tusk a huge threat versus Psychic teams. Although Great Tusk has all these great attributes, it lacks the bulk that more defensive sets typically run and can be threatened out quite easily by Grass- and Water-types and by special attackers like
+
+Keldeo
+
+and Greninja.
+
+Clodsire
+
+makes a good teammate, as it can swap into these threats reliably, sponge hits from them, and provide an effective Water immunity. Clodsire also provides status and entry hazards to assist Great Tusk in cleaning up the competition with reliable chip damage. Hippowdon is a great secondary partner that can sponge damage for Great Tusk and set up sand and hazards for much-needed chip damage.
+
+Excadrill
+
+, is a secondary physical wallbreaker, utilizing either Swords Dance or Choice Band under sand to check Fairy- and Ice-type threats that Great Tusk can't outspeed like Choice Scarf
+
+Tapu Lele
+
+and Choice Scarf
+
+Galarian Darmanitan
+
+with its Steel-type STAB moves.
+
+Mamoswine
+
+additionally assists as a secondary wallbreaker, as it reliably takes on Flying-type threats that it can OHKO with its powerful Icicle Crash like non-Choice Specs
+
+Zapdos
+
+and
+
+Crobat
+
+. Landorus with Gravity helps check Steel / Flying types, assisting Great Tusk by breaking a notable defensive answer. Additionally,
+
+Mega Garchomp
+
+helps versus Dragon-types while also threatening Steel / Flying types.
+
+Great Tusk fills a crucial set of roles on Fighting teams and provides great role compression, being the type's premier Stealth Rock + Rapid Spin user. Knock Off furthers Great Tusk's capabilities, enabling it to remove Heavy-Duty Boots from the likes of
+
+Crobat
+
+and
+
+Zapdos
+
+as they both come into Great Tusk's Earthquake and use Defog. Furthermore, Knock Off also allows Great Tusk to hit Ghost-types, such as Air Balloon
+
+Gholdengo
+
+. Earthquake combined with Great Tusk's Electric immunity and general bulk allows Great Tusk to stop threats such as
+
+Regieleki
+
+and
+
+Mega Charizard X
+
+from running through Fighting teams. Taunt can be run as an alternative option over Rapid Spin to prevent threats such as
+
+Ting-Lu
+
+and
+
+Skarmory
+
+from setting entry hazards or Defog users like
+
+Corviknight
+
+from removing Great Tusk's Stealth Rock. Leftovers grants Great Tusk longevity, while Heavy-Duty Boots provides safe entry, allowing it to use Rapid Spin without worrying about hazard damage. The given EV spreads maximize Great Tusk's physical bulk; 120 Speed EVs are preferred to let Great Tusk outspeed Modest
+
+Volcanion
+
+, but 96 Speed EVs can be used instead to further increase its bulk while still allowing Great Tusk to outspeed threats such as
+
+Latios
+
+and
+
+Iron Moth
+
+after a Rapid Spin.
+
+Sneasler
+
+serves as an excellent teammate with its incredible Speed and Poison typing, enabling it to handle Fairy- and Grass-types, such as
+
+Iron Valiant
+
+,
+
+Tapu Bulu
+
+, and
+
+Breloom
+
+. Iron Valiant can threaten opposing Great Tusk and Dark-types like
+
+Sableye
+
+and
+
+Mandibuzz
+
+with Moonblast, allowing for Great Tusk to reliably get Stealth Rock up. Iron Valiant also uses coverage moves such as Thunderbolt to deal with
+
+Slowbro
+
+and
+
+Mega Charizard Y
+
+while appreciating Great Tusk's handling of Poison-types, such as Sneasler and
+
+Galarian Slowking
+
+.
+
+Mega Gallade
+
+can check Poison- and Fighting-type threats such as
+
+Mega Venusaur
+
+and
+
+Keldeo
+
+.
+
+Kommo-o
+
+appreciates Great Tusk keeping hazards off the field and, in response, can set up safely with Clangorous Soulblaze, enabling it to overcome Flying and Water teams that greatly threaten Great Tusk. Assault Vest
+
+Iron Hands
+
+can threaten Water- and Flying-types such as
+
+Greninja
+
+,
+
+Pelipper
+
+, and
+
+Tornadus-T
+
+while appreciating Great Tusk's Stealth Rock, enabling it to 2HKO physically defensive
+
+Toxapex
+
+.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!
+
+Great Tusk is a deadly wallbreaker on Ground teams, possessing excellent stats, a potent STAB combination, and access to utility moves like Knock Off and Rapid Spin. Close Combat threatens Ice- and Dark-types such as
+
+Baxcalibur
+
+,
+
+Hydreigon
+
+, and
+
+Hisuian Samurott
+
+as well as OHKOing walls like
+
+Celesteela
+
+,
+
+Corviknight
+
+,
+
+Mega Scizor
+
+, and
+
+Rotom-W
+
+with the aid of Fightinium Z after a Bulk Up boost, easing the Steel matchup for Great Tusk's team. Earthquake hits Pokemon like
+
+Skeledirge
+
+,
+
+Gholdengo
+
+, and
+
+Toxapex
+
+, while Ice Spinner nails
+
+Landorus-T
+
+,
+
+Dragonite
+
+, and
+
+Zapdos
+
+, allowing Great Tusk to boast unresisted coverage in combination with Close Combat. Rapid Spin allows Great Tusk to gain a Speed boost to easily snowball against slower teams and remove entry hazards for teammates; however, Knock Off is great for Air Balloon Gholdengo and weakened
+
+Slowbro
+
+as well as generally forcing progress against teams by removing their items.
+
+Gastrodon
+
+and
+
+Clodsire
+
+are essential teammates for Great Tusk due to their immunities to Water-type attacks, letting them fend off
+
+Barraskewda
+
+,
+
+Urshifu-R
+
+, and
+
+Keldeo
+
+. Gastrodon also has an appreciated neutrality to Ice-type attacks, letting it check Choice Scarf
+
+Weavile
+
+, and Clodsire is neutral to Grass-type attacks, letting it wall
+
+Meowscarada
+
+. It can also wall Fairy-types like
+
+Tapu Koko
+
+,
+
+Tapu Fini
+
+, and
+
+Iron Valiant
+
+. Furthermore, Gastrodon and Clodsire provide chip damage via Toxic and entry hazards, wearing down walls like Slowbro,
+
+Swampert
+
+, and
+
+Mantine
+
+that give Great Tusk a hard time.
+
+Landorus
+
+forms a potent wallbreaking core with Great Tusk, breaking Slowbro,
+
+Dondozo
+
+, and
+
+Mandibuzz
+
+as well as offering Gravity, letting Great Tusk more easily spam Earthquake. In return, Landorus appreciates Great Tusk threatening Ice Shard users like
+
+Mamoswine
+
+and Baxcalibur.
+
+Mega Steelix
+
+is an excellent teammate, as it fights off
+
+Azumarill
+
+, Weavile, and
+
+Alolan Ninetales
+
+, making it a huge asset in the Fairy and Ice matchups.
+
+Ting-Lu
+
+forms an entry hazard-stacking core with Gastrodon and Clodsire, wearing down teams exponentially faster with the help of Whirlwind. Additionally, Ting-Lu switches into attacks from revenge killers like
+
+Blacephalon
+
+,
+
+Latias
+
+, and
+
+Hisuian Zoroark
+
+. Mamoswine appreciates Great Tusk breaking Celesteela and Corviknight; in return, Mamoswine utilizes Thick Fat to fight the aforementioned Ice-types and provides speed control with Choice Scarf, outpacing
+
+Mega Diancie
+
+,
+
+Enamorus
+
+, and Tapu Koko. Choice Scarf
+
+Iron Treads
+
+outpaces and OHKOes the aforementioned Fairy-types, most notably Iron Valiant, and provides pivoting support via Volt Switch.

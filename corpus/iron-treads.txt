@@ -1,0 +1,2549 @@
+Iron Treads functions as an excellent entry hazard control option, using its good Speed and access to Stealth Rock and Rapid Spin in order to effectively set and deny hazards while checking important Pokemon such as
+
+Raging Bolt
+
+,
+
+Galarian Slowking
+
+,
+
+Pecharunt
+
+, and
+
+Gholdengo
+
+. Knock Off can be used in order to remove important items such as Heavy-Duty Boots from would-be defensive switch-ins such as
+
+Moltres
+
+and
+
+Zapdos
+
+, while Ice Spinner is an option in order to hit Flying- and Grass-types that would otherwise switch in such as
+
+Dragonite
+
+,
+
+Landorus-T
+
+,
+
+Gliscor
+
+, and
+
+Hydrapple
+
+for super effective damage. An alternative EV spread of 248 HP / 252 SpD / 8 Spe with a Careful nature can be used as a more defensive utility piece, letting it better check Raging Bolt on some bulkier teams, with 8 Speed EVs allowing Iron Treads to outspeed the aforementioned Raging Bolt. Leftovers can be used to improve Iron Treads's longevity, allowing it to function as a utility piece better; alternatively, Air Balloon enables Iron Treads to switch into Ground-type attacks from foes such as Gliscor,
+
+Great Tusk
+
+, Landorus-T, and Dragonite. Clear Amulet is another niche option to block Pecharunt's Parting Shot while also letting Iron Treads ignore Landorus-T's Intimidate. Assault Vest is a niche option that should only be used on teams where Stealth Rock from Iron Treads is not needed; this gives it the much-needed special bulk without compromising its offensive investment and letting it run both Knock Off + Ice Spinner simultaneously. Tera Ghost gives Iron Treads the ability to block Rapid Spin while also providing a useful Fighting immunity for foes such as
+
+Zamazenta
+
+,
+
+Iron Valiant
+
+, and Great Tusk.
+
+Iron Treads fits primarily on bulkier offensive structures where its ability to set and remove entry hazards is greatly appreciated. As Iron Treads functions as an excellent check to Raging Bolt and, when holding an Air Balloon,
+
+Enamorus
+
+, Pokemon that struggle against these such as
+
+Hisuian Samurott
+
+and Zamazenta enjoy the defensive utility that Iron Treads provides, as well as its removal of hazards that allows them to come in more times in a game. In return, Zamazenta can break through foes such as
+
+Ting-Lu
+
+and Hisuian Samurott that Iron Treads could otherwise struggle with, while Hisuian Samurott can form a potent hazard stacking core with it, being able to consistently set Spikes. Iron Treads can also consistently remove hazards, meaning hazard-weak teammates such as Choice Scarf Enamorus and Choice Specs
+
+Kyurem
+
+appreciate Iron Treads greatly. In return, Enamorus can beat Fighting-types such as Zamazenta and Great Tusk that Iron Treads would otherwise struggle with, while Kyurem can more easily handle Ground-types such as Landorus-T and Gliscor for it. Iron Treads can often struggle to deal with defensive Flying- and Water-types such as Moltres,
+
+Corviknight
+
+,
+
+Alomomola
+
+, and
+
+Dondozo
+
+; Electric-types such as Raging Bolt and Zapdos can deal with them, with Iron Treads in exchange removing hazards for Raging Bolt and preventing Zapdos from being taken advantage of by opposing Raging Bolt. Iron Treads also is forced out by common Fire-types like
+
+Cinderace
+
+and
+
+Iron Moth
+
+, meaning Fire-resistant teammates such as
+
+Primarina
+
+,
+
+Garganacl
+
+, and Dragonite are appreciated. Iron Treads and Dragonite can attempt to overwhelm shared checks such as Moltres and Zapdos, with Iron Treads potentially being able to remove their Heavy-Duty Boots, allowing Dragonite to break through far more easily using the Stealth Rock that Iron Treads itself sets. On bulkier teams, Moltres can also be a good partner, as it provides Iron Treads with a good Great Tusk and Zamazenta switch-in, while
+
+Ogerpon-W
+
+can also be an effective teammate in order to break through Fire-, Water-, and Ground-types such as Moltres, Great Tusk, Alomomola, Dondozo, and Gliscor for Iron Treads. In return, Iron Treads can remove hazards for the otherwise hazard-prone Ogerpon-W while helping it against Pecharunt, which could otherwise threaten it with Malignant Chain. Iron Treads also often finds itself vulnerable to Fighting-type attacks, meaning teammates such as Gholdengo and Pecharunt are enjoyed in order to answer foes such as Iron Valiant and Zamazenta, with Iron Treads in return beating Raging Bolt and opposing Gholdengo. On some fatter structures, Iron Treads enables teammates such as Alomomola to run items other than Heavy-Duty Boots, with Alomomola in return providing Wish support, helping Iron Treads's poor longevity.
+
+Iron Treads's solid Speed tier boosted by Quark Drive allows it to reliably set Stealth Rock as well as consistently use Rapid Spin. Acting as a fast lead with Booster Energy, Iron Treads can specialize in either physical attacks, with Ice Spinner as coverage to hit Flying-types like
+
+Landorus-T
+
+and
+
+Dragonite
+
+, or special attacks like Steel Beam as a way to get off heavy damage on bulkier foes like
+
+Great Tusk
+
+,
+
+Hatterene
+
+, and
+
+Kyurem
+
+and potentially give a teammate a free switch-in by KOing itself, which also gives it another way to block Defog and Rapid Spin. A physical Iron Treads can use Earthquake to take on
+
+Raging Bolt
+
+to prevent it from boosting with Calm Mind, whereas Special Iron Treads can use Earth Power to stop
+
+Pecharunt
+
+from blocking Rapid Spin. On either set, Iron Treads should always use a Speed-boosting nature to ensure a Speed boost from Quark Drive. Tera Ghost allows Iron Treads to block Rapid Spin from Great Tusk and opposing Iron Treads, as well as protect it from Fighting-type attacks from Pokemon such as
+
+Zamazenta
+
+in a pinch.
+
+Lead Iron Treads's ability to set entry hazards and keep them off its own side make it an extremely useful trait on offensive teams, especially hazard-stack builds. Zamazenta is one of Iron Treads's premier teammates thanks to the latter's ability to handle many of Zamazenta's checks, walling Raging Bolt while shrugging off Fairy-type attacks from the likes of
+
+Enamorus
+
+, enabling Zamazenta to act as a setup sweeper with more impunity. Iron Treads can support slower teams thanks to Booster Energy, dealing with faster threats such as
+
+Deoxys-S
+
+and chipping them down to be more easily cleaned up later by powerful teammates like Dragonite. On hazard-stack teams,
+
+Hisuian Samurott
+
+can pile on additional chip damage with Spikes from Ceaseless Edge, and
+
+Gholdengo
+
+and Pecharunt can both block hazard removal while handling faster threats that can exploit its weaknesses like
+
+Iron Valiant
+
+and
+
+Ogerpon-W
+
+, building a core with Iron Treads that can keep pressure on enemy teams. These hazards support offensive teammates like Dragonite, Iron Valiant, Ogerpon-W, and
+
+Ceruledge
+
+, allowing them to break through opposing structures easier, and in turn, these teammates benefit strongly from Iron Treads's ability to keep entry hazards away with Rapid Spin, allowing them to get away with not running Heavy-Duty Boots. Iron Treads is also a great asset on rain teams, as it absorbs Electric-type moves to protect
+
+Pelipper
+
+and acts as speed control for slower wallbreakers like Raging Bolt, outspeeding threats like
+
+Dragapult
+
+and opposing Raging Bolt that would give it trouble.
+
+Thanks to its ability to resist both of
+
+Miraidon
+
+’s STAB moves and reliably 2HKO it with Earthquake, as well as its access to Stealth Rock and Rapid Spin, Iron Treads is able to carve out a solid niche as a utility Pokemon. Knock Off allows Iron Treads to cripple foes by removing important items from potential defensive switch-ins, such as Heavy-Duty Boots from
+
+Ho-Oh
+
+and
+
+Alomomola
+
+and Leftovers From
+
+Ting-Lu
+
+. Knock Off also allows Iron Treads to punish Ghost-types, primarily
+
+Calyrex-S
+
+, that attempt to switch in to block Rapid Spin. Iron Treads runs maximum special bulk investment to check threats such as Miraidon lacking Overheat and
+
+Eternatus
+
+lacking Fire-type coverage. Lowering its Defense IVs to 16 gives Iron Treads a Special Defense boost instead of a Defense boost from Quark Drive; this allows it to check Miraidon more easily. Tera Normal enables Iron Treads to check Calyrex-S in a pinch if its checks have been weakened.
+
+Iron Treads faces competition for a teamslot with Ting-Lu, which is generally bulkier and is also able to check Calyrex-S. Thus, Iron Treads works best on teams that already have solid options against Calyrex-S and would appreciate the entry hazard removal that it provides. Iron Treads struggles to deal with
+
+Koraidon
+
+; hence, partners that can deal with it, such as Ho-Oh,
+
+Arceus-Water
+
+,
+
+Arceus-Fairy
+
+, Alomomola, and
+
+Skeledirge
+
+are greatly appreciated. Iron Treads is also vulnerable to Calyrex-S, so checks such as
+
+Arceus
+
+,
+
+Kingambit
+
+,
+
+Mandibuzz
+
+, and
+
+Wo-Chien
+
+are a necessity as well. Iron Treads likes teammates that can check
+
+Kyogre
+
+, which it struggles with, such as Koraidon and Miraidon on offense teams and
+
+Clodsire
+
+and
+
+Blissey
+
+on stall teams. Iron Treads also benefits from the support of the previously mentioned Clodsire and Blissey to scout out a potential Overheat from Miraidon and provide the team with a secondary Miraidon check. Iron Treads lacks reliable recovery, so it greatly appreciates the Wish support from Alomomola; in return, the Rapid Spin support provided by Iron Treads allows Alomomola to run items other than Heavy-Duty Boots, such as Leftovers or Rocky Helmet.
+
+Other Options
+
+Iron Treads can run a suicide lead set on hyper offense teams, running Focus Sash with Bulldoze and a more offensive EV spread; however, it is often outclassed by other suicide leads due to only being able to set up Stealth Rock. Volt Switch gives Iron Treads the ability to pivot , but it often struggles to fit this into its moveset. Additionally, Volt Switch can easily be blocked by the many Ground-types in the tier that have no trouble switching in on Iron Treads already, such as
+
+Ting-Lu
+
+and
+
+Arceus-Ground
+
+.
+
+Checks and Counters
+
+Physical Wallbreakers
+
+: Physical attackers such as
+
+Koraidon
+
+,
+
+Zacian-C
+
+,
+
+Ho-Oh
+
+, and Arceus-Ground can threaten to deal massive damage to Iron Treads. Arceus-Ground is particularly notable for being able to switch in and set up freely against it.
+
+Kyogre
+
+: Kyogre threatens to OHKO Iron Treads with Origin Pulse and Water Spout, although due to its lack of reliable recovery and reliance on its items, its does not prefer to switch into Iron Treads.
+
+Gliscor
+
+: Once Gliscor has been poisoned by its Toxic Orb, Iron Treads is not able to make progress against it. Gliscor is also able to cripple Iron Treads by removing its Leftovers with Knock Off and can set entry hazards that Iron Treads struggles to remove.
+
+Defensive
+
+Arceus
+
+Formes
+
+: Iron Treads struggles to deal meaningful damage against defensive Arceus formes such as
+
+Arceus-Water
+
+,
+
+Arceus-Fairy
+
+, and Arceus-Ground, and any meaningful damage it can deal is easily healed off with Recover. Furthermore, these formes are able to cripple Iron Treads with Will-O-Wisp, and Arceus-Water and Arceus-Ground can both deal massive damage with Judgment.
+
+A decent defensive typing allows Iron Treads to act as a check to
+
+Miraidon
+
+and
+
+Flutter Mane
+
+, and use the opportunity to remove or set entry hazards.
+
+Knock Off cripples common switch-ins such as
+
+Ting-Lu
+
+and
+
+Corviknight
+
+, while Volt Switch keeps momentum for your team.
+
+16 IVs in Defense mean that Iron Treads will receive a Special Defense boost in Electric Terrain, helping with switching into Miraidon.
+
+Iron Treads can use Tera Fairy to remove its weaknesses to Fighting and Fire, which can be helpful versus
+
+Koraidon
+
+and
+
+Chien-Pao
+
+, and with taking coverage from Miraidon and Flutter Mane. However, it loses its immunity to Electric and resistance to Fairy. Iron Treads can alternatively use Tera Ground for an extra boost to Earthquake, but it suffers from similar demerits as Tera Fairy.
+
+Since both Miraidon and Flutter Mane have Fire-type coverage options, Iron Treads appreciates being paired with Pokemon such as Ting-Lu that can handle those attacks. Choice Scarf Koraidon and Booster Energy Flutter Mane are also good teammates, as they can revenge kill Miraidon and Flutter Mane while benefitting from Iron Treads removing entry hazards.
+
+Skeledirge
+
+'s ability to check Koraidon and
+
+Iron Valiant
+
+also makes it a great partner for Iron Treads. Teammates that can switch into
+
+Great Tusk
+
+such as
+
+Dondozo
+
+and
+
+Alomomola
+
+also pair well, with Alomomola even providing Wish support to increase Iron Treads's longevity.
+
+Assault Vest allows Iron Treads to utilize an offensive spread while still letting it be a fairly safe option against
+
+Miraidon
+
+and
+
+Flutter Mane
+
+.
+
+Iron Head allows Iron Treads to beat Tera Fairy Miraidon.
+
+Knock Off can remove crucial items from foes like
+
+Ting-Lu
+
+,
+
+Great Tusk
+
+, and
+
+Corviknight
+
+.
+
+Volt Switch is useful for grabbing momentum on non-Ground-type foes that switch in on Iron Treads like Corviknight,
+
+Koraidon
+
+,
+
+Dondozo
+
+, and
+
+Pelipper
+
+.
+
+A Jolly nature gives Iron Treads a Speed boost from Quark Drive, which is often crucial to be able to beat Choice Specs Miraidon one-on-one, and lets it pick off foes that would normally outspeed it without Electric Terrain.
+
+Ground is the preferred Tera type to boost the power of Earthquake while weakening incoming Fire- and Fighting-type attacks; alternatively, other Tera types can provide defensive utility but not any offensive boost.
+
+This set works best on offensive teams where it is paired up with teammates that are weak to Fairy-type moves, such as Miraidon, Koraidon, Great Tusk, and
+
+Chien-Pao
+
+. Iron Treads allows these Pokémon to be played more freely because it can reliably deal with Flutter Mane and opposing Miraidon while applying offensive pressure itself.
+
+Flutter Mane is another great teammate because Iron Treads lures Corviknight and weakens it with Knock Off or Volt Switch, this gives Flutter Mane an easier time to break through enemy teams.
+
+Iron Treads provides incredible utility for Steel teams thanks to its solid stat spread and great movepool. Ice Spinner helps to deal with major Ground-type threats, notably checking
+
+Landorus
+
+and
+
+Gliscor
+
+. Knock Off provides a way for Iron Treads to force progress by removing key items such as
+
+Gholdengo
+
+'s Air Balloon or
+
+Skarmory
+
+'s Rocky Helmet. Air Balloon allows Iron Treads to come in safely on Ground-types like the aforementioned Landorus and Gliscor and threaten them out immediately. Alternatively, Leftovers can provide a bit of passive recovery, making use of Iron Treads's natural solid bulk, while Heavy-Duty Boots nullifies entry hazard damage, allowing it to come in and use Rapid Spin as many times as it wants.
+
+Skarmory provides a Ground immunity, allowing Iron Treads to forego using an Air Balloon against threats like
+
+Great Tusk
+
+,
+
+Hippowdon
+
+, and
+
+Excadrill
+
+; Iron Treads deals with Electric-types such as
+
+Raging Bolt
+
+and
+
+Magnezone
+
+in return.
+
+Archaludon
+
+provides a solid Water resistance, being able to handle threats such as
+
+Ogerpon-W
+
+,
+
+Empoleon
+
+, and
+
+Gyarados
+
+. In return, Iron Treads removes entry hazards, which boosts Archaludon's longevity.
+
+Heatran
+
+provides a crucial Fire immunity from threats like
+
+Iron Moth
+
+,
+
+Volcarona
+
+, and Choice Scarf
+
+Ninetales
+
+. Gholdengo covers the last of Iron Treads's weaknesses thanks to its Ghost typing handling Fighting-type threats like
+
+Sneasler
+
+and
+
+Breloom
+
+; it can also use Thunderbolt to deal with Flying-types like Skarmory and
+
+Mandibuzz
+
+, which can prove problematic for Iron Treads.
+
+Bisharp
+
+and
+
+Scizor
+
+can use their priority to pick off faster targets like
+
+Flutter Mane
+
+,
+
+Mamoswine
+
+,
+
+Iron Valiant
+
+, and
+
+Iron Boulder
+
+, which can also cause issues for Iron Treads.
+
+Iron Treads complements Ground teams' defensive cores with its Steel typing, which lets it deal with Fairy and Ice teams, and provides further utility with Rapid Spin. Heavy Slam smashes Fairy-types such as
+
+Hatterene
+
+,
+
+Alolan Ninetales
+
+, and
+
+Flutter Mane
+
+, while Iron Head deals with
+
+Kyurem
+
+and
+
+Mamoswine
+
+better. Protect lets Iron Treads scout common Choice item Pokemon such as
+
+Greninja
+
+, Flutter Mane, and
+
+Iron Valiant
+
+while accruing Leftovers recovery. Alternatively, Knock Off dissuades Ghost-types like
+
+Gholdengo
+
+and
+
+Dragapult
+
+from spinblocking and weakens Choice item users such as
+
+Meowscarada
+
+and Greninja, letting teammates such as Choice Scarf
+
+Great Tusk
+
+and
+
+Clodsire
+
+handle them better. An EV spread of 244 HP / 216 SpD / 48 Spe allows Iron Treads to outpace Adamant Mamoswine while still maximizing specially defensive bulk.
+
+Offensively inclined teammates such as Choice Scarf Great Tusk,
+
+Landorus
+
+, and
+
+Garchomp
+
+appreciate Iron Treads removing entry hazards and checking Ice-types. In return, Great Tusk deals with the
+
+Ogerpon
+
+formes,
+
+Cinderace
+
+, and Choice Specs Greninja; Landorus breaks down walls such as
+
+Corviknight
+
+and
+
+Moltres
+
+that take advantage of Iron Treads; and Garchomp deals with Water- and Dragon-types such as
+
+Barraskewda
+
+and
+
+Hydreigon
+
+.
+
+Ting-Lu
+
+wears down the opposing team with hazards and Whirlwind, weakening Meowscarada, Greninja, and Kyurem. Water Absorb Clodsire deals with Water-types such as
+
+Dondozo
+
+,
+
+Urshifu-R
+
+, and Barraskewda as well as checking Choice Scarf Meowscarada. Unaware
+
+Quagsire
+
+checks physical setup sweepers such as Belly Drum
+
+Azumarill
+
+, Dragon Dance Dragapult, and Urshifu-R, and it further wears down the opposing team with Toxic and hazards. Clodsire and Quagsire appreciate Iron Treads's ability to remove hazards, which allows them to switch into threats repeatedly.
+
+Gliscor
+
+provides a Ground-type immunity and utility support via Knock Off, Toxic, and hazard setup. Iron Treads threatens Hatterene and Ice-types like Alolan Nineteales, Kyurem, and
+
+Frosmoth
+
+for Gliscor. Mamoswine helps with the Flying matchup, catching
+
+Skarmory
+
+, Moltres, and Corviknight off-guard with Smack Down while also removing
+
+Landorus-T
+
+, Gliscor, and
+
+Dragonite
+
+with Ice-type coverage. Furthermore, Mamoswine appreciates Iron Treads's removal of hazards and held items such as Heavy-Duty Boots and Leftovers via Rapid Spin and Knock Off, respectively.
+
+Choice Band Iron Treads is a great addition on Steel teams, serving as a wallbreaker and leveraging its Ground typing and excellent coverage options to ease Fire, Electric, and Steel matchups. Earthquake targets Fire-, Electric-, and Steel-types like
+
+Torkoal
+
+,
+
+Raging Bolt
+
+, and
+
+Archaludon
+
+as well as
+
+Toxapex
+
+. Ice Spinner threatens Ground- and Dragon-types like the
+
+Landorus
+
+formes,
+
+Gliscor
+
+,
+
+Garchomp
+
+, and
+
+Hydreigon
+
+. Knock Off messes up would-be switch-ins like
+
+Corviknight
+
+,
+
+Skarmory
+
+, and
+
+Dondozo
+
+by removing their Leftovers, Rocky Helmet, and Heavy-Duty Boots, respectively, while also punishing spinblockers like Air Balloon
+
+Gholdengo
+
+and
+
+Dragapult
+
+. Supercell Slam OHKOes
+
+Primarina
+
+after minimal chip damage and 2HKOes foes like Skarmory and
+
+Slowbro
+
+, while Stone Edge secures an OHKO on
+
+Volcarona
+
+and
+
+Moltres
+
+. Rapid Spin can also be used in the last slot, allowing Iron Treads to support its teammates by removing entry hazards.
+
+Iron Treads's ability to offensively threaten Fire-types is greatly appreciated by many of its teammates. Skarmory and Corviknight are great partners for Iron Treads, boasting a Ground immunity and a Fighting neutrality, which allows them to take on foes like
+
+Excadrill
+
+,
+
+Great Tusk
+
+, and
+
+Sneasler
+
+. Skarmory also provides Spikes support, which, in conjunction with Iron Treads's Knock Off removing Heavy-Duty Boots and Leftovers, weakens bulky foes like Great Tusk and Dondozo, while Corviknight provides U-turn support and serves as a Defogger. Gholdengo brings a crucial Fighting immunity to the team that allows it to handle foes like Choice Scarf Sneasler and mixed
+
+Iron Valiant
+
+. Iron Treads appreciates Gholdengo removing physical walls like Skarmory, Dondozo, and Slowbro and punishing switch-ins by paralyzing them; it can also equip itself with a Choice Scarf to serve as a revenge killer, cleaning up Ghost, Psychic, and Fighting teams late-game. In return, Iron Treads can eliminate special walls like
+
+Clodsire
+
+,
+
+Alolan Muk
+
+, and
+
+Hisuian Goodra
+
+. Flash Fire
+
+Heatran
+
+can switch into special Fire-types like +1 Volcarona and
+
+Iron Moth
+
+, and it can absorb Will-O-Wisp from foes like Dragapult. Heatran also threatens Skarmory and Corviknight, which Iron Treads may struggle against, and serves a Stealth Rock setter. Hisuian Goodra, with incredible special bulk and partial Dragon typing, makes for an excellent teammate, being able to fend off attacks from the aforementioned Fire-types; Choice Scarf Heatran; and other special attackers like Choice Specs
+
+Greninja
+
+, Dragapult, and
+
+Flutter Mane
+
+. Archaludon serves as a physical wall, handling foes like the
+
+Ogerpon
+
+formes and
+
+Ceruledge
+
+while also providing Stealth Rock support. It can also utilize a Choice Scarf set to get a surprise KO on foes like Dragapult and Iron Valiant. Archaludon offers Thunder Wave support, slowing down Fire-types like +2 Ceruledge and
+
+Ogerpon-H
+
+for Iron Treads to revenge kill them in case Archaludon alone is not able to check them.
+
+Outspeeds Hydreigon.
+
+This is a sample set as we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!
+
+Choice Scarf Iron Treads gives Steel teams a much appreciated revenge killer as well as counterplay against Fire-types such as
+
+Tauros-Paldea-Blaze
+
+and
+
+Volcarona
+
+, which can overwhelm Steel teams with ease. Heavy Slam utilizes Iron Treads's fairly hefty size to hit Fairy-types such as
+
+Hatterene
+
+and
+
+Mimikyu
+
+hard. Ice Spinner provides great coverage alongside Iron Treads's STAB moves, nailing Grass-types such as
+
+Meowscarada
+
+before Protean activates and
+
+Amoonguss
+
+while also nailing
+
+Garchomp
+
+and
+
+Dragonite
+
+. Knock Off provides good team support by getting rid of the foe's item, such as Heavy-Duty Boots and Leftovers from the likes of Dragonite, Volcarona, and Garchomp, whereas Volt Switch allows Iron Treads to pivot out of Pokemon that wall it such as
+
+Corviknight
+
+and
+
+Dondozo
+
+.
+
+Corviknight is a fantastic partner for Iron Treads, as it can take Fighting- and Ground-type moves while Iron Treads takes on Electric-types such as
+
+Iron Hands
+
+and
+
+Magnezone
+
+for Corviknight. Corviknight can also keep entry hazards off the field with Defog, aiding in Iron Treads's longevity and letting it forgo Rapid Spin.
+
+Gholdengo
+
+is another great partner, as it not only also helps against Fighting-types that Corviknight can't handle such as
+
+Iron Valiant
+
+, but it also overwhelms physical walls such as
+
+Great Tusk
+
+, Corviknight, and Dondozo. Entry hazards from Pokemon such as
+
+Tinkaton
+
+,
+
+Orthworm
+
+, and
+
+Bronzong
+
+also aid in Iron Treads sweeping. Tinkaton specifically ensures Stealth Rock being set due to Mold Breaker while having a decent offensive presence thanks to Gigaton Hammer being so powerful. Orthworm provides a Ground immunity, easing pressure off other teammates such as Corviknight, all while also having Spikes and Stealth Rock. Bronzong can not only set up Stealth Rock, but it can also take on Fire-type moves that are aimed at Iron Treads.
+
+Bisharp
+
+is a great mid- to late-game sweeper that appreciates Iron Treads's ability to punch holes early-game or clean up after Bisharp has punched holes itself, providing the team with multiple avenues of winning.
+
+Other Options
+
+Ground
+
+Iron Treads has an expansive movepool, giving it a number of options to customize itself and lure specific threats. Supercell Slam makes itself useful by hitting annoying Water- and Flying-types like
+
+Pelipper
+
+,
+
+Corviknight
+
+,
+
+Talonflame
+
+, and
+
+Gyarados
+
+quite hard, making it an appealing alternative to Volt Switch if damage is more of a focus than momentum. Stone Edge is similarly effective against most Flying-types while also letting Iron Treads revenge kill
+
+Volcarona
+
+and OHKO
+
+Ogerpon-H
+
+after Stealth Rock. Finally, Rapid Spin can be used on this set if Iron Treads's team is unable to fit a spinner elsewhere, but this is difficult to justify due to the excellence of
+
+Great Tusk
+
+and Ground's natural resilience against every entry hazard besides Spikes.
+
+Choice Band Iron Treads is a force to be reckoned with, putting huge pressure on bulky Restricted Pokemon like
+
+Eternatus
+
+and Tera Poison
+
+Lugia
+
+!
+
+Earthquake
+
+: When it's boosted by Choice Band, even checks like bulky
+
+Urshifu
+
+formes risk being 2HKOed by Earthquake if they try to switch in!
+
+Iron Head
+
+: Iron Head punishes targets that use Tera Fairy for defense such as Eternatus and
+
+Lunala
+
+, and the potential flinch chance has the potential to ruin slower targets.
+
+Ice Spinner
+
+: Ice Spinner is your best move against predicted switch-ins like
+
+Dragonite
+
+and
+
+Landorus-T
+
+. Keep in mind that this also removes Terrain like Electric Terrain, which can work for or against Iron Treads and its team depending on the circumstances.
+
+Knock Off
+
+: Knock Off destroys
+
+Calyrex-S
+
+before Terastallization, and the item removal can make it difficult to switch into for Iron Treads's checks.
+
+Volt Switch
+
+: Iron Treads can provide pivot support for teams that need it, though be wary that most teams have Ground-types that can negate it.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Iron Treads already has fantastic typing for many of its intended targets, but there are some circumstances where Terastallization can give an extra edge.
+
+Ground
+
+: Tera Ground is a simple but effective option to boost Iron Treads's best move in Earthquake.
+
+Normal
+
+: Tera Normal blocks Shadow Ball from
+
+Flutter Mane
+
+and Astral Barrage from Calyrex-S, potentially letting it snag a surprise KO.
+
+EV Spreads
+
+60 HP / 196 Atk / 4 Def / 108 SpD / 140 Spe with Jolly
+
+: This EV spread favors balance, with the Speed investment allowing Iron Treads to outrun Jolly Landorus-T and guaranteeing Quark Drive grants a boost to Speed. The Special Defense investment guarantees that Iron Treads will live one unboosted Astral Barrage from Calyrex-S and survive two Moonblasts from Timid Choice Specs Flutter Mane.
+
+60 HP / 252 Atk / 4 Def / 4 SpD / 188 Spe with Jolly
+
+: This EV spread maximizes attack power and invests just enough Speed to make sure Quark Drive boosts Speed when active. The rest is put into bulk, but it can be reallocated back into Speed depending on what benchmarks are needed most.
+
+With a strong defensive typing in Ground / Steel and good bulk, Iron Treads can run an effective Assault Vest set against restricted legendaries, most notably
+
+Miraidon
+
+and
+
+Calyrex-S
+
+.
+
+Ice Spinner
+
+: Ice Spinner gives Iron Treads a move to hit
+
+Dragonite
+
+and
+
+Landorus-T
+
+hard.
+
+Knock Off
+
+: Knock Off is Iron Treads's best move against non-Terastallized Calyrex-S, and its item removal is valuable all around, crippling both the Pokemon it's supposed to check as well as common switch-ins.
+
+Rapid Spin
+
+: Iron Treads is a great user of Rapid Spin thanks to its Steel-typing, removing Stealth Rock and Toxic Spikes for teammates like Dragonite,
+
+Lugia
+
+,
+
+Lunala
+
+and Focus Sash
+
+Chien-Pao
+
+. The Speed boost can also come in handy later against threats like Calyrex-S.
+
+EV Spread
+
+: The Defense investment avoids an OHKO from Jolly Landorus-T's Earthquake. The Special Defense investment combined with Assault Vest gives only a 6.3% chance for Astral Barrage from Timid Calyrex-S to 2HKO. If running Iron Treads with Electric Terrain support or Rapid Spin, the Speed EVs guarantee that +1 Iron Treads will outrun unboosted Timid Calyrex-S. If Iron Treads does not have Speed support, the Speed EVs can be distributed elsewhere.
+
+Other Options
+
+Volt Switch
+
+: Pivoting can help Iron Treads against physically bulky Pokemon like
+
+Dondozo
+
+,
+
+Alomomola
+
+, and Terastallized
+
+Garganacl
+
+.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Iron Tread's dual-typing is incredible against restricted threats like Miraidon, though Terastallization can be used in a pinch against some of its checks.
+
+Normal
+
+: Tera Normal acts as a final stand immunity against Astral Barrage from Calyrex-S, usually buying Iron Tread's one more turn to attack.
+
+Water
+
+: Tera Water gives Iron Treads a fighting chance against
+
+Urshifu-R
+
+, but consider that this will completely flip the Miraidon matchup.
+
+Iron Treads possesses an incredible support movepool along with a great base 106 Speed stat, making it a great support option.
+
+Knock Off
+
+: Along with its item removal ability, Knock Off is Iron Treads's best move to hit
+
+Calyrex-S
+
+that isn’t Terastallized.
+
+Ice Spinner
+
+: Ice Spinner allows Iron Treads to hit foes such as
+
+Dragonite
+
+and
+
+Landorus-T
+
+hard and has great type synergy with Earthquake.
+
+Rapid Spin
+
+: Despite the fast-paced-nature of BSS, Rapid Spin allows Iron Treads to both boost its speed and clear entry hazards from its side of the field, supporting teammates such as Dragonite,
+
+Lugia
+
+and
+
+Lunala
+
+as well as Focus Sash users like
+
+Chien-Pao
+
+. Its Steel-typing further makes it well-suited to clearing out Toxic Spikes mid-match.
+
+Endeavor
+
+: When used with defensive investment, Endeavor can be used to devastating effect against Ground-type checks that can't OHKO with Earthquake. It works well with Focus Sash too, albeit more predictable on those sets.
+
+Other Options
+
+Tera Blast
+
+: When paired with Tera Fairy, Iron Treads can OHKO Koraidons that might otherwise think they are safe against Iron Treads.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Support Iron Treads is less dependent on Terastallization thanks to its unique stat spread and good item choices.
+
+Normal
+
+: Tera Normal is great against Choice Scarf Calyrex-S in particular, blocking Astral Barrage and allowing Iron Treads to get a bit hit in.
+
+Fairy
+
+: Tera Fairy removes all of Iron Tread's previous weaknesses while still maintaining good overall typing. On Booster Energy sets, it can help overcome Swords Dance Chien-Pao that try to set up while Iron Treads uses Stealth Rock.
+
+Ghost
+
+: While situational, Tera Ghost can guarantee you get a low HP Endeavor off against Extreme Speed Dragonite.
+
+Items
+
+Booster Energy
+
+: Booster Energy increases Iron Treads's speed even further, allowing it to outspeed key targets like
+
+Flutter Mane
+
+and Chien-Pao, making it very likely to get a move off first.
+
+Focus Sash
+
+: Focus Sash is an option for ensuring Iron Treads can get at least one move off against faster foes that can KO it.
+
+EV Spreads
+
+188 HP / 92 Atk / 4 Def / 12 SpD / 212 Spe with Jolly
+
+: This spread is meant for Booster Energy sets. Defense investment keeps Iron Treads from being OHKO'd by up to Jolly Landorus-T's Earthquake, and the Special Defense investment survives Timid Calyrex-S and its Astral Barrage on all but the highest damage rolls. The Speed investment outruns up to Timid
+
+Chi-Yu
+
+.
+
+4 HP / 252 Atk / 252 Spe with Jolly
+
+: For Focus Sash sets, a simple offensive spread is often sufficient.
+
+Speed EV Benchmarks
+
+Quark Drive
+
+: If you want Quark Drive to boost Speed, make sure to keep Attack below Speed, especially for the lower benchmarks.
+
+76+ Spe
+
+: This ties with Adamant
+
+Urshifu
+
+formes. When Quark Drive is boosting Speed, this outspeeds Timid
+
+Calyrex-S
+
+.
+
+140+ Spe
+
+: This outspeeds Jolly
+
+Landorus-T
+
+.
+
+188+ Spe
+
+: This outspeeds Jolly Urshifu formes.
+
+212+ Spe
+
+: This outspeeds Timid
+
+Chi-Yu
+
+and uninvested
+
+Eternatus
+
+.
+
+This new Paradox Pokemon has a few niches in Battle Stadium Singles Series 2.
+
+For more information on Series 2, check out the resource thread.
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+With a decent defensive typing in Ground / Steel and good bulk, Iron Treads can run an effective Assault Vest set.
+
+Iron Head versus Heavy Slam
+
+: While Heavy Slam is not as consistent as Iron Head due to Iron Treads's middling weight, it reaches maximum power against targets such as
+
+Flutter Mane
+
+and
+
+Iron Valiant
+
+. Heavy Slam gets an OHKO on Iron Valiant and 2HKOes
+
+Iron Bundle
+
+, which is something that's not achievable with Iron Head, however, Iron Head 2HKOes
+
+Baxcalibur
+
+, and does non-negligible damage to
+
+Dragonite
+
+, which isn't possible with Heavy Slam.
+
+Rapid Spin
+
+: It may seem weird to run Rapid Spin on such a fast-paced-format, but with it, Iron Treads can support teammates like Dragonite and Focus Sash Flutter Mane. Additionally, with a Jolly nature and minimal Speed investment Iron Treads can outrun Timid Iron Bundle after a Rapid Spin.
+
+Ice Spinner
+
+: Ice Spinner gives Iron Treads a move to hit Dragonite,
+
+Hydreigon
+
+,
+
+Garchomp
+
+, and
+
+Great Tusk
+
+hard.
+
+Knock Off
+
+: Knock Off is Iron Treads's best move against
+
+Rotom-W
+
+and
+
+Rotom-H
+
+, and its item removal is valuable all around, crippling both the Pokemon it's supposed to check as well as common switch-ins.
+
+Volt Switch
+
+: Pivoting can help Iron Treads against physically bulky Pokemon like
+
+Dondozo
+
+,
+
+Corviknight
+
+, and Terastallized
+
+Garganacl
+
+.
+
+EV Spread
+
+: The EV Spread aims to maximize Iron Treads's ability to take special attacks, especially when coupled with an Assault Vest; the Speed allows it to outspeed Jolly
+
+Breloom
+
+before a Rapid Spin and Timid Iron Bundle.
+
+Tera Types
+
+Flying
+
+: Flying provides Iron Treads with a Ground immunity and a Fighting resistance, along with neutralizing its Fire weakness, which can be useful against Tera Fire Flutter Mane and
+
+Sylveon
+
+,
+
+Skeledirge
+
+, Iron Valiant, and
+
+Iron Moth
+
+.
+
+Iron Treads possesses an incredible support movepool along with a great base 106 Speed stat, making it a great support option.
+
+Electric Terrain
+
+: A manual Electric Terrain may seem odd, but Iron Treads has the bulk to run it and use it to activate its own Quark Drive along with its teammates' if applicable, and the lack of other Terrains in the current series means Electric Terrain can run for its full duration a lot of times. Electric Terrain also blocks sleep moves from foes such as
+
+Skeledirge
+
+,
+
+Espathra
+
+,
+
+Iron Valiant
+
+,
+
+Gengar
+
+,
+
+Breloom
+
+, and
+
+Brute Bonnet
+
+.
+
+Rapid Spin
+
+: Despite the fast-paced-nature of BSS, Rapid Spin allows Iron Treads to both boost its speed and clear entry hazards from its side of the field, supporting teammates such as Focus Sash
+
+Iron Bundle
+
+and
+
+Dragonite
+
+.
+
+Knock Off
+
+: Along with its item removal ability, Knock Off is Iron Treads's best move to hit
+
+Rotom-W
+
+and
+
+Rotom-H
+
+.
+
+Ice Spinner
+
+: Ice Spinner allows Iron Treads to hit foes such as Dragonite and
+
+Great Tusk
+
+hard, but it should be used carefully if it's run alongside Electric Terrain, as it ends the current active Terrain.
+
+Other Options
+
+Heavy Slam
+
+: With Heavy Slam, Iron Treads can OHKO Iron Valiant, as well as 2HKO Iron Bundle without Tera Steel. After Terastallizing into Steel, Heavy Slam can OHKO Iron Bundle after a Rapid Spin.
+
+Wild Charge
+
+: If Iron Treads is holding a Life Orb, Wild Charge is capable of 2HKOing
+
+Corviknight
+
+in Electric Terrain.
+
+Bulldoze
+
+: While weaker than Earthquake, Bulldoze is a speed control option for Iron Treads that affects Ghost-types, unlike Rapid Spin.
+
+Tera Types
+
+Ground
+
+: Tera Ground neutralizes Iron Treads's Fire, Ground, and Fighting weaknesses and ramps up the power of its Earthquake.
+
+Steel
+
+: Tera Steel gets rid of Iron Treads's Water weakness and gives it resistances to Ice and Grass.
+
+Items
+
+Booster Energy
+
+: Booster Energy increases Iron Treads's speed even further, allowing it to outspeed
+
+Flutter Mane
+
+, Iron Bundle,
+
+Dragapult
+
+and slower Choice Scarf foes, making it very likely to get a move off first.
+
+Terrain Extender
+
+: Terrain Extender increases the duration of Terrains to eight turns, giving Iron Treads or one of its Quark Drive teammates more turns to make use of their ability.
+
+Focus Sash
+
+: Focus Sash is an option for ensuring Iron Treads can get at least one move off against faster foes that can KO it.
+
+Air Balloon
+
+: An Air Balloon allows Iron Treads to have an edge against other Ground-type leads such as
+
+Garchomp
+
+.
+
+Life Orb
+
+: When used alongside Electric Terrain, Life Orb boosts Iron Treads's offensive pressure, and a Terrain-boosted Wild Charge can 2HKO Corviknight.
+
+Set Details
+
+Iron Treads functions as a fast and powerful glass cannon, using its STAB moves in tandem with Quark Drive's Speed boost to outspeed and threaten a large portion of the metagame. Most notably, Iron Treads checks
+
+Miraidon
+
+superbly, hitting it super effectively before and after Terastillization while resisting its STAB moves, and Iron Treads also pressures
+
+Calyrex-I
+
+,
+
+Zacian-C
+
+, and
+
+Raging Bolt
+
+while utilizing Steel Roller to provide Terrain control.
+
+Steel Roller provides Iron Treads with an insanely powerful damage option if a Terrain is active; the move very effectively punishes Miraidon and
+
+Rillaboom
+
+by removing their Terrains, while its power allows Iron Treads to pick up KOs on
+
+Grimmsnarl
+
+through Reflect and
+
+Landorus
+
+. Iron Head allows Iron Treads to have a consistent Steel-type STAB option that isn't reliant on a Terrain being active. Knock Off provides Iron Treads item removal in addition to threatening
+
+Calyrex-S
+
+, whereas Ice Spinner allows Iron Treads to consistently OHKO Landorus and 2HKO Rillaboom while removing its Grassy Terrain.
+
+Life Orb bolsters Iron Treads's power significantly, most notably allowing it to pick up an OHKO on Miraidon and a 2HKO on
+
+Incineroar
+
+with High Horsepower. Choice Band provides more immediate power, most notably guaranteeing an OHKO on Calyrex-I with Steel Roller, but makes Iron Treads inflexible and more vulnerable to Fake Out.
+
+Tera Ghost provides a valuable immunity to Fighting-type attacks that otherwise threaten Iron Treads, notably Close Combat from
+
+Urshifu-R
+
+and Body Press from
+
+Zamazenta-C
+
+, while also providing a Fake Out immunity most commonly used for Incineroar and Rillaboom.
+
+Teambuilding
+
+Urshifu-R and Landorus are very problematic foes for Iron Treads, as they can take Iron Treads's attacks and threaten it back with super effective STAB moves in Surging Strikes and Earth Power, respectively.
+
+Ogerpon-H
+
+can threaten to OHKO Iron Treads with Ivy Cudgel while being able to redirect its attacks with Follow Me.
+
+Zamazenta-C threatens Iron Treads with STAB Body Press while comfortably taking its attacks in return, as can
+
+Koraidon
+
+, which threatens Iron Treads with an easy OHKO with either Flare Blitz or Close Combat.
+
+Incineroar can be problematic through hindering Iron Treads's damage output with Intimidate and Will-O-Wisp. Rillaboom can also hamper Iron Treads through disabling Quark Drive with Grassy Surge and threatening big damage with Grassy Glide or Wood Hammer.
+
+Miraidon pairs fantastically with Iron Treads, as it can set Electric Terrain to activate Quark Drive while being able to threaten Urshifu-R , and in return, Iron Treads threatens opposing Miraidon,
+
+Chien-Pao
+
+, and Calyrex-I, which can be problematic for Miraidon. Calyrex-I appreciates Iron Treads's ability to hit Fire-types like
+
+Chi-Yu
+
+as well as Zacian-C, all of which can threaten Calyrex-I; in return, Calyrex-I can threaten Rillaboom and Ground-types like
+
+Ursaluna
+
+that Iron Treads struggles with.
+
+Iron Treads appreciates Fake Out support from the likes of Incineroar and
+
+Iron Hands
+
+to cover for its vulnerability due to poor defenses, particularly on variants without Protect. Iron Treads also greatly appreciates redirection from the likes of
+
+Amoonguss
+
+and
+
+Sinistcha
+
+to protect it from otherwise threatening Water- and Fighting-type attacks, and in turn, Iron Treads hits the Fire- and Ice-types that threaten them.
+
+Iron Treads's amazing defensive typing, access to incredible utility moves, and decent defensive stats let it function as a specially defensive staple for many teams. Rapid Spin lets it support Stealth Rock-weak teammates like
+
+Chien-Pao
+
+and
+
+Ogerpon-H
+
+by removing entry hazards. Knock Off punishes switch-ins like
+
+Corviknight
+
+and
+
+Great Tusk
+
+by removing their Leftovers or Rocky Helmet, whereas Ice Spinner punishes would-be switch-ins like
+
+Garchomp
+
+and the
+
+Landorus
+
+formes. Volt Switch gives Iron Treads the ability to pivot and provide its teammates with momentum, while Stealth Rock offers valuable role compression. Bulletproof grants it immunity to Shadow Ball from
+
+Gholdengo
+
+, Weather Ball from
+
+Moltres
+
+and
+
+Zapdos
+
+, Pyro Ball from
+
+Cinderace
+
+, and Focus Blast from
+
+Deoxys-S
+
+, making Iron Treads a great switch-in to those Pokemon. 12 Speed EVs and a Jolly nature let Iron Treads outspeed
+
+Zamazenta
+
+at +1 and maximum Speed Modest Gholdengo at +0.
+
+Iron Treads is best suited for more offense-based teams due to its subpar special bulk and lack of reliable recovery, which it makes up for with much-needed role compression. Iron Treads excellently complements physically defensive RegenVest
+
+Manaphy
+
+, as Iron Treads can check Zapdos,
+
+Latios
+
+, and Gholdengo for Manaphy, while it checks Chien-Pao and Great Tusk for Iron Treads. Physical attackers like Zamazenta,
+
+Roaring Moon
+
+, and Great Tusk pose a problem for Iron Treads; therefore, physically defensive partners like
+
+Pecharunt
+
+and
+
+Skarmory
+
+are appreciated. Primordial Sea partners like Zapdos,
+
+Ogerpon-W
+
+, and
+
+Primarina
+
+are helpful to deal with Fire-types like
+
+Iron Moth
+
+,
+
+Heatran
+
+, and Ogerpon-H that can destroy Iron Treads with ease.
+
+Due to an amazing defensive typing, decent defensive stats, and an incredible utility movepool, Iron Treads functions as a niche RegenVest user capable of checking many special attackers like
+
+Gholdengo
+
+,
+
+Latios
+
+, and
+
+Scream Tail
+
+. Earthquake is generally preferred as Iron Treads's Ground-type STAB move due to it being the strongest option, but Earth Power deals more damage to
+
+Great Tusk
+
+and
+
+Pecharunt
+
+. Knock Off annoys defensive staples like
+
+Corviknight
+
+and Great Tusk by removing their Leftovers or Rocky Helmet while debilitating
+
+Manaphy
+
+and
+
+Swampert
+
+by getting rid of their Assault Vest; alternatively, Ice Spinner hits
+
+Zapdos
+
+,
+
+Garchomp
+
+, and the
+
+Landorus
+
+formes. Rapid Spin supports allies that dislike entry hazards like
+
+Chien-Pao
+
+and
+
+Ogerpon-H
+
+. Volt Switch provides Iron Treads with pivoting while chipping Corviknight and
+
+Skarmory
+
+lacking Volt Absorb.
+
+Iron Treads fits best on more defensively oriented team structures such as bulky offense and stall. Physical attackers like
+
+Zamazenta
+
+,
+
+Cinderace
+
+, and Garchomp all threaten Iron Treads with their STAB moves, so checks to these Pokemon such as Pecharunt and Skarmory are an important asset. Iron Treads struggles against strong special attackers like
+
+Iron Moth
+
+,
+
+Primarina
+
+, and Choice Specs Gholdengo; therefore, partners like
+
+Roaring Moon
+
+and
+
+Moltres
+
+can aid it. Since Iron Treads is heavily reliant on Assault Vest to bolster its subpar special bulk, it needs Knock Off absorbers like Skarmory and Scream Tail. Ground-types like Great Tusk,
+
+Ting-Lu
+
+, and the Landorus formes are especially annoying to Iron Treads, as they prevent it from pivoting out with Volt Switch, so switch-ins to these Ground-types like Skarmory, Moltres, and Zapdos are appreciated.
+
+Other Options
+
+Earth Power can be used over Earthquake to deal more damage to
+
+Great Tusk
+
+and
+
+Pecharunt
+
+, but the higher power of Earthquake is generally more appreciated. An mixed attacking set of Magic Guard + Life Orb with Steel Beam and Earthquake can be used due to its potential to break through Great Tusk and
+
+Swampert
+
+relatively easily, but this is a very niche set that struggles to break through
+
+Corviknight
+
+and
+
+Manaphy
+
+. Immunity abilities can be used to cover for some of the weaknesses Iron Treads has: Earth Eater for Great Tusk,
+
+Ting-Lu
+
+, and the
+
+Landorus
+
+formes; Water Absorb for Manaphy and
+
+Primarina
+
+; and Well-Baked Body for
+
+Iron Moth
+
+and
+
+Heatran
+
+. Bulletproof sets can run Assault Vest if not running Stealth Rock for the extra bulk against strong special attackers like
+
+Zapdos
+
+,
+
+Deoxys-S
+
+, and
+
+Latios
+
+, but without Leftovers, Iron Treads lacks any form of recovery.
+
+Checks and Counters
+
+Physical Attackers
+
+: Physical attackers like
+
+Roaring Moon
+
+,
+
+Zamazenta
+
+, and
+
+Chien-Pao
+
+easily destroy Iron Treads with their STAB moves.
+
+Ground-types
+
+: Great Tusk, Ting-Lu, and the Landorus formes block Volt Switch and can demolish Iron Treads with Earthquake.
+
+Strong Special Attackers
+
+: Strong special attackers like Choice Specs Latios,
+
+Gholdengo
+
+, and Deoxys-S can break through Iron Treads's non-RegenVest set with their STAB moves due to Iron Treads's low special bulk and lack of recovery.
+
+Draft Order
+
+: Late round 2 onwards
+
+Price Range
+
+: 14-16 points
+
+Overview
+
+: Iron Treads offers lots of role compression for teams, especially in an eight-Pokemon format, given its typing and access to Knock Off, Stealth Rock, and Rapid Spin. Furthermore, its combination of physical bulk, Speed, and a respectable Attack stat allows it to switch into and force out many Pokemon while also being able to make progress against opposing teams. Iron Treads can also utilize Booster Energy or the Speed boost from Rapid Spin to clean late-game but is held back by its Attack stat and lack of Attack-boosting options.
+
+Common Roles
+
+Bulky Pivot
+
+: Iron Treads can switch into a lot of Pokemon with defensive investments and take advantage of the switches it forces with the wide variety of utility moves it has access to such as Knock Off, Endeavor, and Volt Switch.
+
+Entry Hazard Control
+
+: Iron Treads is one of the few Pokemon with access to both Stealth Rock and Rapid Spin and can also viably run both on the same set. It can go head-to-head against some opposing hazard setters and end exchanges with Stealth Rock on the opposing side of the field with no hazards on your own.
+
+Late-game Cleaner
+
+: Iron Treads either uses Booster Energy, Rapid Spin, or Electric Terrain support in order to outspeed most Pokemon and clean. Its deep offensive movepool with many coverage options like Ice Spinner, Knock Off, and Wild Charge helps with this role.
+
+Common Moves
+
+Primary STAB Moves
+
+: Earthquake, Iron Head, Heavy Slam, Earth Power, Flash Cannon
+
+Setup Moves
+
+: Iron Defense
+
+Utility Moves
+
+: Endeavor, Protect, Rapid Spin, Knock Off, Stealth Rock, Volt Switch
+
+Coverage
+
+: Body Press, Ice Spinner, Megahorn, Rock Slide, Stone Edge, Supercell Slam, Wild Charge, Zen Headbutt
+
+Niche Moves
+
+Steel Beam
+
+: Steel Beam is useful on a sacrificial lead set in order to gain momentum and do significant damage to the more physically bulky Pokemon that switch in against Iron Treads.
+
+High Horsepower
+
+: High Horsepower serves as an alternative to Earthquake when an opponent has
+
+Rillaboom
+
+.
+
+Ice Fang
+
+: Ice Fang can be used as an Ice-type move that doesn't remove your Electric Terrain.
+
+Common Items
+
+Booster Energy
+
+: Booster Energy can be used on more offensive cleaner sets to give Iron Treads a Speed boost without wasting a turn or requiring Terrain support.
+
+Assault Vest
+
+: Assault Vest patches up Iron Treads's mediocre Special Defense without sacrificing much, as Iron Treads only loses Stealth Rock as a viable option.
+
+Leftovers
+
+: Leftovers helps with Iron Treads's longevity, especially as it has no other means of recovery besides Rest.
+
+Sitrus Berry
+
+: Sitrus Berry gives Iron Treads an effective way of dodging 2HKOs and is an often more effective alternative to Leftovers, though it sacrifices overall recovery in longer games.
+
+Niche Items
+
+Focus Sash
+
+: While Iron Treads is fairly bulky, it can easily be OHKOed by a super effective move if it lacks defensive investment, and lead sets can take advantage of this by usually setting up Stealth Rock and then using Endeavor after the Focus Sash is consumed.
+
+Weakness Policy
+
+: Weakness Policy serves as a stronger alternative to a more traditional boosting item on a sweeper set, but it can also be used as a lure to beat specific Pokemon. Weakness Policy can also be paired with Iron Defense in order for it to take the super effective attack more readily and sweep after.
+
+Clear Amulet
+
+: Clear Amulet is normally used against Intimidate Pokemon, such as
+
+Landorus-T
+
+and
+
+Qwilfish
+
+, allowing Iron Treads to hit these Pokemon harder.
+
+Air Balloon
+
+: Air Balloon is mainly used on Iron Treads to check opposing setup sweepers that rely on a Ground-type move to beat it.
+
+Heavy-Duty Boots
+
+: While Iron Treads sports a 4x resistance to Stealth Rock, effectively negating any chip damage, having your spinner ignore entry hazard damage can be useful.
+
+Resistance Berry
+
+: Iron Treads can utilize a resistance Berry to lure an opposing Pokemon or just to help survive an attack.
+
+Life Orb / Soft Sand / Expert Belt / Metal Coat
+
+: Boosting items can be used to either wallbreak or in conjunction with Rapid Spin or Electric Terrain support to sweep by hitting specific damage benchmarks.
+
+Rocky Helmet
+
+: Iron Treads's physical bulk allows it to survive a lot of attacks, so punishing your opponent for using contact moves can be useful.
+
+Tera
+
+Iron Treads should not be your Tera Captain, as you generally want to Terastallize with more offensive Pokemon that benefit more. However, if you were to use it as a Tera Captain, using Tera Ground or Tera Steel would allow Iron Treads to be more threatening, or using Tera Flying sheds your Fighting and Ground weaknesses. Generally good defensive types, such as Fairy and Water, can be good choices due to its natural bulk.
+
+Draft Strategy
+
+Iron Treads is a top tier entry hazard removal option in Draft, and it has a pretty expensive price tag to reflect that. Generally, Iron Treads teams are quite offensive, as it can get worn down easily and doesn't have much recovery. It should be paired with Pokemon that appreciate the utility it brings.
+
+Strong Wallbreakers
+
+: Iron Treads can pivot into strong wallbreakers, such as
+
+Chi-Yu
+
+and
+
+Palafin
+
+, which can in turn open up the game for it. Iron Treads also appreciates wallbreakers taking care of bulkier Pokemon so that it can win late-game.
+
+Specially Defensive Pokemon
+
+: Iron Treads needs Assault Vest in order to take hits on the special side, so it likes to be paired with specially bulky Pokemon like
+
+Florges
+
+and
+
+Goodra
+
+.
+
+Ground-resistant Pokemon
+
+: Due to its Ground weakness, Iron Treads should be paired with decently bulky Ground-resistant or Ground-immune Pokemon, such as
+
+Uxie
+
+and
+
+Rotom-W
+
+, so that you aren't forced to sacrifice a Pokemon every time it is forced out by a Ground-type.
+
+Electric Terrain
+
+: Iron Treads doesn't appreciate Electric Terrain support as much as other Quark Drive Pokemon and should not be the reason for drafting a
+
+Pincurchin
+
+, but if paired with another Quark Drive Pokemon, it would be something to consider. However, you would still want to make sure that the team would be able to function without the Pincurchin, as it should not be brought to very many games.
+
+Checks and Counters
+
+Ground-types
+
+: Ground-types, such as
+
+Ting-Lu
+
+and
+
+Great Tusk
+
+, can block Volt Switch and hit Iron Treads back for super effective damage; however, Great Tusk, in particular, should be careful of special variants.
+
+Physically Bulky Pokemon
+
+: Iron Treads is unable to make much progress on its own against Pokemon like
+
+Dondozo
+
+and
+
+Corviknight
+
+, barring special sets, but these Pokemon are susceptible to Volt Switch.
+
+Faster Wallbreakers
+
+: Iron Treads's typing means it is hit super effectively by a lot of common types, so Pokemon like
+
+Iron Valiant
+
+and
+
+Greninja
+
+can force it out. However, they are mostly unable to switch in more than once.
+
+Iron Treads separates itself from other dedicated leads by outrunning and threatening to OHKO
+
+Mega Diancie
+
+, a Pokemon that gives most of the tier's leads serious problems. Outside of this, Iron Treads's ability to set up entry hazards while keeping them off itself makes it a viable lead choice for hyper offense teams. Earthquake OHKOes Mega Diancie, preventing it from blocking Iron Treads's Stealth Rock. Ice Spinner pressures common Defog users such as
+
+Landorus-T
+
+,
+
+Tornadus-T
+
+, and
+
+Gliscor
+
+, preventing them from safely removing the hazard after it has already been set. On the other hand, Earth Power and Steel Beam are viable alternatives. The main allure of this specially-based variant comes from Steel Beam, which has a favorable roll to OHKO
+
+Hatterene
+
+in addition to always OHKOing Mega Diancie. Steel Beam also lets Iron Treads sacrifice itself to potentially block Defog and Rapid Spin attempts from foes while also giving its teammates a free switch. Earth Power gives Iron Treads a reliable STAB move that does not have massive recoil, although its power is generally disappointing thanks to Iron Treads's underwhelming Special Attack stat. Rapid Spin prevents opposing leads from reliably getting hazards up, although Iron Treads can't keep hazards off versus many bulky hazard setters long-term. Booster Energy allows Iron Treads to outrun Mega Diancie, which is crucial to its niche, while also making it faster than other important targets like Tornadus-T and Choice Scarf Landorus-T.
+
+Lead Iron Treads only fits on hyper offense teams, which appreciate its ability to virtually guarantee that Stealth Rock goes up, even in the face of common anti-lead strategies employed by many offense and bulky offense teams. Iron Treads will likely not be able to keep opposing entry hazards off long-term, as it matches up poorly against common bulky hazard setters like
+
+Ferrothorn
+
+,
+
+Ting-Lu
+
+, and
+
+Hippowdon
+
+. A secondary form of hazard control is therefore appreciated on teams that require Stealth Rock to be off; Hatterene is a standout partner, as it can either help these teams pivot in safely with an Eject Button set or sweep itself with a Calm Mind set.
+
+Terapagos
+
+is another alternative that gives a more traditional hazard remover and provides such teams with an emergency stop to other offensive Pokemon thanks to Tera Shell. This support is necessary for common hazard-weak Pokemon seen on hyper offense, which includes
+
+Volcarona
+
+,
+
+Dragonite
+
+, and
+
+Mega Charizard X
+
+. A Knock Off user will make Iron Treads's hazards even more effective by removing Heavy-Duty Boots from the likes of
+
+Moltres
+
+, Tornadus-T, and
+
+Zapdos
+
+.
+
+Kingambit
+
+fits well with Iron Treads as a result, and it's a dangerous late-game cleaner in its own right.
+
+Gholdengo
+
+is another great partner, as it can block Defog attempts from Tornadus-T and Zapdos to keep Iron Treads's hazards on the field; Air Balloon variants can also block Rapid Spin from
+
+Great Tusk
+
+.
+
+Iron Treads has a valuable role in the tier with its superb role compression, serving as a great check to the tier's Electric-types such as
+
+Raging Bolt
+
+and
+
+Tapu Koko
+
+as well as providing utility by setting and removing entry hazards with Stealth Rock and Rapid Spin. Rapid Spin is mandatory, as it allows Iron Treads to remove hazards effectively, especially with its 4x resistance to Stealth Rock and immunity to Toxic Spikes. Knock Off can be used to force progress on would-be switch-ins such as
+
+Ting-Lu
+
+and
+
+Corviknight
+
+as well as remove Heavy-Duty Boots to force hazard chip damage on Pokemon like
+
+Zapdos
+
+and
+
+Alomomola
+
+. Alternatively, Volt Switch can be used as a useful pivoting option, allowing Iron Treads to escape bad matchups, like Corviknight, Alomomola, and
+
+Ferrothorn
+
+. Ice Spinner lets Iron Treads threaten Flying-types such as
+
+Landorus-T
+
+,
+
+Gliscor
+
+,
+
+Dragonite
+
+, and Zapdos. Ice Spinner also helps dissuade Ground-types from switching in on Volt Switch, giving its pivot sets more flexibility. Leftovers is the preferred item, giving Iron Treads valuable chip healing. Assault Vest, however, is an option on more offensive teams that appreciate Iron Treads's immediate hit-taking capabilities, though it is only recommended if Iron Treads doesn't need to set Stealth Rock. Notably, the added special bulk turns
+
+Mega Diancie
+
+'s Earth Power from a 2HKO to a 3HKO, and it allows Iron Treads to comfortably tank Focus Blast from Choice Scarf
+
+Tapu Lele
+
+. The given EV spread lets Iron Treads outspeed Timid Raging Bolt while maximizing its special bulk.
+
+Specially defensive Iron Treads fits best on bulky offense teams that appreciate its ability to check threats like Raging Bolt and Tapu Koko as well as support the team with its utility. Water-types such as
+
+Urshifu-R
+
+, Alomomola, and
+
+Hisuian Samurott
+
+all appreciate Iron Treads due to its immunity to Electric-type moves. In return, they can threaten the Fire-types, like
+
+Cinderace
+
+and
+
+Heatran
+
+, that Iron Treads is wary of as well as tank the Water-type attacks, such as the common Scald and Surging Strikes, that it is weak to. Alomomola in particular is a great partner; due to Iron Treads's lack of reliable recovery, it appreciates the Wish support Alomomola grants. Meanwhile, Hisuian Samurott can form an entry hazard-stacking core with Stealth Rock Iron Treads. Iron Treads can also effectively remove hazards, supporting Pokemon like
+
+Tornadus-T
+
+and
+
+Kyurem
+
+lacking Heavy-Duty Boots, and it can block Electric-type moves from Pokemon like Zapdos and Raging Bolt for the former. In return, Tornadus-T can switch in on the Ground-type moves that scare out Iron Treads and threaten the Grass-types that resist Iron Treads's STAB moves like
+
+Ogerpon-W
+
+and Ferrothorn with Bleakwind Storm and Heat Wave, respectively. Meanwhile, Kyurem can threaten the bulky Ground-types that Iron Treads fears, such as Ting-Lu and
+
+Great Tusk
+
+. Iron Treads often struggles with bulky Flying- and Water-types like Corviknight,
+
+Moltres
+
+, and
+
+Slowbro
+
+, so Electric-types like Zapdos and Raging Bolt are great teammates, with Iron Treads supporting them with hazard removal and preventing opposing Raging Bolt from setting up. Tapu Koko is a great teammate, as it can threaten said Flying- and Water-types as well as provide Electric Terrain, complementing Iron Treads's Quark Drive ability, allowing it to be even more sturdy. Iron Treads has to be wary around Fire-type moves like Flamethrower and Magma Storm, so teammates that resist those moves such as Moltres and Slowbro are appreciated. Moltres can threaten the Steel / Flying types that plague Iron Treads such as Corviknight and
+
+Celesteela
+
+, while Slowbro can tank the Fighting- and Water-moves that Iron Treads must avoid; in return, Iron Treads provides an Electric immunity for both. Ogerpon-W in particular is a good teammate, threatening the bulky Fire-, Ground-, and Water-types of the tier that Iron Treads struggles with, such as Moltres, Great Tusk, Ting-Lu, Slowbro, and Alomomola. In return, Iron Treads can remove the hazards that Ogerpon-W is vulnerable to as well as tank stray Bug- and Poison- moves that it doesn't enjoy such as U-turn, a common move in the tier, and
+
+Galarian Slowking
+
+'s Sludge Bomb. Iron Treads's removal also can allow Pokemon such as Alomomola and Slowbro to run items other than Heavy-Duty Boots.
+
+Air Balloon Iron Treads provides Steel teams with some speed control, outspeeding dangerous threats such as
+
+Victini
+
+and
+
+Landorus
+
+always and
+
+Zeraora
+
+when Electric Terrain is active. Ice Spinner synergizes well with Earthquake, dissuading
+
+Gliscor
+
+and
+
+Latias
+
+from coming into Iron Treads's attacks. Knock Off weakens walls such as
+
+Rotom-W
+
+,
+
+Staraptor
+
+, and
+
+Celesteela
+
+that wall Iron Treads. Alternatively, Stone Edge is an option to remove
+
+Mega Charizard Y
+
+,
+
+Volcarona
+
+, and
+
+Mega Pinsir
+
+. Rapid Spin clears entry hazards and gives Iron Treads enough Speed to clean up weakened Electric, Ground, and Dragon teams. Air Balloon lets Iron Treads safely switch into
+
+Excadrill
+
+and
+
+Mamoswine
+
+and creates uncomfortable situations for Ground and Bug teams due to its initial immunity to Ground-type moves and Sticky Web. Soft Sand allows Earthquake to 2HKO
+
+Mega Sableye
+
+after Stealth Rock damage, preventing Mega Sableye from switching in to spinblock Iron Treads. As Iron Treads is relatively weak, stallbreakers like Nasty Plot
+
+Gholdengo
+
+and Swords Dance
+
+Mega Scizor
+
+are excellent for weakening or removing walls; Gholdengo beats
+
+Archaludon
+
+and Mega Sableye and Mega Scizor deals with
+
+Ferrothorn
+
+and
+
+Slowbro
+
+. Mega Scizor also provides great neutralities that allow it to switch into Fighting- and Ground-types like
+
+Mega Lopunny
+
+and
+
+Clodsire
+
+with ease, while Gholdengo handles Body Press users like
+
+Skarmory
+
+and Fighting-types like
+
+Sneasler
+
+. Choice Scarf teammates such as Gholdengo,
+
+Heatran
+
+, and Archaludon supplement Iron Treads's speed control, as they outspeed and pick off
+
+Mega Gallade
+
+,
+
+Iron Valiant
+
+, and Mega Lopunny, which threaten to OHKO Iron Treads. Heatran also provides a Fire immunity and hazards or Toxic to further chip down opposing teams. Physically defensive Archaludon and Ferrothorn are great for dealing with
+
+Ogerpon-W
+
+, which can use Iron Treads as setup fodder, and support Iron Treads through debilitating foes with Thunder Wave and setting hazards. Celesteela and Skarmory are Ground-immune teammates that can switch into
+
+Mega Diancie
+
+or Choice Band Excadrill to avoid Iron Treads's Air Balloon from breaking prematurely; Celesteela is also a decent mixed wall that smothers Dragon and Fairy teams, while Skarmory has access to hazards and Whirlwind to further weaken opposing teams for Iron Treads.
+
+Iron Treads is a great Choice Scarf user on Steel teams due to its great Speed tier, notably allowing it to outpace
+
+Volcarona
+
+after a Quiver Dance and
+
+Mega Charizard X
+
+after a Dragon Dance. It also has a great variety of coverage moves, aiding against
+
+Landorus
+
+and the aforementioned Fire-types. Earthquake targets threats such as
+
+Heatran
+
+,
+
+Zeraora
+
+,
+
+Sneasler
+
+, and
+
+Gholdengo
+
+. Iron Head hits Fairy-types like
+
+Tapu Bulu
+
+,
+
+Iron Valiant
+
+, and
+
+Enamorus
+
+, while Volt Switch allows Iron Treads to maintain momentum and pivot out of unfavorable switch-ins like
+
+Pelipper
+
+and
+
+Slowbro
+
+. Ice Spinner hits Ground- and Dragon-types such as Landorus,
+
+Dragonite
+
+, and
+
+Garchomp
+
+while also aiding in the Flying matchup, removing
+
+Tornadus-T
+
+,
+
+Zapdos
+
+, and
+
+Gliscor
+
+. Furthermore, Ice Spinner removes Psychic Terrain for
+
+Mega Scizor
+
+, which relies on Bullet Punch. Stone Edge threatens Fire- and Flying-types like Volcarona,
+
+Articuno
+
+, and
+
+Mega Charizard Y
+
+. Alternatively, Knock Off pressures defensive switch-ins such as
+
+Rotom-W
+
+,
+
+Celesteela
+
+, and
+
+Ferrothorn
+
+while also being Iron Treads's best move against Air Balloon Gholdengo and
+
+Latias
+
+. Iron Treads can provide emergency entry hazard removal via Rapid Spin for faster-paced Steel teams. Hard Press is a niche option to remove frail targets like
+
+Meowscarada
+
+; however, Iron Head allows Iron Treads to revenge kill weakened Pokemon. Gholdengo is an excellent teammate that greatly capitalizes on Z-Moves, offers a Fighting-type immunity, and acts as a situational Ground-type immunity with Air Balloon. It also removes walls like Slowbro,
+
+Corviknight
+
+, and defensive
+
+Great Tusk
+
+. In return, Iron Treads offers a valuable answer to Fire-types such as
+
+Cinderace
+
+,
+
+Volcanion
+
+, and
+
+Victini
+
+. Heatran absorbs Fire-type attacks from faster threats like Choice Scarf
+
+Blacephalon
+
+and
+
+Iron Moth
+
+, in addition to setting up Stealth Rock to wear down switch-ins for Iron Treads. Celesteela and Corviknight offer a Ground-type immunity, walling Sand Rush
+
+Excadrill
+
+and
+
+Hippowdon
+
+. Furthermore, Corviknight provides slow pivoting via U-turn, while Celesteela pressures foes with residual chip damage using Toxic and Leech Seed. In exchange, Iron Treads threatens Electric-type Pokemon like
+
+Tapu Koko
+
+,
+
+Regieleki
+
+, and
+
+Sandy Shocks
+
+, as well as Fire teams, removing
+
+Hisuian Arcanine
+
+and
+
+Ceruledge
+
+once its Focus Sash has been broken. Ferrothorn is a great buffer against Water- and Ground- types like
+
+Gastrodon
+
+,
+
+Swampert
+
+,
+
+Mamoswine
+
+, and
+
+Slowking
+
+. Additionally, Ferrothorn boasts an array of utility options such as Leech Seed, Knock Off, and Spikes, wearing down Iron Treads's switch-ins and allowing for a free Stone Edge moveslot.
+
+With its immunity to
+
+Glimmora
+
+'s Mortal Spin, access to Rapid Spin and Stealth Rock itself, and the ability to outspeed
+
+Deoxys-S
+
+via Booster Energy, Iron Treads is a niche suicide lead for hyper offense teams due to it being able to beat other suicide leads one-on-one. However, since it can only set up Stealth Rock, Iron Treads's effectiveness as a lead is limited, especially against bulkier teams, since other leads like Glimmora and Deoxys-S can set more entry hazards to aid more in wallbreaking.
+
+Rapid Spin allows Iron Treads to remove the hazards of other suicide leads such as Deoxys-S,
+
+Mega Diancie
+
+, and Glimmora. Rapid Spin's Speed boost is able to mitigate Glimmora's Mud Shot, allowing Iron Treads to consistently outspeed it to beat it one-on-one.
+
+Rock Tomb hits
+
+Ho-Oh
+
+,
+
+Yveltal
+
+,
+
+Rayquaza
+
+, and
+
+Mega Salamence
+
+for super effective damage, preventing the latter two from setting up on Iron Treads while discouraging the former two from removing Stealth Rock.
+
+Knock Off can be used instead to prevent
+
+Lunala
+
+from safely spinblocking against Iron Treads, as well as removing Heavy-Duty Boots from Pokemon such as Ho-Oh,
+
+Alomomola
+
+, and defensive Yveltal.
+
+Steel Beam is a niche alternative that provides momentum for Iron Treads and its team, letting it faint more quickly while also doing decent chip damage to Pokemon such as
+
+Giratina-O
+
+and
+
+Zygarde
+
+. This may notably prevent the former, as well as Ho-Oh, from remvoing Stealth Rock via Defog.
+
+The first EV spread allows Iron Treads to outspeed Deoxys-S with Booster Energy so that it can set up Stealth Rock before Deoxys-S can use Taunt, while avoiding the OHKO from offensive
+
+Eternatus
+
+'s Flamethrower. The second EV spread is ideal for Steel Beam variants, allowing Iron Treads to 2HKO defensive
+
+Arceus-Fairy
+
+with Steel Beam.
+
+Tera Ghost allows it to block Rapid Spin from
+
+Smeargle
+
+, but Iron Treads is heavily discouraged from using Terastallization, since its teammates utilize it better.
+
+Against Magic Coat variants of Deoxys-S, Iron Treads can always use Rapid Spin to remove the reflected hazards before 2HKOing Deoxys-S via Earthquake.
+
+Using Earthquake and Knock Off aggressively on teams including Ghost-types like Lunala is a decent option to catch their spinblocker off guard, since Iron Treads notably 2HKOes
+
+Marshadow
+
+with Earthquake, but this is prediction reliant and limits Iron Treads's ability to remove enemy hazards.
+
+When facing bulkier teams and stall, it could be ideal to keep Iron Treads alive, since its utility in setting and removing hazards might be useful in walbreaking long-term, as well as preventing its teammates from being whittled down quickly, whether it be from hazard damage or from PP loss.
+
+Since it is a suicide lead, Iron Treads fits on hyper offense teams. Pokemon like Primal
+
+Groudon
+
+,
+
+Zacian-C
+
+, Eternatus, and
+
+Ultra Necrozma
+
+all appreciate the Stealth Rock that it sets, since it lets them reach certain damage thresholds and helps with breaking through opposing bulkier teams, such as allowing the former to OHKO offensive
+
+Necrozma-DM
+
+more reliably after Stealth Rock; they all can deal with Pokemon that remove hazards too, including Ho-Oh, Giratina-O, and defensive Yveltal. Pokemon such as Mega Salamence, Rayquaza, and
+
+Kyurem-B
+
+also appreciate Iron Treads removing Stealth Rock, improving their longevity significantly as they sweep.

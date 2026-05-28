@@ -1,0 +1,1085 @@
+With Drought and a number of utility options, Torkoal is OU's best option for a sun setter. Rapid Spin and Stealth Rock grant Torkoal excellent role compression as both an entry hazard remover and setter that can threaten other common leads like
+
+Skarmory
+
+,
+
+Ribombee
+
+, and
+
+Iron Treads
+
+with Lava Plume while also being naturally slower than both
+
+Tyranitar
+
+and
+
+Pelipper
+
+, ensuring that sun is the weather that stays up in the lead matchup. Will-O-Wisp can cripple physical attackers like
+
+Great Tusk
+
+and
+
+Dragonite
+
+looking to scare Torkoal out and use it as setup fodder without fully relying on Lava Plume's burn chance. A physically defensive EV spread lets Torkoal easily take hits from common threats like
+
+Ogerpon-W
+
+,
+
+Zamazenta
+
+, and
+
+Rillaboom
+
+, but a specially defensive EV spread can instead help bolster Torkoal's middling Special Defense against the likes of
+
+Gholdengo
+
+and
+
+Galarian Slowking
+
+. Though Torkoal is rarely the choice to be Terastallized, Tera Flying can be used to remove its Ground-type weakness versus Pokemon like
+
+Landorus-T
+
+and Great Tusk, while Tera Grass is an all-around solid defensive typing that greatly improves its matchups against Pokemon like Ogerpon-W and
+
+Hisuian Samurott
+
+while still maintaining a good matchup against the aforementioned Ground-types.
+
+Torkoal should only be used on sun teams, where wallbreakers like
+
+Walking Wake
+
+take great advantage of the sun to activate Protosynthesis and power up their Fire-type moves and Hydro Steam.
+
+Raging Bolt
+
+is also an appreciated addition to sun teams to threaten Water-types like Ogerpon-W and
+
+Dondozo
+
+.
+
+Hisuian Lilligant
+
+is also a strong late-game cleaner on sun teams, helping check Ground-types while significantly improving the often difficult matchup against
+
+Iron Boulder
+
+thanks to outspeeding it with Chlorophyll active, and
+
+Venusaur
+
+can also serve as a slower if slightly bulkier Chlorophyll sweeper. Because Torkoal's primary role is to set sun, it appreciates teammates like
+
+Kingambit
+
+and Eject Button
+
+Hatterene
+
+that can switch into Knock Off and allow it to keep its Heat Rock. Despite also serving as an entry hazard remover, Torkoal is weak to Stealth Rock and lacks any form of reliable recovery, so it benefits from secondary removal support from teammates like Great Tusk and Iron Treads. Hatterene is a great teammate that can serve as a tertiary form of hazard control with Magic Bounce, help keep its own threats healthy with Healing Wish, and check common Ground-types like
+
+Gliscor
+
+and Great Tusk with Calm Mind sets.
+
+Torkoal is a solid weather setter in the RU metagame, using its great physical bulk and utility to establish sun and provide entry hazard control for its typically frail teammates. While it competes directly with
+
+Ninetales
+
+for the role of sun setter, Torkoal carves out a niche because of its access to both Stealth Rock and Rapid Spin, providing great role compression and allowing sun teams to stack more offensive options like
+
+Hisuian Lilligant
+
+,
+
+Slither Wing
+
+, and
+
+Venusaur
+
+. It can also leverage its great Defense stat to use the powerful Fighting-type attack Body Press, which threatens the most common spinner in the metagame in
+
+Cyclizar
+
+. While Torkoal is quite bulky physically, it does struggle to tank many special attacks, with common Choice Specs wallbreakers like
+
+Basculegion-F
+
+,
+
+Magnezone
+
+, and
+
+Hisuian Goodra
+
+all threatening OHKOs, which can make it difficult to reliably establish and maintain hazards.
+
+Set Details
+
+Torkoal can function as the primary Stealth Rock user on sun teams because of its immense physical bulk, allowing it to establish entry hazards while sponging attacks for its teammates. Lava Plume is used to potentially spread burns, which can help whittle specially defensive walls like
+
+Fezandipiti
+
+and
+
+Hisuian Goodra
+
+down and cripple physical attackers like
+
+Rhyperior
+
+and
+
+Hippowdon
+
+. Body Press uses Torkoal's enormous Defense stat to nail
+
+Cyclizar
+
+,
+
+Empoleon
+
+, and Hisuian Goodra. Heat Rock is used to extend the duration of sun, though it does make Torkoal susceptible to hazard chip damage. Tera Ghost is used to spinblock against Cyclizar in an emergency and provide an immunity to Fighting-type attacks from Choice-locked
+
+Galarian Zapdos
+
+and
+
+Terrakion
+
+.
+
+While Torkoal is often found on sun teams, it can also fit on bulky offense teams that want to maximize the output of another great sun team member,
+
+Slither Wing
+
+. Slither Wing is an especially valuable teammate, using sun to active Protosynthesis and improve the recovery granted by Morning Sun, making offensive pivot sets quite effective at wallbreaking and pivoting. Offensive Chlorophyll Pokemon, like
+
+Hisuian Lilligant
+
+and
+
+Venusaur
+
+, can enter the field and provide immediate wallbreaking power while also having the potential to snowball as setup sweepers. Other defensive partners like Eject Button
+
+Amoonguss
+
+and
+
+Slowbro
+
+can be used to provide safe pivots into these offensive teammates, maximizing the amount of sun turns while using Regenerator to recover the damage taken. Bulky offense teammates that can use the sun to their advantage include
+
+Entei
+
+and
+
+Scovillain
+
+, which can threaten massive damage while sun is active, as both are comfortably able to 2HKO even Fire-resistant Pokemon like
+
+Noivern
+
+and
+
+Talonflame
+
+.
+
+Other Options
+
+Torkoal can use Solar Beam to nail Water-types like
+
+Basculegion-F
+
+and
+
+Slowbro
+
+. Earth Power lets Torkoal hit opposing Torkoal and
+
+Volcanion
+
+super effectively. Will-O-Wisp can catch physical setup sweepers like
+
+Gyarados
+
+and
+
+Mimikyu
+
+by surprise. Choice Specs Eruption sets can fit on Trick Room teams, blowing through would-be checks like
+
+Cyclizar
+
+and Slowbro with Tera Fire, though Trick Room teams are not a reliable playstyle in this tier. Torkoal can opt to use Shell Smash in conjunction with an Eject Pack, allowing Copycat users like
+
+Espeon
+
+to secure an enormous boost.
+
+Checks and Counters
+
+Opposing Weather
+
+:
+
+Hippowdon
+
+is inarguably the best weather setter in the tier and can effectively switch into and threaten Torkoal.
+
+Politoed
+
+rain can also outmuscle Torkoal with its strong team members like Basculegion-F and
+
+Kilowattrel
+
+.
+
+Special Wallbreakers
+
+: Despite sponging physical attacks comfortably, Torkoal is threatened by nearly every special wallbreaker in the tier, such as
+
+Gengar
+
+,
+
+Hisuian Goodra
+
+, and Basculegion-F.
+
+Water-types
+
+: Gyarados, Slowbro, and Volcanion can comfortably sponge non-Solar Beam attacks from Torkoal.
+
+Empoleon
+
+can threaten Knock Off to remove Heat Rock and Surf that is still threatening under sun. Substitute + Calm Mind
+
+Suicune
+
+can use Torkoal as setup fodder with ease, burning sun turns in the process.
+
+Torkoal is an excellent choice for sun-based Fire teams thanks to its valuable role compression that consists of setting up sun and Stealth Rock, removing entry hazards, and tanking physical attacks. Lava Plume provides decent damage and a high chance to burn, which proves particularly useful against physical attackers like
+
+Sneasler
+
+,
+
+Ogerpon-W
+
+, and
+
+Iron Hands
+
+. Body Press allows Torkoal to make use of its high Defense to heavily damage the likes of
+
+Hisuian Samurott
+
+,
+
+Blissey
+
+, and
+
+Tyranitar
+
+as well as preventing
+
+Roaring Moon
+
+from setting up freely and
+
+Heatran
+
+from switching in freely. Heavy-Duty Boots greatly increases Torkoal's longevity, while Heat Rock provides more turns of sun for setup allies to benefit from, such as Morning Sun
+
+Volcarona
+
+. If using Heavy-Duty Boots, getting fewer turns of sun also allows Fire teams to better manage opposing Protosynthesis sweepers, such as
+
+Flutter Mane
+
+or
+
+Walking Wake
+
+.
+
+Ogerpon-H
+
+is an excellent wallbreaker under sun that greatly threatens Water. Thanks to its ability to wallbreak past
+
+Dondozo
+
+due to Mold Breaker, Ogerpon-H pairs well with other teammates naturally as it checks Dondozo with Mold Breaker.
+
+Ceruledge
+
+provides valuable speed control with Shadow Sneak, allowing it to deal with troublesome threats to Fire teams such as Flutter Mane and Choice Scarf
+
+Iron Boulder
+
+. These sweepers also greatly appreciate Torkoal’s Stealth Rock support. Volcarona benefits from Torkoal’s sun support, as the additional healing with sun-boosted Morning Sun and weakening of Water-type moves from
+
+Greninja
+
+and
+
+Keldeo
+
+greatly eases its ability to set up; in return, Volcarona deals with walls such as
+
+Toxapex
+
+. Flame Body can also be useful to cripple threats like
+
+Great Tusk
+
+and
+
+Azumarill
+
+. Choice Scarf
+
+Iron Moth
+
+is an excellent check to Walking Wake and Great Tusk with a Speed boost from Protosynthesis; it can also be an excellent late-game cleaner against Steel and Fairy once checks such as Heatran and
+
+Primarina
+
+are removed.
+
+Cinderace
+
+can aid Torkoal in keeping off hazards with Court Change. Pyro Ball under sun also forces a lot of switches, which allows Cinderace to use U-turn to safely pivot in wallbreakers. Torkoal appreciates
+
+Rotom-H
+
+, as its Ground immunity combined with Volt Switch allows it to easily switch in for Torkoal and safely pivot in a sweeper.
+
+Other Options
+
+Yawn can be used over Body Press to force switches, allowing Torkoal to freely bring a teammate that can benefit from sun.
+
+This is a sample set as we work on proper analyses. Stay tuned!
+
+Welcome to Battle Stadium Singles Regulation F! This Pokemon has been updated to reflect the new Pokemon that The Indigo Disk has brought!
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Torkoal's Drought and disruption support helps set up heavy-hitting Protosynthesis users like
+
+Flutter Mane
+
+,
+
+Roaring Moon
+
+, and
+
+Gouging Fire
+
+.
+
+Overheat versus Lava Plume
+
+: Overheat with Eject Pack lets Torkoal act as a one-use pivot to safely let good sun teammates in. If running Heat Rock as Torkoal's item instead, Lava Plume is used for the consistent damage and decent burn chance.
+
+Solar Beam
+
+: Solar Beam takes advantage of Drought to let Torkoal pressure offensive Water-types like
+
+Urshifu-R
+
+.
+
+Gyro Ball
+
+: Torkoal makes excellent use of a slow Gyro Ball and can surprise semi-bulky Flutter Mane that try to use Taunt against it with a potential OHKO.
+
+Other Options
+
+Clear Smog
+
+: Clear Smog allows Torkoal to disrupt opposing setup while still attacking. However, its weak Base Power usually means it does not fix Yawn's problem of being weak against Substitute.
+
+Fissure
+
+: Torkoal's great defensive profile complements Fissure well, sometimes allowing it to bail itself and its team out of a bad matchup.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Torkoal's high bulk and support focus means that it normally saves Terastallization for its teammates.
+
+Grass
+
+: Tera Grass flips Torkoal's Water and Ground weaknesses into resistances and is Torkoal's best option for cushioning Hydro Steam from
+
+Walking Wake
+
+.
+
+Fire
+
+: Tera Fire can be used in a pinch to give Torkoal more offensive presence with Overheat or Lava Plume.
+
+Flying
+
+: Tera Flying's Ground immunity is an alternative to Tera Grass that doesn't make it weak to opposing Flying-type moves, making it situationally better against Tera Flying sweepers like
+
+Dragonite
+
+and
+
+Landorus-T
+
+.
+
+Items
+
+Eject Pack
+
+: Eject Pack with Overheat is the preferred choice for pivoting in teammates safely.
+
+Heat Rock
+
+: Heat Rock gives some extra flexibility with managing sun turns, which can be particularly useful if running multiple sun teammates.
+
+EV Spreads
+
+Negative Speed nature and 0 Speed IV
+
+: This is the standard for the slowest Eject Pack pivot possible, as well as maximizing Gyro Ball's power.
+
+252 HP / 4 Def / 252 SpD with Sassy
+
+: This avoids an OHKO from Choice Specs
+
+Latios
+
+from all but the highest damage roll. It also gives Torkoal a decent chance of surviving Modest
+
+Ursaluna-B
+
+'s Earth Power as well as Choice Specs Flutter Mane's Tera Stellar Power Gem.
+
+252 HP / 252 Def / 4 SpD with Relaxed
+
+: Maximizing physical bulk doesn't help in nearly as much places as special bulk, but one place it does is avoiding a 2HKO from Adamant Dragonite's Earthquake.
+
+Torkoal is a premier offensive Pokemon seen on Trick Room teams thanks to its great STAB moves, fantastic ability, and good defenses. Its low Speed also makes it faster than most of the tier when in Trick Room, and it has great matchups into Pokemon like
+
+Amoonguss
+
+Some of Torkoal's strongest partners are Trick Room setters like
+
+Cresselia
+
+and
+
+Farigiraf
+
+, which can help set up Trick Room and protect it from damage with Ally Switch and Armor Tail, respectively. Torkoal also pairs well with other Pokemon that benefit from Trick Room like
+
+Ursaluna-B
+
+and
+
+Iron Hands
+
+, which can threaten neutral damage onto most of the tier, notably threatening Pokemon like
+
+Raging Bolt
+
+and Tera Water
+
+Ogerpon-W
+
+, respectively.
+
+Torkoal struggles against bulky Pokemon that resist Fire like Raging Bolt,
+
+Incineroar
+
+, as well as Tera Water Ogerpon-W, and Assault Vest
+
+Rillaboom
+
+, as they can withstand its boosted Eruptions and burn Trick Room turns, making partners like Ursaluna-B, Amoonguss, and Rillaboom appreciated.
+
+Earth Power hits foes that resist Fire like
+
+Entei
+
+,
+
+Incineroar
+
+,
+
+Arcanine-Hisui
+
+, and
+
+Raging Bolt
+
+.
+
+Charcoal boosts the damage of Torkoal's Fire-type moves, letting it OHKO Assault Vest
+
+Kingambit
+
+.
+
+Tera Fire further bolsters Torkoal's Fire-type moves, letting it even 2HKO foes that resist Fire like Raging Bolt,
+
+Chi-Yu
+
+, and Tera Water
+
+Amoonguss
+
+.
+
+This Torkoal set is used for setting up sun and providing additional support for its partners.
+
+Overheat is a powerful nuke that allows Torkoal to switch out immediately after use thanks to Eject Pack. Eruption deals strong spread damage if Torkoal stays on the field. Clear Smog clears foes' stat boosts, most notably from
+
+Dondozo
+
+.
+
+Eject Pack allows Torkoal to switch out on lead when it has its Attack dropped by Intimidate from
+
+Incineroar
+
+, allowing its partners to take advantage of the sun immediately, as well as using Overheat to allow a partner to switch in safely and at the end of the turn.
+
+Tera Fire allows Torkoal to OHKO
+
+Ursaluna-B
+
+with Overheat.
+
+Torkoal is a threatening sweeper under Trick Room that sets up sun, providing support for its partners.
+
+Eruption deals powerful Fire-type spread damage; meanwhile, Heat Wave provides consistent spread damage regardless of Torkoal's remaining HP. Weather Ball deals strong, consistent damage while sun is active, and Overheat is often used as a single-use nuke attack. Earth Power allows Torkoal to threaten Fire-types like
+
+Incineroar
+
+. Protect is used on Charcoal sets, while Clear Smog is used on Choice Specs sets to disrupt
+
+Dondozo
+
+and setup sweepers like
+
+Volcarona
+
+.
+
+Charcoal and Choice Specs are used to increase Torkoal's damage, with Charcoal guaranteeing Eruption OHKOes Assault Vest
+
+Rillaboom
+
+and Choice Specs Weather Ball 2HKOing Assault Vest
+
+Archaludon
+
+.
+
+Tera Fire boosts Torkoal's damage, allowing it to OHKO
+
+Ursaluna
+
+with Eruption.
+
+Teambuilding
+
+Torkoal performs best at supporting a variety of Pokemon thanks to its sun-setting capabilities. Torkoal additionally functions well as a powerful sweeper when its partners set up Trick Room.
+
+When used as a supportive sun setter, Torkoal is often paired with
+
+Jumpluff
+
+, which takes advantage of the sun via Chlorophyll, allowing it to set Tailwind or put foes to sleep with Sleep Powder before they can move. Torkoal boosts the power of its partners' Fire-type attacks like Heat Wave and Eruption with the sun, making it a great pairing alongside
+
+Charizard
+
+and
+
+Hisuian Typhlosion
+
+. Charizard gains an additional damage boost from the sun thanks to Solar Power.
+
+Offensive Torkoal pairs well with reliable bulky Trick Room setters like
+
+Hatterene
+
+and
+
+Indeedee-F
+
+. Hatterene is capable of providing additional special offense with its powerful Dazzling Gleam as well as Expanding Force when paired with Indeedee-F. Indeedee-F on the other hand provides redirection and can boost Torkoal's damage with Helping Hand as well as using Heal Pulse to provide healing, mitigating the damage reduction of Eruption and increasing Torkoal's longevity. Indeedee-F's Psychic Terrain protects Torkoal from priority attacks, ensuring Torkoal can deal maximum damage with Eruption. Other offensive Trick Room-reliant partners like
+
+Ursaluna
+
+and
+
+Gallade
+
+pair well with Torkoal by threatening devastating physical damage. Ursaluna threatens specially defensive foes like
+
+Tyranitar
+
+. Meanwhile, Gallade deals with bulky foes Torkoal struggles to damage like
+
+Incineroar
+
+and
+
+Annihilape
+
+. Gallade additionally protects Torkoal from threatening spread attacks like Earthquake with Wide Guard.
+
+Supportive Torkoal can be very passive with Overheat as its primary offensive attack. It is very reliant on enabling its partners to take the KOs it can't achieve alone. Offensive Torkoal struggles to sufficiently damage Water-types like
+
+Primarina
+
+, so it relies on partners like Hatterene and Ursaluna to defeat them. Torkoal is easily threatened by powerful sweepers that move before Torkoal and threaten super effective damage like
+
+Garchomp
+
+and Tyranitar. Hatterene can set up Trick Room to ensure they do not attack before Torkoal moves and threatens both of them with its Fairy-type attacks.
+
+Strategy Comments
+
+Supportive Torkoal is best positioned when it can easily enable sun and provide support for its partners. Offensive Torkoal, on the other hand, is best used to sweep once Trick Room is active.
+
+As a supportive sun setter, Torkoal should be lead to set sun immediately for its partners. When it is lead, this set can potentially switch out immediately after Intimidate from Incineroar is triggered, allowing an offensive partner like Hisuian Typhlosion to switch in safely before you and the opponent can select their attacks for the turn. When using an offensive set, Torkoal is best kept in the back and should only be switched in while Trick Room is active.
+
+Foes capable of KOing Torkoal and its Trick Room-setting partners before Trick Room is set up are huge threats. To mitigate this, Indeedee-F can redirect attacks to protect Torkoal or the Trick Room setter from damage. Rain setters like
+
+Pelipper
+
+override the sun set by Torkoal, weakening and disrupting its partners; to prevent this, the rain setters should be KOed as soon as possible.
+
+9 Defense IVs allow for Torkoal to get a Special Attack boost from Protosynthesis.
+
+Draft Order
+
+: Round 5 onwards
+
+Price Range
+
+: 8-9 points
+
+Overview
+
+: Torkoal stands out as being one of the go-to sun setters in the format, and it is drafted exclusively to do such and enable teammates that can benefit from sun. It has great Defense, entry hazard control, and useful move options to support its teammates or, in rare cases, allow it to go on the offensive. However, Torkoal suffers from poor longevity, being weak to hazards and preferring to run Heat Rock to maximize sun turns. Torkoal's modest damage output and poor Speed makes it highly passive. Compared to
+
+Ninetales
+
+, it's slower and lacks the highly useful Healing Wish that sun teams may seek after instead.
+
+Common Roles
+
+Sun Setter
+
+: Torkoal's main selling point is to set sun. This set looks to leverage Torkoal's wealth of utility moves and entry hazard control options to maximize its usefulness despite its mediocre damage output. The risk of burn from Lava Plume and Will-O-Wisp as well as the threat of Yawn dissuades physical attackers from setting up on it.
+
+Common Moves
+
+Primary STAB Moves
+
+: Lava Plume, Flamethrower, Overheat, Weather Ball
+
+Setup Moves
+
+: Iron Defense, Amnesia
+
+Utility Moves
+
+: Clear Smog, Rapid Spin, Stealth Rock, Will-O-Wisp, Yawn
+
+Coverage
+
+: Ancient Power, Body Press, Earth Power, Earthquake, Gyro Ball, Heavy Slam, Rock Slide, Scorching Sands, Sludge Bomb, Solar Beam, Stone Edge, Zen Headbutt
+
+Niche Moves
+
+Fire Spin
+
+: Torkoal can trap physically weak foes with Fire Spin and whittle them down with relative ease.
+
+Curse
+
+: Curse synergizes nicely with Gyro Ball and Body Press, providing Torkoal with a niche as a slow wallbreaker.
+
+Bulldoze
+
+: Bulldoze should only ever be used with a predetermined plan of preventing an opposing Pokemon from setting up on Torkoal and sweeping.
+
+Endure
+
+: When paired with a Custap Berry, Endure can be used as a last-ditch attempt to remove entry hazards with Rapid Spin against faster foes or surprise them with a strong STAB attack.
+
+Common Items
+
+Heat Rock
+
+: It provides more sun for the sun god. Torkoal trades longevity in exchange for longer sun duration.
+
+Niche Items
+
+Heavy-Duty Boots
+
+: At the cost of more turns of sun, Heavy-Duty Boots lets Torkoal be a stronger long-term sun setter, as it removes its crippling weakness to entry hazards and allows it to be a more effective hazard remover.
+
+Eject Pack
+
+: Torkoal can use Eject Pack in combination with Overheat to allow it to function as a powerful one-time pivot.
+
+Healing Items
+
+: Though outclassed by Heavy-Duty Boots most of the time, healing items like Leftovers and Sitrus Berry can have a use in matchups where opponents have poor hazard control options.
+
+Damage-boosting Items
+
+: Choice Specs and Charcoal can capitalize on opponents who might be expecting a more passive Torkoal or against teams with limited defenses against Fire-types.
+
+Air Balloon
+
+: Air Balloon allows Torkoal to switch in on Ground-type attacks with more safety, giving it a window to burn a foe with Will-O-Wisp or fire back with an attack.
+
+Tera
+
+Torkoal is a Pokemon that excels at enabling other Pokemon and as such should never be made a Tera Captain over teammates that benefit more from it. If you have somehow ended up with Torkoal as your Tera Captain, then Tera Fire is a good choice to increase the damage output of its STAB moves considerably. Tera Grass can remove weaknesses to Water and Ground, allowing it to survive longer and set sun more times throughout the battle.
+
+Draft Strategy
+
+Torkoal is a centerpiece on sun teams and therefore should only be drafted with strong sun users.
+
+Sun Beneficiaries
+
+: Torkoal enables Protosynthesis users like
+
+Gouging Fire
+
+,
+
+Great Tusk
+
+,
+
+Roaring Moon
+
+, and
+
+Raging Bolt
+
+to forgo Booster Energy, freeing up another item slot while also dramatically raising a stat of your choice, making them significantly harder for a foe to deal with. In addition Torkoal enables Chlorophyll users such as
+
+Venusaur
+
+and
+
+Hisuian Lilligant
+
+to outspeed nearly all Choice Scarf users and potentially sweep an opposing team. Other strong Fire-type Pokemon such as
+
+Chi-Yu
+
+and
+
+Iron Moth
+
+appreciate the boost from Torkoal's sun-setting abilities to become nuclear wallbreakers and weaken opposing Water-type moves.
+
+Entry Hazard Control
+
+: As it is weak to Stealth Rock, Torkoal appreciates having another Pokemon capable of hazard control like Great Tusk or
+
+Iron Treads
+
+, enabling it to hold Heat Rock more freely without the need to consistently switch in to remove hazards itself.
+
+Ground-resistant Pokemon
+
+: As Torkoal is typically drafted with other Fire-types that benefit from its sun, Ground-resistant or immune Pokemon, such as
+
+Latios
+
+,
+
+Latias
+
+, and
+
+Azelf
+
+, are equally important to draft alongside it.
+
+Checks and Counters
+
+Chip Damage
+
+: Torkoal's limited access to healing and reliance on Heat Rock or Heavy-Duty Boots mean it is very susceptible to chip damage, especially if it finds itself without Heavy-Duty Boots.
+
+Opposing Weather
+
+: Opposing weather setters like
+
+Tyranitar
+
+and
+
+Alolan Ninetales
+
+, as well as manual setters like
+
+Klefki
+
+, can highly disrupt the momentum of sun teams, forcing Torkoal to switch back in to set sun again, leaving it exposed to chip damage or inviting in opposing setup sweepers. Heavy-Duty Boots is valuable on these sets, as Torkoal will be forced to pivot into battle more consistently than desired. Opposing weather setters also make it rare that Torkoal's sun will stay up for the full Heat Rock-extended duration.
+
+Special Attackers
+
+: Torkoal's below average special bulk means it can be preyed upon by strong special attackers like Latias,
+
+Kyurem
+
+, and
+
+Necrozma
+
+, all of which Torkoal has difficulty threatening in return.
+
+Taunt
+
+: Foes using Taunt can prevent Torkoal from setting up entry hazards, making it even more passive when it's on the field.
+
+Knock Off
+
+: Torkoal is particularly reliant on its item. Getting hit by Knock Off severely hampers Torkoal's sun-setting abilities for its teammates should it lose its Heat Rock.
+
+Torkoal is the only viable sun setter in Ubers UU, and this combined with its great bulk and deep expansive utility movepool makes it one of the tier's most powerful weather setters. Rapid Spin and Stealth Rock allow Torkoal to operate as both an entry hazard setter and remover for its team, freeing up moveslots on its partners. Yawn gives Torkoal the ability to force switches, help bring in teammates safely, and potentially sleep Pokemon attempting to take advantage of its relatively passivity, but Will-O-Wisp is an option to particularly cripple physical attackers like
+
+Zacian
+
+and
+
+Kingambit
+
+. Although Torkoal does not Terastallize much, Tera Ghost gives it the ability to spinblock and potentially spread status to Pokemon like
+
+Arceus
+
+formes and
+
+Great Tusk
+
+. Torkoal is the backbone of sun teams, and as a result, it should only be used on them. Sun wallbreakers like
+
+Chi-Yu
+
+,
+
+Walking Wake
+
+,
+
+Roaring Moon
+
+, and
+
+Gouging Fire
+
+are appreciated partners, as they get their STAB moves boosted and Protosynthesis enabled under sun. Hazard control from Pokemon like Great Tusk can allow Torkoal to not operate as the primary form of hazard control for its team and give it more opportunities to switch in to set up sun multiple times in a game.
+
+With its access to Drought and good utility options, Torkoal acts as an enabler for dedicated sun teams while also functioning as an entry hazard setter and remover. Lava Plume's relatively high burn chance lets Torkoal cripple foes that could set up on it, such as
+
+Raging Bolt
+
+and
+
+Mega Latios
+
+. Body Press enables Torkoal to hit
+
+Heatran
+
+, with it otherwise being able to switch in reliably on Torkoal's Fire-type moves; it also hits
+
+Mega Tyranitar
+
+that could otherwise come in and remove Torkoal's sun. Stealth Rock's chip damage allows its sun-boosted teammates to sweep more easily, while Toxic is also an option in order to punish Water-types such as
+
+Alomomola
+
+and
+
+Slowbro
+
+that could otherwise come in relatively risk-free; however, it should only be used if your team has another Stealth Rock setter. Rapid Spin's hazard removal helps its team greatly due to the fact that Torkoal runs Heat Rock over Heavy-Duty Boots, but it is advised to run other hazard removal options as well due to Torkoal's vulnerability to hazards. Maximum Defense investment is used in order to boost the power of Torkoal's Body Press, letting it hit Mega Tyranitar and Heatran harder while also letting it function as an emergency check to foes such as
+
+Cinderace
+
+.
+
+Torkoal only fits on designated sun teams, where its ability to set sun while also setting and removing entry hazards is greatly appreciated. A Pokemon that benefits greatly from this sun is
+
+Great Tusk
+
+, with its activated Protosynthesis letting it do increased damage to foes such as
+
+Ferrothorn
+
+and Alomomola. In return, Great Tusk can set and remove Stealth Rock and other hazards, letting Torkoal come in to set sun more time; it is also a much-needed Rock-resistant teammate and Knock Off absorber against foes such as Mega Tyranitar and
+
+Kingambit
+
+, which could otherwise threaten to remove Torkoal's Heat Rock. Other teammates that benefit from Torkoal's sun include Raging Bolt and
+
+Venusaur
+
+. Protosynthesis boosts the former's Special Attack, allowing it to do greater damage to would-be switch-ins such as Ting Lu; in addition, sun making its Weather Ball a Fire-type move lets it hit foes such as Ferrothorn. Sun doubles Venusaur's Speed stat, courtesy of Chlorophyll, and boosts the effects of Growth, allowing it to become a dangerous setup sweeper. In return, Raging Bolt can threaten
+
+Pelipper
+
+, which would otherwise be able to remove Torkoal's sun via Drizzle. Torkoal finds itself vulnerable to Ground-type attacks from foes such as opposing Great Tusk and
+
+Landorus-T
+
+, meaning Flying-types such as
+
+Corviknight
+
+and
+
+Mega Charizard Y
+
+are appreciated. In exchange, Torkoal can, to some extent, sponge physical hits from foes such as Cinderace that could otherwise be threatening underneath sun. Torkoal especially struggles with Mega-Tyranitar, meaning that teammates such as the aforementioned Great Tusk and Landorus-T are enjoyed. Pivots to bring in Torkoal and its sun-enjoying teammates are also appreciated, with Eject Button
+
+Hatterene
+
+and Landorus-T being excellent choices due to their ability to deny hazards via Magic Bounce and Defog, respectively.
+
+Torkoal provides great support for Fire teams thanks to its ability to set sun and Stealth Rock as well as remove entry hazards with Rapid Spin. Lava Plume can potentially burn offensive threats like
+
+Dragonite
+
+and
+
+Iron Hands
+
+. Body Press allows Torkoal to use its great physical bulk to its advantage by threatening Dark-types such as
+
+Roaring Moon
+
+and
+
+Tyranitar
+
+. Heat Rock allows Torkoal's sun to support teammates for longer, but Heavy-Duty Boots can also be used so that Torkoal can switch in more freely without fearing entry hazards and have an easier time removing them. Yawn is an option that pairs well with Stealth Rock because it forces switches.
+
+Volcarona
+
+makes for a great partner, as it appreciates the sun Torkoal sets so that its Flamethrower can hit new benchmarks, notably OHKOing
+
+Landorus
+
+and 2HKOing
+
+Empoleon
+
+and
+
+Alolan Muk
+
+after a boost, as well as now being able to survive a Hydro Pump from Choice Specs
+
+Greninja
+
+to set up one Quiver Dance. In return, Volcarona is able to deal with Fighting- and Ground-types such as
+
+Kommo-o
+
+,
+
+Swampert
+
+, and
+
+Great Tusk
+
+thanks to its coverage.
+
+Cinderace
+
+threatens Normal- and Rock-type foes such as
+
+Porygon2
+
+,
+
+Ogerpon-C
+
+, and
+
+Hisuian Arcanine
+
+and can don a Choice Scarf to dispatch speedy threats such as Choice Scarf
+
+Iron Treads
+
+and
+
+Tapu Lele
+
+.
+
+Heatran
+
+deals with problematic walls such as
+
+Toxapex
+
+and
+
+Archaludon
+
+by trapping them with Magma Storm and removing them with Earth Power as well as
+
+Diancie
+
+with Flash Cannon. Heatran also runs Stealth Rock so that Torkoal can opt to use another option such as Yawn. Late-game sweepers and cleaners such as
+
+Mega Charizard X
+
+,
+
+Ceruledge
+
+, and
+
+Blacephalon
+
+appreciate the sun Torkoal provides so that they can mop up more efficiently.

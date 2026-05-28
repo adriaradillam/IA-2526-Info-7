@@ -1,0 +1,1329 @@
+Choice Specs Walking Wake is a powerful wallbreaker and a staple on sun teams due to its signature Hydro Steam, Protosynthesis, unique offensive typing, and great offensive stats. Draco Meteor is a brutally powerful STAB move that synergizes wonderfully with Hydro Steam, capable of OHKOing Water-resistant Pokemon including the likes of
+
+Ogerpon-W
+
+and
+
+Raging Bolt
+
+, in addition to 2HKOing nearly every Pokemon in the metagame barring Fairy-types such as
+
+Clefable
+
+and
+
+Primarina
+
+. A Fire coverage gives it a strong attack that takes advantage of the weather, guranteeing OHKOs on bulky variants of
+
+Kingambit
+
+and
+
+Gholdengo
+
+that it otherwise couldn't; Flamethrower's less reliance on the weather makes it the better choice, but Weather Ball and its higher power is also a fine alternative. Dragon Pulse can be used in the last slot, which forgoes Draco Meteor's raw power for more consistency; however, Flip Turn allows Walking Wake to generate momentum for its team, taking advantage of switch-ins from the likes of
+
+Galarian Slowking
+
+, Primarina, and Assault Vest
+
+Alomomola
+
+to safely bring in its teammates. Knock Off is an alternative option that allows it to cripple the aforementioned checks, making them easier to overwhelm by itself. A Timid nature and 244 Special Attack EVs give Walking Wake a Speed boost from Protosynthesis while still maximizing its damage output, making it a potent late-game cleaner against offensive teams due to its power coupled with its heightened Speed, letting it outspeed and threaten would-be revenge killers like
+
+Dragapult
+
+and Choice Scarf
+
+Enamorus
+
+. Alternatively, Walking Wake can sacrifice the Speed boost for even more power by fully investing in Special Attack, allowing it to break through the likes of Primarina through sheer strength; a Modest nature may also be considered to maximize Walking Wake's damage output, at the cost of being slower than
+
+Iron Crown
+
+,
+
+Iron Treads
+
+, and Enamorus. Tera Water boosts its Hydro Steam's power even further, bolstering its cleaning potential against offense while 2HKOing even resistant Pokemon such as
+
+Toxapex
+
+after Stealth Rock, and allows Walking Wake to 2HKO even
+
+Blissey
+
+should it opt for a Special Attack boost; however, Tera Fairy could be considered as an alternative, granting it an immunity to Draco Meteor from Dragapult and opposing Walking Wake as well as a resistance to Kingambit's Sucker Punch. While Choice Specs is the prefered item due to the massive increase in damage that they offer, Mystic Water and Wise Glasses are alternatives that trade power for the flexibility to switch up moves.
+
+Walking Wake is a mainstay on sun teams, requiring either
+
+Ninetales
+
+or
+
+Torkoal
+
+to set the sun with Drought. Ninetales can further support Walking Wake with Encore to punish passive options and allow Walking Wake relatively safe entry and Healing Wish to provide Walking Wake with a second chance to wallbreak or sweep late-game. Torkoal, by comparison, can also set Stealth Rock, which makes defensively answering Walking Wake even more difficult, as checks such as Primarina would repeatedly have to sustain chip damage.
+
+Hatterene
+
+and
+
+Great Tusk
+
+are also great teammates for Walking Wake, alleviating the issue of entry hazards limiting its longevity; Hatterene is also capable of forcing out checks such as Toxapex and
+
+Iron Valiant
+
+, while Great Tusk can check priority revenge killers such as
+
+Dragonite
+
+and Kingambit. In return, Walking Wake can consistently KO or force out either Pokemon's checks, notably taking on
+
+Skarmory
+
+for Great Tusk and
+
+Heatran
+
+for Hatterene.
+
+Hisuian Lilligant
+
+and
+
+Venusaur
+
+can threaten Water-types such as Primarina and Ogerpon-W; both also appreciate Walking Wake blowing holes into the opposing team's defenses, giving them ample opportunity to run off with the game after their checks have been weakened. Lastly, Raging Bolt greatly enjoys Walking Wake's efficiency in dismantling its checks, notably Unaware
+
+Clodsire
+
+, as doing so enables Raging Bolt to sweep more efficiently in mid- or late-game scenarios.
+
+Walking Wake functions as a decently fast pivot that is able to unleash powerful STAB attacks, force progress on certain Pokemon via Knock Off, and pivot out of bad matchups with Flip Turn. Surf's higher damage output is more valuable against targets like
+
+Gliscor
+
+,
+
+Clefable
+
+, and
+
+Garganacl
+
+, which can absorb status effects and Knock Off but cannot reliably switch into Surf unless Terastallized. However, Scald still deals solid damage and can be used to potentially inflict burn, which can cripple certain foes looking to switch into a Water-type move such as
+
+Rillaboom
+
+, Choice Band
+
+Dragapult
+
+, and Assault Vest
+
+Hisuian Samurott
+
+. Knock Off allows Walking Wake to cripple certain defensive pivots with the switches it forces such as
+
+Galarian Slowking
+
+,
+
+Primarina
+
+, Assault Vest
+
+Alomomola
+
+, and
+
+Tornadus-T
+
+. Knock Off also helps with removing Heavy-Duty Boots from Pokemon such as
+
+Toxapex
+
+and
+
+Blissey
+
+, which can be amazing for entry hazard-stacking structures. Flip Turn allows Walking Wake to keep up momentum versus Pokemon it has already left itemless, as well as chipping switch-ins such as Clefable. Tera Water enhances Walking Wake's damage output further, allowing it to achieve feats such as always OHKOing specially defensive Gliscor after Stealth Rock, always 2HKOing maximum HP Clefable, and more easily 2HKOing threats like
+
+Zamazenta
+
+and maximum HP
+
+Pecharunt
+
+. It can also be used to shed Walking Wake's Fairy and Dragon weaknesses in a pinch. Tera Fairy provides a crucial immunity to Dragon, which can help versus the plethora of relevant Dragon-types that threaten Walking Wake such as Dragapult,
+
+Raging Bolt
+
+, and
+
+Latios
+
+. Tera Steel can also be used as it provides a similar safety net against opposing Dragon-Types and a crucial resistance to Fairy-type moves such as
+
+Enamorus
+
+'s and
+
+Iron Valiant
+
+'s Moonblast as well as
+
+Kyurem
+
+'s Freeze-Dry.
+
+Walking Wake finds itself at home on entry hazard-stacking teams, as its ability to forcefully remove Heavy-Duty Boots from some Pokemon is very much appreciated. Hence, Stealth Rock and Spikes-setting Pokemon pair very well with it, such as
+
+Great Tusk
+
+,
+
+Tinkaton
+
+,
+
+Ting-Lu
+
+, and Gliscor. Walking Wake's ability to force out and threaten common Knock Off absorbers, such as Gliscor and
+
+Corviknight
+
+, greatly benefits these Pokemon in return. Walking Wake is commonly answered by most Fairy-type Pokemon such as
+
+Hatterene
+
+, Enamorus, and Primarina, so checks to these threats such as
+
+Gholdengo
+
+, Pecharunt, Galarian Slowking, and Corviknight are required; the latter three can help pivot in Walking Wake safely. Gholdengo is also an amazing partner, as it can block Defog and Rapid Spin for Walking Wake's teammates, allowing hazard pressure to remain. Other Rapid Spin blockers such as
+
+Sinistcha
+
+and Pecharunt are also relevant for this role. Dragapult is another threat to Walking Wake, so Pokemon such as the aforementioned Ting-Lu as well as other checks such as
+
+Kingambit
+
+and Garganacl may be utilized. Pokemon commonly found on such archetypes that can check
+
+Ogerpon-W
+
+such as Zamazenta and pivot
+
+Ogerpon
+
+are amazing teammates to have. Ogerpon, in particular, forms a great offensive core with Walking Wake, threatening its checks such as Tera Water Garganacl, Alomomola, and Blissey while still keeping momentum with U-turn. Powerful wallbreakers such as Swords Dance Iron Valiant, Choice Band Zamazenta, and Dragapult also appreciate Walking Wake's ability to force progress against their checks such as Galarian Slowking.
+
+Walking Wake is one of the most dangerous sun wallbreakers in Ubers, capable of 2HKOing even the bulkiest of Water resists and special walls alike.
+
+Hydro Steam is Walking Wake's most spammable move; in sun, it 2HKOes
+
+Koraidon
+
+, OHKOes
+
+Flutter Mane
+
+, and 2HKOes
+
+Toxapex
+
+, making it very hard for teams to have a consistent switch-in to it.
+
+Dragon Pulse, albeit weaker than Draco Meteor, doesn't come with any drawbacks, making it a much better move to spam if lowering Walking Wake's Special Attack is not desired.
+
+Tera Water turns Walking Wake into an unwallable Pokemon, 2HKOing defensive walls like
+
+Blissey
+
+and OHKOing offensive pivots like Assault Vest Flutter Mane in sun. Tera Fairy can be used instead, as it gives Walking Wake useful resistances to Sucker Punch from
+
+Chien-Pao
+
+and
+
+Kingambit
+
+while also making it immune to Dragon-type attacks from Koraidon and
+
+Miraidon
+
+. Lastly, Tera Steel gives Walking Wake a resistance to
+
+Iron Bundle
+
+'s Ice-type attacks, mainly Freeze Dry.
+
+A Modest nature lets Walking Wake wallbreak with extreme ease, allowing for Draco Meteor to 2HKO
+
+Clodsire
+
+in sun. Alternatively, a Timid nature gets the jump on Timid
+
+Chi-Yu
+
+and opposing Modest Walking Wake, although the difference in power is very noticeable.
+
+Walking Wake is best suited for offensive sun teams and should be used as such, making use of its unique typing to switch into Pokemon like Chi-Yu and counterattack with a nuclear Hydro Steam.
+
+Walking Wake is somewhat slow for Ubers standards, so fast partners like Choice Scarf Koraidon and Flutter Mane are a must to compensate for its Speed stat. Koraidon's sun also greatly powers up Walking Wake's attacks.
+
+Secondary wallbreakers such as Flutter Mane and Chi-Yu are also recommended, as Walking Wake's Speed hinders its performance as a standalone wallbreaker. Defensive teammates like Clodsire and
+
+Great Tusk
+
+are also helpful, as they check Miraidon, Flutter Mane, and Koraidon, respectively.
+
+Walking Wake provides an interesting Speed tier, outspeeding problematic threats such as
+
+Iron Treads
+
+and
+
+Landorus
+
+, and offers coverage that pressures types such as Steel and Flying for Dragon teams. Scald's burn chance makes Walking Wake riskier to switch into, as it can inflict burn and reduce the threat of physically-inclined specially defensive pivots such as Assault Vest
+
+Iron Hands
+
+,
+
+Alolan Muk
+
+, and
+
+Hisuian Goodra
+
+. Alternatively, Hydro Steam's boosted power under sun lets Walking Wake deal with
+
+Volcarona
+
+and
+
+Cinderace
+
+in the Fire matchup, which can otherwise clean Dragon teams late-game. Flamethrower dissuades
+
+Corviknight
+
+and
+
+Gholdengo
+
+from switching into Walking Wake and completes its coverage against Steel teams. Knock Off removes Heavy-Duty Boots from
+
+Articuno
+
+, greatly easing the Flying matchup. It also inconveniences foes that swap into Walking Wake, such as
+
+Primarina
+
+,
+
+Toxapex
+
+, and Hisuian Goodra, making them easier for its teammates to break. Alternatively, Flip Turn lets Walking Wake keep the pressure against hard checks to it like
+
+Galarian Slowking
+
+,
+
+Empoleon
+
+, and Primarina by swapping into teammates that handle them better. Flip Turn is neutered by Water Absorb
+
+Clodsire
+
+, however. Heavy-Duty Boots lets Walking Wake come in repeatedly in the Steel matchup, whose gameplan revolves around wearing down opposing teams through multiple entry hazards. It also lets Walking Wake stay healthy throughout the match, preventing Choice Band
+
+Mamoswine
+
+, Choice Scarf
+
+Greninja
+
+, and Choice Scarf
+
+Meowscarada
+
+from cleaning Dragon teams late-game. The EV spread lets Walking Wake activate Protosynthesis Speed, allowing it to outspeed and remove Cinderace and +1 Volcarona under sun.
+
+Walking Wake's Speed tier leaves much to be desired, as it gets outsped by Choice Specs
+
+Flutter Mane
+
+,
+
+Spectrier
+
+, and
+
+Latios
+
+, so a speedy teammate in
+
+Dragapult
+
+is wanted. Choice Specs Dragapult benefits from walls like Articuno and Assault Vest
+
+Tornadus-T
+
+getting their items removed by Walking Wake, as this lets Dragapult net 2HKOs on them after Stealth Rock.
+
+Archaludon
+
+provides Stealth Rock and should ideally run Thunderbolt when paired with Walking Wake, as it helps keep entry hazards up against Flying teams. It also switches into physical threats like
+
+Roaring Moon
+
+,
+
+Ogerpon-W
+
+, and Meowscarada, which attempt to revenge kill Walking Wake. In return, Walking Wake deals with Gholdengo, Volcarona, and Landorus. Similarly, Hisuian Goodra absorbs special attacks from Primarina, Latios, and Flutter Mane for Walking Wake. Walking Wake returns the favor by dealing with Corviknight, Iron Treads, and
+
+Garchomp
+
+. Latios and
+
+Kyurem
+
+deal with Water Absorb Clodsire, which is Walking Wake's best counter. They also work with Walking Wake to break down Fighting, Ground, and Flying teams, and both appreciate Walking Wake's ability to lure and weaken special walls by removing Assault Vest from
+
+Gallade
+
+and Heavy-Duty Boots from Articuno. Choice Scarf Latios in particular is a decent option, as it can clean Flying teams late-game and provides speed control to shore up Walking Wake's awkward Speed tier. Choice Scarf Roaring Moon deals with Choice Specs Flutter Mane and Latios, and it can pivot Walking Wake into physical walls like
+
+Skarmory
+
+that it can take advantage of and that Roaring Moon naturally lures. Spikes Garchomp, especially when paired with Knock Off provided by Walking Wake, can prove overwhelming for types like Water and Ghost, which do not have good forms of entry hazard removal. Garchomp also handles Clodsire and appreciates having walls like Skarmory and
+
+Moltres
+
+removed, which Walking Wake takes care of.
+
+Dragonite
+
+provides a Ground immunity and priority to deal with
+
+Iron Valiant
+
+and
+
+Enamorus
+
+, and in return, Walking Wake removes
+
+Great Tusk
+
+and Skarmory.
+
+With a Choice Specs, Walking Wake becomes a powerful wallbreaker on Dragon teams, taking on the Ground- and Steel-types that prove problematic for Dragon teams overall. Hydro Pump blasts through bulkier targets like
+
+Alolan Muk
+
+,
+
+Skarmory
+
+, and
+
+Ting-Lu
+
+. Scald provides a safe STAB option that can burn common switch-ins like
+
+Swampert
+
+,
+
+Iron Hands
+
+, and
+
+Primarina
+
+, while Flip Turn keeps up momentum on expected switch-ins like
+
+Blissey
+
+. Alternatively, Hydro Steam can be used to completely stomp out Fire teams. Finally, Flamethrower melts the Grass-types attempting to take on Walking Wake such as
+
+Amoonguss
+
+and
+
+Sinistcha
+
+. The EV spread used gives Walking Wake a Speed boost in sun.
+
+Raging Bolt
+
+serves as an amazing teammate, being able to check Water-types that would handle Walking Wake such as
+
+Toxapex
+
+, Primarina, and
+
+Empoleon
+
+while appreciating Walking Wake removing Ground-types like
+
+Great Tusk
+
+and the
+
+Landorus
+
+formes.
+
+Archaludon
+
+and
+
+Garchomp
+
+provide entry hazard support, which wear down checks like Iron Hands and
+
+Hisuian Goodra
+
+. Archaludon continues to support Walking Wake by taking on targets like
+
+Meowscarada
+
+and
+
+Azumarill
+
+along with providing Thunder Wave to allow Walking Wake to outspeed foes like
+
+Tornadus-T
+
+and non-Choice Scarf
+
+Dragapult
+
+. Hisuian Goodra is a special wall capable of taking on foes such as
+
+Flutter Mane
+
+and opposing Walking Wake and has Knock Off to remove Assault Vest from the likes of
+
+Galarian Slowking
+
+and Primarina, making them easier to remove. Dragapult provides an incredible Speed tier, being able to outpace faster threats like
+
+Greninja
+
+and
+
+Sneasler
+
+and easily remove them along with handling Ghost-types such as Choice Specs
+
+Spectrier
+
+and
+
+Gholdengo
+
+. Choice Specs
+
+Latios
+
+works creates a powerful offensive duo with Walking Wake, as Latios is able to easily remove Water Absorb
+
+Clodsire
+
+along with putting immense pressure onto special walls such as Hisuian Goodra and
+
+Gastrodon
+
+. Choice Scarf
+
+Roaring Moon
+
+can deal with faster threats that would otherwise outspeed Walking Wake like Choice Scarf
+
+Enamorus
+
+,
+
+Latias
+
+, and Choice Specs Dragapult and use U-turn to bring in Walking Wake on physical walls that want to take Roaring Moon on like
+
+Galarian Weezing
+
+and Skarmory.
+
+Walking Wake is a terrifying wallbreaker on Water teams due to its powerful STAB combination, great offensive stats, and Dragon typing that aids against Dragon, Grass, Poison and Electric teams. Draco Meteor OHKOes Dragon-types like
+
+Archaludon
+
+,
+
+Kommo-o
+
+, and
+
+Hydreigon
+
+and deals with troublesome Water-type answers such as
+
+Toxapex
+
+,
+
+Sinistcha
+
+,
+
+Volcanion
+
+, and
+
+Gastrodon
+
+. Hydro Pump offers a powerful Water-type STAB attack to hit Steel- and Fairy-types like
+
+Gholdengo
+
+,
+
+Clefable
+
+,
+
+Bisharp
+
+, and
+
+Heatran
+
+as well as OHKOes
+
+Volcarona
+
+after a Quiver Dance. Scald offers a reliable Water-type STAB attack due to its accuracy and ability to potentially burn switch-ins such as
+
+Alolan Muk
+
+, Assault Vest
+
+Iron Hands
+
+, and
+
+Snorlax
+
+, while Flip Turn provides Walking Wake with a pivoting move, reducing the need to predict and also maintaining momentum in a match. Alternatively, Hydro Steam not only is reliable accuracy-wise but also aids against sun Fire teams, tearing through every Pokemon barring Volcanion in conjunction with Protosynthesis. Flamethrower may be used instead to threaten the aforementioned Steel-types as well as Ice- and Grass-types such as
+
+Alolan Ninetales
+
+,
+
+Frosmoth
+
+, and
+
+Amoonguss
+
+The given EV spread ensures that Protosynthesis always give a Speed boost under sun, allowing Walking Wake to outpace threats like
+
+Ogerpon-H
+
+and Choice Scarf
+
+Ninetales
+
+.
+
+Empoleon
+
+offers a resistance to Dragon- and Fairy-type attacks, walling opposing Walking Wake,
+
+Flutter Mane
+
+, Hydreigon, and Alolan Ninetales. Furthermore, Empoleon has a notable Freeze-Dry neutrality and provides Stealth Rock and Knock Off support to wear down walls like Alolan Muk and Assault Vest Iron Hands. In return, Walking Wake threatens Pokemon like Archaludon,
+
+Great Tusk
+
+, and
+
+Zapdos
+
+and forms a pivoting core via Flip Turn. Toxapex is heavily valued for its Fairy-type resistance, switching into threats such as Flutter Mane,
+
+Iron Valiant
+
+, and
+
+Enamorus
+
+, as well as adds on to Walking Wake's offensive pressure via Toxic Spikes.
+
+Urshifu-R
+
+and
+
+Ogerpon-W
+
+break special walls like Empoleon, Gastrodon, and
+
+Clodsire
+
+. In return, Walking Wake threatens Poison-type walls such as Toxapex, Amoonguss, and
+
+Galarian Weezing
+
+.
+
+Pelipper
+
+provides rain support to enhance Walking Wake's wallbreaking capabilities, notably allowing Walking Wake to 2HKO Assault Vest Iron Hands with Hydro Pump, as well as Knock Off to remove vital items like Iron Hands and
+
+Galarian Slowking
+
+'s Assault Vests and U-turn to form a pivoting core and bring in Walking Wake safely. Choice Scarf
+
+Hisuian Samurott
+
+removes faster Pokemon like
+
+Weavile
+
+,
+
+Dragapult
+
+,
+
+Greninja
+
+, and Flutter Mane using its Fighting- and Dark-type coverage while providing Spikes support with Ceaseless Edge. Additionally, Hisuian Samurott offers vital pivoting with Flip Turn, preserving momentum and wearing down switch-ins while also luring in entry hazard removers like
+
+Corviknight
+
+and Great Tusk for Walking Wake.
+
+Quaquaval
+
+offers entry hazard removal via Rapid Spin to allow Walking Wake to pivot more freely, as well as Knock Off support and pivoting using U-turn and Flip Turn. Choice Scarf Greninja is a great speed control option and a great check to enemies like Iron Valiant and Dragapult. Gastrodon can wall Choice Specs Dragapult and Flutter Mane lacking Energy Ball and provides entry hazards to aid in Walking Wake's wallbreaking.
+
+Manaphy
+
+can heavily wear down Steel and Poison teams and wears down shared checks like Alolan Muk and Water Absorb Clodsire. In return, Manaphy appreciates Walking Wake taking care of Electric-types such as Zapdos,
+
+Thundurus-T
+
+, and
+
+Rotom-W
+
+and Dragon-types like Hydreigon.
+
+Other Options
+
+Dragon
+
+Low Kick over Knock Off or Flip Turn is an option, as it lets Walking Wake deal more damage or finish off
+
+Hisuian Goodra
+
+once it’s chipped. However, Low Kick does not 2HKO Hisuian Goodra, and Walking Wake can eventually break it after a couple of Draco Meteors, so this move feels less impactful.
+
+Water
+
+Dragon Pulse is a nice option to consistently wear down Regenerator cores when combating Poison teams, not leaving Special Attack drops like Draco Meteor.
+
+Walking Wake is a powerful special attacker and can function as a Water-type attacker on sun teams thanks to Hydro Steam and Protosynthesis.
+
+Hydro Steam is Walking Wake's primary STAB move. While it's simply good outside sun, there are very few things that can switch in on it in sun.
+
+Draco Meteor is Walking Wake's strongest move and can slam common Water-resistant Pokemon such as opposing Walking Wake and
+
+Palafin
+
+.
+
+Flamethrower is a strong sun-boosted coverage move that deals super effective damage to Pokemon like
+
+Amoonguss
+
+and
+
+Kingambit
+
+, which otherwise resist Walking Wake's STAB moves.
+
+Protect keeps Walking Wake safe against faster threats and through field effects and should always be used with Life Orb. Choice Specs Walking Wake should run Dragon Pulse as a consistent Dragon-type STAB option to lock into.
+
+Tera Fairy is chosen to remove Walking Wake's weaknesses to Dragon and
+
+Iron Bundle
+
+'s Freeze-Dry. Tera Dragon can also be run to increase Draco Meteor's damage and grant Walking Wake an important Electric resistance against
+
+Iron Hands
+
+. Tera Water greatly increases Hydro Steam's damage while removing Walking Wake's weaknesses to Dragon- and Fairy-type moves.
+
+The EVs listed boost Walking Wake's Speed in sun. If a Special Attack boost is desired, move 8 EVs from Special Defense into Special Attack.
+
+With an excellent typing and respectable stats, Walking Wake finds a place on sun teams using Protosynthesis to make up for its Speed tier while also 2HKOing most neutral targets with sun-boosted Hydro Steam and threatening common Pokemon like
+
+Incineroar
+
+and
+
+Landorus
+
+.
+
+Walking Wake pairs well with
+
+Torkoal
+
+, which can set up sun and support it through moves like Helping Hand. It is commonly sighted with
+
+Ogerpon-C
+
+, which provides redirection, and
+
+Farigiraf
+
+, which blocks priority.
+
+Walking Wake struggles against a common threat,
+
+Flutter Mane
+
+, which threatens it with its Fairy-type STAB moves and outspeeds it.
+
+Ogerpon-W
+
+also has a good matchup, since it can redirect Hydro Steam and threaten a 2HKO on Walking Wake with Horn Leech. It also consistently needs sun up, which can be advantageous to opposing Flutter Mane and
+
+Raging Bolt
+
+, as they can then threaten an OHKO on it.
+
+The EV spread allows Walking Wake to survive Special Attack Booster Energy
+
+Flutter Mane
+
+'s Dazzling Gleam and Adamant Miracle Seed
+
+Rillaboom
+
+'s Wood Hammer. It can also pick an OHKO on
+
+Amoonguss
+
+with Life Orb-boosted Flamethrower in sun.
+
+Hydro Steam and Draco Meteor are Walking Wake's main STAB moves, while Flamethrower can threaten Pokemon that resist them, like Amoonguss and
+
+Kingambit
+
+. Dragon Pulse is a more spammable STAB move thanks to lack of drawbacks. Tera Blast can provide additional coverage when utilised with Tera Steel, threatening massive damage on Fairy-types like Flutter Mane.
+
+Tera Fire and Steel are preferred to gain a resistance to Flutter Mane's and Rillaboom's STAB moves. Tera Fire also resists
+
+Ogerpon-H
+
+'s STAB moves and boosts Flamethrower, which can threaten huge damage combined with the sun boost. On the other hand, Tera Steel grants crucial resistances, such as against
+
+Raging Bolt
+
+'s Dragon-type STAB attacks, which normally threatens Walking Wake.
+
+The given EV spread gives Walking Wake a Speed boost from Protosynthesis.
+
+Draft Order
+
+: Round 4 onwards
+
+Price Range
+
+: 12-13 points
+
+Tera Price Range
+
+: 14-15 points
+
+Overview
+
+: Walking Wake is a premier threat on sun teams and a somewhat fast special attacker with strong STAB options in Hydro Steam and Draco Meteor. These traits can be boosted further by activating Protosynthesis with sun-setting teammates or Booster Energy. However, Walking Wake's shallow movepool, substantial price, and one-dimensional playstyle, often necessitating sun to unlock its fullest potential, lead to difficulty fitting it onto most rosters in favor of more flexible options.
+
+Common Roles
+
+Wallbreaker
+
+: Walking Wake boasts fantastic raw power in the sun and can use both Hydro Steam and Draco Meteor alongside damage-boosting items to greatly dent opposing teams and force KOs.
+
+Late-game Cleaner
+
+: Walking Wake can use Speed Booster Energy or Agility in tandem with Special Attack Booster Energy to become faster than the vast majority of Pokemon. By utilizing its strong STAB combination and offensive stats, especially alongside sun setters like
+
+Ninetales
+
+and
+
+Torkoal
+
+, Walking Wake can pick up KOs on weakened foes or clean up against the opposing team.
+
+Offensive Utility
+
+: Walking Wake has access to some great utility options in Flip Turn, Knock Off, and Scald. These options allow it to support its team by maintaining some offensive prowess even when faced with Pokemon that can wall it.
+
+Common Moves
+
+Primary STAB moves
+
+: Hydro Steam, Hydro Pump, Surf, Scald, Draco Meteor, Dragon Pulse
+
+Setup moves
+
+: Agility
+
+Utility moves
+
+: Flip Turn, Knock Off, Substitute
+
+Coverage
+
+: Flamethrower, Weather Ball, Hurricane
+
+Niche Moves
+
+Dragon Dance / Physical Moves
+
+: Walking Wake can use Dragon Dance to surprise checks that are anticipating strong special attacks, adequately boosting its physical STAB options and coverage to wallbreak or clean games.
+
+Sunny Day
+
+: With Sunny Day, Walking Wake can set sun in emergencies to activate its own Protosynthesis and attempt to clean.
+
+Aqua Jet
+
+: Despite Walking Wake's relatively low Attack, Aqua Jet can be useful in providing emergency speed control for scenarios where an opposing Pokemon is weakened.
+
+Roar
+
+: Roar can be used as an emergency option to phaze boosting sweepers.
+
+Common Items
+
+Choice Specs
+
+: Choice Specs is Walking Wake's strongest and most consistent form of boosting its damage output, working extremely well with a Protosynthesis Speed boost.
+
+Booster Energy
+
+: Booster Energy is a great option on late-game cleaner sets, enabling it to cleave through the remnants of the opposing team.
+
+Life Orb
+
+: Life Orb provides Walking Wake less damage output than Choice Specs would but grants it the benefit to change up moves.
+
+Niche Items
+
+Choice Scarf
+
+: Choice Scarf allows Walking Wake to outspeed most Pokemon, making it a good offensive utility move user or a revenge killer, and also has some use on a late-game cleaner set. However, Walking Wake can use Protosynthesis or Booster Energy to gain Speed for a similar effect and still be able to swap moves.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots enables Walking Wake to hit the field much more often, which is especially useful against entry hazards. It also helps pivot and utility sets proportionally more.
+
+Eject Pack
+
+: With Eject Pack, Draco Meteor can be used on offensive utility sets as a nuclear one-time pivot option in certain matchups.
+
+Other Damage-boosting Items
+
+: Items that increase overall damage, such as Mystic Water, Dragon Fang, and Expert Belt can be used as an alternative to Choice Specs on wallbreaking sets that want the freedom to swap moves.
+
+Leftovers
+
+: Leftovers gives Walking Wake slightly more longevity and is a good fit on utility or Substitute sets.
+
+Assault Vest
+
+: Assault Vest increases Walking Wake's special bulk while allowing it to maintain some offensive presence and is therefore a decent fit on offensive utility sets.
+
+Resistance Berries
+
+: One-time resistance Berries can be used to let Walking Wake take a super effective attack from a strong foe and knock it out in return or set up with Agility.
+
+Tera
+
+Walking Wake is an effective Tera Captain on sun teams, being able to boost both STAB options to ludicrous levels of damage if allowed to use Tera Water or Dragon. Terastallization can also sometimes be used to hit a few of Walking Wake's checks with Tera Blast or to gain some survivability via defensive types like Steel and Fairy.
+
+Draft Strategy
+
+Walking Wake is a good option that complements an offensive sun core. Without sun, Walking Wake is extremely reliant on Booster Energy, loses out on a boosted Hydro Steam, and lacks most of the tools that make it worth drafting for its price.
+
+Sun Setter
+
+: Walking Wake appreciates being paired with Torkoal or Ninetales to activate Protosynthesis.
+
+Entry Hazard Control
+
+: Walking Wake appreciates entry hazards set by
+
+Deoxys-S
+
+,
+
+Sandy Shocks
+
+, and
+
+Ting-Lu
+
+to chip its checks, particularly those using Assault Vest into range of a KO. Hazard removal, typically from
+
+Great Tusk
+
+, can also allow Walking Wake to remain healthy in longer games.
+
+Cinderace
+
+is another solid choice to help sun teams manage hazards.
+
+Other Strong Wallbreakers
+
+: Pokemon that synergize with Walking Wake's strong offensive profile can help increase the pressure it exerts. Pokemon like
+
+Hisuian Lilligant
+
+,
+
+Ogerpon-H
+
+,
+
+Gouging Fire
+
+, and
+
+Iron Moth
+
+can either help enable a late-game sweep or benefit from Walking Wake punching holes in the opposing team. In particular, other Protosynthesis or Chlorophyll Pokemon have great synergy with Walking Wake, as they also benefit from sun.
+
+Speed Control
+
+: Despite being fast, Walking Wake is just slower than Pokemon with base 110 Speed, so having faster Pokemon, such as
+
+Darkrai
+
+,
+
+Cyclizar
+
+, and
+
+Meowscarada
+
+, are appreciated as speed control.
+
+Momentum
+
+: Pokemon with access to pivot moves such as
+
+Pecharunt
+
+,
+
+Corviknight
+
+, and
+
+Roaring Moon
+
+can help bring Walking Wake in safely while putting foes in KO range.
+
+Checks and Counters
+
+Specially Defensive Foes
+
+: Pokemon such as
+
+Primarina
+
+,
+
+Empoleon
+
+, and
+
+Galarian Slowking
+
+can equip an Assault Vest or invest in Special Defense to punish Walking Wake with status or a strong attack after taking a hit.
+
+Faster Threats
+
+: Choice Scarf users or Speed Booster Energy threats like
+
+Iron Valiant
+
+,
+
+Iron Bundle
+
+, and
+
+Latios
+
+can outspeed and knock it out, even if Walking Wake is using Speed Booster Energy itself or has a Choice Scarf.
+
+Chip Damage
+
+: Walking Wake dislikes entry hazards and other forms of chip damage such as poison, burns, and Life Orb recoil, as they limit the amount of opportunities it has to wallbreak.
+
+Thanks to Walking Wake's great STAB combination that threatens out Pokemon like
+
+Great Tusk
+
+,
+
+Giratina
+
+, and
+
+Palkia-O
+
+; great Special Attack and Speed; powerful ability in Protosynthesis; and spammable signature move in Hydro Steam, it is one of Ubers UU's best sun attackers. Flamethrower targets Steel- and Grass-types like
+
+Magearna
+
+,
+
+Zamazenta-C
+
+,
+
+Arceus-Grass
+
+, and
+
+Corviknight
+
+. Flip Turn allows Walking Wake to take advantage of the switches it forces against Pokemon like
+
+Chi-Yu
+
+and
+
+Landorus
+
+and gain momentum for its team. 244 EVs in Special Attack allow Walking Wake to gain a Speed boost under sun, making it a strong cleaner and revenge killer. Tera Water boosts Hydro Steam and Flip Turn, allowing Walking Wake to reach damage thresholds such as OHKOing
+
+Mewtwo
+
+and Magearna under sun. Walking Wake fits exclusively on sun teams and is mandatory on them.
+
+Torkoal
+
+is the most automatic partner for Walking Wake, as it sets the sun needed for Walking Wake to be at its fullest potential while also spinning away entry hazards and setting up Stealth Rock to wear down would-be switchins to Walking Wake like Magearna. Great Tusk is also a notable partner, as it removes entry hazards as well and can deal with the Steel-types Waking Wake can struggle against. Other sun wallbreakers like Chi-Yu and
+
+Ogerpon-H
+
+can break through Walking Wake's checks like Magearna and
+
+Blissey
+
+and give it an easier time punching holes in the opposing team. Pivots like
+
+Landorus-T
+
+can create a good pivoting core with Walking Wake.
+
+With a boost in Special Attack via Booster Energy, Walking Wake has the luxury of a power increase while also being able to change its moves during a battle if needed.
+
+Draco Meteor KOes slower Dragon-types such as
+
+Raging Bolt
+
+and Adamant
+
+Haxorus
+
+. It also lets Walking Wake beat Pokemon like
+
+Volcanion
+
+and some
+
+Hoopa-U
+
+variants.
+
+Hydro Pump OHKOes Pokemon weak to Water such as non-Assault Vest
+
+Landorus-T
+
+and
+
+Ursaluna
+
+, as well as being Walking Wake's best option versus Pokemon that resist Dragon, like
+
+Metagross
+
+.
+
+Hurricane allows Walking Wake to beat Fighting-types such as both
+
+Urshifu
+
+formes, as well as Grass-types like
+
+Ogerpon-W
+
+and
+
+Rillaboom
+
+.
+
+Aqua Jet is an important priority move for Walking Wake, allowing it to defeat Pokemon that may Endure a lethal move like Custap Berry Urshifu-S,
+
+Sneasler
+
+, and Ursaluna, and win versus Substitute + Reversal Sneasler.
+
+The defensive EVs are used to let Walking Wake survive Assault Vest Urshifu-S's Close Combat into Sucker Punch and Choice Specs Volcanion's Hyper Beam. The Speed is used to let Walking Wake outspeed all Landorus-T, and the rest of the EVs are placed in Special Attack.
+
+Because this set doesn't maximize its Speed, maximum Speed
+
+Kyurem
+
+,
+
+Garchomp
+
+, and Haxorus as well as other faster Dragon-types like
+
+Roaring Moon
+
+and
+
+Dragapult
+
+can win against Walking Wake. A good Steel- or Fairy-type like
+
+Corviknight
+
+or
+
+Primarina
+
+can help alleviate the pressure Walking Wake faces from these threats.
+
+With a Speed boost, Walking Wake is able to catch faster Dragon-types like
+
+Dragapult
+
+and Choice Scarf
+
+Haxorus
+
+off guard. Notably, it also has a strong matchup into
+
+Iron Valiant
+
+, which is an extremely common and powerful partner with many Pokemon that Walking Wake handily wins against, such as
+
+Volcanion
+
+and
+
+Ursaluna
+
+.
+
+Hydro Pump scores crucial KOs against Assault Vest Ursaluna and
+
+Spectrier
+
+. As this set lacks a damage-boosting item, the power of Draco Meteor against Dragon-types makes it necessary over other options.
+
+Chilling Water is crucial against Ursaluna. It also allows Walking Wake to safely chip
+
+Chien-Pao
+
+,
+
+Meowscarada
+
+and
+
+Urshifu-R
+
+into range of one of its STAB moves.
+
+Hurricane is threatening to Iron Valiant and
+
+Urshifu-S
+
+. While favored against most sets, Walking Wake will still lose to faster Spirit Break variants of the former and Assault Vest sets of the latter.
+
+Running Flamethrower stifles Walking Wake's anti-meta traits but does increase its general consistency, providing a clean 3HKO against Assault Vest
+
+Metagross
+
+.
+
+The EVs are meant to survive an Adamant Choice Band Ursaluna Giga Impact after Chilling Water. It also survives -1 Earthquake into -2 Giga Impact from Assault Vest Ursaluna.
+
+Because of Hurricane's flimsy accuracy and losing matchups, it is highly suggested to not run Walking Wake as the only answer to Iron Valiant and both formes of Urshifu. Fairy-types such as
+
+Sylveon
+
+and
+
+Alolan Ninetales
+
+counter these Pokemon while taking advantage of Walking Wake's reliable coverage of Fire-types.
+
+This Walking Wake set is ineffective against most Pokemon that rely on bulk, such as
+
+Corviknight
+
+,
+
+Cresselia
+
+, and
+
+Pecharunt
+
+. Special Attack Booster Energy
+
+Iron Crown
+
+is able to muscle past these threats while matching up well into
+
+Primarina
+
+, Walking Wake's most prevalent counter.
+
+The EV spread provides a Speed Protosynthesis boost under sun.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!

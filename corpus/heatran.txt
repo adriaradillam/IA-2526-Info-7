@@ -1,0 +1,1729 @@
+Heatran is a fearsome wallbreaker capable of easily shutting down defensive teams, leveraging its defensive profile to find multiple opportunities to switch in and wreak havoc. Magma Storm is a powerful Fire-type STAB move that can trap Pokemon like
+
+Blissey
+
+and
+
+Toxapex
+
+. Earth Power allows Heatran to hit Fire-types that would otherwise resist Magma Storm such as
+
+Iron Moth
+
+,
+
+Skeledirge
+
+, and opposing Leftovers Heatran. Taunt completely shuts down recovery from defensive Pokemon that would otherwise withstand its offensive assault such as
+
+Galarian Slowking
+
+and Blissey, and it allows Heatran to beat each of these Pokemon 1-on-1 in tandem with Magma Storm. Stealth Rock can be considered in the last slot, as Heatran's consistency in forcing switches can give it a free turn to set up Stealth Rock; however, Will-O-Wisp can be used to hinder switch-ins such as
+
+Dragonite
+
+and
+
+Ting-Lu
+
+that would otherwise freely switch in against Heatran. A Timid nature lets Heatran outspeed and threaten Choice Band
+
+Rillaboom
+
+, in addition to quickly burning Adamant Dragonite with Will-O-Wisp, though a Modest nature could be considered to guarantee an OHKO on bulky
+
+Kingambit
+
+variants. Tera Grass flips Heatran's matchup against Water- and Ground-types such as
+
+Hisuian Samurott
+
+and
+
+Landorus-T
+
+and synergizes very well with Flash Fire; Tera Ghost grants Heatran a crucial Fighting immunity that can help against
+
+Zamazenta
+
+, in addition to blocking Rapid Spin from the likes of
+
+Great Tusk
+
+and
+
+Iron Treads
+
+. Leftovers provides Heatran with passive recovery and allows it to stick around over the course of the match; Air Balloon could also be used to provide Heatran with a temporary Ground immunity, letting it safely switch into Landorus-T and opposing Heatran.
+
+Heatran fits primarily on offense and bulky offense teams where it excels in ripping apart defensive cores for its teammates to exploit. Special sweepers such as
+
+Primarina
+
+and
+
+Raging Bolt
+
+greatly enjoy Heatran trapping and removing their checks, particularly Blissey. In return, Primarina discourages Ground-type switch-ins such as Landorus-T and Ting-Lu, while Raging Bolt can force out Water-types like
+
+Barraskewda
+
+and Hisuian Samurott. Rillaboom is another fantastic teammate for Heatran that not only provides it with extra passive recovery and more resistance against Earthquake but can form a formidable offensive core with it, with Rillaboom capable of handling Ground- and Water-types such as Great Tusk and
+
+Ogerpon-W
+
+and Heatran taking advantage of Rillaboom's switch-ins like
+
+Corviknight
+
+and Skeledirge, alongside setting Stealth Rock to spread chip damage for both itself and Rillaboom. Additionally, some of Rillaboom's teammates like
+
+Hawlucha
+
+and
+
+Hatterene
+
+appreciate Heatran removing their checks via Magma Storm, allowing them to more easily sweep late-game, while both Pokemon can force out Ground- and Fighting-types like Great Tusk and Zamazenta. Lastly, Heatran enjoys Rapid Spin support from Great Tusk removing entry hazards that cut into its longevity, and it also enjoys having a check to Dragonite. In exchange, Heatran can easily switch in on and threaten Pokemon such as
+
+Meowscarada
+
+,
+
+Weavile
+
+, and Calm Mind
+
+Iron Valiant
+
+that Great Tusk struggles against.
+
+Specially defensive Heatran is a useful glue Pokemon that can stallbreak, set entry hazards, spread status, and check notable special attackers like
+
+Gholdengo
+
+,
+
+Hatterene
+
+, and
+
+Galarian Slowking
+
+. Magma Storm in conjunction with Taunt lets Heatran one-on-one walls like Galarian Slowking,
+
+Blissey
+
+, and
+
+Toxapex
+
+, trapping and preventing them from pivoting and healing in the process. Lava Plume gives it a more reliable STAB move that can cripple checks and would-be switchins like
+
+Ting-Lu
+
+,
+
+Ogerpon-W
+
+,
+
+Dragonite
+
+, and
+
+Hisuian Samurott
+
+. Earth Power is a much-needed coverage move to hit Pokemon like
+
+Iron Moth
+
+,
+
+Glimmora
+
+,
+
+Raging Bolt
+
+, Toxapex, and opposing Heatran super effectively. Taunt has the added benefit of preventing setup from both slower hazard setters like
+
+Clefable
+
+and Ting-Lu and slower setup sweepers like Terastallized
+
+Kingambit
+
+and
+
+Primarina
+
+. Stealth Rock is an extremely good fit since Heatran threatens common forms of hazard removal like
+
+Corviknight
+
+and prevents
+
+Great Tusk
+
+and
+
+Iron Treads
+
+from switching. It is also able to punish Hatterene from switching in to deflect Stealth Rock back with Magic Bounce since it is unable to hit Heatran back for any notable damage. If there's another Stealth Rock setter on the team, Will-O-Wisp can be used as a way to spread burns, particularly on sets that forgo Lava Plume, and it most notably lets Heatran neutralize Kingambit safely by bypassing its Sucker Punch. Will-O-Wisp also pairs with Magma Storm quite nicely by stacking up further chip damage. 40 Speed EVs allow Heatran to outspeed Adamant Kingambit so it can secure a Magma Storm or Will-O-Wisp on it before it can retaliate. 4 Defense EVs guarantees Heatran will live an Earthquake from
+
+Clodsire
+
+. Leftovers gives Heatran much-needed longevity, but Air Balloon is also a good choice to allow Heatran to come in on Ground-types such as
+
+Landorus-T
+
+,
+
+Gliscor
+
+, and Clodsire, especially as they might not have the move to pop the item; makes Heatran immune to Spikes, allowing it to come in much more safely against hazard stacking teams; lets Heatran emergency check Dragonite, non-Close Combat Great Tusk,
+
+Kyurem
+
+, and
+
+Enamorus
+
+. Flash Fire gives Heatran a Fire-type immunity to check Iron Moth and
+
+Cinderace
+
+and letting it better handle even the occasional Fire coverage from Dragonite, Kyurem, and, with Air Balloon, Enamorus and its Earth Power. Flame Body threatens burns against contact attackers such as
+
+Weavile
+
+,
+
+Meowscarada
+
+, and
+
+Rillaboom
+
+. Tera Grass allows Heatran to remove its weaknesses to Water- and Ground-type attacks so it can wall Water-types like
+
+Dondozo
+
+and Ogerpon-W and Ground-types like Clodsire, Ting-Lu, and Gliscor. Tera Grass also works well with Flash Fire to mitigate its newfound Fire weakness. Tera Ghost is used to remove its weakness to Fighting-type attacks so it can wall
+
+Zamazenta
+
+, particulary punshing if it runs Flame Body. Tera Ghost also gives it a Normal immunity, preventing Great Tusk from using Rapid Spin on it to remove its Stealth Rock and, if paired with Air Balloon, outright walling Dragonite if its only attacks are Extreme Speed and Earthquake or Fire Punch. Tera Fairy is also worth mentioning as a niche option to check physical attackers like Zamazenta without the Dark weakness from foes like Meowscarada and Hisuian Samurott.
+
+Heatran is best used on Grassy Terrain bulky offense teams that appreciate its ability to check Fire-types while also being a great progress maker itself. Rillaboom is by far its best teammate, as they both have near-perfect synergy with each other; Rillaboom's Grassy Terrain not only provides additional recovery for it on top of Leftovers, it also weakens Earthquake from common Ground-types like Gliscor and Landorus-T. Rillaboom itself also threatens the Water- and Ground-types that constantly give Heatran trouble, like Gliscor,
+
+Alomomola
+
+, and Ogerpon-W, and brings in Heatran safely on its checks like
+
+Skarmory
+
+and Corviknight with U-turn. In return, Heatran is able to check Fire-types Rillaboom doesn't want to face, like
+
+Skeledirge
+
+and opposing Heatran. Great Tusk is another stellar teammate since Heatran is extremely weak to entry hazards, so its hazard removal support is much appreciated. Hatterene is a teammate that can prevent hazards from being set up altogether thanks to Magic Bounce and wall Gliscor in Grassy Terrain, which is super useful since Heatran often struggles to check numerous threats consistently when Spikes are on the field. Grassy Terrain sweepers like
+
+Hawlucha
+
+, Ogerpon-W, and Raging Bolt love Heatran's ability to wear down bulkier Pokemon like Skeledirge, Galarian Slowking, Dondozo, and Ting-Lu so they can clean up late-game. On bulkier teams, Alomomola is a fitting teammate for it since its Wish support allows Heatran to stay alive for a prolonged period of time, and its typing checks common physical Water-types like
+
+Barraskewda
+
+and Hisuian Samurott. Spikers like Hisuian Samurott, Gliscor, and Ting-Lu all work well with Heatran since they have good synergy typing-wise and their Spikes increases the potency of Magma Storm + Will-O-Wisp pressure. They can also form a hazard stacking core together with Stealth Rock Heatran.
+
+Choice Scarf Heatran is a solid option for Steel teams, as it is able to provide offensive pressure while still having a minor defensive role thanks to Flash Fire. Fire Blast torches
+
+Iron Treads
+
+and
+
+Corviknight
+
+, while 2HKOing physically defensive
+
+Gliscor
+
+even after Poison Heal recovery. Flamethrower is an option for more PP and better accuracy but with a bit of a power tradeoff. Flash Cannon is an excellent move to hit Fairy-types such as
+
+Hatterene
+
+, non-Choice Scarf
+
+Iron Valiant
+
+, and Flutter mane, which has a 50% chance to get OHKO'd after Stealth Rock. Dragon Pulse is an alternative option for teams that already have an abundance of Steel-type coverage and is useful for 2HKOing
+
+Latios
+
+and
+
+Dragapult
+
+. Earth Power is a great option for hitting Pokemon such as
+
+Toxapex
+
+,
+
+Raging Bolt
+
+, and
+
+Iron Moth
+
+. Power Gem is a fantastic way to punish opposing Fire-types that would hope to switch in on a Fire-type move, such as
+
+Moltres
+
+and opposing Air Balloon Heatran, and it is a Steel team's best way of dealing with
+
+Volcarona
+
+.
+
+Archaludon
+
+and
+
+Hisuian Goodra
+
+are both superb teammates, forming a great defensive core with Heatran that is hard to break through. Archaludon can support Heatran by using Stealth Rock to chip Pokemon that might want to switch in on Heatran, such as
+
+Tornadus-T
+
+and Gliscor, and slow down foes that outspeed Heatran, such as Dragapult and Choice Scarf
+
+Greninja
+
+with Thunder Wave. Hisuian Goodra is a fantastic special wall with excellent longevity, allowing Heatran to opt for a more offensive role. Hisuian Goodra can use Knock Off to remove items from defensive Pokemon that would like to switch in on Heatran, such as recovery items from Toxapex,
+
+Clodsire
+
+, and
+
+Ting-Lu
+
+.
+
+Skarmory
+
+is another great teammate, as it can switch into Ground- and Fighting-type moves and punish foes that use contact moves, such as Close Combat from
+
+Great Tusk
+
+and
+
+Sneasler
+
+. Skarmory can also use Spikes to weaken foes, making it so that Heatran has an easier time cleaning up at the end of games, and use Body Press to weaken opposing special walls such as
+
+Blissey
+
+and
+
+Alolan Muk
+
+, that Heatran may struggle with. Air Balloon Iron Treads has a temporary to Ground, as well as providing Knock Off support and clearing entry hazards so that Heatran can come in safely. Iron Treads is also able to beat non-Choice Scarf
+
+Landorus
+
+with Ice Spinner.
+
+Gholdengo
+
+is another teammate capable of providing Thunder Wave support,and it blocks Defog, ensuring opponents can't remove hazards. Corviknight is also immune to Ground and a great slow pivot option to help Heatran get in easier.
+
+With a bulkier spread, Heatran can hold the line reliably against attempts to break Steel teams from threats such as Choice Specs
+
+Dragapult
+
+and
+
+Iron Moth
+
+. Magma Storm eliminates Steel-types such as
+
+Skarmory
+
+and
+
+Scizor
+
+while also enabling Heatran to trap and deal chip damage to threats like
+
+Toxapex
+
+and
+
+Hisuian Goodra
+
+. Alternatively, Lava Plume can be used to fish for burns, and for its superior accuracy. Earth Power handles Steel-types capable of handling Heatran's Fire-type moves such as opposing Heatran and Hisuian Goodra along with dealing with Poison- and Electric-types like
+
+Galarian Slowking
+
+and
+
+Raging Bolt
+
+. Power Gem nails
+
+Volcarona
+
+and Air Balloon Heatran on the switch along with hitting Flying-types such as
+
+Moltres
+
+and
+
+Zapdos
+
+. Protect can allow Heatran to scout against Choice-locked threats like
+
+Greninja
+
+and Iron Moth. Alternatively, Stealth Rock can be used to set entry hazards, freeing up moveslots from teammates like
+
+Archaludon
+
+, while Will-O-Wisp can punish physical attackers attempting to switch into Heatran such as
+
+Hisuian Samurott
+
+. The given EV Spread enables Heatran to outspeed Modest
+
+Magnezone
+
+and survive a +2
+
+Ceruledge
+
+Poltergeist from full HP while putting the rest into its Special Defense. The alternative EV Spread maximizes Heatran's special bulk, preventing Choice Specs
+
+Spectrier
+
+from 2HKOing it.
+
+Heatran can form an immunity core for Steel teams when paired with Skarmory and
+
+Gholdengo
+
+, with Heatran providing a Fire immunity that both appreciate. In return, Skarmory provides a Ground immunity and physical wall capable of handling threats like
+
+Excadrill
+
+and Hisuian Samurott, while Gholdengo provides a Fighting immunity, allowing it to easily check Fighting-types such as
+
+Sneasler
+
+and
+
+Iron Valiant
+
+. Together they also make a strong entry hazard-stacking core with Heatran providing Stealth Rock, Skarmory providing Spikes, and Gholdengo being able to block removal attempts from
+
+Forretress
+
+and
+
+Corviknight
+
+. Archaludon can handle Water-types like
+
+Ogerpon-W
+
+and
+
+Barraskewda
+
+along with physical Fire-types such as
+
+Ogerpon-H
+
+and
+
+Cinderace
+
+that can handle Heatran, while Choice Scarf sets are able to outspeed and check foes like
+
+Walking Wake
+
+with Draco Meteor and
+
+Urshifu-R
+
+with Thunderbolt. Air Balloon
+
+Iron Treads
+
+can handle Electric-types like
+
+Sandy Shocks
+
+and Raging Bolt while also being able to use Ice Spinner to check
+
+Gliscor
+
+and
+
+Landorus
+
+. Hisuian Goodra provides a sturdier special wall capable of handling special threats that can threaten to overwhelm Heatran like Choice Specs Greninja,
+
+Darkrai
+
+, and Walking Wake while appreciating Heatran checking Iron Moth and Volcarona. Swords Dance Scizor is capable of handling threats like Iron Valiant and
+
+Flutter Mane
+
+for Heatran with Bullet Punch along with using Trailblaze to pressure Water-types such as
+
+Swampert
+
+and
+
+Primarina
+
+.
+
+Possessing a great typing and a high Special Defense stat, Heatran finds itself as both an amazing utility Pokemon and specially defensive wall for Fire teams, utilizing its bulk and Steel typing to sponge attacks from prominent special-attacking threats that otherwise rip apart most Fire-types, such as
+
+Dragapult
+
+and
+
+Latios
+
+. Heatran's Steel typing also allows it to take neutral damage from Choice Specs
+
+Flutter Mane
+
+'s Power Gem, avoiding up to a 3HKO after Stealth Rock damage. Heavy Slam OHKOes Flutter Mane while also hitting the aforementioned Dragapult and Latios. Magma Storm is a strong STAB move that does immense damage and allows Heatran to trap and 1v1 foes such as
+
+Toxapex
+
+. However, Magma Storm lacks accuracy in comparison to Lava Plume, the weaker-yet-safer option that trades trapping and residual damage in favor of more PP and a chance to burn prominent physical attackers such as
+
+Swampert
+
+and
+
+Dragonite
+
+. Earth Power pairs nicely to hit opposing Fire-, Rock-, and Poison-types such as opposing Heatran,
+
+Glimmora
+
+, and Toxapex. Stealth Rock provides entry hazards to Fire teams, allowing them to rack up further chip damage and break Focus Sash or Sturdy on Pokemon like
+
+Skarmory
+
+,
+
+Ogerpon-C
+
+, and
+
+Ceruledge
+
+. 28 Speed EVs with a Sassy nature allows Heatran to outspeed Skarmory,
+
+Sinistcha
+
+, and
+
+Volcanion
+
+with no Speed investment, with the rest of its EVs maximizing its special bulk. Air Balloon allows Heatran to turn its 4x weakness to Ground-type attacks into an immunity, allowing it to temporarily check certain Ground types such as
+
+Excadrill
+
+,
+
+Mamoswine
+
+, and Choice Scarf
+
+Landorus
+
+if it is locked into Earth Power.
+
+Heatran primarily serves to provide a defensive backbone to Fire teams' usually offensively focused cores.
+
+Ogerpon-H
+
+helps in wallbreaking Water and Ground teams, and Heatran helps cover Ogerpon-H by switching into potential revenge killers, such as Choice Specs
+
+Greninja
+
+and Choice Scarf Landorus's Sludge Wave. Focus Sash Ceruledge is also a commonly used Swords Dance sweeper that can help clean through types such as Ghost and Psychic. Heatran's Stealth Rock can help Ceruledge get past opposing Focus Sash Ceruledge and turn the +2 Shadow Sneak roll on
+
+Iron Boulder
+
+into a guaranteed OHKO.
+
+Ninetales
+
+is a strong option, as its ability to set sun enables every Fire-type Pokemon to deal increased Fire-type damage and absorb Water-type moves much easier, notably letting Heatran switch into Choice Specs Greninja Hydro Pump and perfectly avoid a 2HKO.
+
+Cinderace
+
+and
+
+Talonflame
+
+are both options on Fre-teams for hazard control with Court Change and Defog respectively.
+
+Heatran's Flash Fire ability is an invaluable asset to Steel teams, as they are otherwise completely mowed down by powerful Fire-types like
+
+Volcarona
+
+. Heatran is a very reliable Stealth Rock setter, capable of threatening most entry hazard removers like
+
+Corviknight
+
+,
+
+Torkoal
+
+, and
+
+Galarian Weezing
+
+with its powerful Fire- and Ground-type coverage moves. Magma Storm lets Heatran effectively trap and KO bulky pivots, like
+
+Toxapex
+
+, with a combination of Magma Storm's passive damage and Earth Power as coverage. Power Gem allows Heatran to effectively hit the Fire-types it's meant to wall, easily OHKOing
+
+Moltres
+
+and Volcarona, both of which can easily take an Earth Power from Heatran.
+
+Heatran appreciates Corviknight as a teammate, as it offers an immunity to Ground and a neutrality to Fighting while also granting Heatran a safe entry onto the field with its slow U-turn. Other Ground-immune teammates, like
+
+Skarmory
+
+, and Air Balloon users, like
+
+Gholdengo
+
+, find themselves alongside Heatran to pivot into Ground-type attacks for Heatran in the event that Heatran's Air Balloon gets popped. Skarmory and Gholdengo also create a great entry hazard-stacking core with Heatran, as Skarmory provides Spikes and Gholdengo blocks Defog and Rapid Spin.
+
+Archaludon
+
+and
+
+Hisuian Goodra
+
+offer a Water resistance for Heatran, the former of which appreciates Heatran using Stealth Rock to free up a moveslot of its own. Choice Scarf
+
+Iron Treads
+
+offers much-needed speed control and an immunity to Electric-type attacks from the likes of
+
+Zapdos
+
+and
+
+Thundurus-T
+
+. Furthermore, Iron Treads takes out threats to Heatran like
+
+Landorus
+
+and Choice Band
+
+Hisuian Arcanine
+
+with Ice Spinner and Earthquake, respectively. Setup sweepers like
+
+Bisharp
+
+and
+
+Scizor
+
+appreciate Heatran weakening bulky walls like Haze Toxapex and Unaware
+
+Quagsire
+
+to facilitate a sweep.
+
+Heavy Slam OHKOs Flutter Mane.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!
+
+Other Options
+
+Fire
+
+Leftovers can be used over Air Balloon if
+
+Talonflame
+
+or Air Balloon
+
+Volcanion
+
+are already on the team and feel sufficient as Ground-immune Pokemon, and if the user would prefer longevity on Heatran. Stealth Rock can be changed to Taunt if the user feels uncomfortable running a Stealth Rock setter along with Court Change
+
+Cinderace
+
+or has opted for
+
+Torkoal
+
+or
+
+Hisuian Arcanine
+
+as their Stealth Rock user. Flame Body is a possible option instead of Flash Fire on Heatran varients that opt to drop Air Balloon, as checking
+
+Gouging Fire
+
+is no longer possible. It can be used to burn and punish threats like
+
+Kingambit
+
+,
+
+Azumarill
+
+, and
+
+Sneasler
+
+in a pinch.
+
+Steel
+
+Heavy Slam can be used to handily deal with
+
+Flutter Mane
+
+and
+
+Clefable
+
+. Running Ability Shield can be an option to check
+
+Ogerpon-H
+
+, but it gives up Heatran's passive recovery. Substitute can be used over Heatran's other utility option, making the mirror much rougher for opposing Steel teams, along with enabling it to more reliably fish for Lava Plume burns.
+
+Steel (Choice Scarf)
+
+Heavy Slam is an alternative option to target Flutter Mane's lower Defense stat.
+
+Assault Vest Heatran uses its unique typing and defensive stats to match up well against common special attackers such as
+
+Flutter Mane
+
+and
+
+Gholdengo
+
+and threaten them back with its great offensive stats and wide coverage. While Heatran boasts an innately good defensive typing, Tera Grass allows it to turn its common weaknesses to Ground and Water into resistances, letting it match up better against the likes of
+
+Landorus-T
+
+and
+
+Palafin-H
+
+.
+Heat Wave is a spread STAB attack that chips away at foes, notably 2HKOing
+
+Amoonguss
+
+.
+Flash Cannon is Heatran's best way of hitting Fairy-types, as it OHKOes
+
+Diancie
+
+and 2HKOes Flutter Mane. Heavy Slam OHKOes Flutter Mane but is generally less reliable because it can be weakened by Intimidate and does less damage to Diancie and opposing Tera Grass Heatran mirror.
+Tera Blast hits Water- and Ground-types super effectively once Heatran has Terastallized, notably OHKOing
+
+Great Tusk
+
+and 2HKOing Bulk Up Palafin-H.
+Earth Power hits the Fire-types such as
+
+Volcanion
+
+,
+
+Chi-Yu
+
+, and opposing Heatran that otherwise resists all of Heatran's attacks.
+Heatran's base resistances let it take common Fairy-, Ice-, and Steel-type attacks such as Flutter Mane's Moonblast,
+
+Chien-Pao
+
+'s Ice Spinner, and Gholdengo's Make It Rain much better. After Terastallization, Heatran matches up better against Palafin-H, Volcanion, and
+
+Iron Hands
+
+at the cost of receiving more damage from the aforementioned attacks. Heatran has a lot of defensive responsibilities on most teams, so Terastallization should not be used too frivolously.
+Heatran commonly finds itself in Fire / Water / Grass cores with
+
+Rillaboom
+
+and
+
+Palafin
+
+, as they complement each other offensively and defensively, with Rillaboom eradicating Water-types and Palafin punching through Fire-types. Iron Hands is a common Heatran partner that can pressure Palafin and Volcanion with Wild Charge and Chi-Yu and Tera Dark
+
+Kingambit
+
+with Drain Punch. Heatran has no form of recovery, so it appreciates teammates that can extend its longevity, such as
+
+Cresselia
+
+with Lunar Blessing and Amoonguss with Pollen Puff.
+
+Heatran is a niche bulky offensive threat thanks to its solid stats and great typing, bolstered by Flash Fire. This makes Heatran have an incredible matchup against most of the metagame, such as
+
+Flutter Mane
+
+and
+
+Gholdengo
+
+.
+
+Rillaboom
+
+is a great partner for Heatran, as it resists Heatran's prominent weaknesses, while also hitting Pokemon like
+
+Ogerpon-W
+
+and
+
+Urshifu-R
+
+for huge damage. Heatran also pairs well with Ogerpon-W, which supports Heatran with Follow Me, as well as threatening Urshifu-R and
+
+Landorus
+
+.
+
+Although Heatran resists a lot of attacks with its typing, it's weak to both of the
+
+Urshifu
+
+formes, Ogerpon-W, Landorus, and
+
+Iron Hands
+
+. Heatran also faces tough Fire- and Steel- competition, especially with
+
+Incineroar
+
+.
+
+The combination of Heatran's STAB moves, Heat Wave and Flash Cannon, can hit a lot of Pokemon in the metagame super-effectively, while Earth Power is a good coverage move that can hit Pokemon that resist Heatran's STAB combination, like
+
+Incineroar
+
+. Magma Storm is also another option as a Fire-type attack, as it traps the opponent, which works well with Leftovers.
+
+Leftovers is a good item choice for Heatran, as it can live two Shadow Balls from
+
+Flutter Mane
+
+with a Special Attack-Booster Energy, and with
+
+Rillaboom
+
+'s Grassy Surge, Heatran can constantly restore HP. Life Orb can increase Heatran's damage output, making it more of a threat.
+
+228 HP, 84 Defense EVs, and 20 Special Defense EVs allow Heatran to take an Ivy Cudgel from
+
+Ogerpon-W
+
+, almost always survives a Sludge Bomb from
+
+Landorus
+
+after Heatran Terastallizes and Life Orb recoil, and finally, with 20 Speed EVs, Heatran outspeeds both
+
+Urshifu
+
+formes after a Speed drop.
+
+Tera Grass is an excellent Tera type for Heatran, allowing it to resist Water- and Ground-type moves from the likes of Pokemon like
+
+Urshifu-R
+
+and Landorus. Tera Fairy can allow Heatran to resist Urshifu-S's STAB moves and be a neutral type against the metagame.
+
+A strong offensive typing in Fire / Steel and a high base Special Attack stat enable Heatran to function as a Stealth Rock setter that deters the tier's premier entry hazard removal Pokemon,
+
+Corviknight
+
+and
+
+Great Tusk
+
+, from switching in freely. Desolate Land effectively grants Heatran a Water immunity on activation, helping it check Water-types such as
+
+Manaphy
+
+and
+
+Primarina
+
+, especially blocking the latter's Flip Turn, as well as act as a switch-in to common Primordial Sea users like
+
+Zapdos
+
+and
+
+Ogerpon-W
+
+. Solar Beam is essential for Heatran to deal with RegenVest
+
+Swampert
+
+, allowing Heatran to 2HKO it. Will-O-Wisp can cripple physical attackers like
+
+Roaring Moon
+
+, and it is a generally useful move for racking up chip damage alongside Stealth Rock and Magma Storm. Earth Power is a strong alternative that OHKOes
+
+Iron Moth
+
+and deals strong damage to Well-Baked Body Steel-types like
+
+Gholdengo
+
+and
+
+Iron Treads
+
+as well as opposing Heatran. Power Gem may be used to hit
+
+Moltres
+
+, cleanly OHKOing physically defensive sets, while also being useful against the aforementioned Zapdos and Iron Moth. 60 EVs in Speed allow Heatran to outspeed uninvested Gholdengo, with the rest of its EVs being utilized to maximize its special bulk to live hits from the likes of
+
+Deoxys-S
+
+,
+
+Iron Crown
+
+, and Gholdengo.
+
+Heatran is a strong piece that can fit on slower paced teams and bulky offensive structures. It appreciates offensive support from physical threats like Roaring Moon and
+
+Zamazenta
+
+that threaten specially bulky Pokemon it cannot muscle through such as RegenVest Manaphy and Swampert. These teammates, in turn, benefit from Heatran threatening Corviknight and Great Tusk, which would otherwise trouble these physical attackers. Heatran's 4x Ground weakness also requires a teammate such as Zapdos or Corviknight to cover for it as well as an answer to common Primordial Sea users like Zapdos and Ogerpon-W that can threaten it by switching in to reset the weather. RegenVest Roaring Moon is a potent teammate for Heatran, with a synergistic defensive typing and strong Knock Off. Heatran is almost always forced to run Leftovers due to its lack of access to natural recovery, so it appreciates teammates that can absorb Knock Off as well as consistent entry hazard removal. Great Tusk is an example of such a teammate, as it is able to come in on Knock Off and keep hazards off the field for Heatran to switch in repeatedly.
+
+Other Options
+
+Heatran can be used with the abilities Earth Eater or Levitate to turn its 4x Ground weakness into an immunity and improve its matchups against the likes of
+
+Iron Treads
+
+and
+
+Landorus-T
+
+. Offensive sets that utilize Heatran's strong base 130 Special Attack are rare due to its exploitable typing and stat distribution, but include Choice Scarf Desolate Land sets and Magic Guard with a held Life Orb to fire off strong STAB-boosted Steel Beam and Flare Blitz off of its respectable Attack Stat.
+
+Checks and Counters
+
+Fighting-types
+
+: Heatran has no real means of mitigating its weakness to Fighting-type attacks and is OHKOed by Close Combat from
+
+Zamazenta
+
+and
+
+Great Tusk
+
+as well as Superpower from Protean
+
+Deoxys-S
+
+. It also struggles to switch in against Focus Blast
+
+Gholdengo
+
+,
+
+Iron Crown
+
+, and Deoxys-S, all of which can cleanly 2HKO it.
+
+Primordial Sea Users
+
+: The likes of
+
+Zapdos
+
+and
+
+Ogerpon-W
+
+can switch in on Fire moves and immediately threaten Heatran. Zapdos in particular can even chip Heatran in the strong sunlight with Fire-type Weather Ball, leaving it in a precarious position.
+
+Bulky Water-types
+
+: RegenVest
+
+Swampert
+
+and
+
+Manaphy
+
+are not threatened if Heatran foregoes Solar Beam, taking hits comfortably. The former completely walls any Heatran not carrying Solar Beam, threatening OHKOs with Earthquake, and Manaphy is able to remove Heatran's Leftovers with Knock Off and chip it down over the course of a match.
+
+Draft Order
+
+: Round 4 onwards
+
+Price Range
+
+: 10-12 points
+
+Overview
+
+: Heatran is a solid glue Pokemon in Draft, boasting great defensive stats that allow it to check many opposing threats and respectable offensive stats that threaten opposing teams. It is a very difficult Pokemon to safely switch into, and its defensive profile helps it find many opportunities to come in and fire off attacks. These factors make Heatran a very difficult Pokemon to handle for many teams. Heatran also functions as a useful stallbreaker thanks to its ability to trap foes with Magma Storm. Unfortunately, a Pokemon with this many upsides also has some pretty notable downsides, the most notable of which is Heatran's weakness to Ground- and Fighting-type moves, which many Pokemon have access to.
+
+Common Roles
+
+Offensive
+
+: Heatran's strong STAB moves and high Special Attack allow it to be a highly effective offensive threat. Because it's very hard to switch into and has enough coverage to at least weaken Pokemon that resist its STAB moves, Heatran finds ways to make an impact whenever it's on the field. The combination of Magma Storm and almost any super effective coverage move can KO many opposing Pokemon.
+
+Tank
+
+: Heatran's great typing, Special Attack, and utility movepool make it a great tank. Its naturally high defenses and HP make it difficult to KO, and Magma Storm keeps Heatran from becoming too passive. It can also repeatedly find opportunities to set Stealth Rock throughout a game to help weaken foes even more.
+
+Stallbreaker
+
+: When using Magma Storm in combination with Taunt, Heatran can trap and eliminate almost any opposing Pokemon without a pivoting move. After using Taunt to deny recovery, Heatran is free to throw off attacks while the foe is unable to escape. By eliminating specific Pokemon from the opponent's team, you allow your sweepers and cleaners to have a much easier time finishing games.
+
+Common Moves
+
+Primary STAB Moves
+
+: Magma Storm, Flash Cannon, Lava Plume, Flamethrower, Overheat, Fire Blast, Heavy Slam, Heat Crash
+
+Setup Moves
+
+: Flame Charge, Iron Defense
+
+Utility Moves
+
+: Stealth Rock, Taunt, Will-O-Wisp, Protect, Substitute
+
+Coverage
+
+: Dark Pulse, Dragon Pulse, Earth Power, Power Gem, Scorching Sands, Rock Slide, Stone Edge, Earthquake, Body Press
+
+Niche Moves
+
+Solar Beam
+
+: The combination of Power Herb and Solar Beam can be used to pick off pesky Ground- and Water-types that often cause Heatran problems. Use with caution, however, as this strategy is popular enough that many players will scout for this, and once Heatran has used its Power Herb, it has a dead moveslot.
+
+Steel Beam
+
+: Steel Beam can be used on Choice item sets to pick up KOs it cannot with its weaker Steel-type moves.
+
+Common Items
+
+Leftovers
+
+: Heatran will likely be on the field for many turns, making Leftovers slightly superior to Heavy-Duty Boots in many cases. Protect can also be utilized to maximize the recovery gained from Leftovers; however, if your opponent catches on, you could give them free turns, so repeatedly using Protect is not a sound strategy.
+
+Resistance Berry
+
+: Resistance Berries can be a great surprise factor, allowing Heatran to live a hit and KO something it otherwise wouldn't be able to or scout important moveset information.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots should be used when you plan on dealing with many entry hazards or are going to be switching Heatran in and out frequently, not giving it time to recover with Leftovers.
+
+Air Balloon
+
+: Negating its biggest weakness, Ground-type moves, Air Balloon allows Heatran to wall other Heatran in a mirror match as well as switch in more safely to Pokemon likely to carry Earthquake.
+
+Choice Specs
+
+: While holding Choice Specs, Heatran is very difficult to switch into. Choice Specs also allows Heatran to make better use of its coverage and pick up KOs where other sets would not.
+
+Niche Items
+
+Damage-boosting Items
+
+: Items like Charcoal and Metal Coat can be useful when you need Heatran to hit certain damage thresholds but also value the ability to change moves. However, these items don't afford Heatran the longevity or immediate breaking power that other items do.
+
+Rocky Helmet
+
+: Rocky Helmet and Flame Body pair nicely together and can especially punish teams that are repeatedly using Knock Off, providing extra damage on foes while also making them risk being burned each time they make contact with Heatran.
+
+Choice Scarf
+
+: Using Choice Scarf allows Heatran to escape some of the shortcomings of its awkward Speed tier and decently clean late-game. It can also be a solid revenge killer, catching opponents by surprise.
+
+Tera
+
+Heatran is a solid Tera user that is capable of turning matchups around with a well-timed Tera to resist a super effective hit; however, as the main Tera user in your draft, Heatran can feel a bit lackluster. Many times, Heatran gets value out of Tera by flipping specific type matchups, such as using Tera Grass to beat Water- and Ground-types both offensively or defensively. It can also use Tera Flying to escape damage from Ground-type moves entirely. You can also use a number of offensive Tera types like Tera Fairy and Ghost to gain access to coverage that it does not normally have. Heatran likes to make use of Terastallization in many matchups, so when considering a Tera partner to pair with Heatran, look for something that can function well—even when not using Terastallization.
+
+Draft Strategy
+
+Heatran can do many things for a draft despite having an awkward Speed tier and annoying weaknesses. The best thing for Heatran in a draft is having solid role compression so it is not forced into specific roles but can instead fit into the role it performs best against an opponent's team. If you are planning on drafting Heatran, make sure you are thinking about how it will help the Pokemon you draft before it as well as whether the Pokemon you draft before it help Heatran.
+
+Flying- and Grass-types
+
+: Heatran only has 3 weaknesses—Ground, Water, and Fighting. This makes Grass- and Flying-types like
+
+Ogerpon-W
+
+,
+
+Tornadus-T
+
+, and
+
+Zapdos
+
+great partners, as they both resist two of the three types Heatran is weak to. This helps Heatran come in and out more throughout a game, and they can also KO Pokemon that Heatran can have a hard time dealing with by itself.
+
+Strong Cleaners
+
+: Heatran's ability to trap and eliminate very bulky foes means it pairs well with strong late-game cleaners that may not have the raw stats to wallbreak but can excel when an opposing team has been weakened or the bulkier walls have been eliminated. Pokemon like
+
+Enamorus
+
+,
+
+Latios
+
+, and
+
+Greninja
+
+, which can have trouble breaking through bulkier Pokemon and Steel-types, are especially appreciative of Heatran's ability to trap and eliminate foes.
+
+Pokemon that threaten Water-types
+
+: Water-types are some of the few Pokemon that can reliably switch into Heatran's attacks, so Pokemon like
+
+Raging Bolt
+
+and
+
+Rillaboom
+
+, which can effectively eliminate those threats, are effective partners for Heatran.
+
+Checks and Counters
+
+Ground-type Moves
+
+: Having a 4x weakness is never fun for a Pokemon, but Heatran gets a particularly short end of the stick by being 4x weak to Ground. Because Earthquake is such a widely distributed move, almost any Pokemon can find coverage for Heatran—even Pokemon that usually are invested in Special Attack like
+
+Galarian Slowking
+
+can run Earthquake just to beat Heatran.
+
+Bulky Water-types
+
+: Bulky Water-types can effectively pivot into Heatran, and they can be even more annoying if they have a way to escape Magma Storm. Having Pokemon that can both effectively switch into these Pokemon as well as threaten them out is vital for supporting Heatran.
+
+Fast Wallbreakers
+
+: While Heatran can effectively survive a lot of attacks from stronger Pokemon that outspeed it, it can be difficult to safely switch into their attacks over the course of the game because of its lack of reliable recovery.
+
+Heatran's well-rounded stats, great typing, and unique ability allow it to be one of the best specially defensive Pokemon in the tier, capable of sponging hits from
+
+Volcarona
+
+,
+
+Tapu Lele
+
+, and
+
+Tapu Koko
+
+. Earth Power hits Fire-resistant foes such as opposing Heatran,
+
+Toxapex
+
+, and
+
+Raging Bolt
+
+. Toxic is useful to wear down Pokemon such as
+
+Ting-Lu
+
+and
+
+Alomomola
+
+, preventing them from reliably switching in. Heatran also functions as a consistent Stealth Rock user, threatening foes with entry hazard removal such as
+
+Terapagos
+
+lacking Earth Power and
+
+Tornadus-T
+
+. If Stealth Rock is already being used by another teammate, Taunt can be used to shut down defensive Pokemon like Toxapex and
+
+Galarian Slowking
+
+allowing Heatran to trap them more effectively. Taunt also prevents Substitute Volcarona and Calm Mind Raging Bolt from spiraling out of control. Protect both enables more passive damage from Magma Storm and Toxic to build up and grants Heatran additional healing from Leftovers, as well as allowing Heatran to scout common Choice item users such as Tapu Lele and
+
+Iron Valiant
+
+. 40 Speed EVs allow Heatran to outspeed Adamant
+
+Kingambit
+
+and
+
+Mega Mawile
+
+.
+
+Heatran is easily removed by Ground- and Water-type Pokemon such as
+
+Landorus-T
+
+,
+
+Urshifu-R
+
+, and
+
+Gliscor
+
+, meaning teammates that can handle these threats, such as
+
+Mega Latios
+
+,
+
+Zapdos
+
+, and
+
+Rillaboom
+
+, are greatly appreciated. Rillaboom in particular is good, since the Grassy Terrain it sets provides Heatran with another source of passive healing, which can greatly assist in Heatran's longevity to check foes like Raging Bolt and Mega Latios for teammates like Toxapex and
+
+Great Tusk
+
+. Heatran's offensive pressure is helpful for wearing down threats like Raging Bolt and Toxapex for teammates like Tapu Koko and
+
+Mega Lopunny
+
+. In return, Tapu Koko can handle Water-types like
+
+Hisuian Samurott
+
+and Alomomola.
+
+Offensive Heatran serves as an effective wallbreaker with its powerful Magma Storm and Z-Moves while also functioning as a reliable Stealth Rock setter, pressuring common entry hazard control like
+
+Tornadus-T
+
+and
+
+Terapagos
+
+. Earth Power grants key coverage against opposing Fire-resistant foes like
+
+Toxapex
+
+,
+
+Mega Diancie
+
+, and opposing Heatran. Grassium Z with Solar Beam is the main combination, as it allows Heatran to lure and OHKO Water-types such as
+
+Alomomola
+
+,
+
+Slowbro
+
+, and
+
+Mega Swampert
+
+while also dealing a good amount of damage to
+
+Mega Tyranitar
+
+and
+
+Garchomp
+
+. Alternatively, Toxic cripples threats like
+
+Ting-Lu
+
+,
+
+Mega Latios
+
+, and
+
+Mega Charizard Y
+
+, while Hidden Power Ice threatens
+
+Gliscor
+
+,
+
+Landorus-T
+
+, and Garchomp. Taunt stops walls such as
+
+Galarian Slowking
+
+and Toxapex from pivoting out or using a recovery move, letting Heatran overwhelm them with Magma Storm's chip damage. Heatran can also use Firium Z to hit foes with a powerful Inferno Overdrive, which OHKOes most Landorus-T sets. However, without the combination of Solar Beam + Grassium Z, Heatran won't break past the Water-types mentioned above. Air Balloon is another option, granting Heatran an immunity to Ground-type attacks like Landorus-T's Earthquake, Mega Charizard Y's Scorching Sands, and Mega Diancie's Earth Power, letting it beat or force out Ground-types 1-on-1 when paired with Hidden Power Ice. Air Balloon also helps Heatran against opposing Heatran by avoiding Earth Power and threatening it back with its own Earth Power. Modest nature allows Heatran to OHKO defensive Landorus-T with Inferno Overdrive, while Timid nature helps Heatran outrun
+
+Raging Bolt
+
+.
+
+Heatran fits best on bulky offense and balance teams, where its ability to trap and remove problematic walls shines the most.
+
+Volcarona
+
+and Raging Bolt are teammates that appreciate this ability, as they both benefit from Heatran trapping and removing walls like Toxapex and Galarian Slowking. Offensive Pokemon like
+
+Kingambit
+
+,
+
+Tapu Lele
+
+, and Mega Diancie benefit from Heatran's ability to pressure opposing Steel-types like
+
+Melmetal
+
+,
+
+Ferrothorn
+
+, and
+
+Gholdengo
+
+, and they also appreciate its access to Stealth Rock. Due to its weakness to Ground-type attacks, teammates like Landorus-T,
+
+Zapdos
+
+, and Tornadus-T are appreciated. Pokemon like
+
+Ogerpon-W
+
+,
+
+Urshifu-R
+
+, and
+
+Rillaboom
+
+are great partners thanks to their ability to threaten opposing Ground-type Pokemon, such as Ting-Lu and
+
+Great Tusk
+
+, for Heatran. Rillaboom, in particular, provides Grassy Terrain support that offers passive healing, something Z sets lack, for improved longevity. Despite the combination of Grassium Z and Solar Beam, Heatran is generally weak against Water-type foes like Slowbro, Alomomola, and Ogerpon-W; therefore, Pokemon that can handle them, such as
+
+Tapu Koko
+
+, Raging Bolt, and Ferrothorn, are great partners. Heatran also likes partners that can switch into Fighting-types, like
+
+Iron Valiant
+
+,
+
+Zamazenta
+
+, and
+
+Mega Lopunny
+
+, that threaten Heatran with an OHKO; these include Pokemon like Landorus-T, Gholdengo, and Zapdos. Teammates that carry entry hazards removal, like Gliscor and Terapagos, are solid teammates for Heatran due to its vulnerability to entry hazards and complete lack of recovery without Leftovers. Although Heatran is a solid check to offensive Pokemon like Volcarona and Tapu Lele, its lack of recovery doesn't allow it to repeatedly switch into their attacks. Therefore, defensive Pokemon that check these threats, such as Toxapex and Gholdengo, are solid partners.
+
+When soaring through the skies on an Air Balloon, Heatran can afford to invest in its powerful Special Attack and passable Speed while maintaining a useful defensive presence via its good natural bulk and immunities to Ground- and Fire-type attacks. While Air Balloon remains intact, Heatran can safely set Stealth Rock in front of or threaten foes that typically would beat it, such as Earthquake
+
+Mega Latios
+
+,
+
+Excadrill
+
+, and
+
+Gliscor
+
+. Magma Storm ensures that foes trying to pop Heatran's Air Balloon can be trapped and more easily dealt with, and its trapping damage can guarantee meaningful 2HKOs on opposing switch-ins such as Gliscor after Stealth Rock chip. Earth Power hits foes that do not fear Magma Storm such as opposing Heatran,
+
+Ceruledge
+
+, and
+
+Raging Bolt
+
+. For its last moveslot, Hidden Power Ice lets Heatran deal massive damage to
+
+Mega Garchomp
+
+,
+
+Dragonite
+
+, and
+
+Landorus
+
+; Power Gem prevents
+
+Mega Charizard Y
+
+,
+
+Araquanid
+
+, and bulky
+
+Volcarona
+
+from switching in freely on Heatran; and Taunt, in combination with Magma Storm, enables Heatran to trap and defeat walls such as
+
+Clodsire
+
+,
+
+Galarian Slowking
+
+, and
+
+Toxapex
+
+one-on-one. Toxic is another option to put Mega Latios,
+
+Mega Altaria
+
+, and bulky Water-types—like
+
+Gastrodon
+
+and
+
+Slowbro
+
+—on a timer. Since Air Balloon Heatran trades the longevity of bulkier Leftovers variants to enable it to initially set Stealth Rock more reliably,
+
+Gholdengo
+
+is an especially useful teammate that ensures Heatran's Stealth Rock stays in place while also absorbing Fighting-type attacks; in turn, Air Balloon Heatran can reliably switch in on Gholdengo's checks like Clodsire and opposing Heatran.
+
+Hisuian Goodra
+
+can tank Water-type attacks aimed at Heatran while raking foes across Heatran's Stealth Rock with Dragon Tail, and it can use Protect to scout for Fire- and Ground-type attacks from Choice-locked attackers, like
+
+Galarian Darmanitan
+
+, Landorus, and
+
+Blacephalon
+
+, to allow Heatran safe entry.
+
+Ferrothorn
+
+, which switches into Water-type attacks and relies on Heatran to switch into Fire-type attacks, forms a great defensive pairing and can also scout Choice-locked attackers with Protect while providing support for Heatran via Spikes and Leech Seed. Heatran is Spikes-immune while its Air Balloon remains intact, but its lack of recovery means it appreciates
+
+Iron Treads
+
+and Excadrill providing a reliable source of entry hazard removal via Rapid Spin.
+
+Mega Scizor
+
+also appreciates Heatran setting Stealth Rock and sponging Fire-type attacks aimed its way, and in return, Mega Scizor handles foes Heatran lures like Mega Altaria,
+
+Roaring Moon
+
+, and Gliscor.
+
+Heatran is a great addition to Fire teams, serving as a stallbreaker with its access to Magma Storm and Taunt, and with Air Balloon, it answers
+
+Mega Diancie
+
+,
+
+Excadrill
+
+, and the
+
+Landorus
+
+formes while also providing excellent utility in Stealth Rock and Flame Body. Magma Storm is a powerful trapping tool against walls like
+
+Toxapex
+
+,
+
+Hippowdon
+
+, and
+
+Clodsire
+
+. Earth Power targets Fire- and Poison-types like opposing Heatran and Toxapex, which are immune to or resist Magma Storm. Flash Cannon allows Heatran to OHKO Fairy-types like Mega Diancie and
+
+Enamorus
+
+, which threaten Fire teams. On the other hand, Hidden Power Ice threatens Ground-types like
+
+Landorus-T
+
+,
+
+Gliscor
+
+, and
+
+Garchomp
+
+. With Taunt, Heatran can stop recovery for foes like Toxapex and Clodsire while also denying entry hazards from these foes as well as others like Gliscor. Alternatively, Stealth Rock allows it to support itself and its teammates like
+
+Ceruledge
+
+and
+
+Volcarona
+
+by wearing down the opposing team. Air Balloon provides Heatran with a Ground immunity, allowing it to deal with the aforementioned threats safely as long as its Air Balloon is intact.
+
+Torkoal
+
+and
+
+Ninetales
+
+serve as sun setters, boosting the power of Heatran's Magma Storm and softening Water-type moves. Torkoal also provides entry hazard removal with Rapid Spin and acts as an alternate Stealth Rock setter. Dragon Dance
+
+Mega Charizard X
+
+handles Dragon-types like
+
+Kyurem
+
+and
+
+Hydreigon
+
+. In return, Heatran can sponge attacks from Choice Scarf
+
+Latias
+
+.
+
+Mega Charizard Y
+
+is another sun setter that also provides a Ground immunity in case Heatran's Air Balloon has already been popped and offensively threatens Sand Rush Excadrill and
+
+Mega Swampert
+
+, which pose an immense threat to Fire teams, by resetting the weather and threatening them back with Fire Blast and Solar Beam, respectively. Z-Celebrate
+
+Victini
+
+deals with Fighting-types like
+
+Great Tusk
+
+and
+
+Iron Hands
+
+. Teammates like Volcarona,
+
+Iron Moth
+
+, and
+
+Blacephalon
+
+appreciate Heatran's ability to trap and eliminate foes like Toxapex and Clodsire. Volcarona can threaten Dark-types like
+
+Ting-Lu
+
+and Hydreigon that pose problems for Heatran. Choice Scarf Iron Moth and Blacephalon serve as revenge killers; Iron Moth deals with
+
+Kommo-o
+
+, while Blacephalon threatens
+
+Mega Gallade
+
+and can eliminate the Landorus formes for Heatran if running Hidden Power Ice, allowing Heatran to run a different move. Focus Sash Ceruledge can use its Fighting immunity to switch into Fighting-types like
+
+Iron Valiant
+
+, and
+
+Sneasler
+
+, threatening them back with its STAB moves. It also serves as a wallbreaker, removing special walls like
+
+Blissey
+
+and
+
+Swampert
+
+and Rock-types like
+
+Mega Tyranitar
+
+and
+
+Iron Boulder
+
+. In return, Heatran can deny entry hazards with Taunt to keep Ceruledge's Focus Sash intact, allowing it to reliably take on the aforementioned foes.
+
+Volcanion
+
+boasts a Water immunity, which allows it switch in against Water-type attacks from Choice Specs
+
+Greninja
+
+,
+
+Azumarill
+
+, and Choice Band
+
+Barraskewda
+
+; it can also eliminate bulky Ground-types like Hippowdon and Ting-Lu with Steam Eruption, which can potentially burn other foes.
+
+Heatran is a mainstay on Steel teams due to its ability, Flash Fire, letting it switch into threats like
+
+Blacephalon
+
+,
+
+Victini
+
+, and
+
+Iron Moth
+
+. Lava Plume makes Heatran annoying to switch into thanks to its burn chance, while Magma Storm softens walls like
+
+Toxapex
+
+and
+
+Rotom-W
+
+by trapping them. Earth Power threatens Poison- and Fire-types and makes Heatran an important asset against opposing Steel teams by hitting opposing Heatran. Roar lets Heatran phaze the likes of Nasty Plot
+
+Hydreigon
+
+and Z-Celebrate Victini and synergizes well with Stealth Rock to deal extra damage. Alternatively, Toxic cripples walls like
+
+Mantine
+
+and Rotom-W, as well as Pokemon that fancy switching into Heatran such as
+
+Volcarona
+
+and
+
+Mega Charizard Y
+
+. Substitute pairs well with Toxic and allows Heatran to be massively annoying against types like Steel, Electric, and Psychic by capitalizing on the many switches it forces in these matchups. Thanks to their typing and bulk,
+
+Corviknight
+
+and
+
+Celesteela
+
+are excellent teammates to check Ground- and Fighting-types like
+
+Mamoswine
+
+and
+
+Great Tusk
+
+for Heatran. Setup sweepers like
+
+Mega Scizor
+
+and Z-Happy Hour
+
+Jirachi
+
+appreciate Heatran wearing down teams with burn and Toxic.
+
+Iron Treads
+
+removes entry hazards with Rapid Spin and deals with Mega Charizard Y,
+
+Zeraora
+
+, and
+
+Cinderace
+
+with its Choice Scarf set.
+
+Ferrothorn
+
+checks Water-types like
+
+Mega Swampert
+
+and
+
+Urshifu-R
+
+and aids Heatran with Spikes and Leech Seed.
+
+The given EV spread allows Heatran to outspeed
+
+Chien-Pao
+
+and
+
+Flutter Mane
+
+during Tailwind while maximizing its Special Attack, allocating the remaining EVs into HP.

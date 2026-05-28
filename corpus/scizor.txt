@@ -1,0 +1,2729 @@
+Scizor is a potent threat in the UU metagame due to its combination of Swords Dance + Technician-boosted Bullet Punch providing strong revenge killing and cleaning abilities as well as its access to utility options like Knock Off and U-turn to allow it to function as a bulky pivot. Bullet Punch in tandem with Technician allows Scizor to pressure frailer, faster threats, notably OHKOing
+
+Ogerpon-C
+
+after Stealth Rock,
+
+Mamoswine
+
+after little chip damage, and
+
+Lokix
+
+and
+
+Latios
+
+at +2. Knock Off helps Scizor cripple common switch-ins like
+
+Cobalion
+
+and
+
+Mandibuzz
+
+by removing their items, as well as dealing super effective damage to
+
+Skeledirge
+
+and
+
+Metagross
+
+. U-turn does big damage to Pokemon like
+
+Slowking
+
+,
+
+Pecharunt
+
+, and
+
+Hydrapple
+
+, as well as allowing Scizor to escape bad matchups from Pokemon like Cobalion and
+
+Toxapex
+
+. 136 Speed EVs are used for Scizor to outspeed Adamant
+
+Azumarill
+
+, with the rest pumped into bulk. Tera Steel is used to add extra power to its already impressive Technician-boosted Bullet Punch, notably OHKOing Heavy-Duty Boots
+
+Tornadus-T
+
+at +2 and 2HKOing Azumarill. Alternatively, Tera Fire is used to flip its matchup versus Skeledirge,
+
+Heatran
+
+, and
+
+Hisuian Arcanine
+
+, allowing it to safely hit the former with Knock Off and hindering its ability to consistently switch in. It can also be used to absorb Will-O-Wisp from the aforementioned Skeledirge, as well as resisting Heat Wave from Tornadus-T. However, this gives up Scizor's good defensive typing, resulting in worse matchups against tier staples like Hydrapple,
+
+Rhyperior
+
+, and
+
+Excadrill
+
+, as well as taking more entry hazard damage should Scizor's Heavy-Duty Boots get removed.
+
+As an offensive pivot, Scizor does best on bulky offense and offense structures, able to use the fast-paced nature of such team styles to pivot around, provide item displacement, and revenge kill key threats. Rhyperior is a phenomenal teammate due to its ability to counter dangerous threats to Scizor like Pecharunt, Tornadus-T, and Hisuian Arcanine well as provide key Stealth Rock support to put threats like Ogerpon-C and Mamoswine into range of Bullet Punch more easily. Other entry hazard setters like
+
+Sandy Shocks
+
+and Cobalion also are good teammates, both forming a VoltTurn core to bring Scizor in against threats like Hydrapple, with Cobalion also being able to offensively check Lokix and Excadrill. Scizor also works well with the Pokemon that appreciate its free switches, such as wallbreakers like Latios, Mamoswine, and Azumarill. These wallbreakers provide the raw power needed to blast past Scizor's defensive checks and counters, like Cobalion, Toxapex, and Heatran. Once these walls are gone, Scizor can clean up after a Swords Dance. Scizor also forms a potent core with other pivots, such as
+
+Rotom-W
+
+and Slowking, with the latter able to take on the Fire-type moves thrown at it. Defensive partners include Pokemon like the aforementioned Slowking, as well as Rhyperior, Skeledirge, and
+
+Tinkaton
+
+; the latter acts as a primary check to Latios and Hydrapple so that Scizor doesn't get chipped down trying to switch into their attacks.
+
+Technician-boosted Bullet Punch is a big reason why Scizor is such a great late-game Pokemon and revenge killer once the opposing team is worn down. Close Combat is a great coverage move for Scizor, as it complements Bullet Punch well due to it being super effective against Steel-resistant Pokemon like
+
+Excadrill
+
+,
+
+Cobalion
+
+,
+
+Empoleon
+
+, and Tera Steel
+
+Hydrapple
+
+. Knock Off allows Scizor to force progress even against foes it cannot do much damage against like
+
+Mandibuzz
+
+,
+
+Skeledirge
+
+, and
+
+Toxapex
+
+. Tera Fire gives Scizor the advantage against Pokemon that rely on burning it like Skeledirge and
+
+Rotom-W
+
+while making it so Fire-type attacks bounce off it, although Rotom-W can threaten it with a super effective Hydro Pump. Tera Steel powers up Scizor's Bullet Punch, allowing it to both break through foes and pick off weakened threats more effectively. Tera Electric is a great tool against
+
+Tornadus-T
+
+and
+
+Thundurus-T
+
+, allowing Scizor to beat them one-on-one without being worried about strong Electric- and Flying-type attacks and coverage.
+
+This Scizor set fits best on hyper offensive teams that can create a path to win late-game by weakening checks like Tornadus-T, Toxapex, and Rotom-W. Entry hazard support is a great way for Scizor to find itself in a scenario where the foes are weakened enough thanks to the chip damage of hazards from Excadrill,
+
+Mew
+
+, and
+
+Sandy Shocks
+
+. Excadrill is a great partner, as it can remove hazards so that Scizor doesn't get worn down by passive damage as quickly as it would otherwise. Alternatively, Mew and Sandy Shocks both provide Spikes alongside Stealth Rock to help wear down Scizor's checks more quickly. Sandy Shocks can also take on
+
+Skarmory
+
+and Tornadus-T while also luring in Hydrapple and removing it with Tera Blast Ice. Strong Pokemon like
+
+Ogerpon-C
+
+,
+
+Latios
+
+, and Thundurus-T can create opportunities for Scizor by punching holes against Pokemon like Cobalion, Hydrapple, and Mandibuzz.
+
+Keldeo
+
+,
+
+Quaquaval
+
+, and
+
+Greninja
+
+are Pokemon that Scizor might give free turns to fire off powerful attacks thanks to them resisting Bullet Punch, so
+
+Azumarill
+
+is a great partner, as it helps deal with these threats and pressures checks and counters that it shares with Scizor to help open up a late-game sweep.
+
+With a Choice Band, excellent STAB moves, good defensive typing, and amazing ability in Technician, Scizor proves to be a threatening pivot, wallbreaker, and revenge killer. Bullet Punch is an incredibly powerful priority move capable of picking off faster attackers like
+
+Ogerpon-C
+
+and
+
+Weavile
+
+, as well as 2HKOing
+
+Latios
+
+and
+
+Lokix
+
+. U-turn allows Scizor to switch out of unfavorable matchups such as
+
+Mandibuzz
+
+and
+
+Toxapex
+
+so that it can get a more reliable teammate in to handle them. Close Combat is an excellent coverage move for Scizor, allowing it to break offensive Steel-type Pokemon such as
+
+Excadrill
+
+and
+
+Cobalion
+
+. Lastly, Knock Off is used to cripple and weaken Pokemon reliant on their items, such as the aforementioned Mandibuzz,
+
+Skeledirge
+
+, and
+
+Hippowdon
+
+, making them all easier to target. Tera Steel maximizes the power of Bullet Punch, allowing Scizor to hit even harder, while Tera Fire makes Scizor immune from burn while flipping its matchup against Skeledirge and
+
+Heatran
+
+.
+
+Scizor fits best on bulky offense and VoltTurn teams to make the most of its offensive capabilities. Offensive teammates like Ogerpon-C, Latios, and
+
+Sandy Shocks
+
+are  appreciated, as  they can take on threats such as Toxapex and
+
+Keldeo
+
+for Scizor, as well as being able to dismantle the opposing team for it to begin sweeping. Defensive pivots such as
+
+Tornadus-T
+
+and
+
+Slowking
+
+work amazingly with Scizor, helping take on offensive threats it dislikes such as
+
+Greninja
+
+and Latios while keeping up momentum.
+
+Rotom-W
+
+is a great teammate, as it forms a VoltTurn core with Scizor that can handle one another's checks, with Scizor taking on the likes of
+
+Hydrapple
+
+and
+
+Ogerpon
+
+for Rotom-W, while Rotom-W removes Fire-type Pokemon that can threaten Scizor such as Skeledirge and
+
+Hisuian Arcanine
+
+. Entry hazard setters like the aforementioned Sandy Shocks and Cobalion help Scizor to get more value out of using Bullet Punch with the help of chip damage, while
+
+Tyranitar
+
+can set up both Stealth Rock and sand, which chip away at opposing Pokemon even quicker.
+
+Choice Band Scizor is a strong anti-metagame revenge killer and offensive pivot. Brandishing its ever-infamous Technician-boosted Bullet Punch, it is able to check and OHKO relevant Fairy-type foes in
+
+Iron Valiant
+
+and
+
+Enamorus
+
+, as well as
+
+Kyurem
+
+after entry hazard damage, along with scaring off some speedier foes, such as
+
+Deoxys-S
+
+,
+
+Darkrai
+
+, and
+
+Dragapult
+
+. Scizor has, additionally, a superb matchup against the hyper offense leads
+
+Alolan Ninetales
+
+and
+
+Ribombee
+
+, disallowing the opponent from safely setting up Aurora Veil and Sticky Web. U-turn threatens other enemies such as
+
+Ting-Lu
+
+and
+
+Ogerpon-W
+
+but most importantly gives Scizor the ability to pivot out from and chip away at a predicted switch-in like
+
+Iron Moth
+
+or
+
+Raging Bolt
+
+, while granting momentum to the whole team. Knock Off neuters item-reliant foes such as
+
+Corviknight
+
+and
+
+Moltres
+
+, along with checking
+
+Gholdengo
+
+,
+
+Iron Crown
+
+, and
+
+Galarian Slowking
+
+. Last but not least, Close Combat is Scizor's greatest tool against
+
+Kingambit
+
+, Ting-Lu, and Tera Normal
+
+Gliscor
+
+, while Dual Wingbeat allows it to stay in against
+
+Zamazenta
+
+and
+
+Great Tusk
+
+. 136 EVs in Speed allow Scizor to outspeed maximum Speed Adamant Kingambit, and, after maximizing its Attack, the rest of its EVs are dumped into HP, allowing it to survive strong hits such as Great Tusk’s Headlong Rush and Zamazenta’s Close Combat. Tera Steel pushes Bullet Punch’s wallbreaking power to the point where it threatens to OHKO defensive staples like
+
+Hatterene
+
+and
+
+Primarina
+
+, as well as ensuring an OHKO on Darkrai after Stealth Rock along with a 2HKO on Tera Dark or Tera Ghost Kingambit. Tera Flying is mandatory when running Dual Wingbeat, providing Scizor with Ground and Spikes immunities while guaranteeing the OHKO on Great Tusk and
+
+Walking Wake
+
+, as well as 2HKOing key stall foes in
+
+Alomomola
+
+and Gliscor.
+
+Scizor is a great fit on hyper offense and bulky offense teams as a great speed control and wallbreaking Pokemon. With its amazing complimentary dual typing and solid physical bulk, Choice Band Scizor fills roles such as acting as a Toxic absorber and answering Grass-, Dragon-, and Fairy-type threats such as
+
+Rillaboom
+
+, Kyurem, and Iron Valiant. It forms a great core with Primarina, with Scizor covering for Primarina's Grass and Poison weaknesses and Primarina tanking Fire-type hits from foes like
+
+Cinderace
+
+. Scizor is a fitting partner to Kingambit, as Scizor can cover its poor matchup against Iron Valiant and bring it safely into the field with U-turn. Scizor also synergizes with Ogerpon-W, as they form a strong pivoting and Knock Off core, with Ogerpon-W covering tough matchups for Scizor like Moltres and Alomomola, while Scizor in return handles Kyurem and Grass-type foes like
+
+Meowscarada
+
+and Rillaboom. Scizor greatly struggles against physically defensive walls such as Corviknight and
+
+Skarmory
+
+, which can easily shrug off Bullet Punch and keep themselves healthy with reliable recovery. Strong special attackers in Raging Bolt and Iron Moth can cover these matchups with super effective hits. Raging Bolt also covers Scizor's general ineffectiveness against Water-type foes like
+
+Dondozo
+
+and Alomomola. Zamazenta makes for a fitting teammate with amazing defenses that is able to switch into and withstand most attacks thrown at Scizor, and its Fighting-type STAB move alleviates Scizor's four-moveslot syndrome by allowing it to run Dual Wingbeat. On the other hand, non-Dual Wingbeat variants of Scizor can be easily stopped by opposing Zamazenta, so Deoxys-S and Hatterene as well as Ghost-types such as Dragapult and
+
+Pecharunt
+
+, which can ignore Body Press from Zamazenta and additionally spinblock for Scizor’s team, can be countermeasures.
+
+Dragonite
+
+is a surprisingly reliable check to Scizor, as Scizor lacks any tools to significantly damage it, so strong Ice-type moves from Kyurem and Darkrai should be considered for inclusion in Scizor's team. Majorly threatening to Scizor are
+
+Zapdos
+
+and especially Moltres, which can neuter it with Static and Flame Body, as all of Scizor's moves make contact; moreover, Moltres can remove it easily with Flamethrower.
+
+Garganacl
+
+makes for a great defensive check to both, and the aforementioned Kyurem and Raging Bolt are similarly fit to handle Zapdos and Moltres, respectively. More generally, Scizor is in dire need of entry hazard-setting partners, which synergize with Knock Off by setting up Stealth Rock to neutralize its counters such as Moltres and get foes in range of an OHKO from Bullet Punch. Scizor also appreciates hazard-removing partners, which can ensure the battlefield is clear for it to enter safely, as Choice Band Scizor without any form of recovery can be overwhelmed and chipped down easily over the course of a game. Great Tusk comprises both roles in one Pokemon, but alternatives such as
+
+Landorus-T
+
+and the aforementioned Garganacl as hazard setters and Cinderace as a hazard remover are also viable. Great Tusk and Landorus-T additionally cover Scizor's poor matchup against Raging Bolt and Iron Moth, which target Scizor's weaker Special Defense and resist Bullet Punch, by threatening them with Ground-type moves.
+
+Scizor fills a unique role on fast-paced offensive teams with its combination of solid defensive typing, strong priority, and Swords Dance, allowing it to wallbreak early in the battle or clean a weakened team later on while checking and revenge killing foes like
+
+Kyurem
+
+,
+
+Iron Valiant
+
+, and
+
+Rillaboom
+
+. Close Combat hits foes like
+
+Kingambit
+
+,
+
+Hisuian Samurott
+
+, and
+
+Ting-Lu
+
+super effectively while being its strongest option against neutral targets, most notably the Steel-resistant
+
+Skarmory
+
+,
+
+Corviknight
+
+, and
+
+Alomomola
+
+. Knock Off primarily allows Scizor to threaten
+
+Gholdengo
+
+and
+
+Pecharunt
+
+and allows Scizor to remove items from checks like
+
+Dondozo
+
+, Alomomola,
+
+Moltres
+
+, and
+
+Zapdos
+
+, especially because many of the tier's Knock Off absorbers like
+
+Clefable
+
+and
+
+Gliscor
+
+cannot sustain taking its boosted attacks. Technician-boosted Quick Attack can be used to pick off faster threats that would otherwise stomach its Bullet Punch, such as
+
+Ogerpon-W
+
+, Hisuian Samurott,
+
+Cinderace
+
+, and
+
+Iron Moth
+
+. The EVs aim to maximize Scizor's damage output while outspeeding Adamant Kingambit and
+
+Ursaluna
+
+. Tera Steel aids in revenge killing and cleaning with Bullet Punch, allowing it to OHKO Pokemon like Kyurem unboosted and most Iron Moth at +2 after Stealth Rock. Tera Fire inverts Scizor's one weakness and providing Scizor with a burn immunity, flipping the matchup against Pokemon like Moltres, Cinderace,
+
+Dragapult
+
+, and
+
+Darkrai
+
+. Tera Fighting gives Scizor much higher immediate damage with Close Combat, notably having a chance to OHKO Alomomola and Corviknight at +2. Tera Normal is an option on Quick Attack variants, guaranteeing the OHKO on Ogerpon-W and even bulky Cinderace after minor chip damage at +2.
+
+Scizor fits best on hyper offense structures. It both benefits greatly from entry hazards and improves their efficacy with its powerful Knock Off, so it should generally be on teams with a hazard-setting lead like
+
+Glimmora
+
+,
+
+Landorus-T
+
+,
+
+Deoxys-S
+
+, or even
+
+Ribombee
+
+for Sticky Web's speed control. It makes a good offensive pairing with anything that forces in Fairy-types like Hisuian Samurott and
+
+Zamazenta
+
+, as Scizor can then use the Fairy-type as a setup opportunity. Kingambit is one of Scizor's best partners for a myriad of reasons; the dual-priority combination of Bullet Punch and Sucker Punch greatly threatens opposing offense, while Scizor's boosted Knock Off and Kingambit's Supreme Overlord-boosted attacks can overwhelm defensive teams. Scizor is a deterrent to Encore Iron Valiant, a common roadblock for Kingambit, while Kingambit can force in and chip
+
+Great Tusk
+
+and Zamazenta for Scizor to clean up late-game. Kingambit's ability to force in Zamazenta early also makes Zamazenta waste Dauntless Shield. Scizor struggles most against bulky Pokemon that can take Bullet Punches and deal heavy damage in return. Some common examples are Iron Moth and
+
+Raging Bolt
+
+, which can also outspeed Scizor. The best teammates to help against these Pokemon are choices like
+
+Dragonite
+
+and Great Tusk that can immediately threaten Scizor's answers and potentially switch in on a good prediction or come in after Scizor is sacrificed to keep up the offensive pressure. Alomomola and Dondozo are very hard for Scizor to wear down without heavy entry hazard support, so Ogerpon-W is a great teammate, as it can come in on and threaten both while benefitting from the Knock Off support that Scizor provides. Zamazenta is similarly hard to wear down for Scizor and can use it as a setup opportunity, so choices like Encore Iron Valiant and Gholdengo can help to alleviate that issue.
+
+Utility Scizor offers unique role compression in the OU, combining priority, Knock Off, pivoting, and entry hazard removal in one teamslot, as well as being a useful defensive piece. Bullet Punch is a Technician-boosted STAB move that threatens the tier's Fairy- and Ice-types such as
+
+Iron Valiant
+
+,
+
+Enamorus
+
+, and
+
+Kyurem
+
+with heavy damage. It also revenge kills frail or weakened threats like
+
+Dragapult
+
+and
+
+Darkrai
+
+as well as dissuade foes such as
+
+Dragonite
+
+,
+
+Gholdengo
+
+, and
+
+Raging Bolt
+
+from using Tera Fairy. U-turn serves as a useful pivoting option, allowing Scizor to switch out of bad matchups like
+
+Corviknight
+
+,
+
+Pecharunt
+
+, and
+
+Galarian Weezing
+
+while discouraging Pokemon like
+
+Ogerpon-W
+
+and
+
+Ting-Lu
+
+from switching in. Knock Off ensures progress by removing items like Heavy-Duty Boots and Leftovers, forcing hazard chip damage on Pokemon like
+
+Zapdos
+
+and
+
+Moltres
+
+, preventing passive recovery on Pokemon such as Corviknight and
+
+Garganacl
+
+, and easing Scizor's ability to pivot by removing Rocky Helmet from Pokemon like
+
+Landorus-T
+
+. Knock Off also threatens opposing Gholdengo attempting to block Scizor's hazard removal. Scizor can use Defog to great effect, since it can threaten hazard setters like
+
+Hisuian Samurott
+
+and
+
+Glimmora
+
+with its STAB moves. Sitrus Berry allows Scizor to heal in a pinch, making it useful for fast-paced teams. Notably, it turns Choice Specs Kyurem's Earth Power from a 2HKO into a 3HKO. Heavy-Duty Boots is an option on slower-paced teams to avoid hazard chip damage, making Defog more reliable. Tera Steel boosts Scizor's offensive presence to terrifying levels, letting Bullet Punch OHKO Iron Valiant as well as 2HKO Darkrai and Dragapult. Alternatively, Tera Dragon can be used defensively, flipping the Fire-type weakness into a resistance, allowing Scizor to check Pokemon such as
+
+Ceruledge
+
+and Flamethrower
+
+Clefable
+
+in a pinch as well as easing the matchup against Ogerpon-W.
+
+Utility Scizor fits best on offensive teams that appreciate its role compression. Wallbreakers such as Kyurem,
+
+Zamazenta
+
+, and Iron Valiant pair well with Scizor, enjoying a safe switch-in from U-turn. Dark-types like Darkrai, Hisuian Samurott, and
+
+Kingambit
+
+appreciate Scizor's ability to scare out the Fairy-types that threaten them such as Iron Valiant and Clefable. In return, the Dark-types can threaten the physically defensive Ghost-types that can shrug off Scizor's Knock Off, such as Pecharunt and bulky Gholdengo. Water-types like Hisuian Samurott and
+
+Alomomola
+
+pair well with it defensively, scaring out the Fire-types that threaten Scizor such as Moltres and
+
+Cinderace
+
+. In return, Scizor offers a 4x resistance and threatens U-turn on the Grass-types that scare the Water-types, such as
+
+Rillaboom
+
+and
+
+Meowscarada
+
+. Due to Scizor's crippling 4x weakness to Fire-type moves, it appreciates teammates that resist such moves, such as Dragonite and Raging Bolt. Dragonite appreciates Scizor's resistance to Ice- and Fairy-type moves while also threatening these foes back with Bullet Punch. Scizor's Defog support is also great for Dragonite, allowing it to hold items other than Heavy-Duty Boots. In return, Dragonite can KO Scizor checks with its multitude of coverage options, such as Ice Spinner for Flying-type Pokemon like Zapdos and
+
+Gliscor
+
+; Fire Punch for Pokemon like Corviknight; and Earthquake for Pokemon such as Ceruledge,
+
+Heatran
+
+, and
+
+Iron Treads
+
+. Raging Bolt is also a great teammate, threatening the bulky Flying- and Water-types that wall Scizor, like Corviknight, Moltres, Alomomola, and
+
+Toxapex
+
+while resisting Fire-moves as well. In return, Scizor threatens the Ice- and Fairy-types that scare Raging Bolt, as well as Ting-Lu, with either U-turn or Knock Off. Additionally, the two form a double priority and pivoting core, constantly keeping momentum and preventing setup sweepers from snowballing out of control. Due to its lack of power, Pokemon like Kingambit, Raging Bolt, and Dragonite can use Scizor as a setup opportunity, so teammates that punish such attempts like Ogerpon-W with Encore and phazers such as Roar Zamazenta and Moltres are appreciated.
+
+Thanks to its Steel typing, powerful STAB priority, and decent coverage moves, Scizor punches holes in the Fairy, Ice, Rock, Ghost, and Steel matchups. Technician-boosted Bullet Punch is Scizor's most spammable attack, serving as a priority STAB move to revenge kill sweepers like Belly Drum
+
+Azumarill
+
+and
+
+Flutter Mane
+
+. Close Combat answers Steel teams and OHKOes slower walls like
+
+Ting-Lu
+
+and
+
+Corviknight
+
+at +2 after Stealth Rock chip. Knock Off deals with
+
+Gholdengo
+
+, while Dual Wingbeat improves the Fighting and mirror matchups and lets it deal with
+
+Toxapex
+
+. Trailblaze allows Scizor to outspeed threats like
+
+Great Tusk
+
+and
+
+Urshifu-R
+
+at +1 Speed and hits
+
+Swampert
+
+,
+
+Gastrodon
+
+, and
+
+Primarina
+
+hard. Metal Coat enhances the power of Bullet Punch without drawbacks, while Life Orb secures OHKOs on Primarina and
+
+Porygon2
+
+after a Swords Dance. Heavy-Duty Boots is another option in the event the team has poor entry hazard removal support. The EV spread allows Scizor to reach 324 Speed at +1 to outspeed Urshifu-R and makes it naturally faster than Adamant Azumarill.
+
+With its impressive physical bulk and wide variety of support options,
+
+Forretress
+
+makes for an excellent partner, providing entry hazard support as well as Rapid Spin and a slow pivot to help Scizor. Due to its lackluster Speed, Scizor pairs well with Sticky Web setters like
+
+Araquanid
+
+and
+
+Galvantula
+
+. Thanks to its solid special bulk and Water Bubble, Araquanid provides both an offensive and defensive presence, checking and KOing opposing
+
+Volcarona
+
+and
+
+Ninetales
+
+. Alternatively, Galvantula can improve the Water matchup thanks to its access to Grass-type coverage moves, easily pressuring foes such as Toxapex and
+
+Pelipper
+
+. Offensively, Scizor greatly appreciates other wallbreakers that can remove or weaken its answers such as
+
+Kleavor
+
+, Volcarona, and
+
+Lokix
+
+. Choice Scarf Kleavor provides utility in Stone Axe and helps deal with Fire-types like Volcarona,
+
+Ceruledge
+
+, Ninetales, and
+
+Cinderace
+
+. Bulky Quiver Dance Volcarona can set up on physical walls that can prove troublesome to Scizor such as
+
+Moltres
+
+and
+
+Skarmory
+
+while removing Gholdengo and opposing Scizor. Lokix synergizes well with Scizor, as they both benefit from the holes they create in the opposing team: Scizor appreciates Lokix's ability to deal with
+
+Gliscor
+
+and Gholdengo, while Lokix enjoys Scizor taking on Fairy-type threats like
+
+Iron Valiant
+
+and
+
+Hatterene
+
+. Finally,
+
+Frosmoth
+
+can take most special sweepers such as
+
+Walking Wake
+
+,
+
+Greninja
+
+, and
+
+Raging Bolt
+
+head-on in Scizor's place, letting it crush Rock-type threats like
+
+Iron Boulder
+
+and Kleavor.
+
+With Swords Dance, Scizor is an adept wallbreaker for Steel teams, removing the likes of
+
+Empoleon
+
+and
+
+Swampert
+
+. With Bullet Punch, Scizor also serves as a cleaner, easily picking off faster threats like
+
+Darkrai
+
+,
+
+Iron Valiant
+
+, and
+
+Iron Boulder
+
+. Close Combat allows Scizor to threaten Normal-, Steel-, and Dark-types like
+
+Blissey
+
+, specially defensive
+
+Heatran
+
+,
+
+Hisuian Goodra
+
+, and
+
+Alolan Muk
+
+. Trailblaze threatens Water- and Ground-types like the aforementioned Swampert,
+
+Gastrodon
+
+, and
+
+Primarina
+
+. With 216 Speed EVs, Scizor outspeeds and threatens Hisuian Goodra and
+
+Archaludon
+
+.
+
+Archaludon and
+
+Skarmory
+
+provide entry hazard support to aid Scizor in its wallbreaking. Skarmory and
+
+Corviknight
+
+both provide a Ground immunity for Steel teams, and their physical bulk coupled with access to Iron Defense and Body Press allows them to wall out physical attackers and sweepers such as Choice Scarf
+
+Hoopa-U
+
+and
+
+Barraskewda
+
+. Corviknight also removes hazards for Scizor via Defog. Scizor is easily forced out by Fire-types such as
+
+Volcarona
+
+and
+
+Skeledirge
+
+. Hence, Heatran makes for a great partner, as it walls those Fire-types thanks to Flash Fire, and it is also able to handle walls Scizor struggles with such as
+
+Amoonguss
+
+. In return, Scizor deals with Water-types that Heatran struggles with like Gastrodon and Swampert. Hisuian Goodra is a great teammate that can cover Scizor against special attackers like Choice Scarf Heatran and Choice Specs
+
+Greninja
+
+. Choice Scarf users like
+
+Gholdengo
+
+and
+
+Iron Treads
+
+provide speed control, with Gholdengo handling Hex
+
+Dragapult
+
+while Iron Treads removes Choice Specs
+
+Iron Moth
+
+. In return, Gholdengo appreciates Scizor removing Alolan Muk, while Iron Treads appreciates the removal of Iron Valiant. Scizor forms a scary offensive partnership with
+
+Bisharp
+
+, with Scizor threatening Fairy-types like Iron Valiant and
+
+Enamorus
+
+, while Bisharp handles Ghost-types that can wall Scizor such as Gholdengo and
+
+Pecharunt
+
+.
+
+Scizor utilizes a Choice Band to provide immediate pressure, OHKOing threats such as
+
+Mamoswine
+
+and
+
+Kyurem
+
+with Bullet Punch. Close Combat breaks through targets such as
+
+Porygon2
+
+,
+
+Iron Treads
+
+, and
+
+Archaludon
+
+that could otherwise take on Scizor's Bullet Punch. Knock Off smacks Ghost-types like
+
+Gholdengo
+
+and
+
+Pecharunt
+
+and allows Scizor to make progress against
+
+Skarmory
+
+and
+
+Gouging Fire
+
+. Finally, U-turn allows Scizor to pivot out while dealing immense damage to threats like
+
+Hydrapple
+
+and
+
+Ogerpon-W
+
+. The chosen EV spread allows Scizor to outspeed and easily remove Adamant
+
+Azumarill
+
+and uninvested
+
+Heatran
+
+while enabling it to reliably survive an Ogerpon-W's Ivy Cudgel after entry hazard damage.
+
+Heatran is a crucial ally for Scizor, being able to come in on Fire-types that wall it such as
+
+Iron Moth
+
+,
+
+Volcarona
+
+, and
+
+Skeledirge
+
+and remove threats that can handle Scizor like Skarmory and
+
+Toxapex
+
+. Gholdengo appreciates Scizor removing
+
+Flutter Mane
+
+, and in response, Gholdengo can handle Fighting-types like
+
+Iron Hands
+
+and Body Press users like Archaludon and Skarmory with ease. Skarmory provides Spikes, enabling Scizor to break through checks such as Pecharunt and
+
+Okidogi
+
+, and can use IronPress to beat Ground- and Fighting-types like
+
+Excadrill
+
+and
+
+Great Tusk
+
+. Iron Treads provides entry hazard removal with Rapid Spin, can remove Electric-types that resist Scizor's Bullet Punch such as non-Air Balloon
+
+Raging Bolt
+
+and
+
+Sandy Shocks
+
+, and can KO
+
+Landorus
+
+with Ice Spinner. Archaludon provides Stealth Rock support and can check foes such as Gouging Fire and
+
+Urshifu-R
+
+, which would otherwise easily remove Scizor.
+
+Hisuian Goodra
+
+can easily take on special attackers such as
+
+Greninja
+
+,
+
+Zapdos
+
+, and
+
+Sinistcha
+
+, which threaten Scizor.
+
+With a Choice Band, Scizor becomes a potent wallbreaker and revenge killer for Bug teams, providing immediate power to remove threats like Choice Scarf
+
+Iron Boulder
+
+and specially defensive
+
+Heatran
+
+while also proving to be a valuable asset against Rock teams. Bullet Punch targets Rock-, Fairy-, and Ice-types like
+
+Ogerpon-C
+
+,
+
+Flutter Mane
+
+, and
+
+Kyurem
+
+. It also serves as a countermeasure against setup sweepers like Unburden
+
+Sneasler
+
+, Dragon Dance
+
+Dragapult
+
+, and Belly Drum
+
+Azumarill
+
+. Close Combat smashes Steel-types like
+
+Archaludon
+
+and the aforementioned Heatran and 2HKOes specially defensive
+
+Corviknight
+
+after Stealth Rock damage. Knock Off threatens Ghost-types like
+
+Gholdengo
+
+while also messing with defensive switch-ins like
+
+Toxapex
+
+, Corviknight, and
+
+Great Tusk
+
+by removing their Heavy-Duty Boots or Leftovers. U-turn allows Scizor to gain momentum against switch-ins like
+
+Skarmory
+
+and
+
+Mandibuzz
+
+, bringing in teammates like
+
+Volcarona
+
+and Choice Scarf
+
+Kleavor
+
+. On the other hand, Dual Wingbeat handles Fighting-types like
+
+Urshifu-R
+
+and Great Tusk, while also dealing with bulkier targets like
+
+Amoonguss
+
+and
+
+Primarina
+
+.
+
+Scizor's teammates benefit from its ability to remove Rock-types like Choice Scarf Iron Boulder and Ogerpon-C. Choice Scarf Kleavor leverages its Rock typing and Stone Axe to threaten Fire- and Flying-types like
+
+Ninetales
+
+,
+
+Ogerpon-H
+
+, and
+
+Zapdos
+
+while setting Stealth Rock. Volcarona eliminates Steel-types such as Skarmory and Corviknight as well as Toxapex when using Psychic. Additionally, its bulky sets can punish physical attackers like
+
+Dragonite
+
+and
+
+Iron Hands
+
+with its Flame Body and Will-O-Wisp while also absorbing Will-O-Wisp from foes like
+
+Sableye
+
+and
+
+Moltres
+
+.
+
+Araquanid
+
+boasts a valuable Fire resistance, allowing it to stave off threats like Volcarona and offensive variants of Heatran; it also offers a Will-O-Wisp immunity and Sticky Web, which allows Scizor to outspeed foes like Choice Band
+
+Hisuian Arcanine
+
+and
+
+Iron Treads
+
+.
+
+Frosmoth
+
+can dispatch bulky Ground- and Flying-types like
+
+Hippowdon
+
+,
+
+Gliscor
+
+, and Mandibuzz.
+
+Forretress
+
+complements Scizor's wallbreaking capabilities by setting entry hazards, which also synergizes with Scizor's Knock Off to wear down the opposing team. Forretress also provides hazard removal with Rapid Spin and can bring Scizor in safely with Volt Switch. Teammates like
+
+Lokix
+
+,
+
+Heracross
+
+, and
+
+Slither Wing
+
+value Scizor's removal of Fairy-types like
+
+Iron Valiant
+
+and Flutter Mane; in return, Lokix threatens Ghost-types like Gholdengo and
+
+Pecharunt
+
+, while Heracross and Slither Wing can break through walls like Toxapex,
+
+Rotom-W
+
+, and Skarmory.
+
+Other Options
+
+Bug (Swords Dance)
+
+In teams with solid hazard control, Leftovers can be used to provide Scizor with passive recovery, notably letting it win its duel against
+
+Toxapex
+
+.
+
+Welcome to Battle Stadium Singles Regulation F! This Pokemon has been updated to reflect the new Pokemon that The Indigo Disk has brought!
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Thanks to its high Attack, great defensive typing and solid bulk, Scizor is an effective bulky pivot that can also punish faster foes with Technician-boosted Bullet Punch, such as
+
+Flutter Mane
+
+,
+
+Chien-Pao
+
+, and
+
+Latios
+
+.
+
+Knock Off versus Thief
+
+: Beyond being a fantastic support move, Knock Off is a great option against
+
+Gholdengo
+
+. Thief does offer more consistent damage than Knock Off though, thanks to Technician.
+
+Dual Wingbeat
+
+: Dual Wingbeat is Scizor's best option against
+
+Ogerpon-H
+
+as well Fighting-types like
+
+Annihilape
+
+and
+
+Urshifu
+
+formes.
+
+Close Combat
+
+: Close Combat is Scizor's best option to hit opposing
+
+Ursaluna-B
+
+and
+
+Chi-Yu
+
+as well as Steel types, even when using defensive EV spreads.
+
+Other Options
+
+Choice Scarf
+
+: Choice Scarf is a shocking twist against Ogerpon-H and Urshifu formes to launch off a strong Dual Wingbeat, but this does mean Scizor's bulk is heavily compromised against the threats it usually checks, like Flutter Mane.
+
+Items
+
+Assault Vest
+
+: While much less immediately threatening than Choice Band, Assault Vest lets Scizor more comfortably switch into stray special attacks like Gholdengo's and Flutter Mane's Shadow Ball or
+
+Rotom-W
+
+'s Volt Switch, improving its longevity.
+
+Choice Band
+
+: Choice Band lets Scizor function as a scary late-game cleaner, especially with Tera Steel-boosted Bullet Punch. The high damage output also helps Scizor to break down walls for its teammates.
+
+Rocky Helmet
+
+: Rocky Helmet is perfect for more defensive Scizor, letting it continually switch into weaker physical attacks and wear down the team with U-turn and residual damage.
+
+EV Spreads
+
+252 HP / 92 Atk / 164 SpD with Adamant
+
+: This spread is meant to be used with Assault Vest, letting Scizor almost always avoid a 2HKO from Modest Choice Specs Flutter Mane's Shadow Ball. It also maintains enough Attack investment to always OHKO uninvested Chien-Pao after Stealth Rock chip.
+
+236 HP / 68 Atk / 204 Def with Adamant
+
+: This spread avoids an OHKO from Tera Dark Life Orb Chien-Pao, is not 2HKOed by Timid Choice Specs Flutter Mane's Moonblast, and reduces the amount of residual damage Scizor receives thanks to the HP stat being 1 lower than divisible by 16.
+
+236 HP / 68 Atk / 204 Def with Adamant
+
+: This bulky spread lets Scizor survive +2 Life Orb Adamant Tera Ghost
+
+Mimikyu
+
+'s Shadow Claw.
+
+252 HP / 4 Atk / 252 Def with Impish
+
+: Defensive Scizor might seem strange, but when paired with Rocky Helmet, it becomes an effective pivot that can survive extreme attacks: it avoids the OHKO from Choice Band Tera Dark Chien-Pao's Crunch as well as the 2HKO from Adamant
+
+Landorus-T
+
+'s Earthquake. Just note that this will make Scizor focus more on pivoting than revenge killing with Bullet Punch.
+
+Brave or Relaxed with a Speed IV of 8 or 9
+
+: This Speed IV can be used to use U-turn after some
+
+Hippowdon
+
+use Yawn, but still outspeed
+
+Ting-Lu
+
+. Note that being slower than Ursaluna-B can be troublesome.
+
+Tera Types
+
+Tera Dependency - Low
+
+: While Terastallization can be quite helpful in either cleaning teams or preparing against Scizor's classic Fire-type issues, the power of its priority and pivoting don't make it needed for it to function consistently.
+
+Water
+
+: Tera Water turns its Fire weakness into a resistance, giving Scizor a fighting chance against dangerous Fire-types such as Chi-Yu,
+
+Gouging Fire
+
+, and Ogerpon-H.
+
+Steel
+
+: Tera Steel is ideal for more offensive Scizor variants, making Bullet Punch an even better cleaning tool. Tera Steel also softens Scizor's weakness to Fire, letting it avoid the OHKO from attacks like Flutter Mane's Mystical Fire.
+
+Fire
+
+: Tera Fire is a great response most Ogerpon-H sets, and shields Scizor from burns that foes like
+
+Entei
+
+like to deal out.
+
+Flying
+
+: Increasing Dual Wingbeat's power with Terastallization nets Scizor some useful new OHKOs against offensive Urshifu formes and Annihilape.
+
+Dragon
+
+: While not an incredible defensive typing, Tera Dragon is fantastic against most Fire and Water Pokemon that give Scizor trouble, with
+
+Ogerpon
+
+formes being a particularly prominent example. As a downside though, it harms Scizor's ability to check Flutter Mane and Chien-Pao.
+
+Scizor's incredible power and good typing make it one of the premier priority sweepers, being able to sweep through huge threats such as
+
+Flutter Mane
+
+and
+
+Chien-Pao
+
+!
+
+Close Combat
+
+: Close Combat lets Scizor smash through
+
+Ursaluna-B
+
+,
+
+Archaludon
+
+, and
+
+Ting-Lu
+
+after a boost.
+
+Knock Off
+
+: Knock Off is Scizor's best bet against
+
+Gholdengo
+
+, in addition to being a great support move in general.
+
+Dual Wingbeat
+
+: After a boost, Dual Wingbeat smashes through bulky Fighting-types like
+
+Urshifu-R
+
+and
+
+Annihilape
+
+.
+
+U-turn
+
+: While pivoting doesn't gel well with sweeping, it makes this kind of Scizor very adaptable, and is especially effective at getting away from Pokemon that threaten with residual damage like
+
+Garganacl
+
+.
+
+Items
+
+Sitrus Berry and 244 HP EVs
+
+: Sitrus Berry trades late-game sweeping power for new setup opportunities, such as avoiding a 2HKO from Modest Gholdengo that lack Choice Specs. Make sure to run 244 HP EVs to gain an even HP number, letting Sitrus activate after getting hit by Ruination once.
+
+Life Orb
+
+: While Life Orb does compromise Scizor's bulk, it's worth it for being able to OHKO
+
+Iron Bundle
+
+with a boosted Bullet Punch. Boosted Close Combat will also OHKO even physically defensive Ursaluna-B, and it has good shot of OHKOing physically defensive Ting-Lu.
+
+Rocky Helmet
+
+: Best used with U-turn, Rocky Helmet transforms this Scizor into a good bulky pivot that has the surprising option to sweep late-game.
+
+EV Spreads
+
+236 HP / 228 Atk / 20 Def / 20 SpD / 4 Spe with Adamant
+
+: This spread gives Scizor enough bulk to survive Tera Dark Life Orb Chien-Pao's Crunch, and less residual damage if using U-turn. It also avoids a 2HKO from Timid Choice Specs Flutter Mane's Moonblast. With Sitrus Berry, Modest Gholdengo's Shadow Ball is also no longer a 2HKO.
+
+228 HP / 124 Atk / 156 SpD with Adamant
+
+: This Sitrus Berry optimized spread avoids a 2HKO from Jolly Chien-Pao's Crunch, Iron Bundle's Hydro Pump, and Modest Choice Specs Tera Fairy Flutter Mane's Moonblast.
+
+252 HP / 28 Atk / 204 Def / 20 SpD / 4 Spe with Adamant
+
+: This bulky spread avoids the OHKO from Adamant Tera Ghost Life Orb
+
+Mimikyu
+
+'s +2 Shadow Claw. When used with Sitrus Berry and 244 HP EVs, it also avoids the 2HKO from Modest Gholdengo's Shadow Ball.
+
+252 HP / 4 Atk / 252 Def with Impish
+
+: This defensive spread is best used with U-turn and Rocky Helmet, making Scizor function more like a bulky pivot that can sweep late-game.
+
+Tera Types
+
+Tera Dependency - Medium / Low
+
+: Terastallization works very well at shutting down common methods of revenge killing or walling Scizor, but its typing is good enough to function without Terastallization. If using U-turn, Scizor can focus on pivoting in some matches, making Terastallization even less needed.
+
+Water
+
+: Tera Water lets Scizor ambush
+
+Chi-Yu
+
+, Iron Bundle, and
+
+Incineroar
+
+with a resistance and is especially handy against Fire-types when using Tera Blast.
+
+Steel
+
+: Boosting Bullet Punch is Scizor's best ticket for revenge killing and late-game sweeping, and it gains a Flying-type resistance into powerful Tera Flying Choice Band users like
+
+Dragonite
+
+and
+
+Landorus-T
+
+.
+
+Fire
+
+: Tera Fire ensures that Siczor's hard work won't get ruined by Will-O-Wisp or Sacred Fire, in addition to stopping revenge kills from common Fire-types like
+
+Ogerpon-H
+
+,
+
+Gouging Fire
+
+, and Incineroar.
+
+Dark
+
+: Tera Dark can cushion Shadow Ball from Gholdengo and Flutter Mane, giving it an extra turn to set up or hit back with Tera-boosted Knock Off.
+
+Electric
+
+: Tera Electric is Scizor's best shot of breaking past
+
+Toxapex
+
+and Urshifu-R with Tera Blast, and it does good chip damage to
+
+Dondozo
+
+.
+
+Draft Order
+
+: Round 4 onwards
+
+Price Range
+
+: 13-14 points
+
+Overview
+
+: Scizor is a consistently strong offensive threat, providing excellent cleaning and breaking potential with a strong priority move and a great defensive typing. It provides massive offensive pressure while also being able to get its teammates in easily with slow pivoting. It also offers a nice arrangement of different utility options to help support its team in any given matchup. However, Scizor's lack of recovery, underwhelming special bulk, and 4x weakness to Fire give it exploitable weaknesses on the defensive end.
+
+Common Roles
+
+Wallbreaker
+
+: Scizor's high Base Power moves, coming off of its strong attack, make it very good at breaking through bulky Pokemon. Its access to Swords Dance and ability to use Choice Band effectively, combined with a Technician-boosted Bullet Punch and strong coverage moves like Close Combat, allow it to break through a lot of top-tier threats.
+
+Cleaner
+
+: Scizor's Technician-boosted Bullet Punch can allow it to clean a game up if the opposing team is heavily chipped down. Swords Dance and Trailblaze give Scizor two very different ways to win late-game.
+
+Utility Pivot
+
+: Though a pivot set is less common, Scizor's strong defensive typing allows for it to switch into resisted attacks relatively well and provide support for its team with things like Knock Off and Defog,
+
+Common Moves
+
+Primary STAB Moves
+
+: Bullet Punch, Iron Head, U-turn, Bug Bite
+
+Setup Moves
+
+: Swords Dance
+
+Utility Moves
+
+: Defog, Light Screen, Substitute, Tailwind, Brick Break
+
+Coverage
+
+: Close Combat, Dual Wingbeat, Knock Off, Trailblaze
+
+Niche Moves
+
+Curse
+
+: Curse provides an alternative to Swords Dance that works like Bulk Up due to Scizor's primary reliance on Bullet Punch to clean games. This can be preferable in a matchup where the physical bulk gained is helpful in a Scizor endgame.
+
+Quick Attack
+
+: Technician-boosted Quick Attack provides a nice alternative to Bullet Punch if there is a fast but frail Steel resistance on the opposing team that Bullet Punch isn't strong enough to break through.
+
+Agility
+
+: Scizor has enough Speed to let it outspeed most Pokemon, barring Choice Scarf users, and it can allow it to clean late-game with its high Base Power moves such as Iron Head, Close Combat, and Bug Bite.
+
+Common Items
+
+Choice Band
+
+: Choice Band allows for Scizor to take its already incredibly hard-hitting STAB moves and coverage and amplify them even further. Choice Band Scizor is capable of breaking through a large number of defensive cores and can easily be positioned to clean a game.
+
+Occa Berry
+
+: Occa Berry is primarily used when Scizor is trying to beat a Pokemon that has Fire-type coverage. However, it does not help against Fire-type STAB attacks, as its lack of special bulk still results in Scizor being KOed through Occa Berry most of the time.
+
+Assault Vest
+
+: Assault Vest helps to patch Scizor's lackluster special bulk and can allow it to tank neutral hits much more effectively.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots is a good item to run on a Scizor with the goal of using Defog or in a matchup where there is no entry hazard removal on your team, giving Scizor extra longevity to pivot around. It can also be used with Swords Dance to allow for Scizor to claim a KO multiple times throughout a battle with a lot of hazards.
+
+Protective Pads
+
+: Protective Pads stops Scizor from taking extra chip damage from an ability like Rough Skin and Pokemon holding a Rocky Helmet, as well as protects it from being statused by abilities like Static and Flame Body.
+
+Niche Items
+
+Metal Coat
+
+: Metal Coat is primarily run on Swords Dance variants where a slight boost is needed on Bullet Punch's damage output in order for it to win, though it can be used in any situation where Bullet Punch needs a bit of extra damage output.
+
+Lum Berry
+
+: Lum Berry is nice to have if the opponent's best counterplay is to status Scizor using Will-O-Wisp or Thunder Wave.
+
+Tera
+
+Scizor is often not the best Pokemon on a team that is capable of being a Tera Captain. However, if given the opportunity, it is still a very strong user of Tera. It can be used to offset its 4x weakness to Fire by choosing a type like Tera Water, which can allow it to set up Swords Dance against a Fire-type or Pokemon with Fire-type coverage that would otherwise beat it. Using Tera Fire also does the same while preventing Scizor from being burned. It can also use its Tera for immediate offensive power. Tera Steel allows for an extremely potent Technician-boosted Bullet Punch, or it can use it to power up its high Base Power moves like Close Combat and Dual Wingbeat. Tera Normal gives Scizor STAB damage on Quick Attack, which allows it to hit Pokemon that resist Bullet Punch, such as Water-, Fire-, and Electric-types, for more damage.
+
+Draft Strategy
+
+Scizor fits onto many different styles of drafts due to its consistent offensive capabilities and its unique qualities. Its typing is one of the best defensive type combinations while also being strong offensively to use against a lot of the top-tier threats in draft. The ability to be a slow pivot for its offensive teammates, act as a solid wallbreaker on a bulkier team composition, and act as a reliable cleaner on practically any team in between, in combination with its strong STAB Bullet Punch, makes Scizor an extremely valuable asset on most teams.
+
+Strong Wallbreakers
+
+: Scizor appreciates having the opposing team weakened down through strong wallbreakers, allowing it to clean more readily late-game. Scizor is also able to assist these Pokemon by using U-turn on switches or faster Pokemon and giving them a free switch-in. Pokemon like
+
+Chi-Yu
+
+,
+
+Urshifu-S
+
+, and
+
+Ursaluna-B
+
+are all great wallbreakers to prepare an endgame for Scizor. Pokemon that beat its common checks like
+
+Garchomp
+
+,
+
+Zapdos
+
+, and
+
+Greninja
+
+are also phenominal partners with Scizor.
+
+Entry Hazard Setters
+
+: Hazards are another great way to chip down the opposing teams for a potential Scizor endgame. They allow for the opposing team to be put into a position for Scizor to clean with Bullet Punch. Pokemon like
+
+Hisuian Samurott
+
+,
+
+Meowscarada
+
+, and
+
+Gliscor
+
+are all good options for this role.
+
+Defensive Partners
+
+: Good Fire-resistant Pokemon are always a necessity, considering Fire is a crippling weakness of Scizor's. Pokemon like
+
+Rotom-W
+
+,
+
+Slowking
+
+, and
+
+Primarina
+
+all pair nicely with Scizor in this regard. Pokemon that benefit from Scizor's pivoting, as well as mask its shortcomings as both a Steel-type and a defensive Pokemon, are also great partners for Scizor. Strong Flying- and Rock-resistant Pokemon, in particular, are crucial to have with Scizor. Some such Pokemon include Zapdos, Garchomp, and
+
+Ting-Lu
+
+.
+
+Checks and Counters
+
+Steel-resistant Pokemon
+
+: Scizor's primary damage output is Bullet Punch. Thus, Pokemon that resist Bullet Punch and are not weak to Scizor's coverage can make it very difficult for Scizor to make progress. It heavily relies on its teammates to remove Pokemon like Zapdos,
+
+Toxapex
+
+, and
+
+Corviknight
+
+.
+
+Special Attackers
+
+: Scizor's unreliable special bulk results in it being easily 2HKOed by a lot of the strong special attackers in the format. Pokemon using Choice Specs, in particular, can be very hard to deal with unless they are weak to Bullet Punch. Pokemon that can break through Scizor's meager Special Defense include
+
+Thundurus-T
+
+,
+
+Raging Bolt
+
+, and Ursaluna-B.
+
+Fire-type Coverage
+
+: Scizor's 4x weakness to Fire is extremely debilitating for it. There is a lot of Fire-type coverage in the format, and Scizor is KOed in a single attack by most of it. Pokemon that Scizor could keep in check—if it weren't for the common Fire-type coverage they can run for it—include
+
+Clefable
+
+,
+
+Galarian Slowking
+
+, and
+
+Hatterene
+
+.
+
+Residual Damage
+
+: Scizor's lack of recovery means that it is much more susceptible to getting chipped down from entry hazards, contact abilities, and Rocky Helmet.
+
+Scizor uses its strong defensive typing and unique offensive profile to carve itself a role as a setup pokemon with Swords Dance.
+
+By using Life Orb over Choice Band, Scizor can gain important favorable matchups against
+
+Pecharunt
+
+, Chople Berry
+
+Hisuian Goodra
+
+, and non-Choice Band
+
+Metagross
+
+by using Swords Dance before attacking.
+
+Bullet Punch is the move to use against foes such as
+
+Iron Valiant
+
+, Pecharunt,
+
+Alolan Ninetales
+
+, and
+
+Sylveon
+
+.
+
+Bug Bite is a reliable STAB option, allowing Scizor to beat non-Fire Punch
+
+Hoopa-U
+
+,
+
+Meowscarada
+
+, non-Defense invested
+
+Ogerpon-W
+
+, and
+
+Cresselia
+
+.
+
+Close Combat is used to defeat Hisuian Goodra and non-Speed invested
+
+Ursaluna
+
+after a Swords Dance as well as
+
+Porygon-Z
+
+.
+
+If Scizor is looking to 2HKO the foe, it is generally better to use Swords Dance and then attack rather than attack twice—such as against Ursaluna and Pecharunt.
+
+The defensive EVs allow Scizor to survive two Earthquakes from non-Choice Band Adamant Metagross after one turn of Life Orb recoil. The special bulk lets Scizor survive a Hyper Beam from Choice Specs Modest Porygon-Z.
+
+44 Speed EVs let Scizor outspeed uninvested Metagross, which allows it to beat Metagross via the sequence of Swords Dance, Bug Bite, and Bullet Punch without being outsped by Metagross's own Bullet Punch.
+
+Scizor needs to be covered for its weaknesses against Fire-types such as
+
+Volcarona
+
+and
+
+Volcanion
+
+as well as physically bulky Pokemon such as
+
+Landorus-T
+
+,
+
+Corviknight
+
+, and both
+
+Urshifu
+
+formes. For this, it can be paired with Pokemon such as
+
+Primarina
+
+,
+
+Raging Bolt
+
+, and Alolan Ninetales to great effect.
+
+Choice Band Scizor is a strong threat that can deal with some of the biggest metagame threats such as
+
+Iron Valiant
+
+,
+
+Hoopa-U
+
+, and
+
+Primarina
+
+.
+
+Bullet Punch hits
+
+Alolan Ninetales
+
+,
+
+Diancie
+
+, Iron Valiant, and Primarina.
+
+Bug Bite is important for non-Fire Punch Hoopa-U,
+
+Ogerpon-W
+
+, and
+
+Serperior
+
+.
+
+Close Combat can hit opposing Steel-type Pokemon like non-Chople Berry
+
+Hisuian Goodra
+
+and
+
+Registeel
+
+.
+
+Knock Off is good coverage for Ghost-type Pokemon such as
+
+Spectrier
+
+.
+
+The HP EVs allow Scizor to survive a Choice Band Hyperspace Fury from Jolly Hoopa-U, while the Special Defense allows it to live a Hex from Life Orb Spectrier after one turn of burn damage and after its Life Orb has been removed by Knock Off.
+
+Scizor naturally struggles against Fire-types such as
+
+Volcarona
+
+,
+
+Skeledirge
+
+, and
+
+Volcanion
+
+, as well as physical tanks such as
+
+Landorus-T
+
+,
+
+Ursaluna
+
+, and
+
+Urshifu-R
+
+, so strong special attackers like
+
+Walking Wake
+
+and
+
+Manaphy
+
+make for excellent partners.
+
+Mega Scizor
+
+functions as an excellent late-game wincon due to its access to strong priority in Technician-boosted Bullet Punch, as well as being an excellent defensive piece, being able to switch in reliably on threats such as
+
+Iron Valiant
+
+,
+
+Kartana
+
+, and
+
+Rillaboom
+
+. Knock Off can be used in order to cripple would-be switch-ins such as
+
+Gholdengo
+
+,
+
+Zapdos
+
+, and
+
+Moltres
+
+. U-turn allows Mega Scizor to pivot out and gain momentum on threats such as
+
+Heatran
+
+and
+
+Mega Charizard Y
+
+switching in as well as defensive Pokemon such as
+
+Corviknight
+
+,
+
+Ferrothorn
+
+, and
+
+Alomomola
+
+. Sand Tomb is a more niche option that can be used in order to deal large damage to non-Air Balloon Heatran, as well as trapping Pokemon such as
+
+Toxapex
+
+switching in. 112 Defense EVs allow Mega Scizor to live 2
+
+Mega Lopunny
+
+Close Combats after Stealth Rock and 20 Speed EVs allow Mega Scizor to outspeed uninvested Heatran.
+
+Mega Scizor fits well on offense, bulky offense and balance teams due to its defensive capabilities as well as its ability to clean up in the later stages of the game with Swords Dance and Bullet Punch. Mega Scizor is extremely vulnerable to Fire-type moves from Pokemon such as Heatran,
+
+Volcarona
+
+, and Mega Charizard Y, meaning switch-ins such as Heatran, Toxapex, and Alomomola are appreciated. Mega Scizor also struggles to break through Steel-type Pokemon such as
+
+Kingambit
+
+,
+
+Melmetal
+
+, and Ferrothorn, making Fighting-types such as
+
+Urshifu-R
+
+and
+
+Zamazenta
+
+excellent partners. In return, Fighting-types benefit from Mega Scizor breaking through Fairy-type Pokemon such as
+
+Clefable
+
+and Iron Valiant. Mega Scizor provides an excellent switch-in to Psychic-types such as
+
+Tapu Lele
+
+, making teammates that benefit from this such as
+
+Great Tusk
+
+and Toxapex great partners. Mega Scizor also appreciates Stealth Rock setters such as
+
+Landorus-T
+
+, as they chip switch-ins such as Heatran and Corviknight, while Mega Scizor can help setters by removing Heavy-Duty Boots from Pokemon such as Moltres and Zapdos, making them vulnerable to Stealth Rock.
+
+Offensive
+
+Mega Scizor
+
+punches through the opposition with its three-attacks set thanks to its great base Attack stat, colorful coverage options, and surprisingly good natural bulk. Bullet Punch, when boosted by STAB and Technician, lets Mega Scizor beat faster threats like all-out attacking
+
+Zamazenta
+
+despite its mediocre base Speed stat. Close Combat hits Steel-types that normally stuff Mega Scizor, like
+
+Heatran
+
+and
+
+Kingambit
+
+, while being a great neutral option when boosted against the likes of
+
+Raging Bolt
+
+, opposing Mega Scizor, and
+
+Urshifu-R
+
+. Knock Off 2HKOes defensive and OHKOes offensive
+
+Gholdengo
+
+, which is otherwise a major annoyance, after a boost, while providing good utility into the likes of
+
+Toxapex
+
+and
+
+Moltres
+
+without needing a Swords Dance boost. Sand Tomb is a good alternative, as it directly breaks through Toxapex and other checks like
+
+Iron Moth
+
+while still retaining the ability to scare off Gholdengo, but it forgoes any chance of beating Moltres.
+
+This particular Mega Scizor set fits best on hyper offense teams, which want Mega Scizor's cleanup ability and defensive utility without the drawbacks of being checked by annoyances like Toxapex and Heatran; not having Roost is not very noticeable due to these teams' plan to win quickly. Entry hazard setters like suicide lead
+
+Landorus-T
+
+,
+
+Glimmora
+
+, and
+
+Iron Treads
+
+greatly help Mega Scizor's wallbreaking ability by chipping foes like Toxapex and Raging Bolt down into range of Mega Scizor's attacks. They also pair well with Knock Off, allowing Mega Scizor to use said hazards to heavily pressure Moltres and
+
+Volcarona
+
+. Dragon-types like
+
+Dragonite
+
+and Raging Bolt are great partners, as they set up on Fire-types like Heatran and Moltres that otherwise stop Mega Scizor while loving Mega Scizor's ability to beat Fairy-types like
+
+Iron Valiant
+
+and
+
+Tapu Koko
+
+and clean up once they are finished wallbreaking. Kingambit forms a great priority spamming duo with Mega Scizor, letting one wallbreak for the other to clean while appreciating Mega Scizor's neutrality to Ground and Fighting as well as its Fairy resistance, which let it switch into foes like Choice Scarf Urshifu-R, defensive
+
+Great Tusk
+
+, entry hazard setter
+
+Garchomp
+
+, and
+
+Mega Diancie
+
+.
+
+Accounting for its diverse movepool, priority options, and huge base Attack, Scizor makes for an incredibly threatening wallbreaker and cleaner on more offensive teams. Furthermore, Scizor's Steel typing and decent bulk also complements its ability to keep many faster threats in check, such as
+
+Enamorus
+
+,
+
+Mega Latias
+
+, and
+
+Alakazam
+
+, while using them as setup fodder. Knock Off allows Scizor to break past
+
+Slowbro
+
+and
+
+Skeledirge
+
+while also OHKOing
+
+Victini
+
+; it can even prove useful for removing items from several soft checks otherwise reliant on them, such as Leftovers from
+
+Rotom-W
+
+. Dual Wingbeat is usually preferred in the last slot for its coverage against specific physical walls able to blank its other attacks, such as
+
+Buzzwole
+
+,
+
+Mega Venusaur
+
+, and
+
+Tangrowth
+
+, but Close Combat can be used instead to deal more damage to Steel-types such as
+
+Skarmory
+
+,
+
+Magnezone
+
+, and
+
+Bisharp
+
+, putting immense pressure on the former at +2 while OHKOing the latter two unboosted. Quick Attack can also be used to give Scizor an extra priority attack, allowing it to finish off weakened foes that would otherwise resist Bullet Punch, such as
+
+Iron Moth
+
+and
+
+Zeraora
+
+, although its lack of coverage can leave Scizor to struggle with breaking through the aforementioned defensive targets. Due to its lack of longevity and early- or mid-game prowess, this Scizor set usually fits best on select offensive teams that appreciate its versatility in being able to deal with faster threats. Entry hazard support from the likes of
+
+Excadrill
+
+and Lead
+
+Mew
+
+can help push several Pokemon, such as Iron Moth and
+
+Tyranitar
+
+into Scizor's KO threshold. Scizor also appreciates specific teammates that can help weaken or take advantage of Fire- and Steel-types, like Iron Moth and
+
+Greninja
+
+, as it can often be dissuaded from sweeping by their presences in a vacuum while they remain healthy. Conversely, other late-game cleaners such as Swords Dance Bisharp, Z-Celebrate Victini, and Dragon Dance
+
+Mega Aerodactyl
+
+appreciate Scizor's own ability to force damage onto shared checks such as
+
+Hippowdon
+
+, Skarmory, and Choice Scarf
+
+Keldeo
+
+while allowing Scizor to forgo its late-game approach if attacking early may be more optimal for enabling the rest of its teammates.
+
+A fantastic defensive typing alongside powerful priority allow Scizor to be an important defensive piece as well a great late-game cleaner on most teams. Swords Dance is essential to allow Scizor to sweep weakened teams, and it pairs well with Bullet Punch, allowing Scizor to ignore its mediocre Speed and KO faster threats, like
+
+Alakazam
+
+and
+
+Iron Boulder
+
+. Knock Off allows Scizor to overwhelm checks such as
+
+Celesteela
+
+and
+
+Rotom-W
+
+that rely on Leftovers to check Scizor over a longer game. U-turn is another option that allows Scizor to pivot in threats such as
+
+Iron Moth
+
+and
+
+Greninja
+
+on typical Scizor checks such as
+
+Skarmory
+
+and
+
+Skeledirge
+
+. Roost is essential to allow Scizor to consistently perform defensive roles over a long game, as well as set up on weaker defensive foes, like
+
+Hippowdon
+
+and
+
+Tangrowth
+
+. Heavy-Duty Boots is typically preferred on Scizor to prevent it from being worn down too quickly by entry hazards, but Leftovers can also be used on teams with more reliable hazard removal. Buginium Z can be utilized alongside U-turn to defeat foes such as
+
+Amoonguss
+
+at +2 while also allowing Scizor to threaten foes such as
+
+Hydrapple
+
+without being forced to switch out. 112 Attack EVs with an Adamant Nature allow Scizor to OHKO
+
+Mega Gardevoir
+
+with Bullet Punch, 12 Speed EVs allow Scizor to outspeed Skeledirge, and 76 Special Defense EVs allow Scizor to survive 2 Shadow Ball from uninvested
+
+Aegislash
+
+. However, EVs can be moved from Attack to Defense or Special Defense to help Scizor better check threats such as Iron Boulder or Aegislash respectively, though 16 Attack with an Adamant nature is recommended to OHKO Mega Gardevoir after Stealth Rock. Bulky Swords Dance Scizor can be used on offensive and bulky teams that appreciate Scizor's priority and defensive profile. Teammates such as Mega Gardevoir and Alakazam appreciate Scizor removing Leftovers from shared checks such as Aegislash and Celesteela; Scizor's defensive profile provides support against threats such as
+
+Zeraora
+
+and Iron Boulder. Scizor often struggles to break through Skarmory, so teammates that can take advantage of it, like Aegislash, Iron Moth, and
+
+Magnezone
+
+are appreciated. Scizor is also heavily threatened by Fire-types like Iron Moth and Skeledirge, so partners such as Rotom-W,
+
+Slowking
+
+, and Hippowdon that can handle these threats are mandatory; in return, Scizor can check common switch-ins to these defensive pieces such as Hydrapple and
+
+Mega Venusaur
+
+. Scizor can also struggle to threaten certain offensive Pokemon that resist Bullet Punch, like Iron Moth and Greninja, so teammates such as Hippowdon and Celesteela that can handle these threats or wear them down until Scizor can pick them off later in the game are appreciated.
+
+Choice Band provides Scizor with immediate power on its attacks, allowing it to be more proficient as a wallbreaker, pivot, and late-game cleaner all at once. Bullet Punch puts substantial pressure on win conditions such as Calm Mind
+
+Clefable
+
+and
+
+Tapu Bulu
+
+, outright OHKOing the latter from full HP. Knock Off allows Scizor to remove important items from Pokemon otherwise reliant on them to deter it, such as Leftovers from
+
+Rotom-W
+
+and
+
+Celesteela
+
+and Rocky Helmet from
+
+Buzzwole
+
+and
+
+Amoonguss
+
+. Pursuit takes advantage of Scizor's excellent typing against several Psychic-type Pokemon to trap them, most notably
+
+Mega Latias
+
+,
+
+Alakazam
+
+, and
+
+Slowking
+
+. Alternatively, Close Combat and Dual Wingbeat are options to pose a more immediate threat to their respective targets, such as
+
+Excadrill
+
+and
+
+Magnezone
+
+with Close Combat and Buzzwole and
+
+Mega Venusaur
+
+with Dual Wingbeat. Scizor fits best on bulky offense teams that can best take advantage of its strong momentum-grabbing capabilities and cleanup potential. Pivots such as Rotom-W, Choice Scarf
+
+Hydreigon
+
+, and
+
+Iron Moth
+
+can help Scizor by threatening the physical walls used to stifle it, including
+
+Skarmory
+
+and Buzzwole; in return, Scizor can help force damage onto walls that normally handle these pivots, such as
+
+Tangrowth
+
+and
+
+Blissey
+
+. Scizor also appreciates strong entry hazard removal options to avoid being worn down quickly, including Defog from Rotom-W and
+
+Volcanion
+
+and Rapid Spin from Excadrill; the aforementioned Defog users are also capable of taking advantage of Fire-types that may pose a threat to Scizor, such as
+
+Victini
+
+. On the other hand, entry hazard support from the likes of Clefable and Skarmory is imperative to increase the overall impact of Scizor's pivoting capabilities as well as extend its capacity to revenge kill threats like
+
+Galarian Moltres
+
+with Bullet Punch.
+
+Mega Scizor
+
+makes for a strong wallbreaker and sweeper on Steel teams thanks to its access to Swords Dance, high Attack stat, and well-rounded bulk. Bullet Punch is Mega Scizor's strongest STAB move, and its priority allows it to revenge kill faster threats such as
+
+Mega Diancie
+
+,
+
+Iron Valiant
+
+, and
+
+Mega Lopunny
+
+. Close Combat is Mega Scizor's strongest coverage move, enabling it to more easily beat
+
+Corviknight
+
+,
+
+Ting-Lu
+
+, and
+
+Heatran
+
+. After a Swords Dance boost, Mega Scizor becomes strong enough to 2HKO
+
+Celesteela
+
+, opposing Mega Scizor, and physically defensive
+
+Gastrodon
+
+. Knock Off removes essential items such as Heavy-Duty Boots from
+
+Tornadus-T
+
+and Black Sludge from
+
+Toxapex
+
+, and it also provides Mega Scizor with strong coverage against
+
+Aegislash
+
+,
+
+Skeledirge
+
+, and
+
+Gholdengo
+
+. Alternatively, Trailblaze can also be used to 2HKO bulky Water- or Ground-type Pokemon most other Steel-types struggle with such as
+
+Mega Swampert
+
+and Gastrodon, as well as potentially OHKO
+
+Azumarill
+
+and
+
+Rotom-W
+
+after a Swords Dance boost and Stealth Rock damage. 132 Speed EVs are invested in order for Mega Scizor to outspeed Jolly Azumarill as well as
+
+Hydreigon
+
+and
+
+Urshifu-S
+
+after a Trailblaze. Heatran and
+
+Ferrothorn
+
+are great teammates because they are able to set entry hazards to wear down incoming foes, and Heatran also has the added benefit of providing a Fire immunity thanks to its ability. Ferrothorn can also provide passive healing for Mega Scizor via the use of Leech Seed. In return, Mega Scizor is able to threaten faster Fighting-types such as
+
+Sneasler
+
+and Iron Valiant with Bullet Punch. Gholdengo is able to threaten Toxapex and
+
+Tapu Lele
+
+, and it along with Aegislash can also hinder foes with Toxic and Thunder Wave respectively if they are running defensive sets, easing set up for Mega Scizor. In return, Mega Scizor can remove Dark-types such as
+
+Meowscarada
+
+, Ting-Lu, and
+
+Galarian Moltres
+
+. Specially defensive Celesteela is an excellent special wall that can wall Choice Specs Tapu Lele and
+
+Mega Altaria
+
+, while also being able to spread status and use Leech Seed to aid Mega Scizor in its sweeping. As Mega Scizor is more vulnerable to hazards compared to other Steel-types, it appreciates hazard removal from the likes of Corviknight,
+
+Excadrill
+
+, and
+
+Iron Treads
+
+. Excadrill and Iron Treads also have the added merit of handling Fire-types like
+
+Victini
+
+and
+
+Ogerpon-H
+
+. Excadrill can also bypass
+
+Mega Sableye
+
+'s Magic Bounce and inflict poison on it thanks to Mold Breaker, while Iron Treads can threaten both
+
+Landorus
+
+formes with Ice Spinner.
+
+Mega Scizor
+
+'s neutrality to Ground and Fighting and role compression as a wall and sweeper make it a formidable asset for Steel teams. Knock Off hinders predicted checks that Mega Scizor lures in on the switch such as
+
+Celesteela
+
+,
+
+Porygon2
+
+,
+
+Skeledirge
+
+, and
+
+Rotom-W
+
+, notably removing Heavy-Duty Boots to enable entry hazards that are characteristic of Steel teams. The first EV spread with an Adamant nature maximizes damage output, notably OHKOing
+
+Hisuian Lilligant
+
+,
+
+Meowscarada
+
+, and
+
+Kyurem
+
+with +2 Bullet Punch; it also outspeeds Adamant
+
+Azumarill
+
+and has the rest invested in HP to optimize mixed bulk. The second EV spread with an Impish nature also outspeeds Adamant Azumarill and avoids a 2HKO after Stealth Rock from
+
+Mega Lopunny
+
+'s Close Combat and Adamant
+
+Mega Swampert
+
+'s Earthquake, yet requires a layer of Spikes to OHKO Hisuian Lilligant and Meowscarada with +2 Bullet Punch. Mega Scizor is extremely vulnerable to Fire-type moves, so
+
+Heatran
+
+is a solid partner to mitigate this weakness. As Mega Scizor can often have a difficult time sweeping because Bullet Punch is easy to resist,
+
+Excadrill
+
+and
+
+Iron Treads
+
+make an offensive core with Mega Scizor, as they can pressure the Fire-, Electric- and Steel-types that would check it; notably, the former can additionally handle Rotom-W and the latter offensively checks
+
+Landorus
+
+.
+
+Ferrothorn
+
+and
+
+Hisuian Goodra
+
+are also options to further complement and handle Water-types for it.
+
+Gholdengo
+
+can wear down the opposing team as it stallbreaks past foes such as
+
+Toxapex
+
+,
+
+Mega Sableye
+
+, and Hisuian Goodra, easing Mega Scizor's sweep late-game; it also acts as an additional check for Fighting-types Mega Scizor can't consistently switch into such as
+
+Iron Valiant
+
+.
+
+Corviknight
+
+can remove entry hazards, increasing the longevity of Mega Scizor and the rest of its team, as well as pivot to it with U-turn to ease switching.
+
+Skarmory
+
+is also an alternative that can set Spikes, letting Mega Scizor reach OHKOes that it wouldn't otherwise.
+
+Swords Dance Scizor is an incredible wallbreaker for Bug teams, threatening offensive teams like Fairy, Dragon, and Ice. After a Swords Dance boost, Scizor becomes a powerful revenge killer that deals with fast frail threats like
+
+Iron Valiant
+
+, Mega-Diancie, and
+
+Sneasler
+
+using Bullet Punch. Close Combat is mandatory coverage, being able to take out
+
+Ferrothorn
+
+,
+
+Hisuian Goodra
+
+, and
+
+Blissey
+
+after a boost. Knock Off handles Psychic- and Ghost- types like
+
+Jirachi
+
+,
+
+Slowbro
+
+, and
+
+Gholdengo
+
+while hindering walls that switch in. Alternatively, Trailblaze increases Scizor's mediocre Speed while taking on Water- and Ground- types like
+
+Azumarill
+
+,
+
+Swampert
+
+, and
+
+Hippowdon
+
+. Metal Coat is the optimal item for the boost to Bullet Punch it provides without the downside of Life Orb recoil, which secures OHKOs on Pokemon like
+
+Latios
+
+and
+
+Mega Lopunny
+
+at +2. 216 Speed EVs let it outspeed base 100 Pokemon after -1 from Sticky Webs or a single Trailblaze boost. Sticky Web is often provided by
+
+Galvantula
+
+, which also takes care of Pokemon like
+
+Corviknight
+
+and
+
+Toxapex
+
+that Scizor struggles with.
+
+Araquanid
+
+handles Fire- types like
+
+Volcarona
+
+and
+
+Blacephalon
+
+while also providing Sticky Web support and a burn immunity. Volcarona appreciates Scizor's removal of walls and Choice Scarf users like
+
+Nihilego
+
+while in return dealing with bulky physical walls such as
+
+Zapdos
+
+or
+
+Great Tusk
+
+.
+
+Kleavor
+
+sets Stealth Rock, which chips down opposing teams into boosted Bullet Punch range while also handling Fire- types like Volcarona and
+
+Mega Charizard Y
+
+. Finally,
+
+Mega Pinsir
+
+removes Fighting- types and can more easily pick off teams that have been weakened by Scizor's powerful priority move.
+
+Thanks to its humongous power after a Swords Dance boost, powerful priority in Bullet Punch, amazing defensive typing, and a colorful array of coverage options,
+
+Mega Scizor
+
+is an incredibly versatile offensive threat. Close Combat smashes the Steel-types resistant to Bullet Punch, such as
+
+Ferrothorn
+
+and
+
+Archaludon
+
+, and is Mega Scizor's go-to way of chunking physically bulky Pokemon like
+
+Porygon2
+
+and
+
+Celesteela
+
+. Dual Wingbeat ties up Mega Scizor's coverage beautifully by delivering a clean 2HKO on
+
+Toxapex
+
+at +2 and nailing threats such as
+
+Keldeo
+
+and
+
+Mega Venusaur
+
+, thus allowing it to excel in the Fighting, Dragon, and Poison matchups. Alternatively, Knock Off is a more useful move to use while unboosted and lets Mega Scizor pressure Steel and Psychic teams much better by hitting
+
+Gholdengo
+
+,
+
+Slowbro
+
+, and
+
+Jirachi
+
+the hardest. Sticky Web support from
+
+Araquanid
+
+or
+
+Galvantula
+
+is paramount for Mega Scizor to effectively perform in the matchups it's supposed to by letting it outspeed the likes of
+
+Kommo-o
+
+and
+
+Mega Gallade
+
+. In particular, Araquanid soaks up the Fire-type moves aimed at Mega Scizor, and Galvantula forms a nice wallbreaking core with it courtesy of its ability to threaten Flying- and Water-types like
+
+Skarmory
+
+and
+
+Dondozo
+
+. Choice Scarf
+
+Kleavor
+
+revenge kills Fire-types and common Fire-type coverage users such as
+
+Mega Charizard Y
+
+and
+
+Zapdos
+
+and provides Stealth Rock via Stone Axe for Mega Scizor to nab extra kills. Other setup sweepers like
+
+Volcarona
+
+,
+
+Buzzwole
+
+, and
+
+Lokix
+
+greatly appreciate Mega Scizor's ability to soften the opposing team and vice versa, making them good offensive partners.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!

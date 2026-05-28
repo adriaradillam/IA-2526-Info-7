@@ -1,0 +1,1307 @@
+Hex can be used on sets packing Will-O-Wisp to deal massive damage to burned foes, notably letting Skeledirge OHKO
+
+Slowking
+
+at +1 after burn damage, while also helping put a lot of pressure on Pokemon such as
+
+Tornadus-T
+
+and
+
+Rotom-W
+
+that may try to pivot around Skeledirge once they have been burned. Shadow Ball is a more reliable option to deal consistent damage early-game. Will-O-Wisp allows Skeledirge to put pressure on physical attackers such as
+
+Lokix
+
+and
+
+Donphan
+
+, while Earth Power can hit
+
+Heatran
+
+for large damage as well as forcing
+
+Fezandipiti
+
+to expend Roost's PP, allowing Skeledirge to safely get teammates in. Heavy-Duty Boots allows Skeledirge to ignore its otherwise ruinous Stealth Rock weakness. The EV spread allows Skeledirge to take on a wide variety of both physical and special attackers; for example, it has good odds to survive two Earth Powers from
+
+Gastrodon
+
+and has a chance to survive two High Horsepowers from
+
+Revavroom
+
+. Tera Fairy allows Skeledirge to take on Dark-types such as Lokix and
+
+Zarude
+
+while also giving it an immunity to
+
+Latios
+
+'s and
+
+Hydrapple
+
+'s Draco Meteors. Tera Poison gives Skeledirge an immunity to Toxic from both Fezandipiti and
+
+Toxapex
+
+; the typing lets it check
+
+Ogerpon-C
+
+and
+
+Greninja
+
+and helps it check Dark-types such as Lokix and
+
+Hydreigon
+
+. However, Tera Fairy makes Skeledirge unable to check Revavroom, while Tera Poison leaves it unable to check Latios. Both Tera types also make Skeledirge unable to block Rapid Spin from
+
+Excadrill
+
+and Donphan in a pinch.
+
+Skeledirge primarily fits best on a variety of playstyles ranging from bulky offense to stall teams, which appreciate its ability to soft check a wide array of Pokemon such as
+
+Thundurus-T
+
+, Latios, and Revavroom. Knock Off absorbers such as
+
+Skarmory
+
+and Fezandipiti are great for Skeledirge, as they can take on Pokemon such as Zarude and Lokix that Skeledirge may not be comfortable switching into for fear of losing its Heavy-Duty Boots. Water-type switch-ins such as Slowking, Hydrapple, and Rotom-W are perfect partners for Skeledirge, as they can take on Water-types such as Greninja and
+
+Keldeo
+
+that Skeledirge might struggle with, while in return, Skeledirge can take on Pokemon such as Thundurus-T that said Water-type switch-ins might struggle against. Slowking and Rotom-W in particular are great partners, as they can spread burns or paralysis to boost the power of Hex. Flying-types such as Skarmory and Tornadus-T are great for Skeledirge, as they can take on Ground-types such as Excadrill that Skeledirge may not be comfortable staying in on, while in return, Skeledirge can check Pokemon such as Thundurus-T said Flying-types can struggle against. Pivot Pokemon such as Tornadus-T and Choice Scarf Zarude are heavily enjoyed by Skeledirge, as they can safely get it in against Pokemon such as Skarmory and Slowking so that it can start pressuring opposing teams' defensive cores. Paralysis spreaders such as Slowking,
+
+Tinkaton
+
+, and
+
+Bellibolt
+
+allow Skeledirge to outspeed foes such as Fezandipiti and
+
+Manaphy
+
+while also boosting the power of Hex.
+
+Skeledirge is a good physical wall, acting as an important check to
+
+Koraidon
+
+,
+
+Zacian-C
+
+, and Extreme Killer
+
+Arceus
+
+. It can switch into these powerful Swords Dance sweepers, beating them or halting their sweep. Torch Song allows it to potentially sweep a weakened team late-game. Earth Power is an option that chips
+
+Miraidon
+
+and
+
+Eternatus
+
+as well as giving it a super effective hit against Tera Fire Zacian-C and Koraidon. Fairy is the ideal Tera type, giving Skeledirge an immunity to Koraidon's Dragon-type attacks and removing its weaknesses to Ground- and Ghost-type attacks from foes like
+
+Arceus-Ground
+
+,
+
+Calyrex-S
+
+, and
+
+Giratina-O
+
+. Tera Flying is a niche option that further improves its matchup against Arceus-Ground while avoiding super effective Behemoth Blade from Zacian-C. Skeledirge is a good fit on balance teams that appreciate it checking common setup threats and carrying teammates that make up for its shortcomings and bad matchups. Skeledirge is very vulnerable to Miraidon,
+
+Kyogre
+
+, Calyrex-S, and Arceus-Ground, so it appreciates teammates like
+
+Ting-Lu
+
+, Eternatus,
+
+Wo-Chien
+
+, and Giratina-O to handle these powerful attackers. Likewise, Skeledirge pairs well with fast attackers and priority users such as Calyrex-S, Choice Scarf Koraidon, and Extreme Killer Arceus, which can threaten the foes that force Skeledirge out and revenge kill Pokemon it checks if it is overwhelmed.
+
+Skeledirge in Ubers is a unique check to one of the most threatening Pokemon in the tier,
+
+Koraidon
+
+, thanks to its access to Unaware. Koraidon must be careful against Skeledirge, as it can burn Koraidon or potentially OHKO it with Alluring Voice, all while Skeledirge has the option to Tera Fairy to avoid Scale Shot. While Skeledirge is at risk of being 2HKOed by Koraidon's Scale Shot, this is reliant on Koraidon getting 9 total hits of Scale Shot over two turns with sun up. Due to these factors, while Skeledirge cannot always handle Koraidon reliably by itself, Skeledirge's mere presence on the team forces opposing Koraidon to play very carefully, often preventing Koraidon's setup opportunities entirely. Outside of Koraidon, Skeledirge is excellent against most physical threats in the tier; notably, it can counter
+
+Zacian-C
+
+and take on Extreme Killer
+
+Arceus
+
+and
+
+Calyrex-I
+
+quite well. Torch Song provides Skeledirge with a way to not be too passive, and it can let it sweep in certain late-game scenarios. This, however, does not prevent Skeledirge from easily being taken advantage of by special threats such as
+
+Miraidon
+
+and
+
+Kyogre
+
+.
+
+Hex is a strong attacking option that takes advantage of Will-O-Wisp and does great damage against
+
+Gliscor
+
+, 2HKOing at +1. Earth Power nails
+
+Miraidon
+
+on the switch, and it gives Skeledirge a good way to damage Tera Fire users like
+
+Koraidon
+
+,
+
+Arceus
+
+, and
+
+Calyrex-I
+
+. Will-O-Wisp's burns can do useful chip damage against nearly anything that switches in, and it cripples any physical attacker hit by it. Tera Fairy is mandatory for Skeledirge to take on Koraidon should Skeledirge be too low on HP. Care should be taken when facing Koraidon, as ideally, Tera Fairy should only be used as a last resort. If Skeledirge only takes four hits of Scale Shot upon switching in, it can repeatedly use Slack Off in order to stall out sun turns, or to hope for a Scale Shot miss. In general, being aware of when sun fades is very useful, as Koraidon cannot hope to break Skeledirge without it.
+
+Skeledirge needs teammates that can handle the special attackers that it is weak to. Checks to Miraidon like
+
+Ting-Lu
+
+and
+
+Arceus-Ground
+
+are great options, while
+
+Eternatus
+
+, Koraidon, Miraidon, and
+
+Clodsire
+
+help against
+
+Kyogre
+
+.
+
+Necrozma-DM
+
+and Arceus-Ground are some of few physical attackers that can get past Skeledirge, so checks to them like
+
+Arceus-Water
+
+,
+
+Arceus-Dark
+
+, Kyogre, and Bulldoze Gliscor are valuable partners.
+
+Other Options
+
+Other Tera types such as Tera Flying are possible, but typically, Tera Fairy is too useful against
+
+Koraidon
+
+to give up. Alluring Voice may seem tempting to use, but it fails to OHKO Koraidon and is generally outclassed by other options.
+
+Checks and Counters
+
+Special Attackers
+
+:
+
+Miraidon
+
+,
+
+Kyogre
+
+,
+
+Eternatus
+
+, and other special attackers don't take too much damage from switching in on Skeledirge and can easily force it out with their strong attacks. Kyogre in particular doesn't mind any coverage move and can take great advantage of Skeledirge.
+
+Ho-Oh
+
+: Ho-Oh is immune to burns and can wall Skeledirge with its titanic special bulk.
+
+Taunt
+
+: Taunt prevents Skeledirge from healing or using Will-O-Wisp, though predicted Taunts can be taken advantage of by Torch Song.
+
+Tera Fire
+
+: Tera Fire prevents burns and provides a resistance to Torch Song, though Tera Fire users must be wary of Earth Power or Alluring Voice's confusion.
+
+Due to its great natural bulk, unique defensive typing, and access to Unaware, Skeledirge manages to be a fantastic defensive presence that is able to stave off the likes of
+
+Iron Moth
+
+,
+
+Iron Valiant
+
+, and
+
+Zamazenta
+
+. Moreover, Torch Song prevents it from being too passive, even letting it clean late-game with enough boosts as the foes might fail to KO it in return. Will-O-Wisp quickly neutralizes physical attackers like
+
+Dragonite
+
+and Zamazenta in addition to powering up Skeledirge's Hex. Maximizing its HP and Special Defense enables Skeledirge to more reliably check Iron Moth,
+
+Enamorus
+
+, and special Iron Valiant; conversely, maximizing its HP and Defense turns Skeledirge into an immensely sturdy physical wall, forgoing its reliance on spreading burn by leveraging its raw physical bulk to check potent setup sweepers, particularly Dragonite and Zamazenta. Tera Fairy provides Skeledirge with a much-appreciated resistance to Dark while being an overall strong defensive typing, allowing it to safely check Pokemon such as
+
+Weavile
+
+,
+
+Dragapult
+
+, and
+
+Great Tusk
+
+. Tera Water improves its matchup against
+
+Gholdengo
+
+and
+
+Kingambit
+
+while still maintaining its good matchup against Iron Moth and
+
+Cinderace
+
+.
+
+Skeledirge fits on balance and bulky offense teams that appreciate its ability to force progress while staving off opposing threats. It dislikes taking Knock Off due to its reliance on Heavy-Duty Boots, so it appreciates teammates such as
+
+Clefable
+
+and
+
+Skarmory
+
+that can safely switch into Knock Off from Weavile and Iron Valiant. Skeledirge also enjoys having Clefable in particular absorb Salt Cure from
+
+Garganacl
+
+; Clefable also appreciates Skeledirge's reliability in forcing out
+
+Galarian Slowking
+
+and Iron Moth.
+
+Rillaboom
+
+and Galarian Slowking are much-appreciated teammates for Skeledirge, as Rillaboom provides Skeledirge with Grassy Terrain to bolster its longevity in addition to forcing out
+
+Ogerpon-W
+
+that would otherwise threaten it, whereas Galarian Slowking can pivot into and around powerful wallbreakers such as
+
+Kyurem
+
+and
+
+Walking Wake
+
+. It also enjoys entry hazard support from
+
+Gliscor
+
+and Skarmory wearing down Pokemon such as Choice Specs Kyurem that would otherwise threaten Skeledirge and its team. Skarmory also assists Skeledirge in answering Choice Band Rillaboom, which otherwise threatens it with Knock Off, reliably checks Kingambit for it and appreciates having a consistent check to Iron Moth. Gliscor can spread status with Toxic to power up Skeledirge's Hex and relishes in having a sturdy switch-in to
+
+Serperior
+
+. Skeledirge also benefits from pairing with fast wallbreakers such as Weavile, Dragapult, and Ogerpon-W, providing them with a sturdy defensive backbone and appreciating having them weaken the opposing team's defenses, as they open up Skeledirge to sweep late-game with Torch Song; it also greatly enjoys pairing with Dragapult in particular, as Dragapult is capable of spreading status effects to a multitude of Pokemon such as Great Tusk and
+
+Landorus-T
+
+for Skeledirge to take advantage of with its Hex.
+
+Ghost
+
+Skeledirge carves out a unique niche for itself on Ghost teams as a physical wall that applies immense pressure on bulkier teams with Torch Song and the combination of Will-O-Wisp + Hex; however, Ghost teams are generally offensively oriented, and Skeledirge is outclassed as a bulky Ghost-type by
+
+Gholdengo
+
+and
+
+Pecharunt
+
+. Both of these Ghost-types can spread status, and the former provides immediate wallbreaking power with Nasty Plot and a nearly unresisted STAB combination and the latter can punish physical attackers with Foul Play and provide a safe switch-in to teammates with Parting Shot.
+
+Ceruledge
+
+can provide the role of a Fire-type for the team, which, with its access to Swords Dance, can make for a powerful wallbreaker and setup sweeper.
+
+Skeledirge makes for an excellent physical wall on Ghost teams due to its remarkable bulk, access to reliable recovery, and a great ability in Unaware. Torch Song is an incredible STAB move option that pressures teams like Fairy, Steel, and Flying. Will-O-Wisp allows Skeledirge to punish physical attackers like
+
+Dragonite
+
+,
+
+Great Tusk
+
+, and
+
+Weavile
+
+, as well as chipping
+
+Clodsire
+
+and weakening Earthquake, making it easier for teammates like
+
+Gholdengo
+
+and
+
+Flutter Mane
+
+to overwhelm it. Earth Power provides great coverage and targets foes like
+
+Heatran
+
+, physically defensive
+
+Toxapex
+
+, and non-Air Balloon Heatran, which resist or are immune to Torch Song. Hex, paired with Will-O-Wisp, provides a decent STAB move option, while Shadow Ball provides more reliable damage in the long run.
+
+Choice Specs Flutter Mane and Swords Dance
+
+Mimikyu
+
+are excellent partners that can eliminate Dark-types like
+
+Greninja
+
+,
+
+Hydreigon
+
+, and non-Choice Scarf
+
+Hoopa-U
+
+.
+
+Dragapult
+
+acts as a fast status spreader and can provide incredible wallbreaking power with its exceptional coverage and immense Speed when utilizing Choice Specs to eliminate walls like
+
+Dondozo
+
+and Toxapex. Furthermore, Flutter Mane and Dragapult can use a Choice Scarf set to revenge kill opposing Choice Scarf users like
+
+Meowscarada
+
+, Greninja,
+
+Roaring Moon
+
+, and
+
+Iron Boulder
+
+, with the latter also removing opposing Choice Scarf Flutter Mane. In return, Skeledirge can handle Steel-types like
+
+Corviknight
+
+and
+
+Skarmory
+
+for Mimikyu and
+
+Hisuian Goodra
+
+for Flutter Mane and Dragapult.
+
+Sinistcha
+
+boasts Water and Ground resistances, with which it can take on foes like
+
+Ogerpon-W
+
+, Dondozo, Great Tusk, and the
+
+Landorus
+
+formes. In return, Skeledirge can handle Fire-types like
+
+Cinderace
+
+,
+
+Volcarona
+
+, and
+
+Ogerpon-H
+
+.
+
+Hisuian Zoroark
+
+provides a Ghost immunity and, with its ability Illusion, can lure in and remove opposing Ghost-types and ruin walls like
+
+Blissey
+
+and Clodsire, which Skeledirge struggles against, by tricking them a Choice Scarf or Choice Specs. Gholdengo handles Rock-types like Iron Boulder and
+
+Ogerpon-C
+
+and provides safe switch-in against status moves like Toxic from Toxapex and Clodsire. With Air Balloon, Gholdengo can switch into Ground-type moves from foes like Great Tusk,
+
+Gliscor
+
+, and the Landorus formes aimed at Skeledirge, threatening them back with its boosted STAB moves.
+
+Skeledirge is a great choice for Fire teams as a non-passive physically defensive wall. With Will-O-Wisp and Unaware, it can check physical set-up sweepers such as Dragon Dance
+
+Dragonite
+
+or Belly Drum
+
+Azumarill
+
+that threaten Fire. Additionally, Torch Song lets Skeledirge fire back against these threats while raising its Special Attack and reducing passitivity. Hex pairs incredibly well with Will-O-Wisp, as it threatens large amounts of damage on burned foes, while Shadow Ball is a more consistent STAB option that hits opposing Skeledirge for more immediate damage. Heavy-Duty Boots lets Skeledirge avoid entry hazards chipping away at it whenever it switches in.
+
+Volcarona
+
+is a great teammate for Skeledirge, as it can threaten Dark-types that annoy Skeledirge such as
+
+Ting-Lu
+
+and
+
+Roaring Moon
+
+. In return, Skeledirge can burn physical attackers, like Dragonite, giving Volcarona more setup opportunities.
+
+Paldean Tauros-F
+
+is also a good teammate, since it can threaten the aforementioned Dark-types with its Fighting-type STAB attacks while also having Intimidate to help neutralize physical attackers that Skeledirge cannot handle on its own, such as Roaring Moon. Additionally, its Choice Scarf set can outspeed and KO
+
+Greninja
+
+.
+
+Torkoal
+
+pairs well with Skeledirge due to its ability to both remove entry hazards with Rapid Spin and set them up, all while also powering up Skeledirge's Torch Song.
+
+Cinderace
+
+is a fairly good partner as well due to High Jump Kick, letting it remove Dark-types aiming to threaten Skeledirge, while also being able to remove entry hazards with Court Change and hit Poison-types such as
+
+Clodsire
+
+and
+
+Toxapex
+
+with Zen Headbutt.
+
+Scovillain
+
+is a good partner, since it can remove Water-types such as
+
+Dondozo
+
+and
+
+Rotom-W
+
+with its Grass-type STAB attacks. Both
+
+Talonflame
+
+and Air Balloon
+
+Iron Moth
+
+alleviate Skeledirge's weakness to threats such as
+
+Great Tusk
+
+and Ting-Lu.
+
+Other Options
+
+Ghost
+
+An alternate EV spread of 248 HP / 56 Def / 204 Spe can be used to allow Skeledirge to outspeed
+
+Azumarill
+
+and burn it, defeating it one-on-one.
+
+Welcome to Battle Stadium Singles Regulation F! This Pokemon has been updated to reflect the new Pokemon that The Indigo Disk has brought!
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Thanks to instant recovery, Unaware, and the snowballing potential of Torch Song, Skeledirge is a viable alternative to
+
+Dondozo
+
+.
+
+Will-O-Wisp versus Yawn
+
+: Will-O-Wisp vastly improves Skeledirge's match-up against fearsome physical foes such as
+
+Kingambit
+
+, while Yawn works exceptionally well with Stealth Rock support.
+
+Earth Power
+
+: Earth Power hits
+
+Chi-Yu
+
+switch-ins hard and is the best option into Terastallized
+
+Ogerpon-H
+
+. This is usually the preferred coverage move if using Skeledirge on a stall team.
+
+Substitute
+
+: Substitute is a good way around status, especially
+
+Garganacl
+
+'s Salt Cure. It also becomes effective when used on Toxic Spikes teams.
+
+Other Options
+
+Encore
+
+: When paired with Substitute, Skeledirge can seriously punish passive Pokemon, though at a serious cost in coverage.
+
+Tera Types
+
+Tera Dependency - High
+
+: Skeledirge's defensive typing isn't without its merits, but the wide variety of weaknesses it has often forces Skeledirge to Terastallize to check major threats like
+
+Chien-Pao
+
+and
+
+Dragonite
+
+.
+
+Fairy
+
+: Terastallizing into the Fairy typing removes Skeledirges glaring weakness to Dark and provides an overall superior defensive typing, making Chien-Pao and
+
+Ting-Lu
+
+far more reasonable to deal with. It also provides a neutral typing for the inevitable Shadow Balls that will be thrown at Skeledirge, like from
+
+Flutter Mane
+
+or
+
+Gholdengo
+
+.
+
+Water
+
+: A Water Tera type lets Skeledirge take on opposing Water-type attacks, providing a valuable turn to burn foes like
+
+Urshifu-R
+
+. It should be noted that Tera Water tends to be a safer option versus the common Gholdengo, as it does not often run Thunderbolt.
+
+Normal
+
+: While Tera Normal isn't fantastic defensively, it lets Skeledirge severely punish attempts from special attacking Ghost-types such as Flutter Mane and Gholdengo to check it.
+
+Dragon
+
+: A Dragon Tera type let's Skeledirge check Urshifu-R and Ogerpon-H simultaneously, though it will likely need help from teammates covering its newfound Fairy-type weakness.
+
+Items
+
+Leftovers versus Sitrus Berry
+
+: Residual recovery helps Skeledirge use Torch Song more freely. Leftovers is the best option since Skeledirge has instant recovery, but Sitrus Berry with an even HP stat can be used to restore some health after getting hit by Ruination.
+
+Ability Shield
+
+: Ability Shield keeps Unaware active in the face of Mold Breaker users like Swords Dance Ogerpon-H, which can overwhelm Skeledirge with enough boosts.
+
+Covert Cloak
+
+: Covert Cloak ignores the secondary effects of Garganacl's Salt Cure as well as stopping stat drops from Flutter Mane's Shadow Ball and Ogerpon-H's Rock Tomb.
+
+Heavy-Duty Boots
+
+: This makes Skeledirge less pressured to Terastallize to rid itself of its Stealth Rock weakness.
+
+With Blunder Policy, this Skeledirge provides a unique approach to offense: it'll either put important foes to sleep or threaten to snowball into a sweep with Speed and Special Attack boosts!
+
+Shadow Ball
+
+: Even with Skeledirge's wide variety of viable Tera types, Shadow Ball is still an excellent secondary STAB attack for hitting
+
+Dragapult
+
+,
+
+Flutter Mane
+
+, and opposing Skeledirge.
+
+Earth Power
+
+: Earth Power is Skeledirge's best option against
+
+Garganacl
+
+and
+
+Chi-Yu
+
+, and it makes checking
+
+Iron Moth
+
+feasible.
+
+Tera Types
+
+Tera Dependency - High
+
+: Beyond the many weaknesses Skeledirge's typing has, it only has one shot of having +2 Speed, so Terastallizing is preferred over switching when possible.
+
+Fairy
+
+: With this Skeledirge's more offensive nature, Tera Fairy's immunity to powerful Dragon-type attacks is a big help, and it makes Tera Blast an effective tool against bulky foes such as
+
+Ting-Lu
+
+,
+
+Baxcalibur
+
+, and
+
+Garchomp
+
+.
+
+Water
+
+: Besides being a fantastic defensive typing, Tera Water gives Skeledirge the chance to pick off weakened
+
+Iron Bundle
+
+as they use Hydro Pump and gives it a good attack against Chi-Yu, Garganacl, and Iron Moth.
+
+Fire
+
+: In addition to removing the troublesome Ghost-type weakness, Tera Fire makes sweeping with Torch Song require less setup.
+
+Normal
+
+: Tera Normal gives Skeledirge a key Ghost-type immunity, taking advantage of common Choiced Ghost-types such as
+
+Gholdengo
+
+.
+
+Grass
+
+: Tera Grass vastly improves Skeledirge's matchup against
+
+Breloom
+
+,
+
+Rotom-W
+
+, and
+
+Brute Bonnet
+
+.
+
+EV Spreads
+
+All EV spreads for this set should outspeed Dragapult after missing Sing.
+
+204 HP / 4 Def / 132 SpA / 4 SpD / 164 Spe with Modest
+
+: The HP investment in this spread lets Skeledirge survive one Earthquake from Garchomp or one Throat Chop from Jolly Focus Sash
+
+Chien-Pao
+
+when staying not Terastallizing, and one Choice Specs Hydro Pump from Iron Bundle when Tera Fairy or Tera Normal.
+
+92 HP / 252 SpA / 164 Spe with Modest
+
+: This spread sacrifices bulk for being able to OHKO Iron Bundle with Torch Song after Stealth Rock damage and doing the same to
+
+Kingambit
+
+with Tera Fire.
+
+164 HP / 180 Def / 164 Spe with Bold
+
+: This defensive spread allows Tera Skeledirge to always avoid a 2HKO from Jolly Choice Band
+
+Dragonite
+
+'s Extreme Speed and avoids getting 2HKOed by Baxcalibur's 4-hit Icicle Spear when Tera Normal or Fairy.
+
+4 Def / 252 SpA / 252 Spe with Modest or Timid
+
+: A huge sacrifice in bulk makes it harder for Skeledirge to set up, but the Speed investment does allow it to outspeed several major Choice Scarf threats after missing Sing. Modest variants will outspeed up to Modest Choice Scarf Chi-Yu and Jolly Choice Scarf
+
+Annihilape
+
+, while Timid sets will Speed tie with +1
+
+Espathra
+
+.
+
+This set does not have a full write-up yet. If you'd like to finish this, feel free to reserve it here!
+
+Draft Order
+
+: Round 6 onwards
+
+Price Range
+
+: 7-8 points
+
+Overview
+
+: Skeledirge looks appealing on paper but often falls short in practice. On the positive side, it is an Unaware wall that can be more offensively threatening due to its potent offensive STAB combination and boosting option in Torch Song. Furthermore, it has the tools to shine with Terastallization in order to wall a good variety of setup sweepers and spread status with Will-O-Wisp. However, Skeledirge has significant flaws, including a reliance on Heavy-Duty Boots and having a defensive typing that is often far more flawed than useful if unable to Terastallize. In general, Skeledirge is a functional defensive piece so long as you can account for its shortcomings.
+
+Common Roles
+
+Unaware Wall
+
+: With Unaware and reliable recovery in Slack Off, Skeledirge makes for a reliable answer to a good number of setup-reliant Pokemon. It often carries Will-O-Wisp to hinder physical attackers, although it can also choose to run Yawn to force out most threats and Encore to shut down opposing walls.
+
+Bulky Setup Sweeper
+
+: Torch Song makes Skeledirge a good sweeper, especially when paired with Slack Off to heal off damage it takes as it sets up. Setup sets also have the option to run Will-O-Wisp to turn physical attackers into setup fodder and boost the power of Hex, as well as Flame Charge to circumvent Skeledirge's low Speed.
+
+Common Moves
+
+Primary STAB Moves
+
+: Torch Song, Shadow Ball, Hex
+
+Setup Moves
+
+: Torch Song
+
+Utility Moves
+
+: Slack Off, Will-O-Wisp, Substitute, Encore, Roar, Yawn, Fire Spin
+
+Coverage
+
+: Earth Power, Scorching Sands, Alluring Voice, Tera Blast
+
+Niche Moves
+
+Flame Charge
+
+: Flame Charge allows Skeledirge to solve its Speed issue, although it often takes two turns for it to boost enough to outspeed faster threats.
+
+Fire Blast / Overheat
+
+: Fire Blast and Overheat can give Skeledirge a stronger immediate Fire-type attack if needed.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Due to Skeledirge's susceptibility to entry hazards, it often runs Heavy-Duty Boots to provide it more opportunities to hit the field.
+
+Leftovers
+
+: Leftovers gives Skeledirge better longevity and can be used on sets that use Terastallization to remove its Stealth Rock weakness.
+
+Niche Items
+
+Throat Spray
+
+: Throat Spray gives Skeledirge two Special Attack boosts from its first Torch Song, allowing offensive sets to become more immediately threatening.
+
+Resistance Berries
+
+: Resistance Berries allow Skeledirge to better take a super effective hit and to cripple a foe with status or secure a trade.
+
+Tera
+
+While Skeledirge makes for a good Tera Captain, it also tends to hog Terastallization for itself to the cost of its teammates. Furthermore, it can still struggle against strong special attackers regardless of its typing and dislikes losing the ability to spinblock when not running Tera Ghost. Skeledirge usually prefers Tera Fairy to flip the script against Dark- and Dragon-types that would otherwise annoy it greatly, the latter because of Draco Meteor working against Unaware. On occasion, it can use Tera types such as Ground and Water to either get around a common weakness or set up offensively. It performs best when it is able to Terastallize without harming the defensive integrity of your team, and as such, Terastallization should be preserved as much as possible to avoid the loss of momentum.
+
+Draft Strategy
+
+Skeledirge is a solid defensive addition that can provide some offense in a pinch, but it requires a good amount of support to cover its weaknesses. In general, Skeledirge aims to fit on more balanced structures that can combine offensive wallbreaking with defensive integrity. As a Ghost-type, Skeledirge can help with entry hazard control and can spread burns for its teammates, provided that you can avoid the pitfalls of its base typing.
+
+Entry Hazard Removal
+
+: Even when you plan to remove Skeledirge's Rock weakness with Terastallization, Skeledirge appreciates good entry hazard removers such as
+
+Great Tusk
+
+,
+
+Corviknight
+
+, and
+
+Donphan
+
+so that it can enter battle safely prior to Terastallizing.
+
+Wallbreakers
+
+: Skeledirge struggles to wallbreak on its own, so it appreciates wallbreakers such as Great Tusk,
+
+Roaring Moon
+
+, and
+
+Enamorus
+
+softening up the opposing team for it. Skeledirge's ability to spread burn also supports wallbreakers by giving them more opportunities to hit the field.
+
+Defensive Partners
+
+: While Skeledirge is a good defensive option on its own, it also appreciates relatively bulky Pokemon that resist its weaknesses. Roaring Moon,
+
+Rillaboom
+
+, and
+
+Swampert
+
+make for good partners in this regard. Furthermore, it appreciates having a reliable special backbones to give it flexibility when deciding when to Terastallize.
+
+Checks and Counters
+
+Entry Hazards
+
+: Skeledirge's susceptibility to Stealth Rock prior to Terastallizing makes it difficult for it to enter battle safely, especially since offensive variants do not want to be forced to run Heavy-Duty Boots. Entry hazard setters such as
+
+Ting-Lu
+
+,
+
+Hisuian Samurott
+
+, and
+
+Clodsire
+
+can pressure Skeledirge with hazards. While Skeledirge can run Heavy-Duty Boots to avoid taking entry hazard damage, its Ghost typing and reliance on items make it a common target for Knock Off.
+
+Unaware Walls
+
+: Offensive Skeledirge can struggle to break other Unaware Pokemon such as
+
+Clefable
+
+, Clodsire, and
+
+Dondozo
+
+, and even defensive Skeledirge has a bad matchup against most of them prior to Terastallizing.
+
+Specially Defensive Pokemon
+
+: Being a special attacker, Skeledirge struggles to break through specially defensive Pokemon that aren't weak to its STAB moves, such as Ting-Lu and
+
+Primarina
+
+.
+
+Disruption Moves
+
+: Disruption moves such as Taunt and Encore can shut down Skeledirge's attempts to wall threats such as
+
+Tornadus-T
+
+,
+
+Iron Valiant
+
+, and
+
+Dragonite
+
+.
+
+Skeledirge is a powerful Pokemon in 1v1 thanks to its combination of Custap Berry, Blaze, and Blast Burn, which allows it to melt past threats like
+
+Hisuian Goodra
+
+and
+
+Iron Hands
+
+after a Torch Song.
+
+Torch Song allows Skeledirge to boost its Special Attack if it can survive a hit while also hitting Pokemon like
+
+Serperior
+
+and
+
+Whimsicott
+
+through Substitute.
+
+Encore helps Skeledirge against Pokemon like
+
+Iron Valiant
+
+and
+
+Iron Crown
+
+, as they can sometimes use Encore on it themselves or start setting up on it. Encore is also helpful for Skeledirge in cases where it can guarantee itself to go into Custap Berry range, such as when opponents choose to use weaker moves against it due to the fear of Endure.
+
+Endure allows Skeledirge to survive attacks from Pokemon like non-Assault Vest
+
+Landorus-T
+
+and offensive
+
+Ogerpon-W
+
+to then go next the second turn with Custap Berry and fire off a strong Blaze-boosted Blast Burn.
+
+The HP and Defense investment allows Skeledirge to survive an Earthquake from Choice Band Iron Hands, the Special Defense investment makes it always tank a Dark Pulse from Choice Specs
+
+Porygon-Z
+
+, and the rest of the EVs are put into Special Attack.
+
+Endure should be used wisely, as there are many Pokemon that can easily OHKO Skeledirge but may choose not to because of the threat of Endure and Blast Burn, like Choice Band Landorus-T and others like
+
+Spectrier
+
+.
+
+Skeledirge may struggle against Dragon- and Water-types like
+
+Roaring Moon
+
+,
+
+Walking Wake
+
+, and
+
+Manaphy
+
+. Pokemon that can deal with these threats, such as
+
+Kyurem
+
+,
+
+Sylveon
+
+, and
+
+Meowscarada
+
+make for great partners.
+
+The powerful stallbreaking combination of Torch Song and Unaware breaks through practically any setup threat such as
+
+Volcarona
+
+or
+
+Cresselia
+
+with ease. It also allows Skeledirge to attack Weakness Policy users, namely
+
+Iron Crown
+
+and
+
+Metagross
+
+without fear.
+
+Air Balloon allows Skeledirge to use Will-O-Wisp on physical attackers like
+
+Garchomp
+
+and
+
+Iron Hands
+
+without fear of Ground-type coverage, letting it stall them out with Slack Off.
+
+Encore is useful against stall
+
+Pecharunt
+
+and to prevent non-Choice Band
+
+Ursaluna
+
+from using its Ground-type STAB moves.
+
+Maximum HP and Defense EVs ensure that Skeledirge never loses to highly offensive variants of certain attackers, such as Garchomp and non-Encore
+
+Annihilape
+
+, that it is expected to check.
+
+Because Encore itself is not affected by opposing Encore, Skeledirge performs favorably against common Encore + Disable users such as
+
+Alolan Ninetales
+
+and non-Spirit Break Speed Booster
+
+Iron Valiant
+
+. Skeledirge should always use Encore first and then alternate between Torch Song and Encore until an opposing Disable is used. After that, Skeledirge is free to use Will-O-Wisp and then continue the sequence to an eventual KO.
+
+Choice Band
+
+Meowscarada
+
+and
+
+Hisuian Goodra
+
+can dispatch threats to Skeledirge such as
+
+Primarina
+
+and
+
+Raging Bolt
+
+while greatly appreciating its additional security against Ursaluna and Iron Crown, which they cannot always handle reliably.
+
+Torch Song is Skeledirge's best option to deal with
+
+Iron Crown
+
+,
+
+Volcarona
+
+,
+
+Registeel
+
+, and
+
+Serperior
+
+.
+
+Skeledirge should immediately use Slack Off against
+
+Galarian Moltres
+
+and Choice Specs
+
+Zapdos
+
+, as its Maranga Berry allows it to not be 2HKOed by those threats.
+
+Encore should be used against
+
+Sylveon
+
+and
+
+Alolan Ninetales
+
+.
+
+Will-O-Wisp is for
+
+Iron Hands
+
+and non-Choice Band
+
+Metagross
+
+, while Blast Burn is for Choice Band Metagross.
+
+The HP and Defense EVs allow Skeledirge to survive Psyshock twice from Special Attack Booster Energy Iron Crown. The remaining EVs are invested in Special Defense for maximum bulk.
+
+Against Encore + Disable
+
+Iron Valiant
+
+, Skeledirge's best play is to use Encore on the first turn followed by alternating between Torch Song and Encore. While Skeledirge notably does not beat Encore + Disable Iron Valiant sets that use Spirit Break as an attacking move, its Maranga Berry allows it to defeat Moonblast sets.
+
+Maranga Berry Skeledirge, while being able to reliably defeat Galarian Moltres, is not able to reliably defeat other Dark-types, such as
+
+Hoopa-U
+
+,
+
+Chien-Pao
+
+, and
+
+Darkrai
+
+. Additionally, it struggles against Water-types, like
+
+Manaphy
+
+and
+
+Ogerpon-W
+
+, and Ground-types, like
+
+Ursaluna
+
+and
+
+Landorus-T
+
+. Pokemon like
+
+Zarude
+
+, Iron Hands, and Assault Vest
+
+Great Tusk
+
+make for good teammates because they defeat some of these threats to Skeledirge while appreciating its ability to defeat Pokemon like Iron Crown and Alolan Ninetales reliably.
+
+Skeledirge is a defensive wall with a solid typing against threats like
+
+Iron Moth
+
+and
+
+Victini
+
+and the ability to act as a bulky win condition thanks to Torch Song. Torch Song is the Fire STAB move of choice, allowing Skeledirge to break through defensive Pokemon like
+
+Clefable
+
+. Will-O-Wisp cripples physical attackers and induces passive damage, allowing Skeledirge to outlast opposing Pokemon. Scorching Sands is an option to hit Iron Moth and Victini for super effective damage while retaining a chance to cripple
+
+Tyranitar
+
+and
+
+Hydrapple
+
+on the switch. Hex synergises with Will-O-Wisp and offers a powerful STAB option that threatens even status absorbers like Clefable. Encore lets Skeledirge set up on defensive walls and punish opposing set up attempts. Heavy-Duty Boots are preferred, as they help Skeledirge avoid entry hazard damage, thereby contributing to its longevity. 44 Defense EVs ensure that Skeledirge lives Rock Blast from
+
+Mega Heracross
+
+, with the rest of the investment being dumped into Special Defense to better withstand attacks from Iron Moth. Skeledirge finds its home on balance teams that appreciate its ability to compress a solid defensive profile with the ability to snowball against bulkier teams. Knock Off switch-ins are vital for Skeledirge to function optimally. Thus, it appreciates being paired with Pokemon that ignore item removal, such as
+
+Mega Venusaur
+
+, Clefable, and Z-move users like
+
+Hydreigon
+
+. Offensive threats such as
+
+Excadrill
+
+,
+
+Mega Aerodactyl
+
+, and
+
+Aegislash
+
+can all muscle through Skeledirge, and thus Skeledirge should be partnered with other physically defensive walls and pivots, such as
+
+Slowbro
+
+and Mega Venusaur. Specially defensive partners such as
+
+Chansey
+
+, Assault Vest
+
+Tangrowth
+
+, and Tyranitar can help stave off special wallbreakers like
+
+Alakazam
+
+and
+
+Thundurus
+
+that would otherwise overwhelm Skeledirge. Finally, certain defensive Pokemon such as
+
+Garganacl
+
+and Tyranitar can repeatedly come in on Skeledirge and force it out with phazing moves or the threat of status or item removal. Teammates that can exploit these Pokemon, such as Excadrill and
+
+Serperior
+
+, are greatly appreciated.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!

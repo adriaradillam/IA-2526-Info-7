@@ -1,0 +1,1375 @@
+With its good Speed tier and high-powered moves complemented by Libero, Cinderace can leverage its offensive moveset to function as an effective pivot and attacker. U-Turn allows Cinderace to pivot out of disadvantageous matchups and deal chip damage, breaking
+
+Dragonite
+
+’s Multiscale and helping against some Fire-resistant Pokemon like
+
+Hisuian Samurott
+
+,
+
+Tyranitar
+
+, and
+
+Latios
+
+. Court Change gives Cinderace valuable utility, switching entry hazards to the opposing side of the field and enabling its hazard-weak teammates to enter the field multiple times as well as swapping Aurora Veil from opposing
+
+Alolan Ninetales
+
+. For its last move, Cinderace has multiple options to help round out its coverage. Sucker Punch is a powerful priority move that targets
+
+Deoxys-S
+
+,
+
+Dragapult
+
+, and chipped sweepers such as
+
+Iron Moth
+
+. Gunk Shot snipes Fairy-types that may attempt to handle Cinderace such as
+
+Primarina
+
+and
+
+Clefable
+
+while hitting
+
+Moltres
+
+hard. High Jump Kick 2HKOs
+
+Ting-Lu
+
+and
+
+Garganacl
+
+while also OHKOing
+
+Kyurem
+
+. Tera Fire is used to power up Cinderace’s Pyro Ball, 2HKOing
+
+Zamazenta
+
+after Stealth Rock damage and OHKOing bulky variants of
+
+Gholdengo
+
+and
+
+Iron Treads
+
+. It also helps retain STAB for Pyro Ball even when Cinderace uses another attack. However, Terastriallization renders Libero null for Cinderace’s non-Fire attacks, so it should be used with caution.
+
+Offensive pivot Cinderace fits on a variety of teams from offense, bulky offense, and even balance, where its combination of speed, coverage, and utility is highly valued. Cinderace’s greatest boon is its ability to provide reliable entry hazard control in front of Gholdengo while being an offensive threat in its own right, helping teammates vulnerable to hazards such as Kyurem and Life Orb Nasty Plot
+
+Tornadus-T
+
+enter the field more easily. Kyurem and Tornadus-T place immense offensive pressure on Cinderace’s checks such as
+
+Alomomola
+
+,
+
+Great Tusk
+
+, and
+
+Landorus-T
+
+; in turn, they highly appreciate not being chipped by hazards so they can continue to operate over longer games. Other wallbreakers that appreciate the Water and Dragon-Types that Cinderace lures in include
+
+Rillaboom
+
+,
+
+Raging Bolt
+
+,
+
+Iron Valiant
+
+, Primarina, and
+
+Enamorus
+
+; Cinderace also helps them enter the field safely. Cinderace struggles with physically defensive Pokemon able to tank its attacks such as Zamazenta, Alomomola, and
+
+Pecharunt
+
+, so teammates that can handle them such as
+
+Ogerpon-W
+
+, Gholdengo, and Raging Bolt are highly valued. Ogerpon-W stands out as a particularly strong partner, as it can completely block Water-type attacks aimed at Cinderace with Water Absorb and force progress with its strong attacks and utility, while Cinderace can help transfer hazards away and bring it in via U-turn. Gholdengo helps check Zamazenta and Pecharunt with an immunity to their primary attacks while blocking hazard removal attempts from Great Tusk, Iron Treads, and
+
+Corviknight
+
+after hazards are transferred. Raging Bolt threatens bulky Water types with its powerful Electric-type attacks, while Cinderace can help pivot it in and act as an emergency switch-in to Fairy-types. Cinderace also loves being paired with other pivots such as
+
+Zapdos
+
+,
+
+Lokix
+
+,
+
+Galarian Slowking
+
+, and Landorus-T, as they can form pivoting cores that can help sustain offensive pressure together on their respective checks.
+
+When combining its good Speed with HP investment, Cinderace becomes one of OU's better pivots, able to check threats such as
+
+Gholdengo
+
+,
+
+Scizor
+
+, and
+
+Kingambit
+
+. U-turn allows Cinderace to chip foes and capitalize on switch-ins to bring in its teammates safely as well as greatly damage foes Cinderace might lose to in one-on-one scenarios, such as
+
+Ogerpon-W
+
+and
+
+Hisuian Samurott
+
+. Cinderace provides utility to its team with Court Change, temporarily clearing the field of entry hazards as well as the opposing team's Aurora Veil. Will-O-Wisp cripples Pokemon such as
+
+Landorus-T
+
+that otherwise do not mind Cinderace's Pyro Ball or U-turn and deters slower physical setup sweepers such as Dragon Dance
+
+Dragonite
+
+and
+
+Kyurem
+
+from trying to set up in front of Cinderace. With 32 Atk EVs, Cinderace's Pyro Ball OHKOes offensive variants of Gholdengo and threatens 2HKOs against
+
+Great Tusk
+
+and
+
+Zapdos
+
+when boosted by Blaze. Tera Fire powers up Pyro Ball, allowing it to OHKO Kingambit and
+
+Enamorus
+
+while also OHKOing Ogerpon-W and
+
+Galarian Slowking
+
+with Blaze active. Tera Flying is an alternative that grants Cinderace with an immunity to Ground-type attacks such as Landorus-T and Dragonite's Earthquake, Great Tusk's Headlong Rush, and Enamorus's Earth Power, allowing it to potentially get an extra turn against them to further weaken them with Pyro Ball or cripple them with Will-O-Wisp; Tera Flying also grants Cinderace with a resistance to
+
+Zamazenta
+
+'s Body Press that potentially allows it to cripple Zamazenta with Will-O-Wisp. Similarly, Tera Ghost provides an immunity to Zamazenta's Body Press, as well as to
+
+Iron Treads
+
+and Great Tusk's Rapid Spin, blocking their attempts to remove entry hazards, and to Extreme Speed from Dragonite looking to revenge kill Cinderace. Heavy-Duty Boots is key in its role as a pivot, allowing Cinderace to remain healthy when hazards are up and switch in multiple times per game.
+
+Cinderace finds itself fitting well in bulky offense and balance teams, particularly those looking to make use of its ability to alleviate the pressure of entry hazards. Ogerpon-W can assist Cinderace against the Ground- and Water-types that trouble it such as Landorus-T,
+
+Gliscor
+
+,
+
+Alomomola
+
+, and
+
+Dondozo
+
+as well as Pokemon like
+
+Garganacl
+
+,
+
+Ceruledge
+
+, and
+
+Heatran
+
+; remove Rocky Helmet from the likes of
+
+Pecharunt
+
+of
+
+Hydrapple
+
+so Cinderace can use U-turn against them without taking chip damage; and run U-turn itself, allowing it to form a pivoting core with Cinderace. Similarly, Kyurem threatens the aforementioned Ground- and Water-types, as well as Zapdos,
+
+Raging Bolt
+
+, and Pecharunt. In return, Cinderace is able to bring it in safely with U-turn, threaten Steel-types such as
+
+Iron Crown
+
+and Scizor that may annoy Kyurem, and keep entry hazards off the field so Kyurem can opt for items other than Heavy-Duty Boots. Raging Bolt and Zapdos threaten the likes of Alomomola, Dondozo, and
+
+Moltres
+
+while also forming pivoting cores with Cinderace when running Volt Switch or U-turn in Zapdos's case helping it overwhelm the Ground-types like Landorus-T and
+
+Ting-Lu
+
+that try to check both; Zapdos is also able to take on Great Tusk. Galarian Slowking appreciates Cinderace's ability to threaten Kingambit, Gholdengo, and
+
+Weavile
+
+while helping against Pecharunt and
+
+Primarina
+
+as well as crippling physical walls like Alomomola, Moltres, and Zapdos with Toxic. Galarian Slowking's Future Sight and Cinderace's Pyro Ball complement each other to put pressure on the opposing team, as physical walls such as Dondozo and Pecharunt do not want to get hit by Future Sight while the likes of Gholdengo, Kingambit, and Iron Crown that usually do not mind Future Sight, do not want to take on Pyro Ball. Physically defensive and Shuca Berry variants of Galarian Slowking may lure in Gliscor, Landorus-T, and Great Tusk and hit them with either Ice Beam or Psychic Noise, getting rid of them and opening up a path for Cinderace to more easily weaken the opposing team. Assault Vest Alomomola may assist Cinderace by serving as a sponge for special attacks such as those from
+
+Walking Wake
+
+and Choice Specs
+
+Dragapult
+
+, as well as taking on Moltres, Heatran, and Landorus-T that annoy Cinderace. Ting-Lu deals with Dragapult, Raging Bolt, Pecharunt, and
+
+Glimmora
+
+while pressuring Garganacl against which Cinderace finds itself helpless. Due to Court Change being ineffective when both sides of the field have entry hazards, teammates like Great Tusk and
+
+Corviknight
+
+may provide extra measures to help clear them; Great Tusk also serves as a check to Raging Bolt and Tera Fire Kingambit, while Corviknight provides assurance against the likes of Great Tusk and Zamazenta variants lacking Roar. Dragapult can assist Cinderace against Zamazenta, Great Tusk, and Pecharunt, while Cinderace can threaten Kingambit, and help weaken shared checks such as Ting-Lu and Primarina; additionally, it can form a pivoting core with Cinderace when running U-turn.
+
+Cinderace is a staple on Fire teams thanks to its incredible Speed tier and coverage, which allow it to take advantage of Libero to sweep effectively. With Choice Scarf, Cinderace outspeeds and OHKOes foes like
+
+Iron Valiant
+
+, non-Choice Scarf
+
+Greninja
+
+, and non-Choice Scarf
+
+Flutter Mane
+
+. Gunk Shot allows Cinderace to hit Fairy-types like
+
+Primarina
+
+and
+
+Azumarill
+
+, which resist Pyro Ball. Gunk Shot also secures an OHKO against threats like
+
+Ogerpon-H
+
+and
+
+Ogerpon-W
+
+. High Jump Kick allows Cinderace to hit foes like non-Choice Scarf Greninja and
+
+Heatran
+
+, the latter of which being immune to both Pyro Ball and Gunk Shot. Additionally, using High Jump Kick removes Cinderace's weaknesses to Rock and Dark so it can handle threats from
+
+Ogerpon-C
+
+'s Ivy Cudgel and
+
+Hisuian Arcanine
+
+'s Head Smash more easily. U-turn grants Cinderace the ability to act as a pivot on Fire teams, luring in its common checks like
+
+Landorus
+
+and
+
+Great Tusk
+
+.
+
+Teammates like
+
+Torkoal
+
+and
+
+Ninetales
+
+are ideal on sun teams, with the former setting and removing entry hazards with Stealth Rock and Rapid Spin, respectively, and the latter supporting teams with Healing Wish. Furthermore, Ninetales can use Solar Beam under sun to take down annoying foes like
+
+Gastrodon
+
+and Great Tusk. Ogerpon-H is a great wallbreaking partner that provides aid against Water- and Ground-type threats like
+
+Dondozo
+
+,
+
+Swampert
+
+,
+
+Ursaluna
+
+, and
+
+Gliscor
+
+, which Cinderace may have difficulty breaking. Heatran is an inordinately good partner for Cinderace thanks to its neutrality to Rock and it can not only set up Stealth Rock to boost Cinderace's sweeping capabilities but also switch into predicted Ground-type attacks if it's holding an Air Balloon. Furthermore, it can trap foes like
+
+Toxapex
+
+and
+
+Clodsire
+
+with Magma Storm and damage them with Earth Power in tandem with Taunt to prevent them from recovering.
+
+Volcanion
+
+provides a much-needed Water immunity thanks to Water Absorb, in addition to dealing with Ground-type foes like Great Tusk, Landorus, and Gliscor if it is running Air Balloon.
+
+Talonflame
+
+is a splendid pivot with access to U-turn and a much-needed Ground immunity. Furthermore, it can also use Defog to remove hazards from the field and prevent chip damage to Cinderace while also taking out fast Fighting-type threats like
+
+Sneasler
+
+and Iron Valiant with priority Brave Bird thanks to Gale Wings.
+
+Ceruledge
+
+is a great example of a setup sweeper, breaking teams with +2 Poltergeist and Bitter Blade; however, foes like
+
+Porygon2
+
+and
+
+Terapagos
+
+may cause trouble for it, in which case Cinderace can deal with them using High Jump Kick. Lastly,
+
+Volcarona
+
+is an amazing setup sweeper that complements Cinderace's sweeping potential by setting up with Quiver Dance and 2HKOing foes like Toxapex and Clodsire with Psychic. In return, Cinderace deals with Heatran, which can completely wall Volcarona.
+
+Cinderace is a great asset to Fire teams due to its mix of offensive presence and utility. Pyro Ball deals a lot of damage under sun and comes with the nice touch of not activating Libero. Libero-boosted High Jump Kick provides valuable coverage, hitting
+
+Archaludon
+
+,
+
+Hydreigon
+
+, and
+
+Garganacl
+
+. Low Kick is an alternative, letting Cinderace deal decent damage to most heavy foes such as Archaludon and
+
+Heatran
+
+without the large risk of High Jump Kick's crash damage. With minimal chip damage, Libero-boosted Sucker Punch OHKOes Choice Specs
+
+Dragapult
+
+and
+
+Latios
+
+that resist the combination of Pyro Ball and High Jump Kick and can also pick up KOs on weakened foes such as
+
+Flutter Mane
+
+. U-turn can be used as an option over either High Jump Kick or Sucker Punch, letting Cinderace keep momentum against foes it cannot threaten out like defensive
+
+Great Tusk
+
+and
+
+Garchomp
+
+. Lastly, Court Change gives Cinderace hazard control, helping the team stay healthy.
+
+Torkoal
+
+and
+
+Ninetales
+
+are natural teammates for Cinderace, as they provide sun to boost Cinderace's Pyro Ball damage and can help by removing entry hazards from the field and healing Cinderace with Healing Wish, respectively. In return, Cinderace can keep hazards off for Ninetales and Torkoal, letting them run Heat Rock to maximize sun's duration.
+
+Ogerpon-H
+
+and
+
+Ceruledge
+
+both appreciate support from Cinderace, as it can keep hazards off their side, bolstering their sweeping potential, while they can break through defensive cores in the Flying and Dragon matchups, effortlessly disposing of
+
+Gliscor
+
+,
+
+Dragonite
+
+, and Garchomp. Heatran is another great partner for Cinderace, as it deals with defensive Pokemon like
+
+Toxapex
+
+with Magma Storm and offensive Pokemon like Choice Specs Flutter Mane. Finally, both variants of
+
+Volcarona
+
+benefit from Court Change support. Defensive Volcarona is a wincon against types such as Flying and Fighting that are reliant on physical attackers like Dragonite and
+
+Urshifu-R
+
+to take it out and can spread burns against foes like Great Tusk and
+
+Clodsire
+
+with Will-O-Wisp to facilitate a late-game sweep from Cinderace, while offensive Volcarona can hit a wide array of targets such as
+
+Gastrodon
+
+,
+
+Hippowdon
+
+,
+
+Swampert
+
+, and Toxapex with the appropriate coverage in Giga Drain and Psychic.
+
+Other Options
+
+Fire
+
+Gunk Shot is an alternative to make Cinderace more efficient at defeating Fairy-types, getting rid of foes such as
+
+Primarina
+
+,
+
+Iron Valiant
+
+and
+
+Azumarill
+
+.
+
+With Cinderace's high Speed, high-Base Power STAB move in Pyro Ball, and general utility, it makes for a decent offensive pivot. U-turn lets Cinderace pivot on checks like
+
+Manaphy
+
+,
+
+Primarina
+
+, Well-Baked Body
+
+Gholdengo
+
+, and
+
+Skarmory
+
+while also safely getting teammates in that can take these checks on such as
+
+Sandy Shocks
+
+,
+
+Iron Hands
+
+, and
+
+Galarian Zapdos
+
+. Court Change lets Cinderace support its teammates by potentially clearing its side of entry hazards and using them against the opponent while also being able to steal dual screens. Will-O-Wisp lets Cinderace cripple potential switch-ins such as
+
+Dragonite
+
+,
+
+Garchomp
+
+, and
+
+Great Tusk
+
+, but it can instead use Taunt to cripple defensive Pokemon like
+
+Deoxys-D
+
+,
+
+Scream Tail
+
+, and
+
+Pecharunt
+
+. With High Jump Kick Cinderace can cover Primordial Sea switch-ins such as
+
+Barraskewda
+
+and
+
+Ogerpon-W
+
+. Frail offensive Pokemon like
+
+Chien-Pao
+
+, Barraskewda, and
+
+Azelf
+
+appreciate the presence of Cinderace due to it not only allowing them easier entry onto the field but also removing checks to them such as
+
+Corviknight
+
+, Scream Tail, and
+
+Mandibuzz
+
+. Cinderace falters when having to deal with either Primordial Sea users like
+
+Zapdos
+
+and Primarina or Well-Baked Body users such as Gholdengo and Corviknight, so having teammates such as
+
+Swampert
+
+,
+
+Empoleon
+
+, and RegenVest
+
+Roaring Moon
+
+to check these Pokemon is immensely helpful. As a final note, Cinderace tends to be used on more offensive teams, but with Court Change not fully removing hazards, it's not recommended that you use multiple hazard-weak teammates with it.
+
+Cinderace's high Speed, high Attack, and wide utility movepool make it a versatile attacker that can both dish out substantial damage and disrupt opposing Pokemon indirectly. High Jump Kick hits
+
+Garganacl
+
+while also being the best option against Well-Baked Body users such as
+
+Corviknight
+
+and
+
+Skarmory
+
+, and Gunk Shot hits
+
+Scream Tail
+
+,
+
+Primarina
+
+, and Primordial Sea
+
+Zapdos
+
+. Cinderace can use Will-O-Wisp to cripple would-be switch-ins such as
+
+Great Tusk
+
+,
+
+Garchomp
+
+,
+
+Swampert
+
+, and
+
+Dragonite
+
+, pivot out on them with U-turn, or carry Gunk Shot for maximum coverage. Swords Dance helps Cinderace wallbreak, while Taunt prevents foes from inflicting status, recovering, or controlling entry hazards, which Cinderace can control itself with Court Change. In particular, Taunt improves Cinderace's matchup against Unaware users such as
+
+Mandibuzz
+
+and Scream Tail by prohibiting their recovery. Life Orb amplifies Cinderace's damage output, while Focus Sash provides recourse against Pokemon that would otherwise OHKO it, allowing it to score surprise KOs or get off valuable utility moves in a pinch. Magic Guard removes Life Orb recoil, the chance for Focus Sash to be broken by indirect damage, and Cinderace's vulnerability to Entry Hazard damage. Cinderace's ability to pressure Corviknight and Skarmory is appreciated by other wallbreakers that can struggle to deal with them like
+
+Roaring Moon
+
+,
+
+Iron Boulder
+
+, and
+
+Barraskewda
+
+, all of which Cinderace can help enter the field with U-turn. Cinderace is threatened by faster Pokemon like
+
+Zamazenta
+
+and
+
+Deoxys-S
+
+, so defensive Pokemon that can switch into these such as
+
+Empoleon
+
+, Corviknight, and Mandibuzz are helpful partners. Well-Baked Body
+
+Gholdengo
+
+completely walls Cinderace, making partners that can force out or eliminate it like Roaring Moon,
+
+Chien-Pao
+
+, and
+
+Gengar
+
+valuable teammates.
+
+Cinderace leverages its high Attack and Speed stats alongside its high-Base Power moves to be a great offensive pivot and wallbreaker, threatening common physical walls like
+
+Corviknight
+
+,
+
+Mandibuzz
+
+, and
+
+Deoxys-D
+
+. High Jump Kick is Cinderace's best move against Well-Baked Body Steel-types, doing sizable damage to Corviknight and
+
+Skarmory
+
+and OHKOing
+
+Kingambit
+
+. U-turn lets Cinderace pivot out of problematic matchups like
+
+Ceruledge
+
+and Well-Baked Body
+
+Gholdengo
+
+while also threatening
+
+Latios
+
+, whereas Gunk Shot threatens
+
+Primarina
+
+and Primordial Sea
+
+Zapdos
+
+. Desolate Land gives Cinderace a very high chance of OHKOing offensive
+
+Great Tusk
+
+after Spikes damage and lets it come in and threaten out Primordial Sea users like Zapdos and, when they're locked into Water-type moves,
+
+Barraskewda
+
+and
+
+Ogerpon-W
+
+. Alternatively, Sword of Ruin lets High Jump Kick OHKO Ogerpon-W and 2HKO Well-Baked Body Corviknight after slight chip damage. Fast physical attackers like
+
+Roaring Moon
+
+and
+
+Chien-Pao
+
+appreciate Cinderace threatening their checks like non-Well-Baked Body Corviknight and RegenVest Primarina, letting them sweep once these foes have been removed. In return, they can pressure Well-Baked Body Steel-types that trouble Cinderace like Gholdengo and Corviknight. While fast, Cinderace is also frail and prone to getting revenge killed by faster foes like
+
+Iron Boulder
+
+and Choice Scarf
+
+Azelf
+
+, so teammates that can deal with them like Fluffy Corviknight and
+
+Empoleon
+
+are appreciated. Additionally, Cinderace is prone to getting worn down by entry hazards, making hazard removers like Great Tusk and the aforementioned Corviknight great partners.
+
+Draft Order
+
+: Round 3 onwards
+
+Price Range
+
+: 14-15 points
+
+Overview
+
+: Cinderace is a fast, powerful Pokemon with various offensive and utility moves in its repertoire. Its good offensive typing and Attack stat are enhanced further by its Libero ability, allowing it to function as a powerful wallbreaker and cleaner. It can also act as a fast pivot with an option for entry hazard control in Court Change, along with other powerful utility moves such as Will-O-Wisp, Super Fang, and Taunt. However, Cinderace is bemoaned for its extreme reliance on Heavy-Duty Boots to continously come in safely and its poor natural bulk.
+
+Common Roles
+
+Fast Wallbreaker
+
+: Cinderace uses its speed and power to do huge amounts of damage to foes while keeping up offensive momentum for its teammates with its powerful U-turn. In certain matchups, Cinderace can use Swords Dance or Bulk Up to set up and then leverage its high Speed and good coverage to do immense damage, weakening opposing defensive structures to enable a teammate to clean up late-game or occasionally sweep on its own.
+
+Cleaner
+
+: With its impressive Speed and offensive prowess, Cinderace can outspeed the majority of the unboosted metagame, enabling it to easily clean up late-game when foes are sufficiently chipped down. If the matchup calls for it, it can run Choice Scarf or a Speed-boosting move, allowing its Speed to be completely unmatched and enabling it to revenge kill threats and clean up. Its access to Sucker Punch, boosted by Libero, also helps in this aspect.
+
+Utility Pivot
+
+: Cinderace can use its wide range of utility moves and high Speed to disrupt the opposition through delivering debilitating burns with Will-O-Wisp, using Court Change for unblockable entry hazard control, using Taunt to shut down setup, and using U-turn to pivot in its threatening teammates. Cinderace's utility works best when combined with its offensive capabilities, as that makes it a lot harder to play around.
+
+Common Moves
+
+Primary STAB Moves
+
+: Pyro Ball, Flare Blitz
+
+Setup Moves
+
+: Bulk Up, Flame Charge, Swords Dance, Trailblaze
+
+Utility Moves
+
+: Court Change, Substitute, Super Fang, Taunt, U-turn, Will-O-Wisp
+
+Coverage
+
+: Double-Edge, Gunk Shot, High Jump Kick, Iron Head, Low Kick, Sucker Punch, Zen Headbutt
+
+Niche Moves
+
+Electro Ball
+
+: With a Life Orb, Cinderace's Electro Ball can deal sizable damage to slower Water-types, which it has trouble breaking otherwise.
+
+Overheat
+
+: Overheat allows Cinderace to have a one-time special nuke against physically defensive Pokemon aimed to check it, the main target being
+
+Great Tusk
+
+.
+
+Quick Attack
+
+: Quick Attack gives Cinderace a different priority move option when the Pokemon it is trying to revenge kill is resistant to Sucker Punch.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots allows Cinderace to ignore damage from entry hazards, notably from Stealth Rock, to reliably use its powerful attacks, utility moves, and pivot out more often. It is by far Cinderace's best and most reliable item.
+
+Choice Band
+
+: Choice Band gives Cinderace greater immediate power, allowing it to function better as a wallbreaker without setup.
+
+Other Damage-boosting Items
+
+: Damage-boosting items, such as Charcoal and Life Orb, give Cinderace more immediate power while maintaining its ability to switch moves, thus giving it more flexibility in matchups where it excels offensively.
+
+Choice Scarf
+
+: Choice Scarf gives Cinderace unparalleled immediate Speed, allowing it to outspeed almost the entire unboosted metagame. This allows it to outspeed many common opposing Choice Scarf users and setup sweepers, making it a very effective revenge killer and cleaner.
+
+Niche Items
+
+Air Balloon
+
+: Air Balloon allows Cinderace to threaten Pokemon that need Ground-type coverage to hit it well, giving it a turn to set up or deal heavy damage to an incoming target.
+
+Resistance Berries
+
+: These items can occasionally be used to give Cinderace an extra turn to dish out heavy damage, or set up in a foe's face. However, when using a resistance Berry, be mindful of how Libero can affect their use.
+
+Tera
+
+It is not recommended to make Cinderace a Tera Captain, as Terastallizing effectively cancels out the effects of Libero, making it no longer able to change its type. If one does choose Cinderace as a Tera Captain, it can use Tera to boost its already strong Fire-type hits, or allow Cinderace to change its type after Libero activates. Alternatively, Cinderace could use Tera to give it coverage it is lacking in, or patch up its defensive weaknesses. Despite these potential benefits, Cinderace still proves a mediocre user of Tera as it severely limits the natural strengths it possesses with Libero.
+
+Draft Strategy
+
+Cinderace offers a blend of speed and power to its team, being able to function equally well as a wallbreaker and cleaner on many different team structures. While its own utility can sometimes let it inhibit its walls and provide entry hazard control to a team, it appreciates a draft that both enables its own offensive capabilities while being able to support its defensive drawbacks.
+
+Wallbreakers
+
+: On a draft where Cinderace will be more likely to function as a fast attacker or cleaner, it appreciates being paired with strong wallbreakers that it can pivot in and benefit from, such as
+
+Enamorus
+
+and
+
+Raging Bolt
+
+. These wallbreakers can punch holes in the opposing team so Cinderace can more effectively clean late-game. Cinderace can sometimes run Super Fang in conjunction with Taunt to do considerable chip damage to its own walls, enabling its wallbreaking partner to finish the job.
+
+Late-game Cleaners
+
+: As it can function well as a wallbreaker, Cinderace should not be solely relied on as a team's cleaner. Pairing it with fast Pokemon and reliable late-game cleaners and Choice Scarf users, such as
+
+Latios
+
+and Enamorus, positions its team to do well late-game.
+
+Bulky Pivots
+
+: Due to Cinderace's fraility, it is hard to bring in Cinderace reliably. It greatly appreciates bulky pivots sponging a hit and being able to pivot it in to wallbreak, keeping up momentum. Pokemon that can pivot in Cinderace like
+
+Galarian Slowking
+
+and
+
+Zapdos
+
+enable it to come in more often, allowing it to do considerably more throughout the battle.
+
+Entry Hazard Control
+
+: While Cinderace can hinder teams that rely on heavy hazard stacking to make progress with the usage of Court Change, it is also not a reliable way of removing hazards. Therefore, Cinderace appreciates strong Pokemon that excel at hazard removal, allowing it to run an item that is not Heavy-Duty Boots. Great Tusk and
+
+Excadrill
+
+are great partners for Cinderace in this role.
+
+Checks and Counters
+
+Entry Hazards
+
+: Entry hazards, notably Stealth Rock, dig into Cinderace's longevity and render it unable to perform its wallbreaking and pivot duties as reliably. Most Cinderace will use Heavy-Duty Boots as a countermeasure and are usually paired with reliable teammates that can remove hazards.
+
+Physically Bulky Pokemon
+
+: These Pokemon can switch into Cinderace's usual moves well and force it to use U-turn and pivot out. Bulky Fire-, Dragon-, and Water-type Pokemon are the best switch-ins against Cinderace due to their resistance to Pyro Ball and lack of a weakness to Cinderace's common coverage moves. Notable Pokemon in this category include Great Tusk,
+
+Gouging Fire
+
+, and
+
+Rotom-W
+
+.
+
+Faster Offensive Pokemon
+
+: While base 119 Speed is very good, there are still a myriad of Pokemon that outrun Cinderace and can threaten it out, such as
+
+Greninja
+
+and
+
+Iron Boulder
+
+.
+
+Priority Moves
+
+: Cinderace's fraility and weakness or neutrality to common priority moves such as Jet Punch, Aqua Jet, and Sucker Punch make it very susceptible to getting picked off by said priority moves. However, if a moveslot is available, Cinderace can punish Sucker Punch users with Will-O-Wisp.
+
+Having access to a high Speed stat, useful utility moves, and the ability to effectively generate momentum through U-turn, Cinderace is a consistent offensive pivot. Its high base Speed solidifies it as a potent revenge killer of a plethora of offensive threats such as
+
+Ogerpon-W
+
+,
+
+Tapu Lele
+
+lacking Choice Scarf, and
+
+Iron Valiant
+
+. Court Change makes Cinderace a solid entry hazard removal option, as it matches up excellently against hazard stacking teams. Additionally, it can remove hazards in the face of
+
+Gholdengo
+
+, one of the most common Pokemon used to prevent hazard removal. Will-O-Wisp is preferred over coverage options, as it allows Cinderace to weaken common physical attackers like
+
+Kingambit
+
+,
+
+Garchomp
+
+, and
+
+Dragonite
+
+, though Sucker Punch can be used to revenge kill faster threats like
+
+Volcarona
+
+after a Quiver Dance boost and
+
+Tornadus-T
+
+. Gunk Shot is also an option that OHKOes Tapu Lele, Ogerpon-W, and Iron Valiant along with threatening
+
+Mega Diancie
+
+,
+
+Tapu Fini
+
+, and
+
+Clefable
+
+with 2HKOs. Heavy-Duty Boots nullifies Cinderace's weakness to hazards, allowing it to act as a more consistent pivot. Blaze allows Cinderace to score a 2HKO against the likes of
+
+Landorus-T
+
+and offensive
+
+Great Tusk
+
+while OHKOing Tapu Lele and Iron Valiant with Pyro Ball. Libero also has its perks, as Cinderace can deal more damage with U-turn and change types to get rid of its Ground and Water weaknesses, helping it defensively. The second EV spread allows Cinderace to outspeed Iron Valiant lacking a Speed Booster Energy boost while scoring a 2HKO on specially defensive
+
+Galarian Slowking
+
+.
+
+Cinderace fits best on offense and bulky offense teams that appreciate its ability to consistently generate momentum, reliably remove entry hazards, and revenge kill offensive threats. As Cinderace can threaten
+
+Mega Scizor
+
+and Clefable if running Gunk Shot, it is an effective teammate for Landorus-T and Great Tusk, which benefit from it threatening their checks. Potent wallbreakers such as Tapu Lele, Mega Diancie, and
+
+Mega Latios
+
+appreciate Cinderace's ability to consistently pivot; in return, they can wound its checks including
+
+Alomomola
+
+and
+
+Toxapex
+
+. Cinderace often struggles to safely enter the field due to its mediocre bulk, meaning it can't switch into the likes of
+
+Zamazenta
+
+, Ogerpon-W, and
+
+Raging Bolt
+
+. Therefore, defensive staples like
+
+Ferrothorn
+
+,
+
+Pecharunt
+
+, and
+
+Zapdos
+
+are appreciated. The former can reliably set hazards to ease Cinderace's ability to pick up OHKOs and 2HKOs, while the latter two can pivot it in, thus giving it more opportunities to enter the field. Cinderace lacks reliable recovery, making it easy to chip down over time; therefore, Alomomola can help with its longevity by Wish passing to it.
+
+With its high base Speed, good coverage options, and access to Libero and Swords Dance, Cinderace can function as an effective wallbreaker and setup sweeper. It matches up excellently against plethora of Steel- and Fairy-types, such as
+
+Ferrothorn
+
+,
+
+Gholdengo
+
+, and
+
+Clefable
+
+. After setting up once, Breakneck Blitz allows it to score OHKOs on many would-be checks, such as
+
+Toxapex
+
+,
+
+Alomomola
+
+, and
+
+Landorus-T
+
+, while All-Out Pummeling allows it to remove
+
+Mega Tyranitar
+
+,
+
+Heatran
+
+, and
+
+Ting-Lu
+
+. Alomomola is also OHKOed by boosted All-Out Pummeling, preventing it from being a consistent check. Sucker Punch allows Cinderace to revenge kill faster threats after a good amount of chip damage, including
+
+Tornadus-T
+
+and Choice Scarf Landorus-T, while letting it play mind games against
+
+Kingambit
+
+and
+
+Raging Bolt
+
+. It prevents
+
+Dragonite
+
+from setting up with Multiscale and threatening Cinderace in return as well as threatening
+
+Mega Latios
+
+; these traits are especially useful for Fightinium Z variants.
+
+Cinderace fits best on a variety of hyper offense and bulky offense teams that appreciate its ability to effectively remove defensive staples like Alomomola, Toxapex, and Ferrothorn. Dual screens from
+
+Tapu Koko
+
+and
+
+Grimmsnarl
+
+aid Cinderace's mediocre bulk, allowing it to set up more aggressively against foes such as Gholdengo. Entry hazards from Landorus-T and
+
+Mega Diancie
+
+improve its wallbreaking capabilities, notably OHKOing
+
+Gliscor
+
+with boosted Pyro Ball after Stealth Rock. Sticky Web support from
+
+Araquanid
+
+and
+
+Ribombee
+
+prevents Cinderace from getting revenge killed by faster foes such as
+
+Mega Lopunny
+
+and Tapu Koko. Offensive teammates such as Kingambit and
+
+Hisuian Samurott
+
+benefit from its wallbreaking ability. They overwhelm shared checks, like Landorus-T and
+
+Great Tusk
+
+. The latter can also consistently set entry hazards with Ceaseless Edge, easing Cinderace's ability to break through defensive cores. On bulky offense teams, Cinderace's mediocre bulk gives it extremely limited opportunities to enter the field and set up. This means that slow pivots like Alomomola,
+
+Slowbro
+
+, and
+
+Galarian Slowking
+
+are appreciated. As a teammate, Cinderace can threaten Ferrothorn and Gholdengo, which often come in on the aforementioned pivots. Although Cinderace has a high base Speed stat, it finds itself being forced out by common revenge killers without Sticky Web support, such as Mega Lopunny,
+
+Zamazenta
+
+, and Choice Scarf
+
+Urshifu-R
+
+. Sturdy defensive backbones including Toxapex, Slowbro, and Alomomola can check these threats. Due to Cinderace's typing, it ends up being vulnerable to entry hazards. Premier hazard removal options such as Great Tusk,
+
+Terapagos
+
+, and Landorus-T aid it greatly. In return, Landorus-T and Great Tusk appreciate Cinderace's ability to remove Slowbro, Alomomola, and opposing Great Tusk, greatly enabling their offensive potential.
+
+Cinderace acts as role compression on Fire teams, being able to apply offensive pressure on foes like
+
+Azumarill
+
+and non-Choice Scarf
+
+Hydreigon
+
+with its coverage, remove entry hazards with Court Change, and revenge kill faster threats such as
+
+Iron Boulder
+
+and
+
+Ceruledge
+
+with Sucker Punch. Pyro Ball and Gunk Shot can be used over Sucker Punch, with the former handling Bug- and Steel-types like
+
+Scizor
+
+and
+
+Corviknight
+
+and the latter taking on Fairy-types like
+
+Clefable
+
+and non-Choice Scarf
+
+Iron Valiant
+
+. High Jump Kick allows Cinderace to deal with Normal-, Rock-, and Dark-types such as
+
+Blissey
+
+,
+
+Mega Tyranitar
+
+, and
+
+Ting-Lu
+
+. Iron Head is a niche option that allows Cinderace to lure in and remove
+
+Mega Diancie
+
+in the Fairy matchup. With U-turn, Cinderace can pivot out of unfavorable matchups such as
+
+Toxapex
+
+and
+
+Great Tusk
+
+and bring in a teammate that can deal with them.
+
+Heatran
+
+and
+
+Iron Moth
+
+are such teammates, with the former handling Toxapex by trapping it with Magma Storm and removing it with Earth Power and the latter taking Great Tusk out with Energy Ball. When it forgoes Sucker Punch, Cinderace appreciates Choice Scarf
+
+Blacephalon
+
+taking on Ghost-types such as
+
+Gholdengo
+
+and Ceruledge, which can switch into High Jump Kick, and in return, Cinderace takes on Dark-types for Blacephalon.
+
+Torkoal
+
+sets up sun to boost Pyro Ball when it's being run and places Stealth Rock to further aid Cinderace. Notably, sun-boosted Pyro Ball 2HKOes
+
+Mega Sableye
+
+. When Cinderace runs Sucker Punch, its ability to revenge kill faster and weakened threats like Iron Boulder enables setup sweepers such as
+
+Mega Charizard X
+
+,
+
+Volcarona
+
+, Z-Celebrate
+
+Victini
+
+, and Ceruledge to start their own sweep, and the latter two specifically appreciate Court Change support so they can find an opportunity to switch in.
+
+Boasting an exceptional Speed tier, a diverse array of coverage options, and its unique ability, Cinderace is an exemplary wallbreaker that greatly threatens Water, Ground, and Flying teams, outpacing foes such as
+
+Ogerpon-W
+
+,
+
+Iron Treads
+
+, and
+
+Iron Valiant
+
+. At +2, Pyro Ball OHKOes walls like
+
+Empoleon
+
+,
+
+Hisuian Goodra
+
+, and
+
+Clodsire
+
+after Stealth Rock damage. Breakneck Blitz allows Cinderace to catch walls such as
+
+Toxapex
+
+,
+
+Mandibuzz
+
+, and mixed
+
+Hippowdon
+
+off guard and instantly remove them. Gunk Shot targets Fairy-types like
+
+Tapu Fini
+
+, Iron Valiant, and
+
+Azumarill
+
+, while Sucker Punch may be used to prevent revenge killing attempts from
+
+Iron Boulder
+
+,
+
+Latias
+
+, and
+
+Barraskewda
+
+, OHKOing them at +2. Alternatively, High Jump Kick removes
+
+Ting-Lu
+
+at +2 after Stealth Rock Damage,
+
+Mega Tyranitar
+
+, and
+
+Heatran
+
+.
+
+Torkoal
+
+offers Stealth Rock to wear down switch-ins like
+
+Rotom-W
+
+and
+
+Porygon2
+
+, sets up Drought to boost Pyro Ball's power output, and removes entry hazards via Rapid Spin to allow Cinderace to pivot freely.
+
+Victini
+
+and
+
+Mega Charizard X
+
+appreciate Cinderace luring in and eliminating the previously mentioned Sucker Punch targets while heavily weakening shared checks like
+
+Slowbro
+
+, Toxapex, and
+
+Great Tusk
+
+.
+
+Volcarona
+
+appreciates Cinderace's ability to remove special walls like Clodsire,
+
+Blissey
+
+, and
+
+Galarian Slowking
+
+. In return, Volcarona threatens walls such as
+
+Gastrodon
+
+, Ting-Lu, and Slowbro. Heatran provides Stealth Rock support and uses its stallbreaking ability to remove Toxapex, preserving Cinderace's Normalium Z to use in a pinch. Like Volcarona,
+
+Blacephalon
+
+appreciates Cinderace weakening special walls to let it clean up late-game; it can also break problematic foes like Slowbro and
+
+Skeledirge
+
+.
+
+Iron Moth
+
+scares away Ground-types such as Great Tusk, Gastrodon, and
+
+Swampert
+
+via Energy Ball and threatens Tapu Fini for Cinderace if it doesn't run Gunk Shot.
+
+Volcanion
+
+is a great switch-in against Water-types like Barraskewda,
+
+Basculegion-F
+
+, and Ogerpon-W and appreciates Cinderace's ability to remove Ground-types such as
+
+Landorus
+
+,
+
+Garchomp
+
+, and Clodsire.
+
+Mega Charizard Y
+
+and
+
+Scovillain
+
+help break down physically defensive Pokemon and remove the aforementioned Ground- and Water-type walls via Grass-type coverage, with the former also providing Drought. In exchange, Cinderace threatens Clodsire, Hisuian Goodra, and many of the aforementioned special walls so Mega Charizard Y can freely throw out attacks incautiously, while Scovillain can clean up late-game using Chlorophyll under sun.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!

@@ -1,0 +1,1644 @@
+With massive physical bulk and Unaware, Dondozo is a robust physical wall that is capable of checking some of the tier's most prevalent threats, such as
+
+Great Tusk
+
+,
+
+Zamazenta
+
+, and
+
+Kingambit
+
+. Waterfall is Dondozo's STAB move of choice, with high PP and lack of a drawback, and does decent damage to potential switch-ins like
+
+Gholdengo
+
+and
+
+Iron Valiant
+
+looking to scare Dondozo out, while Body Press can instead more effectively handle the likes of Kingambit and
+
+Hisuian Samurott
+
+and let Dondozo hit
+
+Ogerpon-W
+
+. Curse can make Dondozo a potent threat, increasing both its offensive potential and defensive capabilities, including letting it better check potent threats like Tera Dark Kingambit. Avalanche can be run instead to threaten
+
+Dragonite
+
+and punish Grass-types like
+
+Rillaboom
+
+and
+
+Serperior
+
+that might otherwise fearlessly switch into Dondozo. RestTalk helps Dondozo stay healthy and avoid status while potentially continuing to make progress or set up, depending on the Sleep Talk rolls. The recovery from Leftovers is highly needed, but on teams that lack strong hazard removal then Heavy-Duty Boots can be considered instead. Tera Fighting powers up Dondozo's Body Press, allowing it to get more mileage out of its naturally high Defense and Curse boosts, and lets it more effectively check Kingambit, particularly Black Glasses + Tera Dark variants that can run through stall teams with enough Supreme Overlord boosts. Tera Dark can help Dondozo check special attackers like
+
+Dragapult
+
+, Gholdengo, and
+
+Hoopa-U
+
+in a pinch as well as non-Low Kick Kingambit variants. Tera Dragon can be used to check Ogerpon-W, which can give bulkier teams trouble while still keeping its Fire resistance; this variant should have either Body Press or Avalanche as to threaten Ogerpon-W through Water Absorb.
+
+Dondozo is generally found on bulkier teams, especially stall, that appreciate its ability to easily check a number of threatening setup sweepers and fearsome physical attackers while also capable of tolerating its passivity. Despite its enormous physical bulk, Dondozo's special bulk leaves much to be desired, so it pairs well with specially defensive walls like
+
+Blissey
+
+and
+
+Clodsire
+
+that can handle Pokemon like
+
+Raging Bolt
+
+,
+
+Darkrai
+
+, and Dragapult. Entry hazard removers like
+
+Galarian Weezing
+
+and
+
+Corviknight
+
+are necessary partners, even running both of them at once, letting Dondozo run Leftovers while also doubling as checks to Rillaboom and
+
+Meowscarada
+
+. Running Tera Grass on Galarian Weezing or Tera Dragon on Corviknight for the Ogerpon-W matchup gives Dondozo more freedom to run Tera Fighting or Tera Dark as well. Dondozo is a passive Pokemon that is checked by other bulky Pokemon like
+
+Alomomola
+
+, which can also use it as fodder to pass Wishes to Pokemon like
+
+Ursaluna
+
+, and
+
+Clefable
+
+, and so it benefits from teammates like
+
+Gliscor
+
+and Clefable that have more offensive presence and can make progress against them while also acting as Knock Off absorbers for it. Alomomola is a great partner for passing Wish to Dondozo, helping it be less reliant on Rest for recovery as well as potentially burning physical threats like Kingambit and
+
+Weavile
+
+to help it take as little damage as possible from stronger physical attackers. Ogerpon-W is particularly annoying for Dondozo thanks to Water Absorb and is difficult to check without using Tera, so teammates like
+
+Hydrapple
+
+and the niche
+
+Amoonguss
+
+that can handle it while also helping against threats like Rillaboom are appreciated, letting Dondozo forgo Tera Dragon. On balance teams, offensive partners like
+
+Cinderace
+
+and Weavile help threaten Dondozo's offensive checks like Rillaboom and Raging Bolt, with the former further providing hazard control thanks to Court Change.
+
+Dondozo is a niche Pokemon used on stall teams, where its great physical bulk in combination with Unaware allows it to stomach many hits from powerful physical attackers such as Extreme Killer
+
+Arceus
+
+,
+
+Koraidon
+
+,
+
+Zacian-C
+
+,
+
+Calyrex-I
+
+, and Dragon Dance
+
+Arceus-Ground
+
+. However, due to its incredibly passive nature and unreliable recovery in Rest, which is blocked by
+
+Miraidon
+
+'s Hadron Engine and Taunt users like
+
+Landorus-T
+
+, Arceus, and Arceus-Ground, it is prone to being weakened throughout a game. Furthermore,
+
+Skeledirge
+
+, another common stall Pokemon, frequently competes with Dondozo for a team slot due to playing a similar role and having a means of reliable recovery in Slack Off.
+
+Avalanche provides Dondozo with a method to hit Pokemon such as
+
+Koraidon
+
+and Tera Flying
+
+Ho-Oh
+
+. Fissure makes Dondozo much less passive, allowing it to hit defensive
+
+Arceus
+
+formes like
+
+Arceus-Fairy
+
+and
+
+Arceus-Water
+
+while simultaneously deterring
+
+Miraidon
+
+from switching in, as well as being much more useful against Taunt Arceus formes. While unreliable and prevented by Miraidon's Hadron Engine, Rest is Dondozo's only method of healing. Sleep Talk prevents Pokemon from exploiting Dondozo while it is asleep, and also gives Dondozo a chance to use Fissure even after it runs out of PP. Tera Fairy provides Dondozo an immunity to Dragon-type moves, specifically Koraidon's Scale Shot and Outrage and
+
+Eternatus
+
+’s Dynamax Cannon, while also giving Dondozo a resistance to Fighting-type attacks like Koraidon's Low Kick. However, Tera Fairy leaves Dondozo vulnerable to Steel-type attacks like
+
+Necrozma-DM
+
+’s Sunsteel Strike and
+
+Zacian-C
+
+’s Behemoth Blade. Tera Flying also gives Dondozo the same resistance to Fighting-type moves while also allowing Dondozo to use Rest while Electric Terrain is active. Tera Electric provides Dondozo a resistance to Zacian-C's Wild Charge and Ho-Oh's Brave Bird.
+
+Teammates like
+
+Gliscor
+
+and
+
+Blissey
+
+appreciate Dondozo's presence as a fallback option when powerful setup Pokemon like Swords Dance Arceus and Swords Dance Koraidon threaten a sweep. Although very bulky on the physical side, Dondozo's poor special bulk and bad matchups against the tier's most popular special attackers in Miraidon,
+
+Calyrex-S
+
+, and
+
+Kyogre
+
+render it extremely vulnerable to their attacks. Therefore, specially defensive teammates like Blissey,
+
+Clodsire
+
+, and Tera Grass Ho-Oh are excellent teammates for Dondozo, as Dondozo helps deal with powerful physical threats. In contrast, they help deal with powerful special attackers.
+
+Alomomola
+
+is also an excellent teammate for Dondozo, as Alomomola helps take a lot of pressure off of it by providing Wish support, also giving Dondozo a method of healing while Electric Terrain is active. Additionally, Gliscor's ability to absorb Knock Off from Pokemon like
+
+Alolan Muk
+
+,
+
+Mandibuzz
+
+, Necrozma-DM, and opposing Gliscor, which could otherwise significantly cripple Dondozo, is helpful. Alolan Muk also works very well with Dondozo due to being one of the only reliable Calyrex-S checks, and
+
+Garganacl
+
+is also helpful when Dondozo is dealing with Tera Flying Ho-Oh.
+
+Other Options
+
+Curse can be used as an alternative to Fissure to better handle threats such as Scale Shot
+
+Koraidon
+
+and
+
+Necrozma-DM
+
+, but it isn't preferred due to making Dondozo much more passive. Body Press is also an alternative to Fissure, as it helps against Taunt
+
+Arceus
+
+as well as being more consistent than Fissure, but suffers the same issues as Curse in being far too passive.
+
+Checks and Counters
+
+Special Attackers
+
+: Special Attackers like
+
+Miraidon
+
+,
+
+Calyrex-S
+
+, and
+
+Kyogre
+
+threaten Dondozo with significant damage due to its poor Special Defense. Miraidon’s Electro Drift, Calyrex-S’s Grass Knot, and Kyogre’s Thunder or Origin Pulse either OHKO or cripple Dondozo to the point where it is no longer effective in checking physical attackers.
+
+Taunt Users
+
+: Taunt users like Extreme Killer Arceus and
+
+Landorus-T
+
+shut down Dondozo's only means of recovery in Rest, which can help slowly wear it down in addition to chip damage.
+
+Knock Off Users
+
+: Knock Off users like Necrozma-DM and
+
+Gliscor
+
+can stop Dondozo from repeatedly switching in when combined with hazards.
+
+Necrozma-DM
+
+: Necrozma-DM’s Photon Geyser, when boosted by Swords Dance or Dragon Dance, ignores Unaware and easily blasts through Dondozo's defenses.
+
+Dondozo is a solid physical wall due to its incredible physical bulk and Unaware. Dondozo fits well on bulky teams where it can switch into physical attackers such as
+
+Koraidon
+
+,
+
+Great Tusk
+
+, and
+
+Chien-Pao
+
+.
+
+Liquidation hits Ground- and Fire-types such as Great Tusk,
+
+Iron Treads
+
+, and
+
+Skeledirge
+
+. Earthquake lets Dondozo lure in and deal huge damage to
+
+Miraidon
+
+.
+
+Curse makes Dondozo less passive and gives it sweeping potential. Protect lets Dondozo scout for Choice item users such as Koraidon, Miraidon, and
+
+Iron Bundle
+
+while also recovering health.
+
+Rest is the only recovery option for Dondozo and can be used with Sleep Talk to deal with physical attackers such as Koraidon and Chien-Pao better. However, Miraidon's extensive presence in the metagame makes Rest unreliable.
+
+Tera Steel lets Dondozo resist Moonblast from
+
+Flutter Mane
+
+and Freeze-Dry from Iron Bundle. Alternatively, Tera Fairy allows Dondozo to resist Fighting- and Dark-type moves from Koraidon and Chien-Pao while it also gains an immunity to Dragon-type moves.
+
+Tera Ground gives Dondozo an immunity to Electric-type moves and can allow it to catch Miraidon by surprise and KO it using a boosted Earthquake.
+
+Entry hazard removal options such as
+
+Corviknight
+
+, Iron Treads, and Great Tusk are great teammates, as foes can take advantage of Dondozo being worn down due to hazards.
+
+Dugtrio
+
+is a good teammate, as it can trap and KO Miraidon, making Dondozo incredibly tough to stop.
+
+Dondozo appreciates special walls such as
+
+Ting-Lu
+
+, Corviknight, and
+
+Blissey
+
+that can switch into threats such as Miraidon and Flutter Mane. In return, Dondozo checks their threats in Koraidon, Chien-Pao and Great Tusk.
+
+Dondozo is the gold standard for shutting down physical setup sweepers. Its tremendous physical bulk and Unaware ability make it almost impossible for most physical attackers to get past without super effective moves, which, with the rarity of powerful physical Electric- and Grass-type moves, makes it nearly invulnerable on the physical side. This also means Dondozo can become impossible to remove if the opponent loses their powerful special attackers, such as
+
+Iron Valiant
+
+on Fighting or Landorus-I on Ground, making it a potent late-game sweeper. Rest allows Dondozo to last almost indefinitely against any Pokemon that cannot 3HKO it; something that isn’t even achieved by the likes of Life Orb Close Combat
+
+Scizor
+
+or Choice Scarf
+
+Great Tusk
+
+. Sleep Talk makes sure that Dondozo doesn't get trapped in a cycle of using Rest every three turns by Pokemon that can 4HKO it, allowing it to use Rest and Sleep Talk until it rolls Curse, at which point it no longer needs to Rest every three turns to avoid being KOed. Sleep Talk also makes Dondozo less passive by wearing down the Pokemon it is walling and forcing the opponent to risk taking damage when switching a special attacker such as
+
+Volcarona
+
+or
+
+Flutter Mane
+
+in. Curse allows Dondozo to beat physical attackers that could otherwise 3HKO it, such as Thunder Punch
+
+Iron Hands
+
+, and ensures Dondozo doesn't have to use up all its PP to get past Pokemon with recovery moves like
+
+Corviknight
+
+. Curse also enables Dondozo to function as a late-game sweeper, and prevents Dondozo from being stopped by most physical walls, pressuring the opponent to switch in their special attackers and risk taking damage. Waterfall is used because it hits reasonably hard and has relatively few immunities in comparison to Body Press as well as enough PP that Dondozo is difficult to PP stall. The majority of Dondozo's EVs go to HP and Defense, as the most important thing is its ability to take physical hits. However, Dondozo's high base HP means it can sacrifice some HP EVs without its ability to take physical hits suffering significantly, allowing Dondozo to invest 108 EVs in Special Defense. These EVs allow Dondozo to function as a last line of defense to finish off special attackers like
+
+Spectrier
+
+and
+
+Galarian Moltres
+
+that have boosted out of control, wall weaker special attackers like
+
+Pecharunt
+
+entirely, and enables Dondozo to get past special attackers trying to stop its sweeps. The trade-off for Dondozo’s defensive prowess is that many powerful special attackers, such as
+
+Raging Bolt
+
+and
+
+Darkrai
+
+, can switch in easily on it, so it's important to pair Dondozo with specially defensive Pokemon that can handle the threats it invites in.
+
+Dondozo is cripplingly weak to entry hazards because, unlike walls with access to Recover, it cannot reliably heal hazard damage after switching in. This makes keeping hold of its Heavy-Duty Boots crucial in many matchups, so it greatly benefits from the assistance of physically defensive
+
+Gastrodon
+
+to absorb Knock Off. Gastrodon additionally switches into the Electric-type moves that threaten out Dondozo and sets up Spikes to chip down Pokemon that try to wear Dondozo down with hit-and-run tactics, such as Swords Dance Scizor and
+
+Azumarill
+
+. Specially defensive Gastrodon is a valuable partner for its ability to switch into many of the special attackers that threaten Dondozo such as Flutter Mane, Raging Bolt, and Darkrai.
+
+Alomomola
+
+keeps Dondozo healthy with Wish, letting it avoid sleep turns, which allows it to more reliably answer Pokemon that would 3HKO it. This also supports Dondozo’s sweeping capacity by allowing it to come back if it was brought to low HP by trading to remove a special attacker, such as Iron Valiant on Fighting-type teams. Physically defensive Alomomola in particular can scout physical threats to prevent Dondozo from losing health unnecessarily and handle Choice Band attackers such as Scizor and
+
+Excadrill
+
+, as well as switching into Knock Off in emergencies and across many matchups to avoid Dondozo losing its item.
+
+Toxapex
+
+can switch into the Grass-type moves that threaten Dondozo, such as
+
+Gallade
+
+’s Leaf Blade and
+
+Meowscarada
+
+’s Flower Trick, and, like Alomomola, is invaluable for scouting and handling Choice Band Pokemon such as
+
+Sneasler
+
+and
+
+Urshifu-R
+
+.
+
+Empoleon
+
+switches in on special Grass-type moves and Freeze-Dry and provides a reliable special wall to complement Dondozo’s reliable checking of physical threats, as well as using Knock Off to remove Leftovers and Heavy-Duty Boots, damaging the longevity of Dondozo’s checks. Because Dondozo is commonly paired with Alomomola and Toxapex, and all three cannot typically hit Water Absorb
+
+Clodsire
+
+, Dondozo appreciates teammates that can put pressure on Clodsire to strengthen the Ground matchup. Choice Specs
+
+Greninja
+
+can revenge kill many of the Pokemon that take advantage of Dondozo to set up, like
+
+Gholdengo
+
+, or can break past Dondozo, like the
+
+Ogerpon
+
+formes, and its Ice Beams are devastating in the Ground matchup.
+
+Other Options
+
+Water
+
+Dondozo has a lot of flexibility with its EV spread. 252 HP / 252 Def / 4 SpD with an Impish nature can be used to improve Dondozo’s chances of beating powerful physical attackers like
+
+Iron Hands
+
+and
+
+Gallade
+
+on teams that don’t care about Dondozo’s role as a late-game sweeper. The choice of 108 Special Defense EVs is arbitrary, and a little more or less could be used depending on how strong your team is against special setup sweepers. Dondozo is usually used alongside
+
+Alomomola
+
+, so it benefits more from Wish when it has more EV investment in its Physical Defense and Special Defense than HP. If it isn’t being used alongside Alomomola, this spread is strictly suboptimal, and a spread with more HP investment such as 248 HP / 188 Def / 72 SpD with an Impish nature should be used. Avalanche can be used as Dondozo’s primary attack to avoid being walled by
+
+Clodsire
+
+and
+
+Ogerpon-W
+
+, at the cost of making Dondozo much easier for most things to switch into and having lower PP. Leftovers can be used over Heavy-Duty Boots on teams with good entry hazard removal, making Dondozo much harder to 3HKO at the cost of increased vulnerability to hit-and-run tactics.
+
+This Pokemon has been updated for the return of the Regulation G format and its powerful restricted threats!
+
+With immense bulk, Yawn, and Unaware, Dondozo is not only an impressive defensive Pokemon but also one of the most dangerous OHKO fishers in the game.
+
+Avalanche versus Wave Crash
+
+: Avalanche deals more consistent damage against Dragon-types like
+
+Dragonite
+
+, which often forces Terastallization and makes it vulnerable to Fissure. If a Water-type STAB attack is desired instead, Wave Crash is the preferred option over Liquidation in most cases, purely for the damage output.
+
+Protect
+
+: Not only is Protect useful for scouting for unexpected Tera types, but it also pairs well with Yawn and Leftovers to give Dondozo more longevity.
+
+Rest and Sleep Talk
+
+: When using Rocky Helmet, these two moves are an alternative way to keep Dondozo healthy. It also makes it much easier for Dondozo to deal with debilitating status conditions.
+
+Earthquake
+
+: Earthquake has good offensive synergy with Avalanche and punishes some Tera Electric Pokemon that may attempt to mess with Dondozo, such as
+
+Chien-Pao
+
+.
+
+EV Spread
+
+: This spread maximizes Dondozo's stopping power against physical threats and helps against powerful Tera users, with the ability to avoid a 2HKO from Adamant Chien-Pao's Tera Blast Electric with Leftovers and Protect.
+
+Other Options
+
+Curse
+
+: Curse can be used to get around Substitute users like Punching Glove
+
+Urshifu-R
+
+, increasing Dondozo's already incredible bulk and gaining enough power to knock out Substitute in one attack.
+
+Tera Types
+
+Tera Dependency - Low / Medium
+
+: Dondozo's defensive typing is fantastic, so Terastallization is usually only needed against the metagame's most fearsome wallbreakers.
+
+Fairy
+
+: A Fairy Tera type lets Dondozo take on powerful Dark- and Dragon-type attacks much more easily, and it's just a good defensive typing in general. Choice Band
+
+Koraidon
+
+'s Outrage is one of the biggest targets, but blocking Scale Shot is also good for forcing Rocky Helmet contact damage.
+
+Fire
+
+: A Fire Tera type throws a wrench in the plans of Tera Electric attackers like
+
+Zacian-C
+
+and Chien-Pao while still resisting their best STAB attacks. It also makes dealing with
+
+Ogerpon-H
+
+much easier.
+
+Alternate EV Spread
+
+252 HP / 196 Def / 60 SpD with Impish
+
+: By shifting some investment into special bulk, Dondozo can guarantee that it avoids an OHKO from Tera Fairy Moonblast coming from Timid Choice Specs
+
+Flutter Mane
+
+.
+
+Dondozo's good power and bulk lend it nicely to an Assault Vest set, and is particularly good at punishing otherwise troublesome special attackers such as
+
+Flutter Mane
+
+and
+
+Chi-Yu
+
+Avalanche
+
+: Avalanche punishes Flying- and Dragon-types with super effective coverage.
+
+Body Press
+
+: This is valuable Fighting-type coverage for most foes that would otherwise be a good switch in to Dondozo, such as
+
+Meowscarada
+
+,
+
+Wo-Chien
+
+,
+
+Magnezone
+
+,
+
+Kingambit
+
+, and
+
+Brute Bonnet
+
+.
+
+Fissure
+
+: Fissure allows Dondozo to potentially cheese its way through something that might otherwise wall it.
+
+Heavy Slam
+
+: Dondozo is heavy enough to deal serious damage to Fairy-types such as
+
+Mimikyu
+
+and Flutter Mane. Just note that
+
+Chien-Pao
+
+is shockingly heavy, so Body Press or Wave Crash is preferred against that threat.
+
+Earthquake
+
+: Earthquake offers more reliable Ground-type coverage at the cost of not being an instant KO like Fissure.
+
+Tera Types
+
+Tera Dependency - Low
+
+: While Terastallization will help against some specific checks to Dondozo, it's typing is great for general purposes.
+
+Grass
+
+: Tera Grass removes Dondozo’s usual set of weaknesses and allows it to absorb spore from the likes of
+
+Amoonguss
+
+,
+
+Breloom
+
+, and Brute Bonnet.
+
+Fairy
+
+: Tera Fairy grants Dondozo a new set of resistances to take advantage of with its phenomenal bulk and also grants it a powerful STAB to hit Dragon- and Fighting-types with if it runs Tera Blast.
+
+Steel
+
+: When paired with Heavy Slam, Dondozo can now 2HKO
+
+Iron Bundle
+
+without Stealth Rock support, in addition to gaining a fantastic defensive typing.
+
+Ground
+
+: Terastallizing into a Ground-type allows Dondozo to block the Electric-type attacks commonly aimed at it while also giving it STAB on Earthquake.
+
+Dragon
+
+: Tera Dragon gives Dondozo a resistance to both Electric- and Water-type attacks, allowing it to stand up to
+
+Rotom-W
+
+much better.
+
+EV Spreads
+
+44 HP / 212 Atk / 252 SpD with Careful
+
+: This EV spread avoids a 2HKO from Choice Specs Chi-Yu's Dark Pulse.
+
+252 Atk / 252 SpD / 4 Spe with Adamant
+
+: This more offensive spread makes sense if you have better options for Chi-Yu.
+
+With Unaware, Dondozo becomes an effective and difficult to break Curse user.
+
+Fissure
+
+: Even with Curse being the point of this set, Dondozo can still effectively fish for OHKOs with Fissure when it's not in a favorable set-up position.
+
+Avalanche
+
+: Many foes will Terrastallize into a Flying-type to avoid an expected Fissure, which makes Avalanche a particularly useful coverage move.
+
+Earthquake
+
+: Earthquake helps against
+
+Magnezone
+
+and common users of Tera Electric such as
+
+Baxcalibur
+
+.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Water is an excellent defensive typing, so Dondozo won't need to Terastallize often.
+
+Grass
+
+: With a Grass Tera Type, Dondozo can effectively set up on
+
+Breloom
+
+and
+
+Brute Bonnet
+
+.
+
+Fairy
+
+: The Dragon immunity that Tera Fairy provides makes setting up on powerful foes like Choice Band
+
+Dragapult
+
+and
+
+Roaring Moon
+
+much easier.
+
+Flying
+
+: If using Fissure, Tera Flying is a good choice for potentially beating other Dondozo.
+
+Dondozo is a formidable threat thanks to its stats being doubled when combined with
+
+Tatsugiri
+
+'s Commander ability. Due to its immense bulk, Dondozo is difficult to remove without adequate answers, easily sweeping through entire teams on its own.
+
+Dondozo performs best with offensive threats that can break apart teams for it and still function independently without needing to pivot. Examples include
+
+Chien-Pao
+
+and
+
+Dragonite
+
+, as well as
+
+Tornadus
+
+and a sweeper such as
+
+Urshifu-S
+
+or
+
+Flutter Mane
+
+. The two cores utilize strong speed control and get off massive damage early, allowing Dondozo to clean up.
+
+Glimmora
+
+is another excellent partner, as its ability and signature move put foes on a timer, forcing them to burn through Dondozo before fainting to Toxic poison.
+
+Dondozo struggles against Pokemon that can ignore its stat boosts, either by neutralizing or bypassing it entirely. Both Urshifu formes and Chien-Pao with Sacred Sword ignore Dondozo's Defense boost, with Chien-Pao both outspeeding and threatening Dondozo if it uses Tera Grass, and Urshifu-S dealing big damage with Wicked Blow and removing Dondozo's ability to stall with Protect.
+
+Incineroar
+
+and
+
+Gouging Fire
+
+are able to consistently weaken Dondozo with Breaking Swipe and Intimidate cycling respectively. A combination of Incineroar and
+
+Amoonguss
+
+is particularly difficult to handle, as Amoonguss can keep Incineroar safe with redirection and Incineroar is free to cycle Parting Shot and Intimidate.
+
+Dondozo requires much more experience to properly play compared to other sweepers, due to only making plays with one Pokemon for most of the game. While its not impossible to play into certain difficult matchups, especially with a strong composition and much practice, it necessitates significant reads and good positioning of Dondozo to win.
+
+Wave Crash is Dondozo's strongest Water-type move, OHKOing Pokemon like
+
+Tornadus
+
+and
+
+Gholdengo
+
+. Earthquake bypasses Follow Me from
+
+Ogerpon-W
+
+, and provides it a strong spread move thats picks off weakened foes.
+
+Rocky Helmet breaks Focus Sash on
+
+Chien-Pao
+
+and
+
+Urshifu
+
+, allowing for an OHKO. It also allows for big damage on
+
+Urshifu-R
+
+using Surging Strikes. Leftovers allows Dondozo to recover swathes of health, even more so by stalling with Protect. However, its harder to use now, as most threats to Dondozo can outdamage Leftovers recovery, especially so considering the Urshifu formes ignore Protect. Clear Amulet can be used to remove ways to weaken Dondozo, primarily
+
+Incineroar
+
+and
+
+Gouging Fire
+
+.
+
+20 Defense EVs ensure that Sacred Sword from Chien-Pao is a 4HKO and allow Dondozo to survive two Wicked Blows from Urshifu-S. 76 Special Defense EVs allow Dondozo to survive two Moonblasts from Tera Fairy Choice Specs
+
+Flutter Mane
+
+. The Attack investment ensures Wave Crash OHKOes Urshifu-S after Rocky Helmet damage and that Order Up 2HKOes Ogerpon-W and Urshifu-R.
+
+Tera Grass provides resistances to Grass- and Electric-type attacks, as well as giving an immunity to Spore from
+
+Amoonguss
+
+, which is otherwise difficult to deal with.
+
+Dondozo can utilize its strong natural bulk and typing to function as a supportive wall with Yawn.
+
+Yawn Dondozo pairs best with
+
+Ting-Lu
+
+, as a combination of Sand Tomb and Yawn can reliably slow down foes and Ting-Lu's Vessel of Ruin helps with Dondozo's frailer Special Defense.
+
+Dondozo struggles against
+
+Rillaboom
+
+and
+
+Amoonguss
+
+, as both resist Wave Crash, and it is harder to make damage over time stick with Grassy Terrain and Pollen Puff respectively. Additionally, the former threatens super effective damage on Dondozo and the latter threatens Spore.
+
+Leftovers recovery gives Dondozo additional staying power in slower-paced battles compared to recovery Berries.
+
+Oblivious prevents Dondozo from being shut down with Taunt from Pokémon such as
+
+Tornadus
+
+or affected by Intimidate from foes like
+
+Incineroar
+
+.
+
+The invested bulk allows Dondozo to survive Thunderbolt from
+
+Raging Bolt
+
+, as well as surviving two Earth Powers from
+
+Landorus
+
+and OHKOing in return with Wave Crash. Heavy Slam is used to OHKO
+
+Flutter Mane
+
+.
+
+Dondozo takes advantage of Unaware and its good natural bulk to boast a good matchup against metagame staples such as
+
+Calyrex-I
+
+and
+
+Zamazenta-C
+
+while picking away at the opponent's team for
+
+Calyrex-S
+
+to clean it up. Order Up boosts Dondozo's Body Press when paired with Tatsugiri-D and hits Dragon-types such as Tera Dragon Zamazenta-C. Body Press threatens foes such as Zamazenta-C and
+
+Terapagos
+
+, and Order Up's Defense boosts leave Dondozo untouchable to physical attackers like Calyrex-I after a few Defense boosts. Earthquake can be used over Wave Crash for a spread move. Thanks to Dondozo's heightened defenses after a Commander boost, Leftovers becomes even more valuable, making Dondozo even bulkier with passive recovery and allowing it to easily stall turns with Protect. With a Commander boost, the Defense investment lets Dondozo comfortably 2HKO Zamazenta-C and OHKO
+
+Incineroar
+
+at +3 most of the time. The Special Defense investment and Commander boost lets Dondozo survive two Thunderbolts from
+
+Raging Bolt
+
+. The Speed investment allows Dondozo to outpace Adamant
+
+Urshifu
+
+formes after Commander boosts. Tera Grass lets Dondozo resist Electric- and Grass-type attacks like Wood Hammer from
+
+Rillaboom
+
+and Thunderclap while also giving Dondozo an immunity to Spore and Rage Powder.
+
+Dondozo tends to struggle with Fake Out users like Rillaboom, Incineroar, and
+
+Iron Hands
+
+; they can easily cycle in and out to spam Fake Out and catch Dondozo a turn after it uses Protect, forcing it to use Protect again, preventing it from dealing damage, and letting foes rack up damage. The Urshifu formes can significantly chunk Dondozo with powerful Wicked Blows and Surging Strikes that hit through its boosts with critical hits.
+
+Miraidon
+
+also threatens Dondozo with big hits like Draco Meteor and Electro Drift. Removing the aforementioned Fake Out users and the Urshifu formes allows Dondozo to come in safely and chip foes for Calyrex-S to clean up.
+
+Galarian Weezing
+
+can help by setting up Toxic Spikes and chipping foes before Dondozo gets on the field, allowing it to rack up Toxic damage with Protect and picking off foes for Calyrex-S. Galarian Weezing can also significantly chunk the Urshifu formes with Strange Steam. Calyrex-S is able to come in after Dondozo weakens the opposing team, cleaning up the game while helping Dondozo by being able to outspeed and KO Miraidon.
+
+Set Details
+
+Dondozo is a powerful tool, able to utilize its bulk to stay on the battlefield for long periods, chip foes down, and set up a favorable late-game scenario for Tatsugiri-D and a partner Restricted Pokemon. Dondozo matches up well against many physical attackers, including
+
+Incineroar
+
+,
+
+Zamazenta-C
+
+, and
+
+Koraidon
+
+, as its Defense stat already keeps it healthy, all the while using Order Up to continue to raise its Defense when combined with Tatsugiri-D.
+
+Substitute further increases Dondozo's longevity, which buys critical time via leftovers recovery to damage key threats. Substitute also critically blocks Spore, meaning Dondozo does not have to Terastallize because of it. Earthquake provides Dondozo with strong spread damage, notably good against targets like
+
+Miraidon
+
+and
+
+Raging Bolt
+
+, which are typically difficult for Dondozo to handle, while Wave Crash offers massive single-target damage, though its recoil can severely damage Dondozo's longevity.
+
+Leftovers recovery, when combined with the bulk that Commander offers, makes Dondozo extremely hard to take down without a super effective hit. Alternating Protect and an attack can often take Dondozo out of rolls that would otherwise KO it thanks to the HP regained while using Protect.
+
+The EV investment is done with the Commander boost in mind. The Special Defense investment allows Dondozo to always survive two Draco Meteors from Assault Vest Miraidon, while the Defense investment often lets Dondozo OHKO Incineroar and 2HKO Zamazenta-C with Body Press after one Order Up Defense boost. This Dondozo set is also able to outspeed maximum Speed Adamant
+
+Urshifu
+
+.
+
+Tera Grass on Dondozo removes critical weaknesses to the Electric- and Grass-type moves from Miraidon, Raging Bolt, and
+
+Rillaboom
+
+while also giving Dondozo a Spore immunity.
+
+Teambuilding
+
+The biggest threat to Dondozo is Miraidon, as most sets often OHKO Dondozo with Electro Drift, even with the Commander boost, which forces Dondozo to Terastallize in order to take Electro Drift. Even after Terastallizing, Miraidon's Choice Specs sets' Draco Meteors often threatens 2HKOs.
+
+Lunala
+
+poses an issue, as it offers consistent damage unfazed by the Order Up boosts, is naturally bulky, and, depending on the Dondozo set, sometimes cannot even be touched.
+
+The
+
+Calyrex-I
+
+matchup is potentially dangerous, as Leech Seed sets cripple Dondozo's recovery and make Calyrex-I very hard to kill. Because of this interaction, it is encouraged to Terastallize and accept being weak to Glacial Lance, since Order Up boosts can help Dondozo to endure the attacks.
+
+Any teams that can cycle Fake Out, such as teams that utilize one or more of Rillaboom,
+
+Iron Hands
+
+, and Incineroar, can be disastrous for Dondozo, as being the only Pokemon on the field, preventing it from dealing damage is extremely brutal.
+
+Both Urshifu formes are threatening, as both Surging Strikes and Wicked Blow do huge damage due to the critical hits ignoring the Commander boosts.
+
+Ursaluna
+
+often uses Tera Ghost to escape being weak to Body Press and does huge damage with Guts-boosted Facades, even with Commander and Order Up boosts.
+
+Galarian Weezing
+
+'s Neutralizing Gas prevents Tatsugiri-D from activating its Commander ability, while Galarian Weezing itself threatens to chip down Dondozo with Poison.
+
+Calyrex-S
+
+is a great ally for Dondozo, as it can capitalize off of the damage Dondozo has done to sweep late-game. Calyrex-S can also support Dondozo earlier on by outspeeding and dealing huge damage to Miraidon, Lunala, and Calyrex-I. Koraidon is another good Restricted Pokemon as a partner, as it can use its Speed to threaten Miraidon as well while using its Fire- and Fighting-type moves to threaten foes such as Rillaboom,
+
+Amoonguss
+
+, Calyrex-I, and Incineroar.
+
+Tatsugiri-D is a mandatory partner for Dondozo, as the Commander boosts allow Dondozo to reach nearly all of its KOs and gain critical bulk. Galarian Weezing is a natural ally to Dondozo, as its ability to spread status via Toxic Spikes and Poison Gas helps Dondozo to chip foes down, as well as further giving Dondozo a reason to use Protect.
+
+Combining with Tatsugiri-C allows Dondozo to become a threatening sweeper, being able to pose a significant threat to the majority of teams. Its significant bulk and attacking prowess allow it to rip through unprepared teams and make it hard to remove without consistent answers.
+
+Wave Crash is Dondozo's strongest attacking move, providing a great source of damage to neutral targets such as
+
+Gholdengo
+
+and
+
+Annihilape
+
+. Earthquake provides a spread attack that can get around redirection users such as
+
+Electabuzz
+
+,
+
+Magmar
+
+,
+
+Clefable
+
+, and
+
+Amoonguss
+
+.
+
+Order Up provides a way for Dondozo to boost its Attack without Coaching, allowing it to become even more threatening if the opponent attempts to play around it passively. Order Up also provides a way to hit Dragon-types like
+
+Dragonite
+
+and
+
+Baxcalibur
+
+.
+
+Heavy Slam allows Dondozo to hit Fairy-types that can otherwise check it like
+
+Primarina
+
+,
+
+Alolan Ninetales
+
+and Clefable, and it can be boosted even further by Tera Steel.
+
+Tera Steel allows Dondozo to become immune to Clear Smog from opposing Amoonguss as well as boosting the power of Dondozo's Heavy Slam, allowing it to OHKO physically defensive Amoonguss at +3. Tera Grass allows Dondozo to become immune to Spore from Amoonguss as well as allowing Dondozo to resist Ground-type attacks from
+
+Garchomp
+
+,
+
+Ursaluna
+
+, and
+
+Ursaluna-B
+
+.
+
+Unaware is used to ignore setup threats such as
+
+Volcarona
+
+, Gholdengo and
+
+Archaludon
+
+who could otherwise give Dondozo some issues, it also allows Dondozo to defeat other Commander Dondozo.
+
+Leftovers provides Dondozo with a little bit more longevity, as its naturally high bulk paired with the +2 Defense and Special Defense boosts lets it shrug off attacks and heal them off, and this recovery tends to rack up very quickly if it's alternating between attacking and using Protect.
+
+The Speed investment on this set allows it to outspeed maximum Speed Garchomp after combining with Tatsugiri-C and threaten it greatly with Wave Crash or Order Up. The Attack investment allows +3 Tera Steel Heavy Slam to get a OHKO on physically defensive Amoonguss and allows +1 Earthquake to 2HKO most Sitrus Berry
+
+Incineroar
+
+.
+
+This Dondozo set aims to be a much bulkier supporting piece that is used without
+
+Tatsugiri
+
+while still managing to provide a bit of offensive pressure thanks to its attacking options.
+
+Yawn is Dondozo's main supporting tool, allowing it to force switches or put the enemy to sleep depending on what it goes for. This can put the opponent into an awkward position, which generates free turns for your partner Pokemon.
+
+Wave Crash is Dondozo's strongest attacking move. Alternatively, Liquidation can be used to circumvent the recoil of Wave Crash and give Dondozo more longevity.
+
+Fissure is used in situations where Dondozo isn't providing any pressure on the field, as Dondozo tends to be extremely passive against Pokemon naturally immune to its sleep move like
+
+Electabuzz
+
+and
+
+Gholdengo
+
+or Pokemon that like to pivot a lot naturally and don't mind taking its Water-type attack like
+
+Amoonguss
+
+,
+
+Porygon2
+
+, and other supportive Dondozo. Fissure gives Dondozo a way to provide pressure against these Pokemon that can normally wall it, and since Dondozo is so bulky, a miss often won't lose you the game.
+
+Unaware allows Dondozo to check setup sweepers that could otherwise beat it such as
+
+Volcarona
+
+, Gholdengo,
+
+Kingambit
+
+and
+
+Archaludon
+
+, allowing it to take their boosted attacks and force them out with Yawn.
+
+Tera Poison allows Dondozo to resist Grass-type attacks as well as gaining important resistances to Fighting and Poison, allowing it to wall
+
+Sneasler
+
+. Tera Bug and Grass allow Dondozo to resist Ground-type attacks rather than being weak to it, unlike Tera Poison; while Tera Grass allows it to gain an immunity to Rage Powder and Spore from Amoonguss, Tera Bug allows Dondozo to not be weak to Ice-type moves from
+
+Alolan Ninetales
+
+and
+
+Baxcalibur
+
+as well as Poison-type moves from Sneasler.
+
+The EVs on this set allow Dondozo to survive two Electro Shots from Archaludon after Dondozo uses Protect for a turn if Grassy Terrain is up.
+
+Teambuilding
+
+The sweeper set tends to be strong on hyper offensive teams that can force trades, weakening Dondozo's checks into range of its attacks. Dondozo can also be used to weaken foes early-game, putting the opposing team into range of an alternative late-game sweeper like
+
+Gholdengo
+
+or
+
+Indeedee-M
+
+. Spread moves are extremely strong with Dondozo, as they allow it to put an opposing team into range of Dondozo's attacks. Speed control such as Tailwind is also strong with Dondozo, as it allows it to outspeed threats like
+
+Sneasler
+
+and
+
+Dragapult
+
+. Meanwhile, bulky Dondozo provides a defensive Water-type that can disrupt foes by putting them to sleep, and it's helpful to enable its setup partners.
+
+Tatsugiri-C is a mandatory partner for sweeper Dondozo, as with Commander, it combines with Dondozo to give it a +2 boost to every stat.
+
+Talonflame
+
+is a strong partner for Dondozo, damaging the Grass-types like
+
+Rillaboom
+
+and
+
+Amoonguss
+
+that might give Dondozo issues as well as providing Tailwind speed control that allows it and its team to pick up KOs on Pokemon they would otherwise be slower against, which is beneficial for Dondozo's hyper offense-focused gameplan. Another strong partner is Choice Scarf
+
+Annihilape
+
+. With Coaching, Annilhilape allows Dondozo to becomes even more threatening than it already is. Indeedee-M and Sneasler are very strong partners for this Dondozo variant as well; the combination of them can apply pressure to some of Dondozo's checks like
+
+Primarina
+
+, Rillaboom, and Amoonguss as well as applying significant pressure to
+
+Incineroar
+
+, which could otherwise give Dondozo some trouble, and the Speed boost gained from activating Psychic Seed lets Unburden Sneasler become the fastest Pokemon in the metagame, allowing it to provide significant pressure and make room for a Dondozo win later in the game.
+
+Common partners for support Dondozo include bulky setup Pokemon like
+
+Kingambit
+
+, Gholdengo, and
+
+Volcarona
+
+, which tend to struggle against Fire-types, which Dondozo can beat, and in turn, they resist Grass-type attacks for Dondozo and appreciate the free turns Dondozo can generate with Yawn in order to setup. Rillaboom is another strong partner for this Dondozo set, allowing it to get free turns to use Yawn with Fake Out, providing Dondozo with Grassy Terrain to boost its longevity even further, and switching into Grass-types that are used to check Dondozo, such as opposing Rillaboom and Amoonguss. Dondozo also helps Rillaboom in matchups against Fire-types, which often give it trouble. Dondozo also appreciates being paired with Follow Me users like
+
+Magmar
+
+and
+
+Electabuzz
+
+, as they can redirect Spore from Amoonguss, hamper it with Taunt, or, in Magmar's case, threaten it with a super effective Overheat. They also help to redirect attacks that Dondozo doesn't want to take, like Electro Shot from
+
+Archaludon
+
+and Wood Hammer from Rillaboom.
+
+Sweeper Dondozo has a lot of trouble with Haze Primarina and Clear Smog Amoonguss, which threaten to remove its stat boosts and make it a sitting duck. Because of this, many of Dondozo's partners, like Talonflame and Sneasler, are tasked with pressuring them early-game so that they do not have an opportunity to get rid of Dondozo's stat boosts. The pivoting core of Incineroar and Amoonguss also causes Dondozo some issues, as Amoonguss can put Dondozo to sleep with Spore, and Incineroar can use Intimidate and Parting Shot to drop Dondozo's Attack greatly. Pokemon like Choice Scarf Annihilape and Indeedee-M can help solve this issue, as Annihilape can use Final Gambit to remove a defensive piece on teams using Incineroar + Amoonguss such as
+
+Porygon2
+
+while being able to OHKO Incineroar with Close Combat and boost off Intimidate via Defiant, while Indeedee-M immediately pressures Amoonguss with Expanding Force and blocks Fake Out from Incineroar with Psychic Terrain, making it easier for Dondozo to knock out Incineroar with a super effective Wave Crash.
+
+Bulky Dondozo is checked by Pokemon that can hit it for super effective damage, like Rillaboom and Archaludon, or give it trouble by switching around it and hindering it with status or stat drops, such as Amoonguss, Incineroar, and other supportive Dondozo. Electabuzz and Magmar are other checks to Dondozo, as they are immune to Yawn with Vital Spirit and can allow room for a partner to pressure Dondozo with Follow Me; additionally, Magmar can burn Dondozo with Will-O-Wisp, and Electabuzz can hit it super effectively with Thunderbolt. Your own forms of redirection, such as Electabuzz and Magmar, as well as some Pokemon that naturally threaten Grass-types, like Sneasler, Volcarona, and
+
+Baxcalibur
+
+, all make for great partners to Dondozo. Kingambit also helps deter Intimidate from Incineroar and can use Rillaboom to set up Swords Dance and sweep. Gholdengo can also set up on Rillaboom while naturally being immune to Spore thanks to Good As Gold.
+
+Strategy Comments
+
+Commander-boosted Dondozo's main job is to act as either a wallbreaker or a sweeper, depending on the situation. Dondozo can often win the game on the spot if placed in the right position, so choosing when to combine Dondozo with Tatsugiri-C is critical. Dondozo can often be used to weaken an opposing team to the point where its partners, like Indeedee-M, can clean up the game; conversely, Dondozo's teammates can weaken the opposition to the point where it can clean up the game with its powerful boosted attacks. Meanwhile, bulky Dondozo's main role is to act as a bulky support Pokemon that can force switches with Yawn, putting its foes in awkward positions by forcing them to either switch out or fall asleep, which allows room for Dondozo's partners, such as Kingambit, Gholdengo, and Volcarona, to set up and threaten the opponent. This is often accomplished by bringing in Dondozo against foes that it walls and using Yawn on them.
+
+Sweeper Dondozo teams often involve making smart early-game trades and identifying whether a threat is important to keep alive after Dondozo comes in and goes down or whether it is more important for it to do damage or KO a threat to Dondozo, allowing it to get a late-game sweep. It is also important to identify when Tatsugiri-C should come in to combine with Dondozo, as once this is done, they are fully committed and can no longer switch, making Dondozo vulnerable to being played around and answered. Dondozo should come in once enough damage has been done to the enemy team or in order to deal damage to the opposing team to allow a late-game cleanup from one of Dondozo's partners. Meanwhile, bulky Dondozo is strong both early-game and late-game, depending on the situation. Dondozo tends to use Yawn for a lot of the game, and its high bulk allows it to stick around for many turns at a time. Dondozo can also be used to provide important chip damage against foes that may threaten its partners, such as Incineroar and Volcarona, which gives Dondozo's setup partners more room to break through them. Dondozo can also force opposing setup threats, such as Kingambit, Volcarona, and Archaludon, to switch out, which makes room for its own setup ally to get in the game and threaten a sweep.
+
+Sweeper Dondozo is checked by every form of Amoonguss, especially Clear Smog Amoonguss, as well as Haze Primarina. Forcing early-game trades to force these pieces on the board followed by dealing significant damage to them to clean up with Dondozo is important. It is also important to understand that Dondozo should not come in every matchup, as it is just too hard to get value with Dondozo in many of them. It is vital to identify whether or not Dondozo is a good Pokemon to bring into the match with the team you are facing up against. If the opponent has enough ways to threaten Dondozo and severly hinder its progress or if Dondozo struggled to get value in a previous game, leaving Dondozo behind should be considered. Dondozo is also often checked by Rillaboom, using Fake Out to pivot around it and threatening super effective damage with Wood Hammer. It is important to force damage onto Rillaboom to allow Dondozo to pick up the KO on it or soften it up with Dondozo to allow a teammate to pick it up. The core of Incineroar and Amoonguss is also really strong against Dondozo, so it is important to limit switching and pressure Incineroar as much as possible. Softening up Incineroar and Amoonguss with early-game pressure from the likes of Indeedee-M, Annihilape, and any other offensive partners you might have is important, and putting yourself in a favorable position against a weakened Amoonguss to KO it or its partner Incineroar is very important as well. On the other hand, bulky Dondozo is often checked by Rillaboom; however, many of Dondozo's Grass-resistant partners appreciate the ability to take advantage of Rillaboom to either set up in Volcarona and Kingambit's case or hit it super effectively in Sneasler's case. Another one of Dondozo's checks is Amoonguss, which can take advantage of Dondozo's passivity and incapacitate it with Spore, and it often doesn't mind Yawn because with Regenerator, it often likes switching out anyway. Dondozo can take advantage of it by using its partner Electabuzz or Magmar to exploit Amoonguss, using their Spore immunity to play around it and allow their sweeper to set up with smart positioning. Electabuzz can also disable Amoonguss with Taunt, which Dondozo appreciates, while Magmar can threaten Amoonguss with super effective damage, which weakens it enough to be taken advantage of late-game.
+
+Fur Coat Dondozo uses its massive physical bulk and solid typing to check powerful physical wallbreakers including
+
+Mega Garchomp
+
+, non-mixed
+
+Mega Lucario
+
+, and
+
+Ash-Greninja
+
+. Strength Sap is the preferred recovery option to also slow down setup sweepers like Mega Garchomp, but Shore Up cannot be blocked by Magic Bounce or be limited by Pokemon like
+
+Blissey
+
+. Dondozo's extremely low Speed also makes it a great pivot capable of underspeeding common defensive staples like Parting Shot
+
+Mega Audino
+
+. Glare cripples all physical attackers excluding Jungle Healing users as well as deterring most special wallbreakers, while Knock Off provides support by removing crucial items like Assault Vest. Stone Axe and Spikes help reduce Dondozo's passivity against Teleport users and Take Heart
+
+Arceus
+
+formes. Covert Cloak prevents annoying secondary effects from moves like Salt Cure and Mortal Spin, which is valuable because Dondozo can be 2HKOed by coverage moves after slight chip damage; alternatively, Rocky Helmet punishes otherwise safe U-turns and prevents foes like Mega Garchomp from simply PP stalling Dondozo's healing. Dondozo cannot answer mixed threats such as Electro Drift Mega Garchomp, and thus checks to these Pokemon such as Fur Coat
+
+Arceus-Ghost
+
+are good teammates. Powerful special wallbreakers like
+
+Mega Alakazam
+
+and
+
+Mega Sceptile
+
+appreciate the slow pivoting and entry hazards Dondozo provides and in return can offensively Imposter-proof Dondozo. Dondozo can also be Imposter-proofed by Take Heart users and Electric-types.
+
+Draft Order
+
+: Round 6 onwards
+
+Price Range
+
+: 6-7 points
+
+Overview
+
+: Dondozo can serve as a bulky Water-type with sweeping potential and the ability to stop most physical setup sweepers with Unaware. However, Dondozo suffers from being linear, with its responsibility usually apparent even before the battle begins. It often doesn't have the power to pull off its own sweeps, and the setup sweepers it may try to stop can usually use Tera or other techs to get around it. Additionally, its low Speed and lack of reliable recovery can mean that over the course of a game, even Pokemon that it intends to counter can slowly wear it down and make it ineffectual.
+
+Common Roles
+
+Unaware Wall
+
+: While its Special Defense stat limits Dondozo from blocking special setup sweepers, Unaware, alongside Dondozo's Defense stat, can prevent any physical setup sweeper from making meaningful progress.
+
+Setup Sweeper
+
+: Using Curse, Dondozo can transform a middling Attack stat into something that packs a punch. Should special attackers be eliminated and a team sufficiently weakened, Dondozo can sweep with only a few boosts.
+
+Common Moves
+
+Primary STAB Moves
+
+: Liquidation, Wave Crash
+
+Setup Moves
+
+: Curse, Substitute
+
+Utility Moves
+
+: Rest, Sleep Talk, Yawn
+
+Coverage
+
+: Avalanche, Body Press, Crunch, Earthquake, Heavy Slam, Outrage, Rock Slide, Zen Headbutt
+
+Niche Moves
+
+Facade
+
+: Should Dondozo expect to be statused as an opponent's primary method of dealing with it, Facade can allow it to boost its damage output.
+
+Endure
+
+: When paired with Custap Berry, Endure can allow Dondozo to survive a hit that would've knocked it out and ensure one more attack.
+
+Common Items
+
+Leftovers
+
+: Without any reliable recovery, Leftovers provides longevity and limited recovery to Dondozo to allow it to accomplish its tasks throughout a match.
+
+Heavy-Duty Boots
+
+: Dondozo has no natural immunity to any entry hazard and appreciates being able to switch in multiple times during the course of a game without worrying about taking damage.
+
+Sitrus Berry
+
+: Should Dondozo need to switch in and out frequently, or take only a few significant hits, Sitrus Berry can provide more useful recovery than Leftovers.
+
+Rocky Helmet
+
+: Dondozo will frequently find itself switching in on physical attackers, holding Rocky Helmet will allow it to punish those attackers each time it takes a hit.
+
+Niche Items
+
+Resistance Berries
+
+: Dondozo can use targeted resistance berries to take a hit that would normally KO it, reversing the tides on a dangerous foe.
+
+Assault Vest
+
+: Without wanting to run many status moves, Dondozo can run an Assault Vest to take hits from special attackers that it otherwise could not.
+
+Choice Band
+
+: More offensive-oriented Dondozo can use Choice Band to deal quick damage without needing to boost up ahead of time with Curse. This allows Dondozo to punish Pokemon that want to take advantage of it being a momentum sink or needing multiple turns before it can start outputting significant damage.
+
+Eject Button / Red Card
+
+: With enough Defense and HP, Dondozo can often take a hit, allowing it to either safely bring a teammate in or force out an opponent.
+
+Chesto Berry
+
+: With Rest as Dondozo's only meaningful recovery move, Chesto Berry allows Rest to become a one-time free full heal.
+
+Mental Herb
+
+: Taunt can prevent Dondozo from using crucial moves like Curse or Rest, but Mental Herb enables Dondozo to get off those moves on key turns.
+
+Tera
+
+Dondozo's type is already one of the better ones in the game, and physical attackers that can deal STAB super-effective damage to it are few without using Tera themselves. While Dondozo can use targeted Tera types like Fairy, Steel, or Poison to counter threats, for the most part it gains very little from the mechanic even as a secondary or tertiary captain.
+
+Draft Strategy
+
+Dondozo is a late-draft option for teams that find themselves weak on the physical side and could benefit from a Water-type. As such, Dondozo should be drafted based on what it adds to the team, rather than with the expectation that other teammates will provide coverage for its weaknesses.
+
+Special Walls
+
+: Dondozo is very much geared towards taking physical attacks, and a light breeze on the special side can deal significant damage. Dondozo is best paired with a Pokemon that can take those hits, such as
+
+Fezandipiti
+
+or
+
+Latias
+
+.
+
+Entry Hazard Control
+
+: With entry hazards up, Dondozo can make it harder for Pokemon to switch out for later opportunities to sweep, while also widening the range of KOes it can get reliably. On the other hand, being vulnerable to every hazard means that Dondozo appreciates the removal provided by Pokemon like
+
+Corviknight
+
+and
+
+Iron Treads
+
+to avoid taking chip every time it enters.
+
+Wish / Healing Wish
+
+: As it is unabble to heal itself reliably, Dondozo appreciates support from Pokemon like
+
+Jirachi
+
+or
+
+Gardevoir
+
+to stay healthy throughout a game.
+
+Checks and Counters
+
+Special Attackers
+
+: Dondozo much prefers a physically defensive role, needing much more investment on the special side for similar defensive benchmarks. While pure special attackers like
+
+Darkrai
+
+and
+
+Latios
+
+are major threats, even mixed attackers or Pokemon that can reliably threaten on both sides of the split like
+
+Iron Valiant
+
+and
+
+Enamorus
+
+can make Dondozo struggle.
+
+Grass- and Electric-types
+
+: Whether by Terastallization or via natural users like
+
+Zarude
+
+or
+
+Iron Hands
+
+, Dondozo can struggle against powerful attacks that it is weak to, even on the physical side. Terastallization ssurprises especially can turn what would normally be a matchup strongly in Dondozo's favor into one that it seriously struggles against, such as a Tera Blast Electric from
+
+Iron Boulder
+
+or similar wallbreakers.
+
+Chip Damage
+
+: Dondozo has incredibly limited recovery, so entry hazards, moves like U-turn and Pain Split, and continued hits on the physical side each time Dondozo switches in can eventually wear it down to the point where it can be pushed through and finally KOed.
+
+Taunt
+
+: Taunt entirely prevents many Dondozo sets from being able to do much, whether by preventing Dondozo from setting up with Curse, or by stopping it from preparing for future fights by healing up with Rest. While the list of moves blocked is not expansive, Dondozo intensely relies on being able to use these moves to accomplish its goal, and the duration of a Taunt can render it entirely ineffective.
+
+With outstanding physical bulk, a superb defensive typing, and access to Unaware and Curse, Dondozo is one of the tankiest walls in the tier, capable of taking on most physical attackers like
+
+Garchomp
+
+,
+
+Kingambit
+
+,
+
+Zamazenta
+
+, and Swords Dance
+
+Cinderace
+
+. Body Press is normally used over a STAB move, as it allows Dondozo to hit
+
+Ogerpon-W
+
+and
+
+Mega Gyarados
+
+, the latter being especially important due to its infamous stallbreaking nature; however, it can use Waterfall if those Pokemon are checked by a teammate. Heavy-Duty Boots lets Dondozo ignore entry hazards entirely, which would otherwise greatly hinder its ability to sit on the plethora of physical attackers present in the tier. Dondozo's ability is crucial for the role it provides, as, alongside Curse, Unaware allows it to ignore foes' boosts as it accumulates its own, enabling it to blanket major physical setup sweepers like Swords Dance
+
+Iron Valiant
+
+,
+
+Landorus-T
+
+, and
+
+Hisuian Samurott
+
+. This allows Dondozo to serve a wall that thrives against offense and hyper offense teams that rely heavily on physical attackers, making it a solid pillar in defensive cores that can compensate for its lack of utility.
+
+Despite Dondozo's amazing defensive capabilities, its lack of reliable recovery, situational ability, and weak offensive presence without multiple boosts make it extremely exploitable and easy to play around, thus only finding its place on dedicated stall teams that don't mind being passive.
+
+Clodsire
+
+and
+
+Blissey
+
+are stellar teammates, as they cover for Dondozo's low Special Defense. Clodsire's typing, amazing special bulk, and Unaware let it wall Dondozo counters like
+
+Gholdengo
+
+and
+
+Tapu Koko
+
+, the latter being especially important to answer, as it disables Rest and hits Dondozo super effectively. In return, Dondozo walls Pokemon that threaten to KO Clodsire like
+
+Urshifu-R
+
+,
+
+Great Tusk
+
+, and
+
+Melmetal
+
+. Blissey's ridiculous bulk lets it serve a similar role to Clodsire, checking even boosted special attackers with relative ease while also handling
+
+Mega Charizard Y
+
+and Special Attack Protosynthesis
+
+Raging Bolt
+
+more efficiently.
+
+Shedinja
+
+is another good teammate, as it deals with Ogerpon-W lacking Knock Off and spreads Will-O-Wisp to further aid Dondozo in walling physical attackers, while Dondozo can sit on physical attackers that can hit Shedinja for super effective damage like Kingambit and Zamazenta.
+
+Corviknight
+
+and
+
+Mega Sableye
+
+can also be considered due to their ability to control entry hazards effectively with Defog and Magic Bounce, respectively, meaning Dondozo doesn't mind losing Heavy-Duty Boots as much. Both Pokemon also check offensive behemoths, with Corviknight taking on
+
+Tapu Lele
+
+and
+
+Kartana
+
+, while Mega Sableye handles
+
+Mega Medicham
+
+and
+
+Mega Latios
+
+. Meanwhile, both appreciate that Dondozo can check powerful physical Fire-types like
+
+Ceruledge
+
+and
+
+Blaziken
+
+.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!
+
+Thanks to its setup-stopping ability in Unaware and excellent physical bulk, Dondozo is an excellent physical wall for stall teams that stops threats such as
+
+Zygarde
+
+, physical
+
+Arceus-Ground
+
+, and
+
+Zacian-C
+
+in their tracks.
+
+Avalanche takes advantage of Dondozo’s low Speed and allows it to hit Pokemon such as
+
+Mega Salamence
+
+,
+
+Arceus
+
+Ground,
+
+Rayquaza
+
+, and
+
+Ultra Necrozma
+
+super effectively while allowing it to hit Primal
+
+Groudon
+
+neutrally. Its ability to OHKO Rayquaza is invaluable, as Choice Band sets greatly threaten stall teams.
+
+Body Press takes advantage of Curse boosts and hits
+
+Necrozma-DM
+
+and Zacian-C neutrally. Sleep Talk can be used to reduce passivity after using Rest, but it is usually unnecessary with Aromatherapy support from
+
+Chansey
+
+.
+*Leftovers is another option to provide passive recovery. As stall teams run double Defog support, entry hazard damage is less of a concern. Ability Shield allows Dondozo to wall Ultra Necrozma without running Tera Dark, since it prevents Unaware from being bypassed by Photon Geyser.
+
+Tera Fairy allows Dondozo to wall Calm Mind
+
+Arceus-Dark
+
+, Focus Blast
+
+Mega Mewtwo Y
+
+more efficiently, and counter Dragon Dance Zygarde. Tera Dark allows Dondozo to wall Necrozma-DM and Ultra Necrozma by blocking Photon Geyser, which would otherwise bypass Unaware. This is unnecessary if Dondozo holds Ability Shield as its item.
+
+Dondozo must constantly conserve its HP early-game in order to check threats such as Zacian-C, Arceus-Ground, and Mega Salamence until they are worn down. Dondozo is able to check Rayquaza and Mega Salamence with Avalanche, although it cannot directly switch into Rayquaza, as Choice Band Tera Flying Dragon Ascent 2HKOes it. Once special threats such as Primal
+
+Kyogre
+
+,
+
+Yveltal
+
+, and Calm Mind Arceus formes have been removed, Dondozo makes for an excellent win condition thanks to Curse and Unaware.
+
+Dondozo is best used to stifle setup sweepers that have weaker initial power such as Zygarde and Arceus by using Curse. While Dondozo certainly can switch into attacks from threats such as Zacian-C, Primal Groudon, and Arceus-Ground, it must be aware of its HP, or else it will not be able to check these threats late-game.
+
+On its own, Dondozo can be overwhelmed by the wide amount of physical threats in the tier such as Zacian-C, Ultra Necrozma, and Primal Groudon. Therefore, teammates such as Arceus-Dark and
+
+Giratina
+
+are helpful. Arceus-Dark is able to punish Tera Ghost Arceus that try to avoid Body Press; Ultra Necrozma, thanks to its immunity to Photon Geyser; and
+
+Zekrom
+
+, which overwhelms Dondozo due to Teravolt. In addition, Arceus-Dark is useful against Taunt Arceus Ground, which can slowly wear Dondozo down. Giratina can scout Primal Groudon sets, preventing Dondozo from being sniped by Overheat or Eruption. It also wastes Rayquaza’s Dragon Ascent PP thanks to Pressure, allowing Dondozo to more easily deal with Rayquaza late-game.
+
+Dondozo is easily beat by special threats such as Primal Kyogre,
+
+Arceus-Fairy
+
+, and
+
+Eternatus
+
+. Chansey, Eternatus, and
+
+Ho-Oh
+
+make excellent teammates, as they check these threats well.
+
+Dondozo appreciates Aromatherapy support from Chansey to remove sleep after using Rest. Leftovers Dondozo can be more easily pressured while entry hazards are on the field, so Defog support from Giratina and Ho-Oh is appreciated. In addition, Ho-Oh checks Primal Groudon sets that would beat Dondozo, while Giratina provides Toxic support, allowing Dondozo to beat threats such as Primal Groudon and Arceus faster.

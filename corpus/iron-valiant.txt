@@ -1,0 +1,2887 @@
+Iron Valiant stands out as a top-tier offensive Pokemon in OU, able to utilize its Speed; high attacking stats; and a wide movepool of setup, coverage, and utility to devastate any Pokemon that might attempt to check it. Its various sets, such as Swords Dance, Calm Mind, mixed, and Choice Specs, have very different counterplay from each other, and thus a well-played Iron Valiant can take out Pokemon such as
+
+Zapdos
+
+and
+
+Galarian Slowking
+
+that might want to check its Swords Dance and Calm Mind respectively. With Booster Energy, Iron Valiant becomes an incredible late-game cleaner and revenge killer, able to outspeed and subsequently threaten Pokemon such as
+
+Zamazenta
+
+, Dragon Dance
+
+Dragonite
+
+, and
+
+Darkrai
+
+. Choice Specs takes advantage of Moonblast's spammability and lets Iron Valiant break through and even 2HKO otherwise common Iron Valiant answers such as Assault Vest
+
+Hatterene
+
+,
+
+Galarian Weezing
+
+, and specially defensive
+
+Gliscor
+
+due to its sheer power. Iron Valiant can furthermore dip into its utility movepool, with options such as Encore, Destiny Bond, and Trick either to give it more setup turns, allow it to surprise typical counterplay even further, or emergency check opposing offensive threats. However, Pokemon such as Hatterene,
+
+Moltres
+
+,
+
+Tinkaton
+
+, and
+
+Corviknight
+
+as well as Tera Poison Pokemon such as
+
+Ting-Lu
+
+and
+
+Hisuian Samurott
+
+can check the vast majority of its sets, while Pokemon such as
+
+Dondozo
+
+and Galarian Slowking are able to reliably take on specific sets such as Swords Dance and Calm Mind, respectively, once they have been identified. This above issue is made worse, as Iron Valiant also struggles to fit all the coverage options it wants into one set, especially if it decides to utilize both its setup and utility options. Furthermore, its low bulk impedes its sweeping potential, as priority users such as Dragonite,
+
+Rillaboom
+
+, and especially
+
+Scizor
+
+can revenge kill it once it has been weakened. This low bulk also means that Iron Valiant can struggle to find safe setup opportunities, as while it can theoretically force out Pokemon such as Zamazenta and
+
+Heatran
+
+, they can simply stay in and trade with it due to its lack of immediate power and can potentially win against it outright. Iron Valiant also has limited defensive utility; while it can check Pokemon such as
+
+Kingambit
+
+and
+
+Lokix
+
+, it is lacking compared to other sweepers such as Dragonite and Zamazenta, which means that Iron Valiant can only really slot on more offensive teams as a result.
+
+Digging deep into its bag of tricks, mixed Iron Valiant makes full use of its wide movepool, powerful STAB attacks, and lightning-fast Speed with Booster Energy to be a devastating cleaner and speed control option. The mixed attacking combination of Moonblast and Close Combat flips the script on checks to its other sets like
+
+Landorus-T
+
+,
+
+Clefable
+
+, and
+
+Dondozo
+
+. Knock Off slams those that resist Iron Valiant's STAB moves, with a chance to 2HKO
+
+Galarian Slowking
+
+and offensive
+
+Gholdengo
+
+, as well as removing crucial items from Heavy-Duty Boots
+
+Moltres
+
+and Assault Vest
+
+Primarina
+
+. Iron Valiant outspeeds the entire unboosted tier as well as some boosted foes like
+
+Kyurem
+
+and
+
+Great Tusk
+
+and can use Encore on them, locking walls like
+
+Alomomola
+
+and
+
+Garganacl
+
+into recovery moves, threats like
+
+Ogerpon-W
+
+and
+
+Darkrai
+
+into setup moves, Pokemon like
+
+Gliscor
+
+and
+
+Corviknight
+
+into utility moves, and even priority users
+
+Kingambit
+
+and
+
+Raging Bolt
+
+into their priority moves. Alternatively, Destiny Bond can force lose-lose situations for the opponent, where they must sacrifice their own Pokemon in order to take down Iron Valiant. This is especially potent with Encore over Knock Off or Close Combat, as if the opponent tries to avoid Destiny Bond by clicking a non-attacking move, Encore punishes them for it. It is important to be careful on which move to drop, however, as dropping Close Combat means Iron Valiant misses the OHKO on Kyurem and Kingambit, as well as the 2HKO on Garganacl and
+
+Ting-Lu
+
+. Meanwhile, dropping Knock Off ensures Iron Valiant struggles into its checks like Galarian Slowking and Moltres, as it has no way to force meaningful damage. A more physically invested spread with 252 Atk / 4 SpA / 252 Spe can be used to threaten foes like Galarian Slowking, Ting-Lu, and Gholdengo much harder. Tera Steel flips Iron Valiant's poor matchups into threats like Galarian Slowking,
+
+Iron Crown
+
+, and opposing Iron Valiant while giving it a useful Toxic immunity against Gliscor. Tera Fairy is an alternative pick to boost Iron Valiant's offensive capabilities, ensuring 2HKOs against Pokemon like Clefable,
+
+Zapdos
+
+, and
+
+Hatterene
+
+while allowing for OHKOs against threats like
+
+Zamazenta
+
+and Raging Bolt, as well as improving its matchup into opposing Iron Valiant. Tera Ghost can also be considered, granting an immunity to
+
+Dragonite
+
+'s Extreme Speed and Great Tusk's Rapid Spin, with Encore mitigating Iron Valiant's newfound weakness to Kingambit's and
+
+Hisuian Samurott
+
+'s Sucker Punch.
+
+Mixed Iron Valiant fits best on bulky offense and hyper offense teams, which greatly appreciate its ability to check other threats while being an offensive force in and of itself. It pairs excellently with Ogerpon-W, taking advantage of Ogerpon-W's checks like Zamazenta and Tera Dragon from the likes of Corviknight. In return, Ogerpon-W punishes Iron Valiant's checks like Moltres, Gliscor, and Gholdengo.
+
+Dragapult
+
+especially appreciates Iron Valiant's ability to threaten Kingambit, as well as Darkrai and Hisuian Samurott, and in return threatens Gholdengo, Galarian Slowking, Moltres, and Iron Crown and wears down shared checks like Assault Vest Primarina and Clefable. Great Tusk is another strong teammate, able to remove the entry hazards that cripple Iron Valiant, especially Sticky Web, as well as threatening Gholdengo and Galarian Slowking. Iron Valiant also works well with hazard setters like Landorus-T and Hisuian Samurott, appreciating the chip damage wearing down potential switch-ins like Assault Vest Primarina and Gholdengo, while Iron Valiant's Knock Off can remove the Heavy-Duty Boots from users like Alomomola to force hazard chip. They also threaten Galarian Slowking, Iron Crown, and Gholdengo; Hisuian Samurott additionally threatens Moltres. Meanwhile, Iron Valiant can beat Kyurem, as well as Zamazenta for Hisuian Samurott. Similarly,
+
+Glimmora
+
+is a natural partner on hyper offense teams, spewing out hazards that can enable a late-game cleanup by Iron Valiant, with its Toxic Spikes weakening Assault Vest Primarina and potential temporary checks like Hatterene.
+
+Iron Moth
+
+is another excellent partner for Iron Valiant as well, able to wear down their shared checks in Galarian Slowking and Moltres, especially with Knock Off forcing hazard chip onto both. Dragonite is a solid teammate as well, able to blow holes and weaken the opposing team for Iron Valiant to finish off, wearing down shared checks like Moltres and Clefable while luring in targets like Zamazenta, Corviknight, and Alomomola for Iron Valiant to exploit.
+
+Iron Valiant is a premier Calm Mind sweeper thanks to its special movepool and a Speed boost from Booster Energy. Moonblast 2HKOes every bulky Dragon-type as well as
+
+Ting-Lu
+
++1. Shadow Ball is super effective against
+
+Gholdengo
+
+,
+
+Pecharunt
+
+,
+
+Hatterene
+
+, and
+
+Iron Crown
+
+, making for an unresisted coverage combination with Moonblast. Psyshock can be used instead to OHKO
+
+Iron Moth
+
+after a Calm Mind boost. It also deals much more damage to special walls like
+
+Blissey
+
+and
+
+Clodsire
+
+. Encore lets Iron Valiant set up by locking foes like
+
+Corviknight
+
+and
+
+Gliscor
+
+into Roost and Protect, respectively. Iron Valiant can also use Encore to punish setup sweepers like Swords Dance
+
+Kingambit
+
+, Swords Dance
+
+Ogerpon-W
+
+, and Calm Mind
+
+Raging Bolt
+
+. Thanks to its 4x Dark resistance, Iron Valiant can even use Encore on moves like Kowtow Cleave from Kingambit, Dark Pulse from
+
+Darkrai
+
+, and Knock Off from
+
+Weavile
+
+despite its low defensive stats. Thunderbolt allows Iron Valiant to 2HKO
+
+Moltres
+
+and Corviknight and deals super effective damage to
+
+Primarina
+
+, 2HKOing Assault Vest variants at +1. Vacuum Wave is another option that lets Iron Valiant threaten faster weakened foes such as Choice Scarf Darkrai and
+
+Meowscarada
+
+, as well as get the jump on other priority moves such as
+
+Hisuian Samurott
+
+'s Aqua Jet and Kingambit's Sucker Punch. A Modest nature, which lets Booster Energy boost its Special Attack instead, may also be used particularly on Sticky Web teams, which make up for the lack of a Speed boost. Tera Ghost increases Shadow Ball's odds of 2HKOing Assault Vest Iron Crown and OHKOing Gholdengo after a boost. It also lets Iron Valiant stay in on
+
+Dragonite
+
+trying to pick it off with Extreme Speed. Tera Steel flips Iron Valiant's weaknesses to
+
+Galarian Slowking
+
+'s STAB options, helps it survive Moonblast from Pokemon like opposing Iron Valiant and
+
+Clefable
+
+, and lets it resist moves like Make It Rain from Gholdengo and Extreme Speed from Dragonite. Tera Electric lets Iron Valiant resist Steel- and Electric-type attacks from Gholdengo and Raging Bolt, respectively. As a bonus, Iron Valiant receives an immunity to paralysis, helping it against Galarian Slowking and Clefable.
+
+Iron Valiant is most commonly used on hyper offense. Its most defining and desirable trait is its high Speed when boosted, outspeeding the entire unboosted metagame and a great amount of the boosted metagame, with common examples being Speed Booster Energy Iron Moth and Dragon Dance
+
+Kyurem
+
+, which allows it to be a great anti-offense tool. A common answer to Calm Mind Iron Valiant, Galarian Slowking can even tank a +1 Shadow Ball and delete it with Sludge Bomb. Without Shadow Ball, Pokemon like Gholdengo, Iron Crown, and Hatterene can easily survive Iron Valiant's attacks and take it down. If Iron Valiant lacks Psyshock, Clodsire and Blissey answer it defensively, while Iron Moth can do so offensively. Without Thunderbolt, Moltres can force Iron Valiant out with Roar, causing it to lose its one-time Speed boost. Corviknight and Primarina can easily survive non-Thunderbolt Iron Valiant's attacks and take it out with Brave Bird and Moonblast.
+
+Cinderace
+
+can take anything barring a +1 Thunderbolt and threaten Iron Valiant with Pyro Ball.
+
+Landorus-T
+
+can set up entry hazards to help soften up opposing Pokemon. It can additionally bring in Iron Valiant safely with U-turn, potentially positioning it against Pokemon Landorus-T invites in, like
+
+Alomomola
+
+and Kyurem. Ting-Lu can take a +1 Moonblast and ruin Iron Valiant's sweeping attempt with Whirlwind, so pairing Iron Valiant with physical attackers like Hisuian Samurott and Ogerpon-W can help it out. Other special attackers, like Iron Moth, Gholdengo, and Raging Bolt, can help to overwhelm other Iron Valiant's checks like Corviknight and Primarina. Galarian Slowking can take on those three aforementioned special attackers individually, but not together. Knock Off users, like Hisuian Samurott, can also soften up the opposing team; item removal is particularly helpful against Moltres. Spikes set by Hisuian Samurott's Ceaseless Edge can help Iron Valiant in achieving KOs. Kingambit is an amazing partner to cover Iron Valiant's weaknesses, and Iron Valiant can do the same for it.
+
+Great Tusk
+
+tanks Kingambit's attacks but drops to Moonblast, while Galarian Slowking and Gholdengo are weak to Kowtow Cleave. Both Kingambit and
+
+Zamazenta
+
+also love Iron Valiant taking Moltres and
+
+Zapdos
+
+out, freeing them from potential burns and paralysis. Psyshock users like Gholdengo, Iron Crown, and Hatterene can take care of the stall matchup, and Iron Valiant returns the favor by taking Gholdengo out for them. Ogerpon-W can brute force its way through almost every Iron Valiant check, including Moltres, Corviknight, Primarina, Clodsire, and Blissey, with ease. It also has the option of running Encore to free up Iron Valiant. In return, Iron Valiant threatens Ogerpon-W's checks, like Darkrai, Dragonite, and Raging Bolt.
+
+Swords Dance Iron Valiant is an excellent cleaner and wallbreaker, leveraging its high threat level as an expected special attacker to force out many common physical walls such as
+
+Great Tusk
+
+and
+
+Zamazenta
+
+in order to set up a Swords Dance. It can then KO or cripple many of its standard checks such as
+
+Gholdengo
+
+,
+
+Galarian Slowking
+
+, and
+
+Moltres
+
+with a boosted Knock Off. Encore allows Iron Valiant to lock many Pokemon such as
+
+Garganacl
+
+,
+
+Kingambit
+
+, and
+
+Raging Bolt
+
+into disadvantageous moves, giving it more setup opportunities, while also ending potential sweeps from Pokemon, such as Dragon Dance
+
+Kyurem
+
+, Swords Dance Kingambit, and Calm Mind Raging Bolt if they use a setup move. Alternatively, Spirit Break can be used, allowing Iron Valiant to OHKO Great Tusk, unboosted Zamazenta, and opposing Iron Valiant after a Swords Dance boost. Iron Valiant is a fantastic user of Terastallization, as it makes use of a potential free turn to more easily set up Swords Dance. Tera Dark allows Iron Valiant to OHKO both Galarian Slowking and
+
+Dragapult
+
+with Knock Off without setting up Swords Dance. Tera Dark Knock Off also deals significantly higher damage to both
+
+Zapdos
+
+and Moltres. Meanwhile, Tera Steel allows Iron Valiant to flip all of its weaknesses into resistances, letting it set up on otherwise lethal attacks such as Gholdengo's Make It Rain,
+
+Corviknight
+
+'s Brave Bird, and Galarian Slowking's Sludge Bomb, while also granting Iron Valiant a Toxic immunity, which is valuable against Pokemon such as
+
+Gliscor
+
+and
+
+Toxapex
+
+. Iron Valiant's wide coverage and high Speed allow it to run many alternative coverage moves and Tera types depending on your preferences. Tera Water can be used with Liquidation to OHKO key physical walls like Moltres, Gliscor, and
+
+Landorus-T
+
+after a Swords Dance boost. Tera Electric is another option, granting Iron Valiant a paralysis immunity, which can be helpful in letting it set up against Zapdos. Ice Punch can be used to nail Landorus-T and Gliscor without Terastallizing. Moonblast allows Iron Valiant a chance to directly OHKO offensive Great Tusk without setting up, which can be useful to open up certain partners such as Kingambit. If Iron Valiant is being used with Sticky Web support, it can run an Adamant nature so that Booster Energy raises its Attack instead, making it a more potent wallbreaker. Iron Valiant can also make use of alternative utility options bolstered by its high Speed. Destiny Bond allows Iron Valiant to effectively trade with an enemy Pokemon of its choice, while Taunt allows Iron Valiant to prevent key Pokemon such as Zapdos from recovering, making it easier for a partner to KO.
+
+Iron Valiant works best on hyper and bulky offensive teams as a late-game cleaner and speed control. It greatly appreciates entry hazard support from Pokemon such as Landorus-T,
+
+Hisuian Samurott
+
+,
+
+Glimmora
+
+,
+
+Ting-Lu
+
+, and
+
+Iron Treads
+
+in order to improve its wallbreaking power. In turn, Iron Valiant can make their hazards even more potent by knocking off Heavy-Duty Boots from key targets like
+
+Dragonite
+
+and Galarian Slowking. Sticky Web setters such as
+
+Araquanid
+
+and
+
+Ribombee
+
+are also great partners, as Sticky Web can alleviate potential Speed ties from opposing Iron Valiant while also allowing slowing down Iron Valiant's other offensive checks like Choice Scarf
+
+Darkrai
+
+and
+
+Iron Boulder
+
+. Iron Valiant is excellent at luring and weakening many of the checks to its special sets such as Gholdengo, Moltres, and Galarian Slowking. Pokemon that benefit from these threats being weakened or removed, like Zamazenta, Kyurem, and
+
+Primarina
+
+, are thus excellent partners, as it becomes much easier for these Pokemon to sweep if their typical checks are weakened. Iron Valiant is a solid check to Raging Bolt, Hisuian Samurott, and Kingambit with Encore, making it a great teammate for partners that may struggle against these Pokemon, like Gholdengo, Darkrai, and Galarian Slowking. While Iron Valiant exerts a great deal of offensive pressure, it can still struggle with key defensive Pokemon like Gliscor, Landorus-T, and
+
+Dondozo
+
+, and thus Pokemon such as Kyurem and
+
+Ogerpon-W
+
+are useful to immediately pressure and KO these Pokemon. Iron Valiant's defensive profile is rather limited given its poor bulk. Support from bulky pivots such as Galarian Slowking, Zapdos, Moltres, and Landorus-T is thus appreciated to bring it in safely. In particular, both Zapdos and Moltres can punish powerful priority moves from key foes such as Dragonite and
+
+Scizor
+
+with their abilities. Gholdengo resists all of Iron Valiant's weaknesses and can spread paralysis to help Iron Valiant outspeed foes such as Darkrai and Zamazenta even after its Booster Energy is consumed. While this Iron Valiant set is great at luring Galarian Slowking and Gholdengo, it can still struggle against these Pokemon one-on-one, particularly if they are running Colbur Berry. Partners that can exploit them, such as Kingambit, Hisuian Samurott, Darkrai, and Ting-Lu, are thus recommended. Iron Valiant can struggle against Toxic Spikes given that it is not running Heavy-Duty Boots, so a Toxic Spikes absorber, such as Galarian Slowking or
+
+Iron Moth
+
+, is recommended. Iron Valiant can have an awkward time against Iron Moth, which can survive any attack barring Liquidation at +2 and KO back with Sludge Wave. Pokemon that can check Iron Moth, such as Dragonite, Hisuian Samurott, and Landorus-T, are therefore great partners.
+
+Iron Valiant can utilize Choice Specs to become a potent wallbreaker thanks to its powerful Fairy-type STAB attacks and endless coverage options. With Moonblast, Iron Valiant outspeeds and obliterates many metagame staples like
+
+Raging Bolt
+
+,
+
+Kyurem
+
+,
+
+Great Tusk
+
+, and
+
+Hisuian Samurott
+
+. Shadow Ball targets Pokemon like
+
+Pecharunt
+
+,
+
+Gholdengo
+
+, and
+
+Galarian Slowking
+
+, which all resist Iron Valiant's Moonblast. Thunderbolt is useful, as it allows Iron Valiant to break through
+
+Moltres
+
+,
+
+Corviknight
+
+, and
+
+Toxapex
+
+, which can heal off Iron Valiant's attempt to make progress. Focus Blast can be used instead to 2HKO
+
+Blissey
+
+and threaten Dark-types without thudding into Steel-types such as
+
+Tinkaton
+
+, Corviknight, and
+
+Iron Crown
+
+. Trick provides Iron Valiant with great utility and a way to cripple defensive switch-ins like Moltres and Toxapex. Vacuum Wave is excellent at cleaning up endgames and enables Iron Valiant to revenge kill faster Pokemon like
+
+Darkrai
+
+and
+
+Weavile
+
+and take on
+
+Kingambit
+
+without the risk of Focus Blast inaccuracy. Psyshock can be used for a better stall matchup without removing Iron Valiant's ability to break, as Psyshock destroys Toxapex,
+
+Amoonguss
+
+, and
+
+Clodsire
+
+. Tera Fairy bolsters Iron Valiant's breaking power, scoring a 2HKO on the likes of
+
+Garganacl
+
+and Gholdengo and OHKOing slower offensive Pokemon like
+
+Ogerpon-W
+
+and almost always bulkless Kingambit. Tera Ghost can be used instead to take on sturdier Fairy-resistant foes, allowing Shadow Ball to 2HKO Galarian Slowking, Moltres, and, with Stealth Rock up, Tinkaton. Tera Ghost can also grant Iron Valiant an immunity to
+
+Dragonite
+
+'s Extreme Speed and an emergency resistance to Poison-type attacks like Sludge Wave from
+
+Iron Moth
+
+, and it lets Iron Valiant lure in Kingambit to cripple with Trick or OHKO with Vaccum Wave.
+
+Choice Specs Iron Valiant fits best on balance and bulky offensive teams that can manage entry hazards well while also bringing Iron Valiant in safely. Hisuian Samurott and
+
+Ting-Lu
+
+are great partners, as they can pressure Galarian Slowking, Gholdengo, and Clodsire and aid Iron Valiant with entry hazards that can ensure Iron Valiant gets the 2HKOs and OHKOs it might need, including ones against Tinkaton, Garganacl, and Ogerpon-W. Iron Valiant often invites Pecharunt in, so it appreciates having sturdy switch-ins such as Corviknight, Kingambit, and Galarian Slowking. Kingambit can threaten the aforementioned Pokemon that resist Iron Valiant's Moonblast, and in return, Iron Valiant can threaten
+
+Dondozo
+
+and Fighting-types like Great Tusk, Iron Defense
+
+Zamazenta
+
+, and
+
+Keldeo
+
+, which are all Pokemon Kingambit struggles to beat. Choice Specs Iron Valiant alongside Kingambit also forms a great offensive gameplan, where Iron Valiant is played very aggressively in order to break through teams early- or mid-game, which allows boosted Kingambit to clean up more easily late-game. Galarian Slowking and Corviknight can support Iron Valiant by handling faster threats, such as Speed Booster Energy Iron Moth, opposing Iron Valiant, and Choice Scarf
+
+Enamorus
+
+, as well as pivot it in safely with Chilly Reception and U-turn, respectively. Galarian Slowking also helps pin Toxapex with Future Sight. Ogerpon-W can pivot Iron Valiant in with U-turn to obliterate many of Ogerpon-W's common switch-ins like Raging Bolt, Zamazenta, and Dragonite. Iron Valiant also appreciates Ogerpon-W's ability to threaten Moltres, Clodsire, and Assault Vest
+
+Alomomola
+
+. Great Tusk is a notable teammate, as it threatens all of Galarian Slowking, Gholdengo, Clodsire, Tinkaton, and Toxapex with Headlong Rush, pressures Moltres with Knock Off, and removes entry hazards away for Iron Valiant, helping it come in a lot more often. Choice Band
+
+Dragapult
+
+is a complementary breaker thanks to how it threatens Galarian Slowking, Gholdengo, Iron Crown, Clodsire, and Toxapex. Choice Band Dragapult can also lure in Pokemon like Garganacl, defensive Zamazenta, and Kingambit and bring Iron Valiant in with a powerful U-turn.
+
+Other Options
+
+A set with Heavy-Duty Boots allows Iron Valiant to consistently switch into battle over the course of a longer game by ignoring entry hazards, letting it fit on balance teams to combat hazard-stacking strategies and provide the archetype with a Knock Off user, speed control and disruption with Encore. Choice Scarf gives Iron Valiant a permanent Speed boost so it can consistently revenge kill faster Pokemon such as
+
+Darkrai
+
+and
+
+Zamazenta
+
+and use Trick to cripple opposing walls such as
+
+Alomomola
+
+and
+
+Corviknight
+
+. Taunt can be used to allow Iron Valiant to stop recovery attempts from the likes of Corviknight and
+
+Garganacl
+
+, status attempts from
+
+Gliscor
+
+and
+
+Clefable
+
+, and phazing attempts from
+
+Ting-Lu
+
+'s Whirlwind. Tera Water, alongside Liquidation, can be used on Swords Dance sets to secure OHKOs against the likes of
+
+Landorus-T
+
+, Gliscor,
+
+Moltres
+
+, and
+
+Iron Moth
+
+that could otherwise take a hit from it. Focus Blast is an option on Calm Mind sets to hit Garganacl,
+
+Heatran
+
+, and
+
+Iron Treads
+
+for super effective damage while hitting
+
+Kyurem
+
+and Ting-Lu much harder, OHKOing the former at neutral while having a chance to 2HKO the latter with Stealth Rock. Choice Band sets can be used to lure in and break through traditional checks to physical Iron Valiant, such as OHKOing
+
+Gholdengo
+
+and
+
+Great Tusk
+
+, and 2HKOing Alomomola, Corviknight, and
+
+Hatterene
+
+, while being able to use Trick against physical walls such as Moltres and
+
+Dondozo
+
+that it may not threaten as easily, which helps teammates such as
+
+Kingambit
+
+and
+
+Dragonite
+
+that are otherwise walled by them. All-out attacking mixed sets can be used alongside Life Orb or Expert Belt to wallbreak more easily with its coverage options; however the recoil damage from Life Orb can hurt its wallbreaking capabilities and forces Iron Valiant to avoid being put into revenge killing range from Pokemon such as Dragonite, while Expert Belt doesn't help it against Pokemon such as
+
+Galarian Weezing
+
+that already wall it. Substitute is an option on Swords Dance and Calm Mind sets to scout opposing Pokemon to give Iron Valiant a free setup turn and protect it against Garganacl's Salt Cure, status attempts from users like Alomomola and Gliscor, and revenge killers such as Extreme Speed Dragonite and Choice Scarf Darkrai. Ice Punch and Thunder Punch allow Iron Valiant to achieve BoltBeam coverage on Swords Dance sets to grant it great coverage against most of the metagame and hit Pokemon such as Gliscor, Landorus-T, Alomomola, and Moltres for super effective damage. However, the move's low Base Power and dropping either Knock Off or Close Combat can allow Pokemon such as
+
+Galarian Slowking
+
+, Gholdengo, and Garganacl to potentially take on Iron Valiant. An Adamant nature alongside Shadow Sneak can be used on Sticky Web teams to give Swords Dance Iron Valiant a lot more power while still retaining some of its revenge killing and late-game cleaning capabilities.
+
+With an incredible set of options both physical and special, Iron Valiant can opt for a mixed spread, making it a far greater threat against types like Dragon, Water, and Flying. Moonblast lets it check problematic Dragon- and Fighting-types like
+
+Latios
+
+,
+
+Walking Wake
+
+, and
+
+Great Tusk
+
+for its teammates. Close Combat slams special walls that would otherwise take on its Moonblast, such as
+
+Hisuian Goodra
+
+and
+
+Alolan Muk
+
+. Thunderbolt zaps Water- and Flying-types like
+
+Toxapex
+
+,
+
+Pelipper
+
+, and
+
+Moltres
+
+. Finally, Ice Punch handles difficult Ground-types like
+
+Clodsire
+
+and
+
+Gliscor
+
+. Expert Belt allows Iron Valiant to more easily bluff Choice Scarf, and the lack of recoil keeps it out of range of priority such as
+
+Dragonite
+
+'s Extreme Speed and
+
+Mamoswine
+
+'s Ice Shard. A Life Orb set, however, is capable of higher damage overall, reliably 2HKOing specially defensive
+
+Corviknight
+
+with Thunderbolt.
+
+Iron Valiant greatly enjoys help from Great Tusk, as it checks physical attackers such as
+
+Sneasler
+
+,
+
+Scizor
+
+, and
+
+Iron Hands
+
+while also providing Stealth Rock to wear down would-be switch-ins like Corviknight and
+
+Tornadus-T
+
+. Assault Vest
+
+Gallade
+
+can support Iron Valiant by comfortably taking on Poison-types such as
+
+Amoonguss
+
+,
+
+Galarian Weezing
+
+, and
+
+Iron Moth
+
+, along with special attackers like Choice Scarf
+
+Heatran
+
+and
+
+Greninja
+
+. Iron Hands can check Flying-type threats such as Tornadus-T and
+
+Zapdos
+
+, in addition to other problematic threats to Iron Valiant like
+
+Gholdengo
+
+and Choice Scarf
+
+Urshifu-R
+
+. With an Assault Vest, Iron Hands can also help check
+
+Flutter Mane
+
+and pivot Iron Valiant in safely with Volt Switch. Choice Scarf Sneasler helps check faster threats like Choice Specs Greninja and opposing Iron Valiant with Dire Claw and can use Rock Slide to deal with
+
+Volcarona
+
+. Water-types such as Urshifu-R and
+
+Keldeo
+
+can break through problematic Fire- and Ground-types for Iron Valiant, such as
+
+Ceruledge
+
+and
+
+Hippowdon
+
+, while also being able to come in on Scizor's Bullet Punch.
+
+Equipped with the ever-menacing Swords Dance, Iron Valiant becomes one of the most fearsome physical attackers in the metagame for Fairy-type teams, which can use it as their much-needed physical powerhouse. Close Combat lets Iron Valiant break through Steel- and Normal-types like
+
+Heatran
+
+,
+
+Hisuian Goodra
+
+, and
+
+Blissey
+
+. Ice Punch at +2 threatens Ground- and Grass-types like
+
+Clodsire
+
+,
+
+Landorus
+
+, and
+
+Sinistcha
+
+. Meanwhile, Shadow Sneak is key for picking off fast Ghost- and Psychic-types like
+
+Dragapult
+
+,
+
+Flutter Mane
+
+, and
+
+Iron Boulder
+
+after a boost. Alternatively, Knock Off can be used to help Iron Valiant break through Ghost- and Psychic-types such as
+
+Gholdengo
+
+and
+
+Galarian Slowking
+
+after a Swords Dance. Life Orb lets Close Combat OHKO the
+
+Ogerpon
+
+formes after chip damage, while Heavy-Duty Boots gives Iron Valiant safe entry from entry hazards.
+
+Klefki
+
+is a fantastic partner, thanks to its Poison immunity and ability to set up dual screens and Spikes, along with its part-Steel typing and access to Foul Play, enabling it to check
+
+Scizor
+
+. In return, Iron Valiant can eliminate Ground-types such as
+
+Mamoswine
+
+and Clodsire. Choice Specs Flutter Mane is a powerful wallbreaker to pair with Iron Valiant and, with its Speed, can check Ghost- and Psychic-types such as
+
+Pecharunt
+
+,
+
+Hatterene
+
+, and Choice Specs
+
+Greninja
+
+.
+
+Primarina
+
+and
+
+Azumarill
+
+deal with Fire-types like
+
+Moltres
+
+and
+
+Volcarona
+
+, and if Primarina is equipped with an Assault Vest, it can safely pivot Iron Valiant in with Flip Turn. Hatterene handles Poison-types like
+
+Toxapex
+
+and
+
+Galarian Weezing
+
+while also bouncing back hazards and status moves, increasing the longevity of Iron Valiant.
+
+Tinkaton
+
+helps deal with Flutter Mane while also providing Stealth Rock support; notably, this breaks Focus Sash off of
+
+Ceruledge
+
+, which allows Iron Valiant to easily remove it.
+
+Equipped with Choice Specs, Iron Valiant wonderfully fills the special attacker role for Fighting teams, bolstering its damage output to break through sturdy foes like defensive Dragon Dance
+
+Gouging Fire
+
+. Moonblast obliterates most Dark-, Dragon-, and Fighting-type Pokemon, while 2HKOing even
+
+Ting-Lu
+
+, Gouging Fire, and Assault Vest
+
+Iron Hands
+
+. Thunderbolt pressures Water- and Flying-type foes like
+
+Toxapex
+
+,
+
+Primarina
+
+, and
+
+Corviknight
+
+. Psychic or Psyshock lets it deal with Poison-type walls that would otherwise wall it, with Psychic targetting
+
+Amoonguss
+
+,
+
+Pecharunt
+
+, and
+
+Galarian Weezing
+
+, while Psyshock better addresses
+
+Clodsire
+
+. Alternatively, Vacuum Wave gives it a great priority option to finish off weakened foes and OHKO
+
+Greninja
+
+and
+
+Meowscarada
+
+after Stealth Rock damage. Shadow Ball is desirable for hitting
+
+Gholdengo
+
+and Pecharunt hard, but Aura Sphere and Trick are viable replacements, if the team already addresses them fairly well. Aura Sphere provides a reliable and strong STAB move option to break through Steel teams once Gholdengo is removed, while Trick allows it to cripple foes at the cost of its damage output.
+
+With mediocre mixed bulk and an inability to switch moves, Choice Specs Iron Valiant needs to be surrounded by solid teammates that can handle its threats, such as Assault Vest Iron Hands, Assault Vest
+
+Gallade
+
+,
+
+Great Tusk
+
+, and
+
+Scrafty
+
+. Packing enormous HP and Attack stats, along with good defenses and a recovery option in Drain Punch, Assault Vest Iron Hands is the Fighting go-to option to tank special moves. Its coverage options in the form of Heavy Slam and Ice Punch let it suppress
+
+Flutter Mane
+
+,
+
+Dragapult
+
+, and
+
+Tornadus-T
+
+, while Volt Switch allows it to bring in Iron Valiant on the field safely. Despite being noticeably frailer in the general bulk department, Gallade more than makes up for it thanks to Sharpness granting it unparalleled immediate offensive output to pressure Dragon- and Poison-type threats, and its typing offers a desirable Psychic neutrality to the team. Similar to its paradox form, Gallade shines thanks to its movepool diversity, which lets it dispose of popular Choice Specs users like Greninja,
+
+Latios
+
+, and Flutter Mane, as well as taking out Poison-type foes like
+
+Okidogi
+
+, Amoonguss, and Clodsire. There is no shortage of matchups where Assault Vest Gallade proves itself useful, improving certain matchups at will by running other moves such as Leaf Blade and Aqua Cutter for the Water and Ground matchups, respectively. Thanks to its access to Rapid Spin and Stealth Rock, Great Tusk provides invaluable defensive support to Choice Specs Iron Valiant, which is further augmented by its access to Knock Off to cripple both offensive and defensive foes, by removing key items such as Choice Scarf and Leftovers. While its defensive set lets it handle Gouging Fire better, its offensive set can leverage its great Attack stat with Focus Sash to punish opposing wallbreakers like Flutter Mane, Dragapult, and
+
+Landorus
+
+. With access to reliable recovery thanks to Rest combined with Shed Skin, Scrafty sets itself apart as the sole bulky Psychic-immune Fighting-type Pokemon with great durability. Its typing offers a valuable Psychic immunity to the team, on top of a great Ghost resistance, which makes it a solid asset in the Ghost and Dragon matchups, as it can tank multiple Shadow Balls and Draco Meteors from the likes of
+
+Spectrier
+
+, Gholdengo, and Dragapult, preventing these teams from making progress by spamming these moves. Offensively, Choice Specs Iron Valiant pairs well with other Fighting-type wallbreakers like
+
+Keldeo
+
+,
+
+Urshifu-R
+
+,
+
+Sneasler
+
+, and Okidogi. Keldeo and Urshifu-R considerably ease the Ground, Flying, and Steel matchups by taking advantage of their great STAB combination to break through their defensive cores. Moreover, Calm Mind Keldeo can back up Iron Valiant in the Dark matchup, letting it run Psyshock over Vacuum Wave, while Urshifu-R can either opt for a Swords Dance set to secure both the Ground and Steel matchups, or it can use a Choice Scarf set to address Choice Specs Flutter Mane and Choice Scarf Gholdengo. Lastly, Sneasler and Okidogi bring a much-needed Fairy neutrality to the team and offer distinctive advantages. Choice Scarf Sneasler grants great speed control to the team and can deal with opposing Choice Scarf Iron Valiant, while Okidogi makes use of its good general bulk and great defensive typing to act as a fearsome setup sweeper in the Steel, Ghost, and Fairy matchups.
+
+Iron Valiant is a very valuable asset for Fairy teams with the combination of its amazing Speed tier, typing, and offensive stats. One of Iron Valiant's best qualities for Fairy teams is its access to Fighting-type STAB moves to counter Steel-types. Thunderbolt is a good option to hit
+
+Corviknight
+
+,
+
+Dondozo
+
+, and
+
+Toxapex
+
+super effectively and make cleaning up against Flying and Water teams easier after the Ground-type is removed. Energy Ball is a good alternative to more easily beat specially defensive
+
+Gastrodon
+
+and
+
+Rotom-W
+
+, but Grass Knot is an option to beat Dondozo after Spikes. Psyshock is a good tool versus Poison-types like
+
+Clodsire
+
+,
+
+Iron Moth
+
+and
+
+Amoonguss
+
+, while Shadow Ball lets it hit
+
+Skeledirge
+
+and
+
+Gholdengo
+
+that otherwise wall Iron Valiant. Trick is another great option to hinder defensive switch-ins like Toxapex, Corviknight, and Clodsire if Iron Valiant forgoes the moves to deal with them. Choice Scarf makes Iron Valiant an excellent revenge killer, being able to outrun threats such as
+
+Dragapult
+
+,
+
+Chien-Pao
+
+, and slower Choice Scarf users like Iron Moth and Gholdengo.
+
+Iron Valiant has amazing coverage, which makes it an effective cleaner; however, it cannot run all of them at once. Hence, it appreciates teammates that can cover what it cannot, and it also appreciates teammates that help it switch in, as it is quite frail.
+
+Klefki
+
+can set up dual screens, which aids it in switching, and also set up Spikes, which makes it easier for Iron Valiant to clean. Klefki is also a good switch-in against opposing Fairy-types like
+
+Mimikyu
+
+.
+
+Flutter Mane
+
+and Mimikyu can weaken teams to let Iron Valiant clean up or they can clean up after it. They also deal with Ghost-types such as Gholdengo, Flutter Mane, and Skeledirge if it forgoes Shadow Ball.
+
+Azumarill
+
+checks Fire-types such as
+
+Paldean Tauros-F
+
+,
+
+Volcarona
+
+, and Iron Moth and Ground-types such as
+
+Iron Treads
+
+and Clodsire.
+
+Hatterene
+
+is a great partner, as it can break through Poison-types like
+
+Glimmora
+
+, Toxapex, and Amoonguss while also preventing entry hazards.
+
+Tinkaton
+
+can set up Stealth Rock and is a good counter to Fairy-types that check Iron Valiant otherwise such as Hatterene, Flutter Mane, and opposing Iron Valiant.
+
+Choice Band Iron Valiant is a fierce wallbreaker for Fairy teams due to its great Attack and good Speed, allowing it to break walls like
+
+Archaludon
+
+,
+
+Hisuian Goodra
+
+, and
+
+Blissey
+
+. Close Combat is Iron Valiant's strongest attack, being able to take out Steel-, Dark-, Ice-, and Normal-types like
+
+Bisharp
+
+,
+
+Alolan Muk
+
+, Choice Specs
+
+Kyurem
+
+, and
+
+Ursaluna
+
+. Knock Off is a good coverage move that checks Psychic- and Ghost-types like
+
+Galarian Slowking
+
+,
+
+Latios
+
+,
+
+Gholdengo
+
+, and
+
+Ceruledge
+
+while also removing items in the process. Trick allows Iron Valiant to Choice-lock walls like
+
+Toxapex
+
+,
+
+Galarian Weezing
+
+,
+
+Amoonguss
+
+, and
+
+Dondozo
+
+. Shadow Sneak can be run instead of Trick to check
+
+Flutter Mane
+
+,
+
+Gengar
+
+, and Will-O-Wisp
+
+Dragapult
+
+, while Spirit Break deals with
+
+Mandibuzz
+
+and
+
+Sableye
+
+. Ice Punch deals with Flying-, Ground-, and Dragon-types like
+
+Gliscor
+
+,
+
+Landorus
+
+,
+
+Clodsire
+
+, and
+
+Dragonite
+
+.
+
+Klefki
+
+is a great teammate for Iron Valiant, providing a Poison immunity, dual screens, and entry hazards. Behind dual screens, Iron Valiant can survive an unboosted Bullet Punch from
+
+Scizor
+
+. Klefki also stops physical setup sweepers like Ceruledge,
+
+Ogerpon
+
+formes, and Scizor with Foul Play. Futhermore, Klefki provides Thunder Wave support to paralyze threats like Flutter Mane and Dragapult so Iron Valiant can take them out more easily with Knock Off. In return, Iron Valiant takes out foes like
+
+Mamoswine
+
+and Gliscor for Klefki. Belly Drum
+
+Azumarill
+
+is a great sweeper to pair with Iron Valiant, as it can remove threats like
+
+Moltres
+
+, Amoonguss, and
+
+Ogerpon-H
+
+. Choice Specs Flutter Mane is a strong wallbreaker, being able to take out threats that Iron Valiant struggles to break like Moltres,
+
+Pecharunt
+
+, and Gholdengo with Power Gem and Shadow Ball.
+
+Hatterene
+
+eases the Psychic matchup by checking Toxapex, Galarian Weezing, and
+
+Okidogi
+
+for Iron Valiant while also preventing hazards from being set by foes with Magic Bounce. Iron Valiant returns the favor by taking out Bisharp, Alolan Muk, and Hisuian Goodra for Flutter Mane and Hatterene. Calm Mind
+
+Clefable
+
+is a great bulky sweeper with its good coverage in Moonblast and Thunderbolt, which can deal with
+
+Gyarados
+
+, Moltres, and Dondozo. Magic Guard also allows Clefable to absorb status for Iron Valiant. Choice Scarf
+
+Enamorus
+
+provides a Ground Immunity and has Healing Wish to support the team. Iron Valiant deals with Kyurem and Mamoswine for Clefable and Enamorus.
+
+Ribombee
+
+provides Sticky Web support to slow down fast threats like Choice Specs
+
+Greninja
+
+, Choice Scarf
+
+Iron Treads
+
+, Choice Scarf
+
+Meowscarada
+
+, and opposing Flutter Mane.
+
+Tinkaton
+
+is another Poison immunity that can set Stealth Rock, stop walls with Encore, and provide Thunder Wave support as well. Physically defensive
+
+Primarina
+
+is a great teammate, being able to check
+
+Gouging Fire
+
+with Psychic Noise, preventing it from recovering HP with Morning Sun.
+
+Mimikyu
+
+is a decent sweeper set up easily thanks to its ability. After a Swords Dance, Mimikyu is able to take out Flutter Mane, Dragapult, Gholdengo, and
+
+Iron Boulder
+
+with Shadow Sneak, which Iron Valiant appreciates, while also allowing Iron Valiant to run Spirit Break or Trick instead. Galarian Weezing is a nice physical wall and can remove hazards with Defog for the team. Galarian Weezing also provides a Ground immunity and has the potential to weaken physical threats like
+
+Sneasler
+
+, opposing Azumarill, and Iron Treads with Will-O-Wisp.
+
+Iron Valiant is a great option for Fairy teams due to its good coverage, being able to take out threats like
+
+Archaludon
+
+,
+
+Toxapex
+
+, and
+
+Landorus
+
+. Iron Valiant also takes advantage of passive teams trying to check it defensively. Moonblast deals with Dark- and Fighting-types like
+
+Sableye
+
+,
+
+Great Tusk
+
+, and
+
+Keldeo
+
+. Close Combat is Iron Valiant's strongest STAB move, dealing with annoying Steel-type foes like
+
+Bisharp
+
+and
+
+Hisuian Goodra
+
+while also being able to take out threats like the
+
+Ogerpon
+
+formes and
+
+Blissey
+
+and 2HKO specially defensive
+
+Corviknight
+
+. Ice Punch threatens Ground- and Flying-types like
+
+Gliscor
+
+, Landorus, and
+
+Dragonite
+
+. Thunderbolt pressures Toxapex,
+
+Skarmory
+
+, and opposing
+
+Azumarill
+
+, which Fairy teams greatly appreciate. Life Orb allows Iron Valiant to OHKO non-physically defensive Gliscor and hit as hard as possible. Expert Belt can be run over Life Orb to preserve Iron Valiant from chip damage and make it seem Choice-locked.
+
+Klefki
+
+is a nice teammate for Iron Valiant, providing a Poison immunity, dual screens, Spikes, and Thunder Wave support to paralyze fast threats like
+
+Dragapult
+
+, Choice Scarf
+
+Enamorus
+
+, and Choice Scarf
+
+Iron Boulder
+
+. Klefki also stops setup sweepers like
+
+Scizor
+
+with Foul Play.
+
+Hatterene
+
+deals with Poison-types like
+
+Galarian Weezing
+
+and
+
+Amoonguss
+
+while also preventing entry hazards with Magic Bounce. Choice Specs
+
+Flutter Mane
+
+is a fierce wallbreaker paired with Iron Valiant, being able to take out
+
+Gholdengo
+
+,
+
+Pecharunt
+
+, and Choice Specs
+
+Greninja
+
+. Flutter Mane benefits from Iron Valiant being able to lure and heavily damage Hisuian Goodra and Corviknight. Belly Drum Azumarill is a great late-game sweeper, being able to take out threats like Amoonguss,
+
+Alolan Muk
+
+,
+
+Iron Treads
+
+, and
+
+Excadrill
+
+with Knock Off and Aqua Jet. Iron Valiant returns the favor by taking out Bisharp and
+
+Ogerpon-W
+
+for Flutter Mane and Azumarill. Choice Scarf Enamorus provides a Ground immunity and is a good revenge killer, being able to take out Choice Specs Greninja and Choice Scarf
+
+Glimmora
+
+. Enamorus also provides Healing Wish support for the team. Physically defensive
+
+Primarina
+
+checks
+
+Gouging Fire
+
+and is a soft check to
+
+Clodsire
+
+and Corviknight by preventing recovery with Psychic Noise.
+
+Tinkaton
+
+provides another Poison immunity, sets up Stealth Rock, and gives Knock Off support. Tinkaton also takes out Hatterene in the Fairy mirror with Gigaton Hammer, which Iron Valiant appreciates.
+
+Ribombee
+
+is a nice lead, providing Sticky Web to slow down fast threats like Will-O-Wisp Dragapult, Iron Treads, and Choice Scarf Excadrill.
+
+Other Options
+
+Fairy
+
+Grass Knot can be run over Moonblast to 2HKO
+
+Dondozo
+
+,
+
+Quagsire
+
+, and
+
+Swampert
+
+, which allows Iron Valiant to be a huge threat in the Water matchup. Shadow Sneak picks off
+
+Flutter Mane
+
+, while Vacuum Wave gets a surprise OHKO on
+
+Chien-Pao
+
+.
+
+Iron Valiant's blistering Speed and the threat of Destiny Bond make it a cybernetic assassin that's excellent at taking foes down with it!
+
+Shadow Sneak
+
+: Shadow Sneak is Iron Valiant's best tool against
+
+Flutter Mane
+
+and is useful for picking off Focus Sash foes such as
+
+Iron Bundle
+
+.
+
+Encore
+
+: Encore plugs in perfectly with Destiny Bond, punishing foes that use support moves to avoid getting taken down with Iron Valiant.
+
+Moonblast versus Spirit Break
+
+: Even without investment, Moonblast will often deal more damage to foes with even defenses or lower Special Defense such as
+
+Garchomp
+
+and
+
+Wo-Chien
+
+, and avoid Rocky Helmet damage. However, Spirit Break's Special Attack drops give Iron Valiant a chance to help teammates set up after it gets KOed, and it will still put Terastallized offensive Flutter Mane into Shadow Sneak's KO range.
+
+Knock Off
+
+: This is Iron Valiant's only way to 2HKO offensive
+
+Gholdengo
+
+, and removing items gives it a good support niche.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Since this Iron Valiant often uses Destiny Bond, Terastallization isn't very important for it, thought the surprise value still makes it viable in certain matches.
+
+Ghost
+
+: Tera Ghost lets Iron Valiant safely Encore
+
+Dragonite
+
+'s Extreme Speed.
+
+Fighting
+
+: An extra powerful Close Combat gives Iron Valiant better late-game cleaning potential.
+
+Items
+
+Focus Sash
+
+: Getting around Iron Valiant's aluminum-thin bulk gives it the potential to take down multiple Pokemon.
+
+Booster Energy
+
+: Getting a one-time Speed boost trades Iron Valiant's great early-game potential for excellent revenge killing potential.
+
+Alternate EV Spread
+
+12 HP / 228 Atk / 84 Def / 36 SpAtk / 148 Spe with Naive
+
+: This Focus Sash EV spread gives Iron Valiant a very high chance of surviving Adamant
+
+Baxcalibur
+
+'s five-hit Icicle Spear and likely OHKOing it back with Close Combat. The Special Attack investment 2HKOs maximum HP Dragonite through Multiscale while the Speed investment outspeeds up to Garchomp.
+
+Iron Valiant's high Special Attack and Destiny Bond make it a highly unpredictable threat that can surprise its more physically defensive checks, such as
+
+Dondozo
+
+.
+
+Encore
+
+: This will give any foe attempting to use support moves to escape Destiny Bond a nasty shock.
+
+Shadow Ball
+
+: Shadow Ball 2HKOes
+
+Skeledirge
+
+and will often 2HKO defensive Gholedngo, both of whom are common issues for the physical variant of this set.
+
+Shadow Sneak
+
+: While weak enough to be unable to 2HKO bulkier
+
+Flutter Mane
+
+, Shadow Sneak is still a great choice for picking off Focus Sash foes such as
+
+Great Tusk
+
+and
+
+Iron Bundle
+
+.
+
+Close Combat versus Aura Sphere
+
+: Even without physical investment, Close Combat is generally the stronger move, and it ensures
+
+Blissey
+
+and
+
+Chansey
+
+will not wall Iron Valiant without Terastallization. However, Aura Sphere does hit many physically defensive foes such as
+
+Corviknight
+
+harder, and it gets around Rocky Helmet and Rough Skin.
+
+Tera Types
+
+Tera Dependency - Low
+
+: This set's focus on Destiny Bond makes Terastallization a waste fairly often, but it can make sense in more late-game contexts.
+
+Ghost
+
+: Tera Ghost gives Iron Valiant an opening to Encore Extreme Speed
+
+Dragonite
+
+and gives Shadow Sneak a more acceptable amount of power.
+
+Fairy
+
+: Tera Fairy's boost to Moonblast potentially gains a 2HKO on Dondozo and Terastallized Skeledirge.
+
+Steel
+
+: With Tera Steel, Iron Valiant gains a useful resistance to Bullet Punch and Ice Shard, making Booster Energy variants harder to revenge kill.
+
+Items
+
+Focus Sash
+
+: Focus Sash is particularly useful for letting Iron Valiant surprise Skeledirge, who normally OHKOes with a +1 Torch Song.
+
+Booster Energy
+
+: While unlikely to enable a sweep unless it's late-game, this consumable Speed boost transforms Iron Valiant into an effective revenge killer.
+
+Iron Valiant's excellent special movepool gives it an effective wallbreaking mode that can catch foes such as
+
+Skeledirge
+
+and
+
+Dondozo
+
+by surprise.
+
+Encore
+
+: Encore is perfect for punishing attempts to set up on Iron Valiant.
+
+Shadow Ball
+
+: Shadow Ball is handy for 2HKOing Skeledirge before it Terastallizes, as it's normally a great Iron Valiant check.
+
+Thunderbolt
+
+: This programs Iron Valiant to 2HKO
+
+Corviknight
+
+and physically defensive Dondozo with Life Orb.
+
+Psyshock versus Psychic
+
+: Psyshock deals massive damage to
+
+Iron Moth
+
+and
+
+Clodsire
+
+, who are otherwise big problems. Psychic on the other hand, is preferred if
+
+Amoonguss
+
+is a serious problem due to being able to consistently 2HKO physically defensive vairants.
+
+Other Options
+
+Calm Mind
+
+: Calm Mind makes Iron Valiant even more difficult to wall, but it's very difficult to set up without Focus Sash or Encore.
+
+Aura Sphere
+
+: Close Combat's higher power is usually preferred, but Aura Sphere does better against Corviknight and makes Iron Valiant less vulnerable to priority attacks.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Iron Valiant can do plenty of damage without Terastallization, but resisting important priority Attacks or boosting its power certainly makes it useful.
+
+Ghost
+
+: With Tera Ghost, Life Orb Shadow Ball OHKOes physically defensive Skeledirge, in addition to giving Iron Valiant an important immunity to Extreme Speed.
+
+Fairy
+
+: Powering up Moonblast with Tera Fairy can 2HKO even specially defensive Dondozo.
+
+Steel
+
+: Tera Steel has fantastic defensive synergy, giving useful resistances to
+
+Scizor
+
+'s Bullet Punch,
+
+Chien-Pao
+
+'s Ice Shard, and Flying- and Fairy-type attacks.
+
+Electric
+
+: Tera Electric means Iron Valiant no longer needs Life Orb to reliably 2HKO physically defensive Dondozo without Life Orb, in addition to giving a vital resistance to Scizor's Bullet Punch.
+
+Items
+
+Life Orb
+
+: While the recoil makes Iron Valiant even more vulnerable to priority attacks, it provides immense wallbreaking power.
+
+Booster Energy
+
+: Taking advantage of Quark Drive trades easy wallbreaking in exchange for incredible revenge killing power and late-game sweeping.
+
+While tricky to set up without support, Swords Dance Iron Valiant is a niche but dangerous sweeper that requires dedicated defensive Pokemon such as
+
+Skeledirge
+
+and
+
+Dondozo
+
+to easily check.
+
+Encore
+
+: Encore lets Iron Valiant short-circuit support moves and have a shot of setting up Swords Dance, but this does come at the cost of one of its STAB moves.
+
+Close Combat versus Spirit Break
+
+: If giving up a slot for Encore, Close Combat's high power against bulky foes such as
+
+Kingambit
+
+,
+
+Ting-Lu
+
+,
+
+Corviknight
+
+, and bulky
+
+Chi-Yu
+
+makes it the easy option. Spirit Break's low Base Power reduces Iron Valiant's general sweeping potential in exchange for dealing big damage to common Tera Fairy Pokemon such as
+
+Rotom-W
+
+and
+
+Garchomp
+
+.
+
+Shadow Sneak versus Knock Off
+
+: With a boost, Shadow Sneak is capable of ruining
+
+Flutter Mane
+
+'s attempt to revenge kill, but Knock Off lets Iron Valiant deal with
+
+Gholdengo
+
+, hit
+
+Volcarona
+
+and
+
+Iron Moth
+
+hard, and punish Skeledirge switch ins.
+
+Tera Types
+
+Tera Dependency - High
+
+: While this set isn't reliant on Terastallization, it does make late-game sweeping a much more feasible task for Iron Valiant, making it less vulnerable to priority attacks that can ruin its sweeping potential.
+
+Ghost
+
+: Powering up Shadow Sneak can make cleaning easier and the Extreme Speed immunity can turn Extreme Speed
+
+Dragonite
+
+into setup bait with Encore.
+
+Steel
+
+: Tera Steel has excellent defensive synergy, giving Iron Valiant an important Bullet Punch and Ice Shard resistance and covering Flying- and Fairy-type attacks.
+
+Fairy / Fighting
+
+: Terastallizing into one of Iron Valiant's STAB types can make cleaning through bulky foes easier if dropping coverage for Encore.
+
+Fire
+
+: In addition to a useful Bullet Punch resistance, Tera Fire gifts Iron Valiant a burn immunity and can even be used with Tera Blast to break defensive Gholdengo and Corviknight.
+
+Electric
+
+: Not only does this help Iron Valiant against
+
+Scizor
+
+, but Tera Electric can be paired with Life Orb and Tera Blast to wear down Dondozo.
+
+Items
+
+Focus Sash
+
+: If not using Encore, this is the most reliable way to get Swords Dance set up.
+
+Booster Energy
+
+: Quark Drive's Speed boost makes it far more difficult to revenge kill Iron Valiant, outpacing key threats such as
+
+Dragapult
+
+, Flutter Mane,
+
+Iron Bundle
+
+, and Choice Scarf Gholdengo.
+
+Life Orb
+
+: Life Orb makes Iron Valiant more effective at hit-and-run tactics and can let it OHKO bulky threats such as Corviknight after a boost and Stealth Rock damage.
+
+Iron Valiant is a great support Pokemon that can make use of Quark Drive's Speed boost to use moves like Spirit Break, Coaching, and Encore before its foes can attack. These moves allow Iron Valiant to disrupt opposing teams while also benefitting its allies with Wide Guard and Coaching, giving it a strong supportive presence. Spirit Break reduces the damage of common special attackers like
+
+Miraidon
+
+,
+
+Calyrex-S
+
+,
+
+Terapagos
+
+, and
+
+Kyogre
+
+. Iron Valiant's fast Coaching increases the damage and bulk of allies such as
+
+Calyrex-I
+
+and
+
+Urshifu-R
+
+, allowing Calyrex-I to OHKO
+
+Flutter Mane
+
+and Calyrex-S with Glacial Lance and Urshifu-R to OHKO the same Pokemon as well as
+
+Chien-Pao
+
+and
+
+Ogerpon-C
+
+with Surging Strikes. The Defense boost allows Calyrex-I to live Ogerpon-C's Tera Rock Ivy Cudgel and
+
+Koraidon
+
+'s Flare Blitz in the sun. Meanwhile, the boost lets Urshifu-R survive
+
+Iron Hands
+
+'s Wild Charge and
+
+Roaring Moon
+
+'s Tera Flying Acrobatics while making opposing
+
+Urshifu
+
+formes' Close Combat a 3HKO. Wide Guard is used to block spread moves like Astral Barrage from Calyrex-S, Glacial Lance from Calyrex-I,and Tera Starstorm from Terastallized Terapagos. Encore can make foes hesitate to use moves like Protect, Fake Out, and Nasty Plot, allowing its partners to function properly without being disrupted. This EV spread allows Iron Valiant to live Urshifu-R's Tera Water Surging Strikes, Calyrex-I's Glacial Lance at +1 Attack, Choice Scarf
+
+Landorus
+
+'s Earth Power, Terapagos-S's Tera Stellar Tera Starstorm at +1 Special Attack, and Choice Specs Miraidon's Dazzling Gleam at -1 Special Attack. Tera Ghost allows Iron Valiant to become immune to Fake Out disruption, which is important because it doesn't have Protect.
+
+Speed Booster Energy Flutter Mane is Iron Valiant's biggest threat, as it can move before it and OHKO with Moonblast. Taunt from
+
+Tornadus
+
+and Flutter Mane can prevent Iron Valiant from using its support moves. Fake Out from Pokemon much such as
+
+Rillaboom
+
+,
+
+Incineroar
+
+, and Iron Hands can disrupt Iron Valiant because it needs to Terastallize to avoid flinching, when other Pokemon would prefer to Terastallize. Iron Valiant pairs well with Pokemon that can take advantage of Coaching such as Calyrex-I and Urshifu-R. Iron Valiant also provides support for
+
+Amoonguss
+
+and Landorus because of its ability to weaken threats to them like Miraidon,
+
+Chi-Yu
+
+, and Calyrex-S while protecting them from spread moves like Glacial Lance and Origin Pulse.
+
+Draft Order
+
+: Round 1 onwards
+
+Price Range
+
+: 19-20 points
+
+Overview
+
+: Iron Valiant is one of the most versatile offensive Pokemon in the format. With its great Fairy and Fighting typing, its strong mixed offensive stats, one of the deepest movepools in the game including offensive coverage and utility moves, and a great Speed tier that can be further boosted by Booster Energy, Iron Valiant can sometimes seem like an unstoppable force. It's topped off by having access to a very powerful Vacuum Wave, which on its own is an invaluable trait for a metagame filled with fast Dark-types. As a result, Iron Valiant is one of the premier options for first overall pick in SV draft because virtually everything else on the board pairs well with it.
+
+Common Roles
+
+Wallbreaker
+
+: Iron Valiant is most commonly used as a wallbreaker with a damage boosting item such as Life Orb or Expert Belt. Its strong STAB moves paired with a Life Orb are very difficult to switch into on their own, but factoring in all its coverage options makes finding a counter basically impossible. These sets will almost always carry Vacuum Wave to help protect itself from being revenge killed by the many fast Dark-types in the metagame.
+
+Speed Booster Energy Cleaner / Revenge killer
+
+: With Speed Booster Energy, Iron Valiant outspeeds the entire unboosted metagame. This type of set aims to save Iron Valiant for late-game scenarios when the opponent's team is weakened. These sets make use of Iron Valiant's superb coverage to finish off the enemy team, and the Speed boost prevents Iron Valiant from being revenge killed. It often also slots utility moves like Encore, Trick, and Destiny Bond to remain dangerous to foes it cannot immediately KO or uses them to disrupt a foe as an emergency button in a pinch. These sets can even still make use of Vacuum Wave to hit opposing Choice Scarf users.
+
+Setup Wincon
+
+: These sets will also often run Speed Booster Energy but sacrifice one or two coverage moves for Calm Mind or Swords Dance and an optional utility move like Encore or Taunt. The tradeoff of less coverage for setup potential allows Iron Valiant to sweep teams without needing them as weakened. However, this requires finding an opportunity to set up, which is difficult due to Iron Valiant's subpar defensive profile. It's maybe even harder to justify setting up over just attacking with Iron Valiant's amazing raw power.
+
+Common Moves
+
+Primary STAB Moves
+
+: Moonblast, Aura Sphere, Focus Blast, Vacuum Wave, Spirit Break, Close Combat, Drain Punch
+
+Setup Moves
+
+: Calm Mind, Swords Dance, Agility
+
+Utility Moves
+
+: Knock Off, Encore, Substitute, Taunt, Destiny Bond, Trick, Thunder Wave
+
+Coverage
+
+: Energy Ball, Fire Punch, Grass Knot, Ice Punch, Leaf Blade, Liquidation, Poison Jab, Psychic, Psyshock, Shadow Ball, Shadow Claw, Shadow Sneak, Thunderbolt, Thunder Punch, X-Scissor, Zen Headbutt
+
+Niche Moves
+
+Reflect and Light Screen
+
+: Reflect and Light Screen can be run to have Iron Valiant take on a more supportive role on the off chance it has a really bad matchup against the opponent's team.
+
+Hex
+
+: Hex can be combined with Toxic Spikes or other status-spreading support to give Iron Valiant a strong Ghost-type coverage option. This is notably useful to break through bulky Psychic-type Pokemon that may carry a Colbur Berry, which can be decent defensive answers to Iron Valiant.
+
+Hypnosis
+
+: When legal, Hypnosis can be useful in matchups when the opposing team has two reasonable Iron Valiant checks that require different coverage moves and Iron Valiant can't beat either one-on-one. Hypnosis gives Iron Valiant an option to roll the dice on getting up to three free turns to transform losing matchups into winning ones. It can also be combined with Hex to break through troublesome bulky Psychic-type Pokemon such as
+
+Galarian Slowking
+
+.
+
+Disable
+
+: Disable is mostly only used as a surprise option to catch foes off guard, as it's less consistently useful than utility moves like Encore and Destiny Bond. It still has a great upside with potentially giving Iron Valiant free turns to do whatever it wants, but it can be difficult to justify.
+
+Common Items
+
+Life Orb / Expert Belt
+
+: These damage-boosting items are used on mixed wallbreaker Iron Valiant sets, offering a boost to both of its offensive stats and not locking it into any single move. Life Orb offers more damage at the cost of longevity, so the better item for this role will depend on the matchup.
+
+Booster Energy
+
+: Most Iron Valiant wincon sets will run Speed Booster Energy to outspeed nearly the entire unboosted metagame, but Special Attack Booster Energy or Attack Booster Energy is also possible for wallbreaker sets.
+
+Choice Specs / Choice Band
+
+: On wallbreaker sets, Iron Valiant may just want to maximize its offense. Choice Specs sets are more common than their physical counterpart due to Iron Valiant's Vacuum Wave access, although both Choice items are plenty viable.
+
+Niche Items
+
+Choice Scarf
+
+: It is mostly outclassed by Speed Booster Energy, but Iron Valiant can run Choice Scarf for more consistent speed control throughout the entirety of a game if needed. It also works well with Trick to cripple walls.
+
+Heavy-Duty Boots
+
+: If you expect your opponent to bring a team that will stack entry hazards, Heavy-Duty Boots is always a nice option to limit their effectiveness.
+
+Air Balloon
+
+: Iron Valiant can combine its natural Dragon immunity with Air Balloon's temporary Ground immunity to become immune to
+
+Garchomp
+
+'s STAB moves, allowing it to safely switch in on Garchomp and threaten it out with a Fairy-type attack.
+
+Focus Sash
+
+: Iron Valiant is frail, so if it can enter the field at full HP, a Focus Sash could be a useful surprise option to guarantee Iron Valiant survives for more than one turn. It's most commonly seen on lead sets that look to reliably KO one foe immediately and then maybe try to trade for another with Destiny Bond, but it can still be used on non-lead sets when paired with entry hazard removal.
+
+Tera
+
+Iron Valiant is widely Tera-banned in Draft, so it is usually ineligible to be a Tera Captain. If you have the chance to let Iron Valiant Terastallize, it should definitely be a Tera Captain, as its already amazing offenses become extremely overwhelming. Virtually every Tera type can be helpful for Iron Valiant in some way thanks to its broad movepool. It can use Tera Fighting or Fairy to boost its already strong STAB moves, any Tera type that boosts chosen coverage moves like Tera Water to power up Liquidation, or a defensive Tera type like Steel to resist common forms of priority, making it harder to revenge kill.
+
+Draft Strategy
+
+Iron Valiant is a highly sought-after Pokemon, so it will most often be the first overall pick in a draft. Since it goes so early, it's important for Iron Valiant drafts to remain flexible, since many Pokemon will be taken before the draft returns to their pick. Luckily, Iron Valiant is incredibly flexible itself, so this isn't that hard to do.
+
+Strong Alternate Wincon
+
+: Iron Valiant's most consistent sets are its wallbreaking ones, so Iron Valiant drafts should take a more reliable setup threat to take advantage of the holes Iron Valiant rips through the opponent's team. Some options include
+
+Dragonite
+
+,
+
+Kyurem
+
+,
+
+Ogerpon-W
+
+, and
+
+Iron Crown
+
+.
+
+Reliable Entry Hazards
+
+: The threat of Iron Valiant's many coverage moves can force foes to switch, and stacking entry hazards will punish this heavily. It's already hard to switch into Iron Valiant late-game with a weakened team, and hazards make it even more painful.
+
+Secondary Dragon-type Answer
+
+: Iron Valiant is sometimes considered a fake Fairy-type; it's not bulky, and it has to be mindful of when to come onto the field when it's running Booster Energy. As a result, Dragon-types may not respect a team whose only Dragon-type answer is Iron Valiant, so a good Steel-type or a secondary Fairy-type, such as
+
+Gholdengo
+
+or
+
+Tinkaton
+
+, is appreciated.
+
+Secondary Speed Control
+
+: While Iron Valiant can be used as speed control with Speed Booster Energy, it often prefers a damage-boosting item or doesn't want to consume its Booster Energy before it's ready to sweep. Therefore, Iron Valiant should be paired with another source of speed control like strong priority users or a different fast Pokemon that can viably run Choice Scarf. Some common examples are
+
+Greninja
+
+,
+
+Weavile
+
+, and
+
+Cinderace
+
+Checks and Counters
+
+Poison-types
+
+: Iron Valiant's STAB combination is resisted by Poison-types, so bulky Poison-types like
+
+Pecharunt
+
+,
+
+Muk
+
+, and
+
+Swalot
+
+do a good job at handling Iron Valiant defensively. Iron Valiant can only threaten them with Psychic-type coverage, but without the STAB multiplier, most Poison-types will be able to survive a Psychic-type hit or two. Naturally, Iron Valiant benefits from being paired with strong Ground- or Psychic-type Pokemon to break through these Poison-types and discourage foes from using Tera Poison against it.
+
+Resistance Berry Lures
+
+: A common way of dealing with Iron Valiant's immense coverage is accepting Iron Valiant will hit its foes super effectively and using a Resistance Berry to survive a super effective hit. These are generally most effective on bulky Pokemon with an option to threaten Iron Valiant after surviving its attack, such as Galarian Slowking using Colbur Berry to survive Knock Off and OHKO it with Sludge Bomb.
+
+Faster Choice Scarf Users / Priority
+
+: To cover a Speed-boosted Iron Valiant, teams with a Pokemon with a better Speed tier than Iron Valiant can run a Choice Scarf to try to revenge kill it. Cleaner Iron Valiant sets will often try to save their Booster Energy until they're able to identify if a Choice Scarf user faster than Iron Valiant or a threatening priority move like Bullet Punch is on the opponent's team, and if one exists, they wait until it is no longer threatening for Iron Valiant to come onto the field. Iron Valiant's common use of Life Orb and vulnerability to entry hazards make it difficult to consistently stay out of strong priority moves' range.
+
+Iron Valiant's main attack is very interchangeable. Moonblast is the most reliable and is usually the one that works in the most matchups like opposing Iron Valiant and
+
+Walking Wake
+
+, while Low Kick can help it break through Steel-type Pokemon like
+
+Hisuian Goodra
+
+and
+
+Registeel
+
+, though, it's scared of Counter from the former.
+
+The Speed EVs allow it to outspeed Choice Scarf
+
+Porygon-Z
+
+, with the remaining EVs going into Defense so it can bulk physical hits and fire back with its Encore + Disable setup.
+
+To utilize Encore + Disable effectively, you usually have to use Protect on the first turn to scout the foe's first move. If you are certain it is a Choice-locked Pokemon, you can just use Disable on the second turn and force it to use Struggle, and if it utilizes a status move, you are free to use Encore on its move and attack with your main STAB move; otherwise, it is recommended to use Encore on the second turn to take a hit, then Protect on the third turn, then Disable on the fourth turn, and, once Encore is over, you use Encore again. This ensures 2 turns of Struggle from the foe, at which point Iron Valiant should be able to KO it. On more passive Pokemon that have moves that do little damage like Registeel, it sometimes can be better to opt out of using Protect and just use your main attack.
+
+Iron Valiant fits best on teams that can cover their main weakness to Steel-type Pokemon; therefore, Fire-type Pokemon like
+
+Volcarona
+
+and
+
+Skeledirge
+
+make great teammates. In return, Iron Valiant can handle threats like Choice Specs
+
+Greninja
+
+and Choice Band
+
+Ursaluna
+
+. Iron Valiant also appreciates
+
+Pecharunt
+
+and Hisuian Goodra being extremely consistent against Fairy-types, as these can easily deal with them while it deals with Ground-type Pokemon like
+
+Great Tusk
+
+and the previously mentioned Ursaluna.
+
+Moonblast and Focus Blast are Iron Valiant's main STAB moves, OHKOing targets that are weak to them such as non-Assault Vest
+
+Raging Bolt
+
+, both
+
+Urshifu
+
+formes, and Flame Orb
+
+Ursaluna
+
+.
+
+Thunderbolt's main use is to 2HKO
+
+Corviknight
+
+, which Iron Valiant's usual sets can't do much against, though it has to watch out for Expert Belt Corviknight.
+
+Iron Valiant's last move varies depending on what its team needs. Psyshock takes care of
+
+Iron Moth
+
+, while Icy Wind can usually beat both
+
+Landorus
+
+formes, though it has to watch out for Assault Vest
+
+Landorus-T
+
+with Fly.
+
+A Modest nature maximizes damage and ensures some OHKOs like non-Chople Berry
+
+Hisuian Goodra
+
+but for most matchups like non-bulky
+
+Ogerpon-W
+
+, Iron Moth, and non-Speed Booster Energy
+
+Walking Wake
+
+, it is better to run a Timid nature.
+
+Iron Valiant's HP and Special Defense EVs let it survive a Special Attack Booster Energy Raging Bolt's Thunderclap so it's safe to OHKO back with Moonblast, with the remaining EVs used on Speed and Special Attack to maximize its ability to outspeed and threaten frail threats.
+
+Iron Valiant really struggles to put a dent on Fairy-type Pokemon like
+
+Sylveon
+
+and
+
+Primarina
+
+, so Poison- and Steel-type Pokemon like
+
+Pecharunt
+
+and Hisuian Goodra can be really helpful to shut down these threats.
+
+Iron Valiant can struggle with Psychic-types like
+
+Iron Crown
+
+and
+
+Metagross
+
+, as it can't do much damage to them, so Dark-types like
+
+Meowscarada
+
+,
+
+Darkrai
+
+, and
+
+Hoopa-U
+
+work as good partners for it.
+
+Spirit Break OHKOes
+
+Haxorus
+
+,
+
+Hoopa-U
+
+, and both
+
+Urshifu
+
+formes.
+
+Close Combat deals huge damage to non-Chople Berry
+
+Hisuian Goodra
+
+and
+
+Ursaluna
+
+,
+
+Registeel
+
+,
+
+Kyurem
+
+, non-Choice Scarf
+
+Porygon-Z
+
+, and non-Brave Bird or Iron Head
+
+Corviknight
+
+.
+
+Ice Punch lets Iron Valiant deal with both
+
+Landorus
+
+formes, though it has a chance of not beating Fly
+
+Landorus-T
+
+.
+
+Poison Jab helps against non-Kebia Berry
+
+Whimsicott
+
+and
+
+Serperior
+
+, while Liquidation can take care of frail and non-Passho Berry
+
+Volcarona
+
+.
+
+Iron Valiant struggles against Psychic- and Fairy-type Pokemon like
+
+Iron Crown
+
+,
+
+Metagross
+
+,
+
+Primarina
+
+, and
+
+Sylveon
+
+, so Pokemon like Hoopa-U,
+
+Darkrai
+
+, and
+
+Pecharunt
+
+are really helpful. In return, Iron Valiant can help them deal with Fighting- and Ground-type Pokemon like
+
+Iron Hands
+
+,
+
+Great Tusk
+
+, and Landorus.
+
+Iron Valiant also struggles to beat Water-type Pokemon like
+
+Manaphy
+
+,
+
+Azumarill
+
+, and bulky
+
+Ogerpon-W
+
+, so Pokemon like
+
+Zapdos
+
+and
+
+Raging Bolt
+
+can help with these threats, while Iron Valiant deals with the previously mentioned Ground-types along with Ice-type Pokemon like
+
+Chien-Pao
+
+and Kyurem.
+
+Choice Specs supplements Iron Valiant's power and offensive coverage, turning it into a powerful wallbreaker capable of blasting its way through bulky Pokemon such as
+
+Landorus-T
+
+,
+
+Gliscor
+
+, and
+
+Melmetal
+
+with ease. Thunderbolt provides a strong coverage option that allows Iron Valiant to 2HKO potential checks such as
+
+Toxapex
+
+,
+
+Mega Charizard Y
+
+, and
+
+Moltres
+
+, which otherwise wall its STAB combination. Alternatively, Vacuum Wave allows Iron Valiant to pick off weakened threats such as
+
+Mega Lopunny
+
+,
+
+Kingambit
+
+, or a boosted
+
+Terapagos
+
+in a pinch, whereas Trick allows Iron Valiant to cripple switch-ins such as Toxapex,
+
+Galarian Slowking
+
+, and Moltres without the need for prediction. Lastly, Shadow Ball ensures Iron Valiant can 2HKO defensive
+
+Gholdengo
+
+and Galarian Slowking after slight chip damage.
+
+Choice Specs Iron Valiant is a strong and versatile offensive option that fits on a variety of offense and balance teams alike. In particular, Iron Valiant benefits immensely from the support of Pursuit users such as Kingambit and
+
+Mega Tyranitar
+
+, which can help remove or forcibly weaken the few dedicated checks to it in Galarian Slowking and Assault Vest
+
+Tornadus-T
+
+, making it far more offensively threatening as a result. Similarly, entry hazard support from the likes of Landorus-T,
+
+Ting-Lu
+
+, and
+
+Ferrothorn
+
+is appreciated to ensure Iron Valiant can secure KOes against certain Pokemon such as
+
+Ogerpon-W
+
+,
+
+Mega Scizor
+
+, and
+
+Tapu Lele
+
+. Offensive teammates that work well with Iron Valiant include Gholdengo and
+
+Tapu Koko
+
+; each of them appreciates Iron Valiant's ability to break open soft checks such as
+
+Heatran
+
+and Ting-Lu, and in return, they can play around potential revenge killers such as
+
+Zamazenta
+
+or assist in weakening defensive pieces such as
+
+Zapdos
+
+and Toxapex. Most notably, Tapu Koko also sets up Electric Terrain to activate Iron Valiant's Quark Drive, granting it a valuable Speed boost that allows it to outpace naturally faster targets such as opposing Tapu Koko and Choice Scarf
+
+Urshifu-R
+
+.
+
+Flexing not only its speed but also its versatility, mixed Iron Valiant excels as a cleaner, leveraging its wide movepool and powerful STAB combination to blast through weakened teams. Moonblast threatens many prominent targets, such as
+
+Raging Bolt
+
+and
+
+Zamazenta
+
+. Close Combat complements Moonblast nicely, damaging Steel-types such as
+
+Kingambit
+
+,
+
+Heatran
+
+, and
+
+Ferrothorn
+
+. Knock Off targets those that resist Iron Valiant's STAB moves, hitting key foes like crippling
+
+Moltres
+
+by removing its Heavy-Duty Boots. Encore discourages setup attempts from foes such as
+
+Volcarona
+
+and
+
+Dragonite
+
+, as well as punishing utility and recovery moves from defensive staples like
+
+Gliscor
+
+, Moltres, and
+
+Landorus-T
+
+. Alternatively, Destiny Bond allows Iron Valiant to force a trade even in a disadvantageous matchup, like against Volcarona or
+
+Gholdengo
+
+. Finally, Thunderbolt can threaten otherwise solid checks in Moltres,
+
+Toxapex
+
+, and
+
+Mega Charizard Y
+
+. 108 Attack EVs allow Iron Valiant to OHKO specially defensive Heatran after Stealth Rock. Booster Energy is preferred to ensure Iron Valiant can excel in its role as a cleaner, outspeeding all unboosted threats as well as all the relevant Choice Scarf users like
+
+Urshifu-R
+
+and
+
+Tapu Lele
+
+. Life Orb is a viable alternative if Iron Valiant is paired with
+
+Tapu Koko
+
+, ensuring 2HKOs on defensive Landorus-T with Moonblast as well as
+
+Alomomola
+
+and Toxapex with Thunderbolt while also securing an OHKO on SubRoost
+
+Kyurem
+
+with Close Combat and a chance to OHKO all-out attacker Zamazenta and Ferrothorn.
+
+Due to mixed Iron Valiant's dazzling array of skills, it fits best on offensive teams that appreciate its ability to clean up weakened teams as well as force trades against threats like Mega Charizard Y and Gholdengo for its teammates to exploit. Kingambit is a superb partner, as it greatly appreciates Iron Valiant blasting the Fighting-types that Kingambit struggles with, like Zamazenta and
+
+Great Tusk
+
+, while Kingambit can trap threats like
+
+Galarian Slowking
+
+and Gholdengo with Pursuit for Iron Valiant. Landorus-T and Great Tusk are also strong teammates, setting Stealth Rock to chip down potential switch-ins like Toxapex or Moltres, especially if Iron Valiant can remove its Heavy-Duty Boots, as well as directly threatening Iron Valiant checks like Toxapex and Galarian Slowking. In return, Iron Valiant can beat Urshifu-R,
+
+Weavile
+
+, and Kyurem. If Iron Valiant is running Life Orb, Tapu Koko is an essential pick, providing the Electric Terrain required to boost Iron Valiant's Speed, as well as threatening Moltres and Toxapex and boosting Iron Valiant's own Thunderbolt. Tapu Koko also provides easier entry for Iron Valiant through its speedy Volt Switch or U-turn. While powerful, Iron Valiant can struggle to break through healthy teams, especially against previously mentioned checks like Galarian Slowking and Toxapex, so offensive threats like Volcarona,
+
+Hisuian Samurott
+
+, and Tapu Lele are appreciated for their ability to wear down said checks for Iron Valiant to clean up. Iron Valiant is also threatened by some forms of priority like Bullet Punch from
+
+Mega Scizor
+
+and
+
+Mega Medicham
+
+, so the aforementioned Volcarona and Tapu Lele are excellent at shutting down these threats with the former's Flame Body and the latter's Psychic Terrain.
+
+Swords Dance Iron Valiant is a fantastic wallbreaker and setup sweeper, making use of its excellent coverage and Speed tier accentuated by Booster Energy to outpace and tear through common speed control options in
+
+Mega Lopunny
+
+and Choice Scarf
+
+Urshifu-R
+
+. Its effectiveness in this role is compounded by the ability to break past answers such as
+
+Galarian Slowking
+
+and
+
+Iron Crown
+
+that would otherwise check special sets. Knock Off not only allows Iron Valiant to cripple incoming checks such as
+
+Moltres
+
+and
+
+Toxapex
+
+but also serves as important coverage against the vast majority of Ghost- and Psychic-type Pokemon; at +2, it notably OHKOes offensive
+
+Gholdengo
+
+and Galarian Slowking and can 2HKO
+
+Slowbro
+
+lacking Colbur Berry. Ice Punch allows Iron Valiant to OHKO
+
+Landorus-T
+
+,
+
+Dragonite
+
+, and
+
+Gliscor
+
+at +2. However, Encore is also a strong alternative that allows Iron Valiant to facilitate additional setup opportunities by punishing the use of status moves such as Stealth Rock from Landorus-T or Quiver Dance from
+
+Volcarona
+
+. It also prevents
+
+Raging Bolt
+
+from reliably revenge killing Iron Valiant by locking it into Thunderclap. Spirit Break provides a secondary STAB option that lets Iron Valiant deal more damage to Fighting-types such as
+
+Great Tusk
+
+and
+
+Zamazenta
+
+as well as Fairy-types such as
+
+Tapu Koko
+
+and
+
+Clefable
+
+, notably OHKOing the former at +2.
+
+Iron Valiant's immense Attack and Speed tier make it a solid fit on various offense and hyper offense teams. Entry hazard setters such as Landorus-T,
+
+Hisuian Samurott
+
+, and
+
+Garchomp
+
+are essential for their ability to wear down Pokemon such as Hex Gholdengo and
+
+Tapu Lele
+
+to where a boosted Iron Valiant can pick them off late-game. Special attackers such as Calm Mind Raging Bolt, Quiver Dance Volcarona, and Nasty Plot Gholdengo can help pressure physically defensive stopgaps in Toxapex,
+
+Skarmory
+
+, and
+
+Zapdos
+
+early on, while Iron Valiant takes on specially defensive checks to these Pokemon such as Galarian Slowking and
+
+Ting-Lu
+
+in return. Similarly, accompanying physical sweepers such as Swords Dance
+
+Kingambit
+
+and Swords Dance
+
+Ogerpon-W
+
+pair excellently with Iron Valiant to help overwhelm shared physical checks such as Moltres and
+
+Alomomola
+
+. While Iron Valiant can use its Speed tier in conjunction with Booster Energy to revenge kill certain offensive threats in Mega Lopunny and
+
+Mega Swampert
+
+under rain in a vacuum, it often loses offensive flexibility while doing so, especially once it has depleted its Booster Energy. Thus, Iron Valiant appreciates being paired with teammates such as Iron Defense Zamazenta and Dragon Dance Dragonite as well as secondary Speed control options such as Booster Energy
+
+Iron Moth
+
+and Swords Dance
+
+Rillaboom
+
+that can help force these Pokemon out, ensuring that it doesn't have to deal with them outside of sweeping positions. Tapu Koko is also a notable offensive partner, as the Electric Terrain it provides allows Iron Valiant to retain its Speed boost outside of Booster Energy while being able to pressure some of Iron Valiant's checks in Moltres and Toxapex.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!
+
+Iron Valiant's combination of stats, typing, and coverage makes it an excellent wallbreaker for Fairy teams, capable of outrunning
+
+Mega Diancie
+
+,
+
+Nihilego
+
+, and
+
+Iron Treads
+
+. At +2 Attack, All-Out Pummeling OHKOes troublesome walls such as physically defensive
+
+Celesteela
+
+and
+
+Corviknight
+
+. Spirit Break notably breaks
+
+Mega Sableye
+
+, enabling Iron Valiant to greatly pressure Dark and Ghost teams. Knock Off deals with Ghost-types like
+
+Gholdengo
+
+and
+
+Aegislash
+
+, allowing Iron Valiant to heavily dent Steel. It also removes important items from
+
+Clodsire
+
+,
+
+Klefki
+
+, and
+
+Toxapex
+
+. Shadow Sneak can be used over Knock Off to pick off weakened foes like
+
+Blacephalon
+
+. Iron Valiant loves Klefki's ability to set dual screens and Spikes, as this allows Iron Valiant to set up more easily and deal with bulkier cores better.
+
+Tapu Lele
+
+sets Psychic Terrain, neutralizing
+
+Mega Scizor
+
+'s Bullet Punch, and it also deals with Poison-types Iron Valiant has a hard time with, such as
+
+Mega Venusaur
+
+and Toxapex.
+
+Tapu Koko
+
+'s Electric Terrain activates Iron Valiant's Quark Drive, letting it outspeed the likes of
+
+Mega Lopunny
+
+and
+
+Mega Swampert
+
+under rain.
+
+Tapu Bulu
+
+improves the Water and Ground matchups and removes bulky Water-types like Toxapex and
+
+Dondozo
+
+. Mega Diancie and
+
+Azumarill
+
+love Iron Valiant's ability to soften walls, as it allows them to clean up late-game.
+
+Iron Valiant is one of Fighting teams' best assets with amazing qualities between its typing, Speed, and offenses. Choice Scarf accentuates its Speed further and lets it outspeed many threats to Fighting teams such as
+
+Tornadus-T
+
+,
+
+Tapu Koko
+
+, and Choice Scarf users such as
+
+Tapu Lele
+
+and
+
+Galarian Zapdos
+
+. Its STAB Moonblast is one of its best qualities, being able to easily beat
+
+Mega Sableye
+
+and OHKO most opposing Fighting- and Dragon-types such as
+
+Buzzwole
+
+and
+
+Mega Altaria
+
+. Thunderbolt is great coverage to hit Flying- and Water-types like Tornadus-T and
+
+Toxapex
+
+that otherwise wall Iron Valiant, while Energy Ball lets it deal with
+
+Mega Swampert
+
+, which it can outspeed even under rain,
+
+Rotom-W
+
+, and
+
+Gastrodon
+
+more easily. Shadow Ball prevents Iron Valiant from being walled by
+
+Gholdengo
+
+,
+
+Skeledirge
+
+, and
+
+Aegislash
+
+while also improving the Psychic matchup. Knock Off and Trick cripple defensive switch-ins such as Toxapex,
+
+Celesteela
+
+, and
+
+Clodsire
+
+by removing or replacing important items and forcing them to go without passive recovery or be Choice locked. Iron Valiant is also a great asset in the Fairy and Electric matchups, as it uses opposing Tapu Koko's Electric Surge to activate its own Quark Drive and outspeed even
+
+Regieleki
+
+and
+
+Alolan Raichu
+
+under Electric Terrain. Iron Valiant appreciates support from
+
+Mega Gallade
+
+, as it easily takes care of Poison-types like Clodsire,
+
+Mega Venusaur
+
+, and
+
+Alolan Muk
+
+.
+
+Iron Hands
+
+and
+
+Great Tusk
+
+are great teammates for the Electric matchup while also beating the likes of Toxapex,
+
+Galarian Moltres
+
+, and Gholdengo.
+
+Cobalion
+
+and Great Tusk can set up Stealth Rock and even clear entry hazards in the case of the latter. Cobalion also helps against Fairy-types such as
+
+Tapu Bulu
+
+and Tapu Lele, while Great Tusk helps deal with Tapu Koko and Assault Vest Iron Hands. Choice Band
+
+Urshifu-R
+
+is a great ally to beat Fire-types such as
+
+Volcarona
+
+and Skeledirge and Ground-types such as
+
+Landorus-T
+
+and
+
+Excadrill
+
+.
+
+Kommo-o
+
+deals with bulky Water-, Fire-, and Grass-types like Toxapex, Skeledirge, and Mega Venusaur with its massive Clangorus Soulblaze in conjunction with Taunt.
+
+Breloom
+
+is also a natural counter to Water-types, being able to deal with
+
+Swampert
+
+, and hindering defensive walls such as Toxapex with Spore. Galarian Zapdos is another great teammate that can weaken foes and safely get in Iron Valiant with U-turn.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!

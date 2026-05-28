@@ -1,0 +1,3918 @@
+With an excellent typing, moveset, and ability, Gholdengo stands out as an incredibly valuable Pokemon that can act as both a defensive and offensive glue on virtually any team style from hyper offense to balance. Its typing allows Gholdengo to check numerous relevant threats such as
+
+Iron Valiant
+
+,
+
+Zamazenta
+
+,
+
+Kyurem
+
+, and
+
+Galarian Slowking
+
+, and Good as Gold allows it to take on status users like
+
+Clefable
+
+and
+
+Zapdos
+
+, phazers like
+
+Ting-Lu
+
+, and Encore or Taunt from foes like
+
+Ogerpon-W
+
+, Iron Valiant, and
+
+Deoxys-S
+
+; both of these combined also makes Gholdengo one of the sturdiest methods to stop entry hazard removal, as it prevents some of the most common formes in
+
+Corviknight
+
+'s Defog,
+
+Glimmora
+
+'s Mortal Spin, and
+
+Great Tusk
+
+and
+
+Iron Treads
+
+'s Rapid Spin. Gholdengo's moveset also gives it many options; Nasty Plot allows it to act as a wincon and wallbreaker, letting it overwhelm foes with excellent coverage and the longevity provided via Recover. It is also an excellent status spreader with Thunder Wave, giving Gholdengo a way to cripple faster foes such as Zamazenta,
+
+Darkrai
+
+, and
+
+Dragapult
+
+, synergizing well with its Hex. Choice Scarf patches up its middling Speed and lets it act as a team's speed control, which also lets it run Trick to cripple setup sweepers like
+
+Dragonite
+
+and Zamazenta as well as defensive switch-ins against bulkier teams. Gholdengo, however, suffers from an awkward Speed tier without a Choice Scarf, as it is slower than many relevant threats such as Darkrai, Kyurem,
+
+Cinderace
+
+, and Great Tusk. It also often invites in common Pokemon that can threaten it directly such as
+
+Kingambit
+
+and
+
+Hisuian Samurott
+
+, and special walls such as Ting-Lu, Assault Vest
+
+Tornadus-T
+
+, and
+
+Clodsire
+
+can give it trouble.
+
+Thanks to Good as Gold and excellent defensive typing that lets it set up on Pokemon like
+
+Galarian Slowking
+
+and
+
+Clefable
+
+, Nasty Plot Gholdengo is a premier wallbreaker in the metagame. Shadow Ball gives it a no-drawback and spammable STAB move to hit most foes neutrally, particularly valuable against opposing Gholdengo. Make it Rain's sheer power is great against
+
+Garganacl
+
+and
+
+Kyurem
+
+while hitting neutral threats like
+
+Ting-Lu
+
+,
+
+Zamazenta
+
+, and
+
+Great Tusk
+
+hard. Thunderbolt takes care of
+
+Moltres
+
+,
+
+Hisuian Samurott
+
+, and
+
+Alomomola
+
+. Dazzling Gleam hits foes like Hisuian Samurott, Ting-Lu, and
+
+Raging Bolt
+
+reliably while being a solid STAB move when paired with Tera Fairy. Focus Blast hits the many Dark-types in the tier; it notably targets
+
+Kingambit
+
+while hitting Ting-Lu and Hisuian Samurott harder than Dazzling Gleam. Recover gives Gholdengo a way to stay in the battle for longer, particularly against chip damage like Garganacl's Salt Cure, and leverage its defensive utility against the aforementioned threats. Psyshock turns it into a stallbreaker, as it is useful for breaking through special walls that would otherwise contest with Gholdengo, like Calm Mind
+
+Blissey
+
+and
+
+Clodsire
+
+. The Ground immunity granted by Air Balloon allows Gholdengo to set up in the face of
+
+Gliscor
+
+, spinblock Great Tusk and
+
+Iron Treads
+
+, become a sturdier switch-in against foes like Kyurem and
+
+Dragonite
+
+, and avoid damage from Spikes. Metal Coat alongside Tera Steel can be used on Make It Rain variants to propel its power to overwhelm checks like Ting-Lu and even OHKO resistant ones like bulky Kingambit and Moltres at +2. On bulkier teams that lack any entry hazard removal, Heavy-Duty Boots can be used instead due to Air Balloon's temporary immunity to Spikes being less appealing with Gholdengo's necessity to switch around more often. Shuca Berry is an option to lure in Ground-type revenge killers like Great Tusk and
+
+Landorus-T
+
+to flip the matchup against them; the lack of immunity over Air Balloon is made up for Gholdengo's freedom to take on other attacks early in the game as well as hiding Gholdengo's item from the opponent. Gholdengo can make great use of a wide variety of Tera types, both for offensive and defensive purposes: Tera Fairy boosts Dazzling Gleam and gives it a sudden resistance to Dark, potentially mitigating the damage from moves like Knock Off, Crunch, and Sucker Punch from
+
+Iron Valiant
+
+, Zamazenta, and Kingambit, respectively. Tera Fighting is an option to boost its Focus Blast, notably having good odds to OHKO Ting-Lu at +2, while also providing a Dark resistance similar to Tera Fairy.
+
+Any team can make great use of Gholdengo’s ability to spinblock and prevent Defog, but an offensive team would make the best use of its wallbreaking power. Offensive hazard-stacking cores featuring Pokemon such as
+
+Glimmora
+
+, Hisuian Samurott, and
+
+Deoxys-S
+
+can use Gholdengo’s help to keep the pressure on, with Gholdengo in return preventing foes from removing said hazards easily. Powerful wallbreakers like
+
+Ogerpon-W
+
+and
+
+Darkrai
+
+provide support for Gholdengo to whittle down defensive cores together. Without using Tera, Gholdengo struggles against the Dark-types and Ghost-types that are so common in the tier, such as Kingambit, Hisuian Samurott, and
+
+Dragapult
+
+. Having teammates that can check them, like Zamazenta,
+
+Enamorus
+
+, and Hisuian Samurott give Gholdengo some extra protection and a way to strike back against them. Even if it's using Air Balloon, having another Ground-immune Pokemon, such as Gliscor or
+
+Tornadus-T
+
+, is extremely helpful to mitigate that weakness. Gholdengo is vulnerable to fast threats such as Dragapult,
+
+Walking Wake
+
+, and
+
+Weavile
+
+. Having some form speed control on the team, such as Choice Scarf Enamorus and
+
+Meowscarada
+
+or priority users like Weavile and Raging Bolt, to counteract these threats is extremely valuable.
+
+Defensive Gholdengo can serve as a bulky spinblocker and powerful setup sweeper in long matches. Its bulk, typing, and access to reliable recovery give it multiple opportunities to pivot into various defensive Pokemon such as
+
+Skarmory
+
+,
+
+Corviknight
+
+,
+
+Galarian Slowking
+
+, and
+
+Clefable
+
+and make it a more reliable check to key offensive Pokemon such as
+
+Iron Valiant
+
+,
+
+Hatterene
+
+, and
+
+Zamazenta
+
+. It can use its increased bulk to more safely set up a Nasty Plot while sustaining itself with Recover. Gholdengo possesses near perfect coverage with its STAB attacks, making it very difficult to respond to. Dazzling Gleam is an option over Make It Rain, as it deals high damage to Dark-types such as
+
+Hisuian Samurott
+
+and
+
+Kingambit
+
+after a Nasty Plot boost. 60 Speed EVs allow Gholdengo to outspeed Jolly Kingambit and
+
+Azumarill
+
+, as well as uninvested
+
+Landorus-T
+
+; alternatively, 92 Speed EVs can allow Gholdengo to also outspeed uninvested
+
+Gliscor
+
+at the cost of losing a noticeable amount of bulk. Air Balloon allows Gholdengo to avoid taking Spikes damage and Ground-type attacks from prominent Pokemon such as
+
+Great Tusk
+
+and Gliscor, letting it setup on these Pokemon and more safely pivot into Rapid Spin users such as the aforementioned Great Tusk and
+
+Iron Treads
+
+. Heavy-Duty Boots can be used instead to more reliably mitigate entry hazard damage and more frequently pivot into various defensive Pokemon such as Skarmory even after it has taken damage. Rocky Helmet is a solid alternative to these items that can effectively punish physical attackers like Zamazenta, which is forced to commit to using Crunch against Gholdengo, and force it out due to the threat of significant chip damage. On offensive Grassy Terrain teams with
+
+Rillaboom
+
+, Grassy Seed can be used to give it setup opportunities against foes like
+
+Ogerpon-W
+
+and
+
+Ting-Lu
+
+as well as take on the likes of
+
+Dragonite
+
+and Zamazenta more comfortably. Gholdengo is a fantastic Terastallization candidate in most matches, as it greatly benefits from neutralizing all of its weaknesses to gain a crucial free turn to setup a Nasty Plot or heal itself with Recover. Tera Fairy gives Gholdengo a better matchup against various Dark-types such as
+
+Weavile
+
+and
+
+Meowscarada
+
+and boosts the power of Dazzling Gleam. Tera Water improves Gholdengo's matchups against
+
+Iron Moth
+
+and
+
+Cinderace
+
+as well as providing a good defensive typing against much of the metagame. Tera Flying is an alternative option that lets it completely dominate Ground-types such as Great Tusk, Gliscor, and Ting-Lu.
+
+Gholdengo fits quite well on bulky offense and balance teams as a spinblocker. Therefore, Spikes setters such as Ting-Lu, Gliscor, and Skarmory, as well as Stealth Rock setters such as Great Tusk,
+
+Garganacl
+
+, and Landorus-T greatly appreciate Gholdengo's ability to block most forms of hazard removal. Offensive teammates also appreciate Gholdengo's presence due to its strong defensive profile and ability to absorb status moves. Kingambit in particular greatly benefits from Gholdengo's ability to block status moves and check Pokemon it struggles against such as Zamazenta and Iron Valiant and can capitalize on Gholdengo luring and weakening its other checks such as Great Tusk. Iron Valiant similarly benefits from Gholdengo's ability to check Hatterene, and it can lure and weaken key checks to Gholdengo such as
+
+Clodsire
+
+with Psyshock. Gholdengo often struggles against offensive teams due to its poor matchup against many key threats such as
+
+Darkrai
+
+, Kingambit, and Iron Moth. Great Tusk and
+
+Dondozo
+
+can help alleviate pressure by dealing with Kingambit while simultaneously benefiting from Gholdengo's defensive profile against faster special attackers such as
+
+Enamorus
+
+. Ting-Lu and Clodsire can handle the special attackers that give Gholdengo trouble, such as
+
+Dragapult
+
+, and accentuate Gholdengo's threat level with entry hazards. While Gholdengo is excellent at keeping entry hazards on the field, it can often struggle against opposing entry hazard setters such as Ting-Lu, Hisuian Samurott, and Clodsire, particularly if it is unable to Terastallize. Therefore, hazard removal support from Great Tusk is beneficial.
+
+Hex Gholdengo is a powerful support Pokemon and paralysis spreader. Thunder Wave cripples many Pokemon Gholdengo typically struggles with such as
+
+Hisuian Samurott
+
+,
+
+Darkrai
+
+, and
+
+Cinderace
+
+while also being useful against Pokemon Gholdengo is tasked with handling, such as
+
+Zamazenta
+
+and
+
+Iron Valiant
+
+. It can then follow up with a powerful Hex on subsequent switch-ins. Make It Rain is the preferred option in the last slot to hit specially frail Ground-types, such as
+
+Great Tusk
+
+and
+
+Landorus-T
+
+, and
+
+Garganacl
+
+for high damage. Dazzling Gleam still hits Great Tusk for good damage while also hitting other Pokemon such as Hisuian Samurott quite hard. Focus Blast is another option that can be used in the last slot, as it is Gholdengo's strongest move against
+
+Kingambit
+
+, Hisuian Samurott, and Darkrai, OHKOing the latter two after minor chip damage. 60 Speed EVs allow Gholdengo to outspeed Jolly Kingambit and uninvested Landorus-T. Air Balloon allows Gholdengo to avoid Ground-type moves, letting it more reliably spinblock Great Tusk, as well as check
+
+Dragonite
+
+. Leftovers is also an option, as Gholdengo can force a good amount of switches, granting it more residual healing. Rocky Helmet greatly improves Gholdengo's matchup against Zamazenta, which is forced to use Crunch to meaningfully damage Gholdengo and as such takes significant chip damage. Colbur Berry can also be considered, as it allows Gholdengo to more effectively lure in and paralyze Dark-types such as
+
+Weavile
+
+and Darkrai while also making it a more reliable answer to Swords Dance Iron Valiant. On teams without hazard removal, Heavy Duty-Boots is also an option to avoid entry hazard damage. Gholdengo can be an effective Tera candidate in order to check a wider range of threats with Thunder Wave. Tera Fairy allows Gholdengo to better check utility
+
+Dragapult
+
+and resist Dark-type moves from Pokemon such as Weavile and Darkrai, allowing it to get off a crucial Thunder Wave against them while also being helpful against Garganacl by lowering Salt Cure damage. Tera Fairy also has the added benefit of boosting Dazzling Gleam's damage, giving it remarkable odds to OHKO Hisuian Samurott and Great Tusk. Alternatively, Tera Water improves Gholdengo's matchup against Fire-types such as
+
+Iron Moth
+
+and Cinderace.
+
+Gholdengo is an effective option on teams looking for a bulky spinblocker and paralysis support. Hazard setters such as Landorus-T,
+
+Ting-Lu
+
+,
+
+Glimmora
+
+, and
+
+Ribombee
+
+all benefit from its ability to block removal from the likes of
+
+Corviknight
+
+and Great Tusk. Kingambit greatly benefits from Gholdengo's presence due to it checking Zamazenta and spreading paralysis, allowing Kingambit to outspeed and KO targets such as Darkrai, Weavile, and opposing Kingambit. Darkrai similarly appreciates Gholdengo's ability to paralyze Zamazenta, Iron Valiant, and Iron Moth, allowing it to more effectively sweep in the late-game. Iron Valiant also enjoys Gholdengo's presence to handle
+
+Galarian Slowking
+
+and Zamazenta, as well as its ability to spread paralysis to make Iron Valiant less reliant on Booster Energy to revenge kill Pokemon such as Darkrai. Garganacl appreciates Gholdengo's ability to spinblock its Stealth Rock and handle Pokemon it struggles against, such as Galarian Slowking and Encore users such as
+
+Ogerpon
+
+and Iron Valiant. In turn, Garganacl aids Gholdengo against Fire-types it may struggle against such as Iron Moth, as well as opposing Ghost-types such as Dragapult. As this Gholdengo set is not running a boosting move, it can struggle to make progress against certain Pokemon, particularly bulky Ground- and Electric-types such as Ting-Lu,
+
+Iron Treads
+
+, and
+
+Raging Bolt
+
+. As such, it appreciates partners that can handle these types of Pokemon. Great Tusk is an excellent partner, as it can undo any hazards Ting-Lu or Iron Treads set up, switch into Raging Bolt's Electric-type moves, and deal good damage to all three with Headlong Rush. It is also effective against other Pokemon Gholdengo may struggle with such as Kingambit. Darkrai can lure and deal heavy damage to Ground-types such as Ting-Lu and
+
+Clodsire
+
+with its Nasty Plot-boosted Ice Beam, making it easier for Gholdengo to break through them later.
+
+Ogerpon-W
+
+can easily break past Ground-types with Ivy Cudgel and is effective at luring in and KOing Raging Bolt with Play Rough. It also appreciates Gholdengo's ability to handle Zamazenta and paralyze faster targets such as Darkrai. As Gholdengo's bulk is middling, it can be prone to being overwhelmed by faster threats such as Darkrai and Iron Moth. Dragonite and Raging Bolt can revenge kill these Pokemon with their powerful Extreme Speed and Thunderclap, respectively, while also being able to weaken Ground-types that may switch into Gholdengo with Ice Spinner and Draco Meteor, respectively. Similarly, Zamazenta can also use these Pokemon as an entry point to set up and sweep with Iron Defense. Dragonite and Zamazenta appreciate Gholdengo's ability to handle their checks such as
+
+Enamorus
+
+and
+
+Skarmory
+
+, while Raging Bolt appreciates Gholdengo's ability to weaken Ground-type such as Ting-Lu and Great Tusk. As any status will boost Hex's power, Gholdengo appreciates support from other status spreaders.
+
+Moltres
+
+can help by spreading burns with Flame Body on Pokemon that typically annoy Gholdengo such Great Tusk and Kingambit while also checking Fire-types like Cinderace.
+
+Gliscor
+
+is similarly effective at spreading Toxic against Ground- and Electric-types such as Ting-Lu and Raging Bolt, while also completely walling Clodsire. In turn, Gholdengo helps Gliscor maintain its Spikes on the field.
+
+Choice Scarf Gholdengo is a great speed control option in the tier capable of outrunning and revenge killing premier offensive threats like
+
+Dragapult
+
+, Choice Specs
+
+Enamorus
+
+, and
+
+Weavile
+
+. Shadow Ball allows it to threaten foes like
+
+Galarian Slowking
+
+,
+
+Skarmory
+
+, and Dragapult, while Make It Rain, with its high Base Power, not only becomes challenging to switch into but also enables Gholdengo to effectively revenge kill Pokemon like Enamorus. Trick is a good utility move that allows it to Choice-lock Pokemon like
+
+Ting-Lu
+
+and
+
+Gliscor
+
+, hampering their effectiveness. Focus Blast enables Gholdengo to hit Dark-types like
+
+Kingambit
+
+,
+
+Hisuian Samurott
+
+, and Ting-Lu. Alternatively, Nasty Plot can be used to turn Gholdengo into a potent late-game cleaner once it has successfully used Trick to get rid of its Choice Scarf. In another vein, Recover can be utilized to keep Gholdengo healthy, especially against bulkier foes, once it has used Trick, allowing it to check them more consistently. Tera Fighting gives Gholdengo a resistance to Dark-type moves, most notably Sucker Punch from Kingambit, and it gives Focus Blast a STAB boost. Tera Ghost boosts the power of its spammable Shadow Ball, letting it clean up late-game more easily; similarly, Tera Steel can be used to better sweep through weakened foes with Make It Rain.
+
+Gholdengo fits well on bulky offense and balance teams, where it functions as a great revenge killer. Teammates that benefit from Gholdengo's presence include Pokemon that appreciate its ability to handle fast and strong offensive threats. For instance, setup sweepers like Calm Mind
+
+Raging Bolt
+
+and Bulk Up
+
+Great Tusk
+
+can capitalize on Gholdengo's ability to revenge kill and weaken opposing threats like Dragapult and Choice Specs Enamorus, creating opportunities for Gholdengo's partners to set up and sweep. Great Tusk's access to Rapid Spin also synergizes well with Gholdengo, which is punished by Spikes, so getting rid of them gives Gholdengo more opportunities to switch in. Entry hazard setters like Gliscor, Skarmory, and Ting-Lu also benefit from Gholdengo's ability to serve as an emergency spinblocker. Due to its vulnerability to Dark-type Pokemon like Kingambit and Hisuian Samurott, exacerbated by its reliance on the inaccurate Focus Blast and the inherent risk of being Choice-locked, Gholdengo greatly benefits from the support of teammates that check the aforementioned foes, such as
+
+Zamazenta
+
+and
+
+Iron Valiant
+
+.
+
+Rillaboom
+
+also deserves a special mention as a teammate, as its Grassy Terrain weakens the super effective Earthquake, in addition to acting as a check to foes like Ting-Lu. In return, Gholdengo helps Rillaboom by handling threats that would otherwise be problematic for the latter, such as
+
+Corviknight
+
+and Skarmory.
+
+Other Options
+
+Covert Cloak is an option to take on
+
+Garganacl
+
+'s Salt Cure and
+
+Hatterene
+
+'s Nuzzle, as well as avoid the Defense drop from
+
+Zamazenta
+
+'s Crunch. Ability Shield lets Gholdengo ignore
+
+Galarian Weezing
+
+'s Neutralizing Gas, allowing Good as Gold to continue blocking Defog. Thunder Wave is an option on Choice Scarf sets in order to surprise and cripple threats such as
+
+Ogerpon-W
+
+and
+
+Tornadus-T
+
+. Choice Specs can be used to wallbreak while still having the utility of Trick, with the immediate power boost letting it 2HKO
+
+Ting-Lu
+
+with Focus Blast after Stealth Rock, although this set is notably held back by Gholdengo's Speed. Salac Berry fixes the Speed issue on Nasty Plot Gholdengo in a pinch and allow a potential sweep late-game. Red Card takes advantage of its bulk to act as a one-time phazer against boosted threats such as
+
+Iron Valiant
+
+. Eject Pack allows Gholdengo to pivot once after using Make It Rain, providing team support by keeping up momentum. Custap Berry is another option to mitigate its Speed issue, and it can be used to surprise foes and hit back against would-be revenge killers like
+
+Dragapult
+
+and Iron Valiant.
+
+Choice Scarf Gholdengo outspeeds the entire unboosted metagame, can use Trick to weaken defensive teams, and also blocks Defog and Rapid Spin to keep pressure on defensive Pokemon with entry hazards.
+
+Focus Blast deals more damage to
+
+Ting-Lu
+
+,
+
+Chi-Yu
+
+, and
+
+Iron Treads
+
+, while Nasty Plot and Recover can be used after Gholdengo's Choice Scarf has been removed via Trick to turn it into a setup sweeper or give it longevity, respectively.
+
+Tera Fighting powers up Focus Blast, which allows Gholdengo to potentially 2HKO Ting-Lu. Alternatively, Gholdengo can use Tera Steel on sets not using Focus Blast to boost Make It Rain and remove its weaknesses to
+
+Flutter Mane
+
+'s and
+
+Chien-Pao
+
+'s STAB moves.
+
+Gholdengo should almost always be switched in if
+
+Corviknight
+
+is on the field and be used sparingly against
+
+Great Tusk
+
+and Iron Treads if a Rapid Spin is predicted, but this is risky due to its Earthquake weakness.
+
+Spikes setters like Ting-Lu and
+
+Clodsire
+
+on balance teams as well as
+
+Froslass
+
+on hyper offense teams appreciate Gholdengo keeping up Spikes and it acting as a revenge killer for their respective archetypes.
+
+Pokemon like Calm Mind
+
+Miraidon
+
+, Calm Mind Flutter Mane, and Swords Dance Chien-Pao also benefit from Gholdengo using Trick on defensive Pokemon, forcing them to either heal or be locked into an unfavorable attack while they set up. Gholdengo can also clean up weakened teams if these Pokemon are used to wallbreak first.
+
+Nasty Plot + Recover Gholdengo is the best option for preventing entry hazard removal in the tier.
+
+Tera Steel bolsters Make It Rain's power, allowing Gholdengo to overwhelm threats such as
+
+Koraidon
+
+, defensive
+
+Great Tusk
+
+,
+
+Ting-Lu
+
+, and bulky Tera Fairy
+
+Miraidon
+
+after a Nasty Plot boost while removing its Ghost typing.
+
+Tera Normal blocks incoming Ghost-type attacks from the likes of
+
+Flutter Mane
+
+, Choice Scarf
+
+Houndstone
+
+, and opposing Gholdengo.
+
+Air Balloon provides a temporary measure against Ground-type attacks from Pokemon such as Great Tusk and
+
+Iron Treads
+
+, allowing Gholdengo to sometimes switch into them.
+
+Gholdengo best fits on hyper offense and balance teams that aim to preserve their own entry hazards for as long as possible.
+
+Frail leads such as
+
+Froslass
+
+and
+
+Masquerain
+
+appreciate their entry hazards staying intact against Great Tusk, Iron Treads,
+
+Corviknight
+
+, and
+
+Glimmora
+
+.
+
+Glimmora and Ting-Lu make for good teammates on balance teams in particular, as they provide similar entry hazard support while having sufficient power and bulk to punish threats.
+
+Wallbreakers such as Miraidon, Koraidon, and
+
+Chi-Yu
+
+appreciate multiple entry hazards to further overwhelm the opposition with their tremendous attacks and power.
+
+Nasty Plot Gholdengo serves as a valuable offensive and defensive threat for Steel teams thanks to its Ghost typing enabling it to handle Fighting-types like
+
+Sneasler
+
+and
+
+Iron Valiant
+
+for its teammates while offensive options using Shadow Ball to check the likes of
+
+Archaludon
+
+and
+
+Iron Hands
+
+. Focus Blast breaks through bulkier Steel- and Normal-types like
+
+Heatran
+
+,
+
+Hisuian Goodra
+
+, and
+
+Blissey
+
+. Finally, Make It Rain can provide a powerful tool to break through bulky foes like
+
+Gliscor
+
+and
+
+Alolan Muk
+
+. Alternatively, Thunderbolt can handle Water-types such as
+
+Primarina
+
+and
+
+Alomomola
+
+, while Recover enables Gholdengo to easily set up on threats like Archaludon and
+
+Toxapex
+
+. Air Balloon enables Gholdengo safe entry against Ground-types like
+
+Clodsire
+
+and
+
+Hippowdon
+
+, which struggle to touch it otherwise.
+
+Skarmory
+
+compliments Gholdengo incredibly well thanks to its Ground immunity and immense physical bulk, enabling it to take on threats such as
+
+Excadrill
+
+,
+
+Hisuian Samurott
+
+, and
+
+Meowscarada
+
+. It can set Spikes to wear down checks to Gholdengo such as
+
+Flutter Mane
+
+and
+
+Greninja
+
+while appreciating the combination of Gholdengo's Good as Gold to block Defog and Ghost typing to block Rapid Spin, preventing entry hazards from being removed. Heatran completes Steel's immunity core, being a great check to Fire-types like
+
+Iron Moth
+
+and
+
+Volcarona
+
+. Choice Scarf Archaludon can use Draco Meteor to check
+
+Dragapult
+
+and
+
+Garchomp
+
+along with using Thunderbolt to handle Water-types Gholdengo struggles to check like
+
+Urshifu-R
+
+and Choice Specs Greninja.
+
+Iron Treads
+
+provides an Electric immunity so it can handle
+
+Raging Bolt
+
+and
+
+Sandy Shocks
+
+, while its Ice Spinner can deal with the
+
+Landorus
+
+formes and Gliscor for Gholdengo. Hisuian Goodra can take on special attackers that can threaten to overwhelm Gholdengo such as
+
+Spectrier
+
+,
+
+Darkrai
+
+, and
+
+Terapagos
+
+.
+
+Bisharp
+
+and
+
+Scizor
+
+can use their priority moves to take down faster threats such as Choice Scarf
+
+Hoopa-U
+
+,
+
+Tornadus-T
+
+, and Flutter Mane.
+
+Gholdengo is a good Choice Scarf user on Steel teams due to its decent Speed, great Special Attack, and ability to take out
+
+Iron Valiant
+
+and
+
+Flutter Mane
+
+. Make It Rain is Gholdengo's strongest STAB move and can take out
+
+Mamoswine
+
+and Choice Specs
+
+Hisuian Zoroark
+
+. Shadow Ball threatens Ghost-types like Choice Specs
+
+Dragapult
+
+and
+
+Spectrier
+
+, whereas Trick allows it to Choice lock walls like
+
+Empoleon
+
+,
+
+Hisuian Goodra
+
+, and
+
+Corviknight
+
+. Focus Blast helps against Steel-, Dark-, and Normal-types like non-Choice Scarf
+
+Iron Treads
+
+, Choice Specs
+
+Greninja
+
+, and
+
+Ursaluna
+
+.
+
+Skarmory
+
+is a great wall to pair with Gholdengo, since it can set entry hazards with Spikes and check physical threats like
+
+Excadrill
+
+,
+
+Meowscarada
+
+, and
+
+Hisuian Samurott
+
+with Body Press. Skarmory also provides a useful immunity to Ground-type attacks, which works well with Gholdengo because it attracts many revenge killers that run Ground-type coverage. Skarmory also appreciates Gholdengo's ability to absorb status moves like Taunt and Thunder Wave with Good as Gold. Hisuian Goodra is a great special wall that is able to tank hits from Choice Specs users like
+
+Zapdos
+
+and Greninja, which Gholdengo appreciates. In return, Gholdengo takes out mixed attacker Iron Valiant for Hisuian Goodra.
+
+Heatran
+
+is essential for Steel teams due to its Fire immunity and is able to take out threats like
+
+Iron Moth
+
+and
+
+Volcarona
+
+with its powerful coverage. Heatran can also provide support with Stealth Rock to break
+
+Ceruledge
+
+'s Focus Sash, which allows Gholdengo to remove it with ease. Iron Treads helps against opposing Steel and Fire teams by dealing with Hisuian Goodra,
+
+Ninetales
+
+, and
+
+Hisuian Arcanine
+
+. Iron Treads also provides support with Rapid Spin and removes
+
+Landorus
+
+with Ice Spinner.
+
+Archaludon
+
+is a strong wall that can use Thunder Wave to paralyze Pokemon that threaten Gholdengo like the
+
+Ogerpon
+
+formes, Choice Scarf
+
+Roaring Moon
+
+, and
+
+Dragonite
+
+. After using Swords Dance,
+
+Scizor
+
+takes out Belly Drum
+
+Azumarill
+
+and Ursaluna with Bullet Punch and Close Combat, respectively.
+
+Bisharp
+
+also pairs well with Gholdengo, as it can use Swords Dance to take out checks to Gholdengo like Assault Vest
+
+Gallade
+
+and
+
+Hoopa-U
+
+. Both Scizor and Bisharp utilize Gholdengo's Trick to set up on Choice-locked Pokemon. All of Gholdengo's teammates appreciate its Fighting immunity and ability to take out the aforementioned Iron Valiant and Mamoswine.
+
+Thunder Wave Gholdengo is an incredibly disruptive support Pokemon thanks to its phenomenal typing, ability, and array of utility moves. Thunder Wave can cripple Pokemon that would otherwise give Steel teams a very hard time, such as
+
+Keldeo
+
+and
+
+Primarina
+
+. Hex 2HKOes paralyzed foes like physically defensive
+
+Corviknight
+
+, Keldeo, and Assault Vest
+
+Gallade
+
+. Make It Rain allows Gholdengo to apply immediate pressure on targets such as
+
+Hatterene
+
+,
+
+Kyurem
+
+, and
+
+Garganacl
+
+. The given EV spread allows Gholdengo to outspeed Adamant
+
+Scizor
+
+, 2HKO Assault Vest
+
+Tornadus-T
+
+, and survive a Choice Scarf
+
+Flutter Mane
+
+'s Shadow Ball.
+
+Skarmory
+
+is an excellent teammate for Gholdengo, as it can switch into Ground-type attacks from Pokemon such as
+
+Mamoswine
+
+and
+
+Excadrill
+
+as well as a myriad of physical attacks from Pokemon such as
+
+Roaring Moon
+
+and
+
+Hisuian Samurott
+
+. In return, Gholdengo can make sure that Skarmory's entry hazards stay on the field thanks to its hazard removal immunity.
+
+Hisuian Goodra
+
+can switch into strong special attacks from Pokemon such as Flutter Mane and
+
+Darkrai
+
+. In return, Gholdengo can switch into Fighting-type attacks from Pokemon such as Skarmory and
+
+Sneasler
+
+that would otherwise make quick work of Hisuian Goodra. Air Balloon
+
+Heatran
+
+is able to switch into Fire- and Ground-type attacks from Pokemon such as
+
+Ceruledge
+
+,
+
+Volcarona
+
+, and opposing Heatran. Gholdengo's speed control via Thunder Wave allows Heatran to have an easier time in an offensive role, as it outspeeds Pokemon such as Kyurem and
+
+Latios
+
+while they are paralyzed.
+
+Archaludon
+
+can tank physical attacks from foes such as the
+
+Ogerpon
+
+formes,
+
+Meowscarada
+
+, and
+
+Bisharp
+
+. Archaludon can also apply pressure to Dark- and Dragon-types via Body Press and Draco Meteor.
+
+Iron Treads
+
+can use its solid Speed stat to threaten Fire-types and special walls that Gholdengo cannot break through, such as
+
+Clodsire
+
+,
+
+Alolan Muk
+
+, and Hisuian Goodra. Gholdengo can utilize Good as Gold to switch into moves such as Will-O-Wisp and Defog, allowing Iron Treads to have an easier time serving as a wallbreaker. Scizor is a phenomenal wallbreaker that can help Gholdengo deal with some of its best counters in
+
+Ting-Lu
+
+and Flutter Mane. In return, Gholdengo can switch into strong physical walls that Scizor cannot beat, such as
+
+Dondozo
+
+.
+
+Nasty Plot Gholdengo is a bulky setup sweeper for Ghost teams, leveraging its stellar typing and fantastic stats to break down walls such as
+
+Articuno
+
+,
+
+Hisuian Goodra
+
+lacking Flamethrower, and
+
+Corviknight
+
+, which Ghost teams struggle with. Its ability, Good as Gold blocks status moves such as Encore from
+
+Sableye
+
+and phazing from
+
+Empoleon
+
+, heavily aiding Gholdengo as a setup sweeper. Make It Rain's extra power makes it a notable option over Flash Cannon, as it OHKOes
+
+Ursaluna
+
+after minor chip and Articuno at +2 and will always OHKO
+
+Flutter Mane
+
+. However, it can be stalled out by Pressure, and the Special Attack drop can provide setup opportunities for enemies such as
+
+Azumarill
+
+and
+
+Gliscor
+
+. Alternatively, Flash Cannon provides a less strong but more reliable STAB move that is extremely helpful in the Fairy and Ice matchup. 104 Speed EVs let Gholdengo outspeed threats like Adamant
+
+Scizor
+
+and Jolly Azumarill and most walls, including uninvested Gliscor and Articuno. A Bold nature prevents
+
+Alolan Muk
+
+from 2HKOing Gholdengo before the Air Balloon breaks, while a Modest nature provides Gholdengo with more favorable damage calculations, namely giving it a chance to OHKO Gliscor and
+
+Galarian Moltres
+
+with +2 Make It Rain and Scizor with a boosted Shadow Ball and knocking out Alolan Muk over two turns with Make It Rain after a Nasty Plot. An Air Balloon lets Gholdengo provide a unique defensive niche, walling out a lot of Ground-types like Gliscor variants with no attacking moves besides Earthquake,
+
+Landorus
+
+, and
+
+Quagsire
+
+as long as it isn't popped, protecting Gholdengo from Poltergeist users such as
+
+Brambleghast
+
+once the item is popped, and also making it a generally safe switch-in to block Mortal Spin from Earth Power
+
+Glimmora
+
+.
+
+Flutter Mane and Nasty Plot
+
+Spectrier
+
+appreciate Gholdengo's wallbreaking ability to remove roadblocks like Gliscor,
+
+Clodsire
+
+, and Articuno. In return, Gholdengo is able to take a hit from
+
+Weavile
+
+and OHKO it back for its teammates. In return, Flutter Mane and Spectrier both act as cleaners and deal with faster-paced matchups like Fighting and Ghost for Gholdengo. Both are also able to remove Dark-types like
+
+Greninja
+
+, while Spectrier can lure and incapacitate Dark-types like
+
+Roaring Moon
+
+if using a Colbur Berry. Flutter Mane can also don a Choice Scarf, to deal with
+
+Dragapult
+
+and
+
+Meowscarada
+
+. Gholdengo's vulnerability to Water- and Fire-type coverage is notable, so teammates like
+
+Sinistcha
+
+to readily deal with
+
+Dondozo
+
+and
+
+Skeledirge
+
+to take on
+
+Gastrodon
+
+and
+
+Volcarona
+
+benefit Gholdengo. Skeledirge, especially with Earth Power, puts in work in the Steel and Fire matchup, while Sinistcha helps in the Ground matchup, which Gholdengo does not fare well against. Both also have the ability to inflict burn on key walls like Alolan Muk, Clodsire, and
+
+Iron Hands
+
+, making it easier for Gholdengo to set up.
+
+Ceruledge
+
+is an exceptional teammate, as it deals with Gholdengo's nemesis,
+
+Heatran
+
+, and also put in work on matchups like Steel and Fire. Spikes support from
+
+Froslass
+
+and Brambleghast is also great, as this synergizes with Gholdengo's ability to block Defog; Froslass also is fast enough to deal with Landorus, while Brambleghast's entry hazard removal is rare on Ghost and is appreciated once Gholdengo's Air Balloon gets popped. Dragapult's great Speed tier enables it to fend off Choice Specs Flutter Mane or Choice Scarf Roaring Moon when equipped with a Choice Specs or Choice Scarf of its own, and it can pivot Gholdengo in against walls like Clodsire with U-turn, as well as burn Alolan Muk, Iron Hands, and
+
+Ting-Lu
+
+for it. Dragapult can also run a Choice Band set, allowing it to 2HKO Alolan Muk as well as take out opposing Ghost-types with Sucker Punch, or even a Dragon Dance set to threaten walls such as Clodsire that bother Gholdengo. Choice Scarf
+
+Hisuian Zoroark
+
+takes advantage of Gholdengo's Speed tier and typing with Illusion, luring and removing threats like
+
+Hisuian Samurott
+
+while also being able to eliminate
+
+Hoopa-U
+
+with U-turn. It is also able to lure in and heavily damage Ghost-types like Flutter Mane, Dragapult, and Spectrier, which use their Ghost-type coverage to defeat Gholdengo.
+
+Mimikyu
+
+can serve as a check to threats like Hoopa-U and
+
+Hydreigon
+
+as well as a one-time answer to
+
+Darkrai
+
+, Greninja, and Roaring Moon using Disguise. In return Gholdengo takes on Corviknight, Iron Defense
+
+Iron Treads
+
+, and
+
+Galarian Weezing
+
+.
+
+Choice Scarf Gholdengo's ability to revenge kill threats such as
+
+Flutter Mane
+
+and
+
+Dragapult
+
+, come into status-spreading Pokemon such as
+
+Klefki
+
+and
+
+Breloom
+
+due to Good as Gold, and inconvenience bulkier teams by preventing all forms of entry hazard removal with its ability and typing make it a prime pick for Ghost teams. Make It Rain greatly weakens Dark- and Normal-types such as
+
+Hydreigon
+
+and
+
+Indeedee
+
+, and it OHKOes Flutter Mane and
+
+Iron Valiant
+
+. Shadow Ball lets Gholdengo clean types such as Psychic and Ghost late-game. Trick neutralizes defensive pivots such as
+
+Corviknight
+
+,
+
+Ting-Lu
+
+, and
+
+Clodsire
+
+, which typically switch into it. The last move of choice is dependent on what the Ghost team lacks; Focus Blast gives the team another way to defeat Choice Specs
+
+Greninja
+
+, Thunderbolt cleans Water- and Flying-teams, or Nasty Plot which turns Gholdengo into a massive threat against bulkier teams especially after their main specially defensive wall has been given a Choice Scarf with Trick.
+
+As Gholdengo provides the needed revenge killing capabilities on Ghost teams, teammates such as Flutter Mane and Dragapult are free to run sets like Choice Specs and Dragon Dance, respectively. Both also break down walls such as Clodsire and
+
+Gastrodon
+
+; in return, Gholdengo deals with opposing Dragapult and Choice Scarf
+
+Gallade
+
+.
+
+Skeledirge
+
+walls most physical attackers and Fire-types such as
+
+Scovillain
+
+and
+
+Volcarona
+
+.
+
+Mimikyu
+
+provides a safety net against offensive types like rain Water and Ghost, checking
+
+Barraskewda
+
+and Choice Scarf Flutter Mane for the team, and it loves Gholdengo shutting down defensive walls such as
+
+Toxapex
+
+with Trick. Entry hazard setters in
+
+Brambleghast
+
+and
+
+Froslass
+
+are is also greatly appreciated, as they can set, remove, or prevent entry hazards for Gholdengo; in return, Gholdengo prevents their entry hazards from getting removed by
+
+Glimmora
+
+. Brambleghast also switches into Ground-types such as Ting-Lu and
+
+Great Tusk
+
+and deals with Water-types like Gastrodon and
+
+Dondozo
+
+, while Froslass can spread paralysis with Thunder Wave and bring down an opposing Pokemon with its Destiny Bond.
+
+Other Options
+
+Ghost
+
+Gholdengo's flexible statline gives it the ability to deal with a lot of other threats if it wishes to. For instance, 224 Speed EVs can be invested to outrun Adamant Choice Band
+
+Mamoswine
+
+, which Ghost teams don't have a defensive answer to. A spread of 252 HP / 108 Def / 84 SpD / 64 Spe with either of the prescribed natures lets Gholdengo survive a hit from Expert Belt
+
+Flutter Mane
+
+and OHKO back while still being able to outspeed Jolly
+
+Azumarill
+
+. Hex in conjunction with Thunder Wave is decent in supporting team mates, notably outright OHKOing
+
+Gliscor
+
+at +2 if running a Modest nature. However, Steel-type coverage is usually more useful, and Ghost has no shortage of Pokemon that inflict status. Focus Blast is also notable, as Gholdengo is not OHKOed by
+
+Bisharp
+
+and OHKOes it back with that move. However, this move has low PP and has a big chance to miss. Rocky Helmet is great to wear down and punish physical attackers like
+
+Urshifu-R
+
+and
+
+Iron Hands
+
+, but the Ground immunity of Air Balloon is almost too good to pass up on.
+
+Steel
+
+Thunderbolt can be run over Trick to hurt
+
+Barraskewda
+
+and Urshifu-R, but doing so would prevent Gholdengo from Choice-locking walls with Trick.
+Recover lets Gholdengo maintain health after giving a foe its Choice Scarf with Trick, but it is hard to fit since using Trick is an uncommon scenario to begin with. Psyshock allows Gholdengo to take on
+
+Iron Moth
+
+and
+
+Keldeo
+
+, which can be problematic for Steel teams.
+
+Nasty Plot allows Gholdengo to become a potent wincon, capable of cleaning up weakened teams with its powerful spread damage. Its good defensive typing and incredible ability in Good as Gold give it plenty of opportunities to set up in front of common Pokemon such as
+
+Rillaboom
+
+,
+
+Tornadus
+
+,
+
+Whimsicott
+
+, and
+
+Amoonguss
+
+, since it resists all of their STAB moves and is not affected by Fake Out, Taunt, Encore, or Spore.
+
+Make It Rain becomes incredibly powerful when boosted by Nasty Plot and can severely damage anything that doesn't resist it. However, it drops Gholdengo's Special Attack after being used and is resisted by several common Pokemon, such as
+
+Incineroar
+
+and
+
+Iron Hands
+
+, meaning that it can't be freely used repeatedly, as opponents can play around Make It Rain until Gholdengo runs out of steam. This makes Make It Rain most effective when used against weakened teams that have their switch-in options limited, or in positions where the opponent is unable to protect their neutral targets from it.
+
+Shadow Ball gives Gholdengo an option against Steel-resistant Pokemon such as Iron Hands,
+
+Raging Bolt
+
+, and
+
+Ogerpon
+
+'s Wellspring and Hearthflame Formes, allowing it to preserve its Nasty Plot boost and still maintain offensive pressure. Dazzling Gleam, in combination with Tera Fairy, is able to completely flip the script on Iron Hands and provide a neutral damage option against Incineroar and Swords Dance
+
+Kingambit
+
+.
+
+The given EV spread guarantees Gholdengo will survive a Sucker Punch from full from Adamant
+
+Chien-Pao
+
+while also allowing it to outspeed Modest Choice Scarf
+
+Chi-Yu
+
+when in Tailwind. Gholdengo's longevity can be increased with Leftovers, which becomes especially impactful when paired with Rillaboom's Grassy Terrain, doubling the amount of passive recovery received per turn. Alternatively, Metal Coat turns Make It Rain into even more of a nuke, which is useful on teams focused more around immediate offensive power.
+
+Tera Dragon grants Gholdengo crucial resistances to Fire and Water while maintaining its resistance to Grass, allowing it to resist all the STAB moves of both
+
+Ogerpon-W
+
+and
+
+Ogerpon-H
+
+. However, the gained weaknesses to Dragon, Ice, and Fairy leave it in a precarious spot against strong Dragon-types such as
+
+Regidrago
+
+and Raging Bolt while also making it vulnerable to foes it can normally beat such as Chien-Pao,
+
+Kyurem
+
+, and Whimsicott. Alternatively, Tera Fairy provides Gholdengo with a useful resistance to Dark and serves as a generally good defensive typing. Lastly, Tera Steel can be used to further strengthen Make It Rain while also dropping Gholdengo's weakness to Dark. The loss of Gholdengo's Ghost typing should always be kept in mind when considering whether to Terastallize it, as becoming vulnerable to Fake Out can severely hinder it in certain matchups.
+
+Incineroar and Kingambit are bulky foes that resist both of Gholdengo's STAB moves and threaten it back with super effective moves, so it appreciates teammates that can deal with these threats such as
+
+Landorus
+
+and Iron Hands. Speed control is very important for Gholdengo, as it prefers to move first despite its mediocre Speed tier teammates that provide Tailwind support such as Tornadus and Whimsicott make for natural partners. Teammates that provide redirection support, such as Ogerpon-W,
+
+Indeedee-F
+
+, and Amoonguss are also useful, as they can provide Gholdengo with free turns to set up and increase its longevity by keeping it safe. The same applies to Pokemon that can provide Fake Out support such as Rillaboom and Incineroar.
+
+Choice Specs Gholdengo provides more immediate offense compared to Nasty Plot variants. Choice Specs-boosted Tera Steel Make It Rain can quickly overwhelm the opposing team, leaving the opponent scrambling to bring in their few Steel-resistant Pokemon. Shadow Ball acts as the secondary STAB move, hitting key targets such as
+
+Archaludon
+
+and opposing Gholdengo.
+
+Power Gem and Focus Blast provide answers to some of the common foes that resist Gholdengo's STAB coverage. Both moves hit
+
+Incineroar
+
+and
+
+Chi-Yu
+
+super effectively, while Focus Blast specifically lets it threaten
+
+Kingambit
+
+. Power Gem is usually the preferred option because of its consistency. Trick is able to severely disrupt the opponent's support or setup-oriented Pokemon such as
+
+Amoonguss
+
+. Trick can also be utilized against Sucker Punch users, causing their attack to fail and locking them down with a Choice item.
+
+Tera Steel is the Tera type of choice to push Make It Rain's damage even further. It also provides defensive benefits in removing Gholdengo's weakness to Ghost- and Dark-type attacks, notably opposing Gholdengo's Shadow Ball and the Sucker Punches coming from
+
+Chien-Pao
+
+and Kingambit.
+
+The EV spread maximizes Gholdengo’s Special Attack to focus on heavy damage output. The HP and Defense investment allow it to survive Jolly Chien-Pao's Sucker Punch without the need to Terastallize defensively. The Speed makes Gholdengo faster than Booster Energy
+
+Gouging Fire
+
+and Modest Choice Scarf Chi-Yu under Tailwind.
+
+Good as Gold allows Gholdengo to switch in against status-reliant Pokemon almost completely unthreatened by them. This most notably includes Amoonguss, as its presence in the metagame often demands teams to have Spore-immune answers.
+
+Gholdengo's Speed leaves it outpaced by many of the metagame's major threats, such as
+
+Landorus
+
+and
+
+Ogerpon-H
+
+; because of this, it is very frequently paired with Tailwind users to support it.
+
+Tornadus
+
+and
+
+Whimsicott
+
+both have the Prankster ability that make them particularly ideal in this role.
+
+Pokemon that can assist Gholdengo in breaking down the tougher Steel-resistant Pokemon are helpful. For instance, Landorus is particularly effective at taking down the Fire-, Electric-, and Steel-types with its powerful Ground-type STAB moves.
+
+Ogerpon-W
+
+is another strong partner for Gholdengo, offering Follow Me for redirection support in addition to being able to offensively threaten Landorus and many Fire- and Water-types.
+
+Rillaboom
+
+is also a fantastic partner, as it's efficient in removing Water-types. In addition, it's effective at luring in the Fire- and Steel-types that resist its Terrain-boosted Grass-type moves, wearing them down for Gholdengo to break through. Further still, Rillaboom is an effective pivot that can help secure Gholdengo's safe entrance onto the field.
+
+This Pokemon has been updated to reflect Regulation H, that lasts until January 5h, 2025. After this, Regulation G will return.
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+With Trick and an immunity to status moves, Gholdengo is a dangerous Choice item attacker for offensive and stall teams alike!
+
+Nasty Plot
+
+: This can be used to give Gholdengo more bite against defensive, slower teams after using Trick.
+
+Thunderbolt
+
+: Thunderbolt OHKOes
+
+Pelipper
+
+and matches Make It Rain for damage against
+
+Primarina
+
+. It also stops Tera Water
+
+Garganacl
+
+from walling Gholdengo. It does make Gholdengo very vulnerable to Ground-types like
+
+Ursaluna-B
+
+and
+
+Garchomp
+
+though.
+
+Focus Blast
+
+: Focus Blast slices through
+
+Kingambit
+
+, who otherwise walls Gholdengo, but the accuracy can be a big issue in close matches.
+
+Other Options
+
+Power Gem
+
+: Power Gem severly punishes
+
+Volcarona
+
+switch-ins, who otherwise can be very difficult to deal with. Otherwise, most Pokemon weak to Rock-type attacks will take more damage from Make It Rain.
+
+Dazzling Gleam
+
+: Dazzling Gleam can be paired with Tera Fairy to crush
+
+Hydreigon
+
+, though Make It Rain deals more damage to most other Dragon-type targets like
+
+Dragonite
+
+and Garchomp.
+
+Items
+
+Choice Scarf
+
+: With this, Gholdengo outspeeds key threats such as Garchomp,
+
+Dragapult
+
+, and Hydreigon. It also outspeeds
+
+Meowscarada
+
+, but beware of Sucker Punch.
+
+Choice Specs
+
+: Choice Specs make Gholdengo much more difficult to wall, with Assault Vest Ursaluna-B in particular being much easier to break through.
+
+EV Spreads
+
+4 HP / 252 SpA / 252 Spe with Timid or Modest
+
+: Gholdengo mirror matches are common enough that maximizing Speed is usually a wise idea. Choice Scarf Gholdengo particularly needs Timid to outspeed Dragapult. If using Choice Specs, Modest becomes easier to justify for cracking through Ursaluna-B more reliably.
+
+172 HP / 252 SpA / 84 Spe with Modest
+
+: This spread focuses on outspeeding Timid Ursaluna-B, Jolly
+
+Ursaluna
+
+, and Jolly Kingambit, all of whom are uncommon but very deadly to Gholdengo.
+
+212 HP / 236 Def / 52 SpA / 4 SpD / 4 Spe with Modest
+
+: This bulky Choice Specs spread survives Dragonite's +1 Earthquake, while outspeeding maximum Speed Modest Ursaluna-B.
+
+244 HP / 4 Def / 12 SpA / 244 SpD / 4 Spe with Modest
+
+: This extremely bulky spread allows Tera Flying Choice Speccs Gholdengo to survive Tera Normal Ursaluna-B's Blood Moon followed by Vacuum Wave.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: While Choice Gholdengo is perfectly functional without Terastallizing, it's particularly vulnerable to common Pokemon that Terastallization can solve such as Hydreigon, Garchomp, and Ursaluna-B.
+
+Flying
+
+: With a Flying Tera type, Gholdengo gains an extremely useful immunity to Ground, which is especially useful on Choice Specs sets against Ursaluna-B and Garchomp.
+
+Water
+
+: This Tera type gives Gholdengo a valuable resistance to Fire and Water, massively improving the matchup against Primarina and Volcarona.
+
+Steel
+
+: Make It Rain becomes very powerful with a Tera boost, giving Choice Specs the chance to OHKO several Ursaluna-B variants in particular.
+
+Fighting
+
+: Tera Fighting saves Gholdengo from Kingambit's Sucker Punch, and can be paired with Tera Blast for a far more reliable Fighting-type attack than Focus Blast.
+
+Normal
+
+: A Normal Tera type gives Gholdengo the edge against opposing Ghost-types, potentially flipping the table against hard to check sets like Trick
+
+Mimikyu
+
+.
+
+Minor Optimizations
+
+Neutral Nature and Nature Mints
+
+: Use a neutral nature Gholdengo that has a Timid or Modest Mint used on it. This way, Gholdengo can eat any Berry without being confused after Trick.
+
+Nasty Plot makes Gholdengo a terror against slower teams, especially with its good bulk, unpredictable coverage, and diverse Tera Types.
+
+Substitute
+
+: Substitute lets Gholdengo avoid residual damage from
+
+Garganacl
+
+'s Salt Cure and eases prediction in general.
+
+Focus Blast
+
+: Despite its reliability issues, Focus Blast OHKOes
+
+Kingambit
+
+, who otherwise is a great check against Gholdengo, in addition to ripping through
+
+Ursaluna-B
+
+switch-ins.
+
+Other Options
+
+Psyshock
+
+: Psyshock lets Gholdengo break through
+
+Clodsire
+
+more easily as well as OHKOing
+
+Sneasler
+
+without a boost. It often isn't particularly useful outside of stall match-ups though.
+
+Items
+
+Covert Cloak
+
+: Covert Cloak prevents Salt Cure from chipping down Gholdengo, making it far easier for it to run Recover against Garganacl.
+
+Leftovers
+
+: This is the most reliable option for keeping Gholdengo healthy and pairs especially well with Substitute.
+
+Air Balloon
+
+: Air Balloon prevents
+
+Dragonite
+
+and Ursaluna-B from hitting Gholdengo particularly hard until its popped. It also ruins
+
+Breloom
+
+'s chances of winning the lead war against Gholdengo and makes
+
+Hippowdon
+
+easy set-up bait.
+
+EV Spreads
+
+156 HP / 124 SpA / 228 Spe with Modest
+
+: This spread outspeeds Adamant Dragonite, while having the same Special Attack stat as a fully invested Timid Gholdengo to disguise itself as the Choice Scarf set.
+
+84 HP / 252 SpA / 172 Spe with Timid
+
+: This outspeeds up to Modest
+
+Archaludon
+
+and Jolly Dragonite, two foes that otherwise can revenge kill Gholdengo.
+
+212 HP / 236 Def / 52 SpA / 4 SpD / 4 Spe with Modest
+
+: This physically bulky spread survives Dragonite's boosted Earthquake, which can be particularly helpful from stopping a Choice Band Dragonite revenge kill.
+
+4 HP / 252 SpA / 252 Spe with Timid
+
+: Maximizing Speed is useful on more offensive sets to at least speedtie with opposing Gholdengo, and outspeeding several threats close to this Speed tier, such as Dragonite.
+
+244 HP / 4 Def / 12 SpA / 244 SpD / 4 Spe with Modest
+
+: Focusing on special bulk allows Tera Flying Gholdengo to survive Tera Normal
+
+Ursaluna
+
+'s Blood Moon followed by Focus Blast.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Gholdengo may have a great typing, but common Pokemon such as
+
+Garchomp
+
+,
+
+Hydreigon
+
+, and
+
+Meowscarada
+
+will usually revenge kill it without Terastallization.
+
+Flying
+
+: Flying Gholdengo gets the jump on dangerous offensive Ground-types like Ursaluna-B and Garchomp, as well as Pokemon that use Ground-type coverage like Dragonite.
+
+Water
+
+: With this Tera type and Tera Blast, Gholdengo can severely punish
+
+Volcarona
+
+, who otherwise is very dangerous to this set.
+
+Fighting
+
+: Tera Fighting is a good stop to Dark-types such as Kingambit, as well as making Tera Blast into a far more reliable alternative to Focus Blast.
+
+Fairy
+
+: Tera Fairy stops defensive Archaludon from being able to phaze Gholdengo at all, in addition to saving it from Dark-type attacks. This comes at the cost of losing the mirror match up though, as well as being easily revenge killed by offensive Archaludon.
+
+Normal
+
+: While it's a much worse defensive typing, Tera Normal does let Gholdengo surprise faster Ghost-types like
+
+Mimikyu
+
+and opposing Gholdengo, at the cost of being revenge killed by Annihilepe and faster
+
+Gallade
+
+.
+
+While Gholdengo's defensive stats aren't remarkable, it's fantastic typing and immunity to status moves like Taunt make it a great defensive Pokemon, and a horrifically effective spreader of paralysis!
+
+Hex versus Shadow Ball
+
+: Hex gives this Gholdengo a good offensive kick against paralyzed foes, but Shadow Ball is worth considering for its consistency.
+
+Make It Rain versus Focus Blast
+
+: Make It Rain is Gholdengo's most consistent way of dealing damage to
+
+Garganacl
+
+, but this set's defensive nature makes it difficult to win the one-on-one. Focus Blast isn't nearly as reliable, but it's Gholdengo's best shot at making it past
+
+Kingambit
+
+.
+
+Items
+
+Rocky Helmet
+
+: Rocky Helmet takes advantage of Gholdengo's excellent typing against physical moves, making it a good way to punish contact moves such as Outrage from
+
+Dragonite
+
+.
+
+Covert Cloak
+
+: This is Gholdengo's best shot of outstalling Garganacl, since it grants an immunity to Salt Cure's effect.
+
+Leftovers
+
+: Leftovers is at its best with specially defensive Gholdengo, letting it withstand
+
+Ursaluna-B
+
+'s Earth Power followed by Vacuum Wave without requiring Terastallization.
+
+Weakness Policy
+
+: While this might seem strange on a defensive Pokemon, Weakness Policy lets Gholdengo beat opposing Gholdengo as long as they lack Choice Specs.
+
+EV Spreads
+
+252 HP / 220 Def / 20 Spe with Bold
+
+: The given EV spread will outspeed up to paralyzed
+
+Dragapult
+
+and paralyzed +1 Speed Jolly Dragonite.
+
+252 HP / 252 SpD / 4 Spe with Calm
+
+: This offers Gholdengo the best shot of surviving Ursaluna-B's Earth Power followed by Vacuum Wave after Leftovers recovery.
+
+252 HP / 84 Def / 172 Spe with Bold
+
+: The Speed investment allows Gholdengo to outspeed Choice Scarf
+
+Hydreigon
+
+and Speed-boosted
+
+Volcarona
+
+with the magic of paralysis.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Despite Gholdengo's fantastic typing, foes like
+
+Garchomp
+
+and Hydreigon are easily able to break through any Gholdengo that doesn't Terastallize.
+
+Flying
+
+: Avoiding Earthquake against foes like Garchomp makes Tera Flying extremely useful for Gholdengo; this also gives it protection against Fissure from the likes of
+
+Dondozo
+
+and Garganacl.
+
+Water
+
+: Tera Water is the best Fire-type resistant Tera type for Gholdengo, letting it potentially survive an assault from Volcarona and Choice Specs
+
+Primarina
+
+, though its coverage moves can still seriously damage Gholdengo.
+
+Fighting
+
+: Tera Fighting flips the tables on Kingambit, who otherwise only fears full paralysis, while turning Tera Blast into reliable Fighting-type coverage. It's also useful against
+
+Meowscarada
+
+, though its coverage moves can still deal serious damage to Gholdengo.
+
+Speed EV Benchmarks
+
+4 Spe
+
+: This outspeeds maximum Speed Modest
+
+Ursaluna-B
+
+.
+
+68 Spe
+
+: This outspeeds Jolly
+
+Ursaluna
+
+and Jolly
+
+Kingambit
+
+.
+
+84 Spe
+
+: This outspeeds Timid Ursaluna-B.
+
+148 Spe
+
+: This outspeeds Adamant
+
+Breloom
+
+.
+
+164 Spe
+
+: This outspeeds Jolly
+
+Tyranitar
+
+.
+
+228 Spe
+
+: This outspeeds Adamant
+
+Dragonite
+
+.
+
+244 Spe
+
+: This outspeeds Jolly Breloom.
+
+188+ Spe
+
+: This outspeeds Adamant
+
+Baxcalibur
+
+.
+
+220+ Spe
+
+: This outspeeds Jolly Dragonite.
+
+228+ Spe
+
+: This outspeeds maximum Speed Modest
+
+Archaludon
+
+.
+
+Paralysis EV Benchmarks
+
+20 Spe
+
+: This outspeeds paralyzed +Speed
+
+Dragapult
+
+.
+
+28 Spe
+
+: This outspeeds paralyzed Choice Scarf
+
+Basculegion
+
+.
+
+36 Spe
+
+: This outspeeds paralyzed +1 Speed Jolly Dragonite and paralyzed Choice Scarf
+
+Gallade
+
+.
+
+84 Spe
+
+: This outspeeds paralyzed +1 Speed Jolly Baxcalibur.
+
+108 Spe
+
+: This outspeeds paralyzed Choice Scarf
+
+Annihilape
+
+.
+
+140 Spe
+
+: This outspeeds paralyzed Choice Scarf
+
+Mimikyu
+
+156 Spe
+
+: This outspeeds paralyzed Choice Scarf
+
+Hydreigon
+
+.
+
+172 Spe
+
+: This outspeeds paralyzed +1 Speed
+
+Volcarona
+
+.
+
+220+ Spe
+
+: This outspeeds paralyzed Choice Scarf
+
+Meowscarada
+
+.
+
+Gholdengo has solid stats all around, most notably a high Special Attack stat, as well as an amazing typing. This means it can be used as a setup sweeper with Nasty Plot. A well-positioned Gholdengo can beat
+
+Flutter Mane
+
+,
+
+Latias
+
+,
+
+Tornadus
+
+, and
+
+Iron Crown
+
+.
+
+Gholdengo appreciates Pokemon that help it set up, so good partners are redirectors like
+
+Amoonguss
+
+and
+
+Ogerpon
+
+, Fake Out users like
+
+Rillaboom
+
+and
+
+Incineroar
+
+, and Pokemon with Intimidate like
+
+Landorus-T
+
+and Incineroar, which all create free turns and increase Gholdengo's longevity.
+
+Tornadus is a great partner for Gholdengo, providing speed control to better answer faster threats like Flutter Mane.
+
+Urshifu-R
+
+and
+
+Landorus
+
+are also pair well with it, since they can threaten Pokemon that resist Make It Rain like Incineroar.
+
+Gholdengo loves to Terastalize to deal with common threats like Landorus, Incineroar, Flutter Mane, and
+
+Chien-Pao
+
+which all threaten to OHKO it otherwise. This gives Gholdengo free turns to set up Nasty Plot.
+
+Make It Rain is used for powerful STAB damage, and Shadow Ball is used as Gholdengo's Ghost-type STAB move.
+
+The main item used is Leftovers so Gholdengo can stay on the field for longer. Gholdengo can also opt for Metal Coat to OHKO
+
+Flutter Mane
+
+, in sacrifice of longevity.
+
+The bulk investment allows Gholdengo to almost always survive a Mystic Water Tera Water-boosted Surging Strikes from
+
+Urshifu-R
+
+and two Magnet-boosted Thunderclaps from
+
+Raging Bolt
+
+.
+
+Gholdengo prefers Tera Fairy, but occasionally runs either Tera Steel or Dragon. Fairy allows Gholdengo to resist
+
+Urshifu-S
+
+'s STAB moves and is a great defensive typing, bolstered by Gholdengo's original resistances to Steel and Poison. Tera Dragon also has great synergy with Gholdengo's Steel typing, providing welcome resistances to
+
+Ogerpon-W
+
+'s STAB attacks. Tera Steel greatly increases Gholdengo's damage output and OHKOes Flutter Mane and the majority of Terastallized Pokemon, such as Tera Fairy Raging Bolt,
+
+Kingambit
+
+, and
+
+Gouging Fire
+
+.
+
+Gholdengo leverages its high Special Attack stat in tandem with Choice Specs to deal devastating damage and tear through many teams.
+
+Dazzling Gleam can be used as an alternative option to Make It Rain for spread damage, being more reliable and dealing sizeable damage in tandem with Tera Fairy, notably being able to threaten
+
+Urshifu-R
+
+and
+
+Raging Bolt
+
+with super effective damage. Power Gem can also be utilized to hit Fire-types that otherwise severely threaten it, namely
+
+Incineroar
+
+and
+
+Ogerpon-H
+
+, the former of which resists both of Gholdengo's STAB moves. Trick can be used to cripple bulkier foes, such as Incineroar and
+
+Amoonguss
+
+, by locking them into one move while alleviating the inflexible nature of Choice Scarf.
+
+The first EV spread allows Gholdengo to live a Shadow Ball from Timid
+
+Flutter Mane
+
+or a Flare Blitz from Incineroar while having a high chance to survive Sucker Punch from Adamant
+
+Chien-Pao
+
+. The Special Attack investment with a Modest nature allows Gholdengo to pick up a 2HKO on Raging Bolt with Shadow Ball or Dazzling Gleam while OHKOing bulky Flutter Mane with either STAB move and non-Focus Sash
+
+Urshifu-S
+
+with Make It Rain. The Speed investment allows Gholdengo to outspeed Choice Scarf Urshifu-R and
+
+Chi-Yu
+
+with a neutral nature under Tailwind. The second spread maximizes Gholdengo's Speed and Special Attack with a Timid nature, allowing Gholdengo to outspeed Speed Booster Energy Flutter Mane that have up to 196 Speed EVs under Tailwind as well as speed tying Urshifu-R with an Adamant nature.
+
+Tera Fairy bolsters the damage of Dazzling Gleam, allowing Gholdengo to OHKO Urshifu-R and 2HKO Assault Vest Raging Bolt,
+
+Landorus
+
+, and bulkless
+
+Ogerpon-W
+
+while allowing it to resist Dark-type attacks, notably Chien-Pao's Sucker Punch and Incineroar's Knock Off. Furthermore, it allows Gholdengo to take neutral damage from Fire- and Ground-type moves such as Heat Wave from Chi-Yu and Earth Power from Landorus, though Gholdengo does gain a weakness to Landorus's Sludge Bomb. Tera Steel allows Make It Rain to become extremely strong, notably OHKOing Landorus,
+
+Tornadus
+
+, and
+
+Ursaluna-B
+
+as well as 2HKOing Amoonguss, Urshifu-R, and most
+
+Rillaboom
+
+. It also drops Gholdengo's weakness to Ghost- and Dark-type attacks; however, it provides a weakness to Fighting-type moves such as Close Combat from the Urshifu formes.
+
+Nasty Plot Gholdengo is an amazing setup sweeper thanks to its excellent defensive typing, Make It Rain, and Good as Gold, which gives it an invaluable immunity to Spore from
+
+Amoonguss
+
+and Taunt. Gholdengo has good matchups into common Restricted Pokemon such as
+
+Calyrex-I
+
+and
+
+Zamazenta-C
+
+. Nasty Plot is used to allow Gholdengo to set up and sweep opposing teams. Leftovers gives Gholdengo more longevity, while Metal Coat is used so it can OHKO
+
+Flutter Mane
+
+with unboosted Make It Rain. The Special Attack investment allows Gholdengo to always 2HKO Zamazenta-C with +2 Shadow Ball, while the defensive investment allows Gholdengo to survive Origin Pulse from Mystic Water
+
+Kyogre
+
+and Flare Blitz from
+
+Incineroar
+
+. The Speed investment allows Gholdengo to outspeed
+
+Pelipper
+
+. Tera Normal is used to give Gholdengo an immunity to threatening Ghost-type moves such as Astral Barrage from
+
+Calyrex-S
+
+and Shadow Ball from Flutter Mane, while Tera Water is used because it is a good defensive typing overall while allowing Gholdengo to resist Fire-type attacks.
+
+Common checks to Gholdengo consist of Incineroar,
+
+Chi-Yu
+
+, Assault Vest
+
+Raging Bolt
+
+, and Calyrex-S. Chi-Yu and Calyrex-S outspeed and threaten to OHKO Gholdengo. Assault Vest Raging Bolt easily shrugs off attacks from Gholdengo, while Incineroar walls it and can hit back with super effective Knock Off and Flare Blitz. Common partners for Gholdengo include Amoonguss, Incineroar, and
+
+Ogerpon-C
+
+, which help Gholdengo defensively by aiding in its setup with redirection and Pollen Puff healing as well as Fake Out and Intimidate, respectively.
+
+Urshifu-R
+
+and Pelipper are also great partners, as they can deal with Calyrex-S, Chi-Yu, and Incineroar thanks to Pelipper's combination of Drizzle, Wide Guard, and Weather Ball and Urshifu-R's ability to outspeed and threaten all three of them with Surging Strikes. Calyrex-I and
+
+Koraidon
+
+are strong Gholdengo partners, since Gholdengo can help deal with threats such as Zamazenta-C and
+
+Zacian-C
+
+and appreciates how the two threaten Incineroar. Koraidon especially appreciates Gholdengo, as it can take on Calyrex-I + Amoonguss teams incredibly well.
+
+Gholdengo is a strong special attacker that uses its great ability to switch into moves like
+
+Amoonguss
+
+'s Spore and
+
+Incineroar
+
+'s Parting Shot, allowing it to attack without being slowed down. Gholdengo is also used as a check to Pokemon like
+
+Zamazenta-C
+
+and
+
+Zacian-C
+
+, since it walls them. Trick is used to cripple support and setup Pokemon like Amoonguss and
+
+Terapagos
+
+or force Pokemon that set Trick Room such as
+
+Calyrex-I
+
+to switch out. Nasty Plot gives Gholdengo the option to set up once it has used Trick. Power Gem hits Fire-types that resist Make It Rain such as Incineroar,
+
+Chi-Yu
+
+, and
+
+Ogerpon-H
+
+. Alternatively, Dazzling Gleam threatens Pokemon like
+
+Miraidon
+
+and
+
+Koraidon
+
+. Choice Specs allows Gholdengo to use its strong Steel- and Ghost-type attacks to immediately threaten Pokemon like Calyrex-I, especially if it uses Tera Steel. The EV spread allows Gholdengo to survive Choice Specs Miraidon's Volt Switch, Incineroar's Flare Blitz, and
+
+Kyogre
+
+'s Mystic Water-boosted Origin Pulse and OHKO bulky
+
+Flutter Mane
+
+sets with Shadow Ball. The Speed EVs let it outspeed the
+
+Ogerpon
+
+formes when they are at -1. Tera Steel lets Gholdengo OHKO
+
+Landorus
+
+and Tera Fairy Assault Vest
+
+Raging Bolt
+
+, and if Gholdengo is paired with speed control providers such as Tailwind
+
+Tornadus
+
+and Icy Wind Flutter Mane, it can run it to boost Make It Rain even further. Tera Dragon allows Gholdengo to resist Fire-type attacks such as Koraidon's Flare Blitz and
+
+Groudon
+
+'s Heat Crash as well as Miraidon's Electro Drift and
+
+Urshifu-R
+
+'s Surging Strikes. Tera Water also lets Gholdengo resist Fire- and Water-type attacks like Kyogre's Water Spout and Koraidon's Flare Blitz while not making it weak to Ice- and Fairy-type attacks such as
+
+Chien-Pao
+
+'s Icicle Crash and Flutter Mane's Moonblast.
+
+Incineroar resists Gholdengo's STAB combination while threatening it with Flare Blitz and Knock Off. Chi-Yu similarly checks Gholdengo while also outspeeding and threatening an OHKO on it with Dark Pulse or Overheat. Assault Vest Raging Bolt resists Make It Rain and avoids the 2HKO from Shadow Ball. As for teammates, Gholdengo pairs well with Terapagos, since Gholdengo walls Zamazenta-C, while Terapagos matches up well against
+
+Calyrex-S
+
+and can switch into Ghost-type attacks. Gholdengo also pairs well with Calyrex-I, since it can check Zamazenta-C and Zacian-C, which Calyrex-I struggles with. Gholdengo additionally has great synergy with
+
+Pelipper
+
+due to rain reducing Gholdengo's weakness to Fire and Pelipper threatening Fire-types that resist Make It Rain such as Incineroar and Chi-Yu. Finally, Chien-Pao and Calyrex-I are both good partners for Gholdengo, since they can threaten Raging Bolt.
+
+Gholdengo leverages its immunities and resistances from its typing and ability to set up with Nasty Plot and sweep with Make It Rain.
+
+Leftovers increases Gholdengo's survivability, while Metal Coat and Life Orb allow Gholdengo to start attacking without needing a turn to setup. Metal Coat is preferred on sets that still lean on Nasty Plot, while Life Orb sets play more like a Choice Specs set that has the option to switch moves and punish passive turns with Nasty Plot.
+
+Tera Dragon allows Gholdengo to resist Fire- and Water-type attacks like Flare Blitz from
+
+Incineroar
+
+and Wave Crash from
+
+Basculegion
+
+, allowing it to set up with Nasty Plot or to start attacking after getting a boost. Tera Steel Gholdengo is typically run with Life Orb to let it pick up OHKOs on Pokemon like
+
+Primarina
+
+and
+
+Amoonguss
+
+when paired with Nasty Plot.
+
+The Speed investment lets Gholdengo outspeed bulky
+
+Volcarona
+
+, while the bulk investment lets it survive Wave Crash from Choice Band Basculegion-M and Tera Dark Throat Chop from
+
+Sneasler
+
+. A Modest nature lets Metal Coat Gholdengo OHKO
+
+Ursaluna-B
+
+with Make It Rain, while a Timid nature paired with 164 Speed EVs allows it to outspeed all opposing Modest Gholdengo.
+
+Pros:
+
+Setup Gholdengo can easily run away with the game if its given a turn to set up.
+
+Setup Gholdengo can also afford to run more bulk investment, as it can increase its Special Attack.
+
+Cons:
+
+Requiring a turn to set up can lead to Gholdengo being OHKOed or heavily chipped before it can start doing damage.
+
+Teams featuring Nasty Plot Gholdengo often have to include more support Pokemon such as Amoonguss and
+
+Electabuzz
+
+in order to get the most value out of it, as they ensure Gholdengo will have a safe chance to set up.
+
+Choice Specs Gholdengo uses its high Special Attack stat, decent Speed, and powerful spread move to severely dent the opposing team.
+
+Thunderbolt is a good coverage option for Gholdengo to threaten Water-types that resist Make It Rain like
+
+Pelipper
+
+. Power Gem also allows Gholdengo to threaten
+
+Incineroar
+
+while still threatening Pelipper. Trick works well with Gholdengo's immunity to Fake Out to allow it to shut down setup strategies or to force Trick Room setters like
+
+Porygon2
+
+to switch out.
+
+Tera Steel maximizes Gholdengo's damage output with Make It Rain, letting it do as much damage as possible before being knocked out and allowing it to pick up OHKOs on Pokemon such as
+
+Ursaluna-B
+
+.
+
+A Timid nature lets Gholdengo outspeed Modest
+
+Glimmora
+
+and
+
+Basculegion
+
+, while a Modest nature guarantees the OHKO against bulky
+
+Annihilape
+
+with Shadow Ball.
+
+Pros:
+
+Choice Specs Gholdengo has a very high initial damage output, not requiring the setup turn that plagues the Nasty Plot set.
+
+Teams without a bulky Pokemon that resists Make It Rain can quickly be blown away.
+
+Cons:
+
+Choice Specs Gholdengo's inability to switch moves and lack of setup can cause its Special Attack to quickly plummet if it tries to spam Make It Rain against Pokemon like Incineroar and
+
+Kingambit
+
+. This causes it to often have to switch out, losing momentum.
+
+Teambuilding
+
+Gholdengo works best on archetypes that can find a way to support its Make It Rain sweep. It prefers partners with Fake Out like
+
+Incineroar
+
+,
+
+Sneasler
+
+, and
+
+Rillaboom
+
+as well as redirection from Pokemon like
+
+Amoonguss
+
+and
+
+Electabuzz
+
+in order to let it set up, while Choice Specs Gholdengo pairs best with priority Tailwind setters like
+
+Talonflame
+
+,
+
+Whimsicott
+
+, and
+
+Murkrow
+
+. Dragon-types like
+
+Hydreigon
+
+and
+
+Dragapult
+
+also synergize well with Gholdengo, as they can switch into Fire-type attacks like
+
+Volcarona
+
+'s Heat Wave and Incineroar's Flare Blitz, while Gholdengo switches well into the Fairy-, Dragon-, and Ice-type attacks that threaten the aforementioned Dragon-types ands hit Fairy- and Ice-types for super effective damage.
+
+Nasty Plot Gholdengo synergizes well with Pokemon like Incineroar, Rillaboom, and Amoonguss that can give it turns to set up through Fake Out and Rage Powder. Choice Specs sets prefer partners with speed control options like Tailwind Whimsicott to help them against faster threats like Dragapult.
+
+Gholdengo struggles against Pokemon that resist its STAB combination like Incineroar and
+
+Kingambit
+
+. Fighting- and Ground-types like
+
+Flamigo
+
+, Sneasler,
+
+Garchomp
+
+, and
+
+Ursaluna
+
+can help against bulky Dark- and Steel-types that resist Make It Rain and Shadow Ball. Garchomp is another threat, as it outspeeds Gholdengo and threatens it before and after Terastalizing with Stomping Tantrum and Dragon Claw, respectively.
+
+Strategy Comments
+
+Gholdengo's main role is to play as a sweeper. Depending on the set, it can accomplish this either by setting up with Nasty Plot or by removing opposing Steel-resistant Pokemon and then sweeping with Choice Specs-boosted Make It Rain.
+
+Gholdengo is best used as an early- or late-game threat depending on the opposing team. Gameplay should focus on either removing Pokemon that can resist Make It Rain or using Gholdengo to break a hole in the opposing team and then using another strong offensive threat like Ursaluna to clean up afterwards. Nasty Plot sets are mostly used as an early-game option to take advantage of passive leads. Choice Specs sets can be used at any point in the game due to not needing to set up.
+
+Kingambit and Incineroar are Gholdengo's biggest checks, as they resist its STAB attacks and can threaten it with super effective damage. Pokemon like Sneasler, Flamigo, and
+
+Paldean Tauros-W
+
+can threaten the aforementioned checks. Another method is to focus on chipping them down throughout the game before finishing them off with Gholdengo. Both Gholdengo sets struggle with smart switches, as Make It Rain lowers Special Attack, while Shadow Ball being single target leaves Gholdengo open to the other opposing Pokemon's attacks.
+
+Choice item Gholdengo acts a strong wallbreaker and speed control option, boasting a spammable STAB move and nuke in Shadow Ball and Make It Rain, respectively. Recover should exclusively be used on Choice Scarf sets to allow Gholdengo to take advantage of its good natural typing and above-average bulk, allowing it to consistently switch into offensive threats like
+
+Scream Tail
+
+,
+
+Iron Boulder
+
+, and Assault Vest
+
+Iron Crown
+
+, outspeed them, and force them out while offsetting any damage it may have taken in the process. Dazzling Gleam threatens Dark-types like
+
+Roaring Moon
+
+while still being a solid middle-ground option against
+
+Chien-Pao
+
+and
+
+Kingambit
+
+, and it is Gholdengo's strongest attack against
+
+Iron Hands
+
+. Thunderbolt is a strong coverage option that lets Gholdengo hit RegenVest
+
+Manaphy
+
+while being the best move against Kingambit. Lastly, Trick is a good option on Choice Scarf sets that allows Gholdengo to cripple would-be checks like
+
+Iron Treads
+
+, RegenVest Manaphy, and
+
+Swampert
+
+, debilitating them while opening itself and other special attacking teammates up later in the game. Adaptability is preferred on sets that only use Gholdengo's STAB moves as damaging moves, as it allows Gholdengo to feint other abilities, but Hadron Engine is preferred on sets with Dazzling Gleam or Thunderbolt to increase their damage output. Choice Specs and a Modest nature turn Gholdengo into a ferocious wallbreaker, allowing it to OHKO RegenVest Manaphy and Roaring Moon with Hadron Engine-boosted Thunderbolt and Dazzling Gleam while almost always OHKOing or 2HKOing every Pokemon in the tier that lacks a Steel-resistance or excellent special bulk. Choice Scarf instead allows it to act as a great speed control option and revenge killer, allowing it to outspeed notable threats like
+
+Zamazenta
+
+, Chien-Pao, and non-Choice Scarf Roaring Moon.
+
+Gholdengo best fits on balance and bulky offense teams, where its capabilities of acting as either a potent wallbreaker or speed control option are much appreciated. Gholdengo struggles to break past special walls like
+
+Blissey
+
+, RegenVest Swampert, and Bulletproof Iron Treads, making physical wallbreakers that can put a dent in them like Zamazenta, Roaring Moon, and Chien-Pao good teammates; these physical wallbreakers may struggle with their inability to break past physical walls as well as their Fairy-type checks, all of which Gholdengo helps to cover, bolstering the effectiveness of using them together. Gholdengo struggles against wallbreakers that either outspeed it or survive a hit and threaten it back in return, notably Choice Scarf Roaring Moon, Kingambit, and
+
+Deoxys-S
+
+, making defensive partners like
+
+Corviknight
+
+, RegenVest Manaphy, and Roaring Moon good teammates.
+
+Physically defensive Gholdengo serves as an excellent spinblocker and physical wall, leveraging its great typing and useful movepool to either spread paralysis with Thunder Wave or set up with Nasty Plot and break holes in the opposing team. Dazzling Gleam dispatches Dark-types like
+
+Roaring Moon
+
+and
+
+Chien-Pao
+
+while dealing decent damage to
+
+Kingambit
+
+, while Hex is an option when used with Thunder Wave that also deals good damage to Bulletproof
+
+Iron Treads
+
+. Nasty Plot turns Gholdengo into a potent bulky wallbreaker, allowing it to potentially OHKO RegenVest Roaring Moon with Dazzling Gleam after a boost. Thunder Wave allows Gholdengo to power up Hex while slowing down threats for its offensive teammates like the
+
+Ogerpon
+
+formes,
+
+Iron Moth
+
+, and Kingambit, which appreciate their offensive checks like Roaring Moon and
+
+Zamazenta
+
+being slowed down and having the opportunity to be broken past. The given EV spread allows Gholdengo to outspeed
+
+Great Tusk
+
+without Speed investment. Levitate turns Ground-types like Great Tusk, Iron Treads, and the
+
+Landorus
+
+formes into setup fodder or an opportunity to spread paralysis on an incoming switch-in while also allowing Gholdengo to almost always deny Rapid Spin attempts from the aforementioned Great Tusk and Iron Treads. Fluffy turns Gholdengo into a hard-to-KO threat that can set up with ease or spread paralysis while watching most physical moves bounce off it. Well-Baked Body allows Gholdengo to check Fire-types like
+
+Moltres
+
+,
+
+Ogerpon-H
+
+, and
+
+Cinderace
+
+and turns them into setup or paralysis fodder. Colbur Berry allows Gholdengo to lure in Dark-types like Roaring Moon and Chien-Pao, OHKOing them with a boosted Dazzling Gleam or Make It Rain, while Leftovers provides Gholdengo with passive recovery that grants it with good longevity. Heavy-Duty Boots is an option on non-Levitate sets that allows them to offset entry hazard chip damage, allowing them to switch in more frequently while opening up Earth Eater as a potential ability option that punishes Ground-type moves even further.
+
+Gholdengo fits best on bulky offense teams, where its spinblocking capabilities and general utility is much appreciated. Furthermore, bulky offense teams that can stack numerous entry hazards are where Gholdengo can truly shine as a spinblocker that can last throughout the course of a game. Thus, hazard setters like
+
+Ting-Lu
+
+,
+
+Skarmory
+
+, and Great Tusk pair well with it. Gholdengo's limit of one ability leaves it prone to Ground-types, Fire-types, or even both depending on its ability, thus, Pokemon that can switch into Ground-types frequently like
+
+Corviknight
+
+,
+
+Zapdos
+
+, and the Landorus formes make for good teammates, while Pokemon that can switch into Fire-types like Primordial Sea Zapdos as well as physically defensive
+
+Manaphy
+
+pair well with it. Gholdengo's mediocre Special Defense leaves it prone to strong special attackers like Zapdos,
+
+Thundurus-T
+
+, and opposing Gholdengo, making special walls like RegenVest Roaring Moon,
+
+Swampert
+
+, and Manaphy good partners.
+
+Other Options
+
+Focus Blast is an option over any damaging move for its ability to dispatch
+
+Kingambit
+
+and
+
+Heatran
+
+effectively, which would otherwise be able to stave Gholdengo's attacks off. A more offensive version of Gholdengo utilizing Nasty Plot with maximum Special Attack and Speed investment and a Timid nature serves as a potent setup sweeper and can be used on teams utilizing Sticky Web to have Gholdengo act as a hard-hitting spinblocker. Choice item sets can run an immunity ability like Well-Baked Body or Levitate to serve as a quick stopgap to Fire- and Ground-type. Psyshock is a niche option on Choice Specs sets that allows Gholdengo to 2HKO the special walls that would usually check it, like
+
+Blissey
+
+, RegenVest
+
+Swampert
+
+, and
+
+Iron Hands
+
+.
+
+Checks and Counters
+
+Special Walls
+
+: Common special walls like RegenVest
+
+Roaring Moon
+
+, Swampert, and Bulletproof
+
+Iron Treads
+
+can easily switch into Gholdengo and force it out.
+
+Dark-types
+
+: Dark-types like Roaring Moon and Kingambit irritate Gholdengo with their ability to switch into it and force it out.
+
+Fire-types and Ground-types
+
+: Gholdengo cannot nullify its weakness to both Fire- and Ground-type moves when opting for an immunity ability, causing it to be weak to one type or the other.
+
+Gholdengo stands out as one of the best setup attackers, with its already massive Special Attack stat and reasonable bulk bolstered further by Nasty Plot and Recover. Additionally, it provides plenty of support thanks to Good as Gold making both itself and its partner immune to status moves including
+
+Amoonguss
+
+'s Spore and
+
+Incineroar
+
+'s Parting Shot. Make It Rain is Gholdengo's standout move as an exceptionally high-powered spread attack, taking down the likes of
+
+Chien-Pao
+
+and
+
+Glimmora
+
+easily as well as
+
+Rillaboom
+
+at +2. Shadow Ball pressures other Ghost-types such as
+
+Sinistcha
+
+and opposing Gholdengo effectively while also hitting Steel-resistant foes such as
+
+Ogerpon-H
+
+well. Gholdengo can choose to run Recover in lieu of Protect if the rest of the team can provide the latter, making it incredibly hard to remove. As Gholdengo wants to sit on the field for as long as possible, Leftovers is the primary recovery item chosen to maximize healing; however, Sitrus Berry is a fine option for more immediate HP recovery. Gholdengo's inability to hit Incineroar for any meaningful damage make partners such as
+
+Ogerpon-W
+
+and
+
+Landorus
+
+greatly appreciated. The given bulk EVs allow Gholdengo to survive
+
+Landorus-T
+
+'s Stomping Tantrum, Chien-Pao's Sucker Punch, and
+
+Heatran
+
+'s Flash Fire-boosted Lava Plume. Its Speed allows it to outrun Choice Scarf Landorus-T in Tailwind. Tera Dragon is generally preferred to resist both Ogerpon-H's and Ogerpon-W's STAB moves; however, Tera Water is also fine as a good defensive typing overall.
+
+Notable Partners
+
+Bulky Support Pokemon
+
+: The likes of Incineroar, Amoonguss, and
+
+Indeedee-F
+
+help make Gholdengo shine, with Intimidate nullifying physical attackers almost entirely and Fake Out, Rage Powder, and Follow Me providing safe opportunities to use Nasty Plot.
+
+Other Setup Pokemon
+
+: Swords Dance
+
+Iron Hands
+
+and Cosmic Power
+
+Deoxys-D
+
+both appreicate Good as Gold granting them an immunity to common disruption such as Will-O-Wisp, Spore, and Taunt. Deoxys-D particularly appreciates Nasty Plot in order to boost its Stored Power damage even further.
+
+Pokemon With Immunity Abilities
+
+: Pokemon such as Heatran and
+
+Latios
+
+provide Gholdengo with Flash Fire and Levitate, respectively, making it immediately immune to types it would otherwise be weak to.
+
+Choice Specs turns Gholdengo into a behemoth of a special attacker, with it 2HKOing bulkier Pokemon such as
+
+Indeedee-F
+
+and
+
+Dragonite
+
+with its Tera Steel-boosted Make It Rain. Choice Specs also helps turn Shadow Ball into an OHKO against the likes of
+
+Latios
+
+,
+
+Sinistcha
+
+, and bulky Gholdengo. Dazzling Gleam is one of the best coverage options for Gholdengo, allowing it to deal significant damage to the plethora of Dragon-types in the metagame such as
+
+Raging Bolt
+
+and
+
+Walking Wake
+
+. Thunderbolt and Power Gem are alternative coverage options that improve Gholdengo's chances against
+
+Volcanion
+
+and
+
+Incineroar
+
+. Trick is an option that disrupts Trick Room setters such as
+
+Porygon2
+
+as well as setup attackers like
+
+Iron Hands
+
+. Steel is Choice Specs Gholdengo's best Tera type, as it further boosts its strongest attack while also retaining its Dragon and Fairy resistances. Choice Specs is particularly good in Partners in Crime, as it allows Gholdengo to lock into its partner's move then later break the Choice lock by having its partner switch.
+
+Notable Partners
+
+Tailwind Users
+
+:
+
+Whimsicott
+
+and
+
+Tornadus
+
+are Choice Specs Gholdengo's best friends, with Tailwind allowing it to deal massive damage immediately and its Good as Gold providing Whimsicott and Tornadus with a Taunt immunity. Whimsicott also offers Fake Tears to further boost Gholdengo's damage.
+
+Setup Pokemon
+
+: Pokemon that require setup to be as threatening as possible such as Swords Dance
+
+Rillaboom
+
+appreciate the immediate bursts of damage that Gholdengo can provide.
+
+Strong Special Attackers
+
+: Given that Gholdengo can break its Choice lock at any time by having its partner switch, a strong special attacker such as Volcanion and
+
+Landorus
+
+makes for a great partner. These also happen to pass it invaluable coverage for Fire- and Steel-types, letting it stand up to Incineroar and
+
+Heatran
+
+more easily.
+
+Keep in mind that due to how Inheritance works, when using this set any combination of moves you wish to run must be legal on either
+
+Chimecho
+
+,
+
+Latios
+
+, or
+
+Latias
+
+.
+
+100 Speed EVs allows it to outspeed uninvested
+
+Gliscor
+
+Maximum HP investment combined with 4 Defence EVs prevents Knock Off from Assault Vest
+
+Snorlax
+
+from ever breaking a Substitute. 100 Speed EVs allows it to outspeed uninvested
+
+Gliscor
+
+Draft Order
+
+: Round 3 onwards
+
+Price Range
+
+: 14-15 points
+
+Overview
+
+: Gholdengo's great defensive typing and ability makes it a good spinblocker that can provide great utility and offensive pressure in any given matchup. Its powerful Special Attack, strong STAB moves, access to recovery, and variety of utility options makes it an annoying Pokemon for foes to deal with when positioned well. It has access to a great number of options to answer some of its checks, including Trick and Thunder Wave. That said, Gholdengo can easily be overwhelmed by numerous powerful threats, especially since its Speed is subpar. Additionally, focusing on being more defensive hinders its offensive output, and foes can easily take advantage of its lowered Special Attack after it uses Make It Rain.
+
+Common Roles
+
+Defensive Pivot
+
+: Thanks to its great defensive typing, Gholdengo can be used as a pivot to switch into many common types of attacks. Additionally, it provides a key immunity to Fighting-type attacks, allowing it to switch in and position itself well against them.
+
+Fast Choice Scarf User
+
+: Choice Scarf can help fix Gholdengo's Speed issue, acting as a surprise revenge option and potential cleaner with its coverage options. Gholdengo also has access to Trick, which can be used to cripple defensive switch-ins and setup sweepers.
+
+Wallbreaker
+
+: With either Choice Specs or Nasty Plot, Gholdengo can start breaking through teams, but it has to be wary of faster revenge killers when running more offensive EVs.
+
+Common Moves
+
+Primary STAB Moves
+
+: Make It Rain, Shadow Ball, Hex, Flash Cannon
+
+Setup Moves
+
+: Nasty Plot
+
+Utility Moves
+
+: Trick, Thunder Wave, Recover, Reflect, Light Screen, Substitute
+
+Coverage
+
+: Dazzling Gleam, Energy Ball, Focus Blast, Power Gem, Psychic, Psyshock, Thunderbolt
+
+Niche Moves
+
+Memento
+
+: Memento can give your next Pokemon good setup opportunities. It can also be run alongside dual screens to maximize the sweeping potential of the Pokemon coming in after Memento is used.
+
+Steel Beam
+
+: Steel Beam can be useful if you're looking to get more damage with Gholdengo before it faints. It functions similarly to Memento behind dual screens, utilizing Steel Beam's heavy recoil to deal heavy damage and pivot to one of your sweepers.
+
+Endure
+
+: Endure allows for fringe strategies such as Salac Berry and Custap Berry to be effective, though it can run the risk of not working due to mistiming if your foe does not attack that turn.
+
+Protect
+
+: Protect can snuff out attacks from the foe and can be used in conjunction with Leftovers to provide recovery. However, this risks allowing foes to have free setup opportunities.
+
+Common Items
+
+Colbur Berry
+
+: Colbur Berry allows Gholdengo to better survive Dark-type attacks, primarily Knock Off, and retaliate with a strong attack or Thunder Wave for Speed control.
+
+Air Balloon
+
+: Gholdengo can safely switch in on Ground-type attacks with an Air Balloon, which gives it a free opportunity to attack, set up with Nasty Plot, or cripple the opposing Pokemon with Thunder Wave.
+
+Choice Scarf
+
+: Choice Scarf helps Gholdengo outpace faster threats that usually outspeed it and synergizes well with Trick to lock the opposing Pokemon into one move.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots lets Gholdengo remain healthy against entry hazard-stacking teams. However, this does mean that Recover becomes more vital in maintaining its longevity, and it becomes much weaker to Knock Off.
+
+Leftovers
+
+: Leftovers provides longevity for defensive sets that don't want to rely heavily on Recover but does come at the cost of Gholdengo being affected by hazards.
+
+Niche Items
+
+Choice Specs
+
+: Choice Specs makes Gholdengo a strong wallbreaker; however, it can be held back due to its average Speed, not allowing it many opportunities to outspeed most threats.
+
+Rocky Helmet
+
+: Gholdengo can utilize its numerous resistances to punish physical attackers and momentum moves like U-turn and Flip Turn.
+
+Other Resistance Berries
+
+: Using different resistance Berries besides Colbur Berry can catch Gholdengo's checks off guard, and it can hit back with its coverage or paralyze foes with Thunder Wave.
+
+Eject Pack
+
+: Eject Pack can synergize with Make It Rain to hit the opposing Pokemon with strong damage and switch out immediately to keep up an offensive tempo.
+
+Eject Button
+
+: Similar to Eject Pack, Eject Button utilizes Gholdengo's defensive qualities to both tank a hit and pivot out immediately into a more favorable matchup.
+
+Custap / Salac Berry
+
+: With Endure or simply taking enough chip damage, Gholdengo can survive any hit and use either Custap Berry to outspeed any foe once or Salac Berry to boost its speed and potentially enable a sweep with Nasty Plot.
+
+Weakness Policy
+
+: Weakness Policy utilizes Gholdengo's bulk that allows it to survive super effective attacks and boost its Special Attack, allowing it to counter its checks and turn the tables against an opponent.
+
+Light Clay
+
+: Light Clay is mandatory when running dual screens but can also be useful if you only rely on just one.
+
+Tera
+
+Gholdengo is rather situational as a Tera Captain, especially given how important maintaining its Ghost typing is for spinblocking and defensive capabilities, but it can be useful in patching up some of its weaker matchups. In certain matchups, Tera Water or Fairy can give it a better defensive typing, covering some of its weaknesses. Offensive Tera types can be used when damage output is important; Tera Steel and Ghost provide stronger STAB damage, Tera Electric boosts Thunderbolt so that it can muscle through bulky Water- and Flying-types, and Tera Fighting lets it beat Fighting-weak foes without having to rely on Focus Blast.
+
+Draft Strategy
+
+Gholdengo is a solid Pokemon that can fit on most teams, but it fits best on teams that rely on keeping entry hazards up and appreciate its defensive profile and offensive presence.
+
+Entry Hazards
+
+: Prioritizing good hazard setters is key when drafting around Gholdengo. Pokemon like
+
+Hisuian Samurott
+
+,
+
+Sandy Shocks
+
+, and
+
+Glimmora
+
+can easily stack hazards, allowing it to prevent foes from removing them.
+
+Knock Off Switch-ins
+
+: Having Knock Off switch-ins allows Gholdengo to run items other than Colbur Berry. Physically bulky teammates that can run Rocky Helmet such as
+
+Muk
+
+,
+
+Garchomp
+
+, and
+
+Landorus-T
+
+as well as Dark-resistant foes like
+
+Great Tusk
+
+and
+
+Clefable
+
+are great in this role.
+
+Faster Pokemon
+
+: Due to Gholdengo's fairly average Speed, it's important to pair it with faster Pokemon such as
+
+Iron Valiant
+
+,
+
+Meowscarada
+
+, and
+
+Greninja
+
+to make up for that fact.
+
+Entry Hazard Removal
+
+: Having hazard removal through teammates like
+
+Terapagos
+
+and
+
+Tentacruel
+
+ensures that Gholdengo's team does not lose the hazard war against opposing hazard stack drafts while also allowing it to stay healthy.
+
+Knock Off Users
+
+: Having Knock Off users like
+
+Tornadus-T
+
+and
+
+Ogerpon
+
+is important to remove opposing Heavy-Duty Boots, forcing foes to take entry hazard damage while keeping hazards up via Good as Gold.
+
+Fire-resistant Pokemon
+
+: Fire-types pressure Gholdengo easily, so having a switch-in to these attacks is necessary. Water-types such as
+
+Primarina
+
+,
+
+Rotom-W
+
+, and
+
+Blastoise
+
+as well as Dragon- and Fire-types are usually a safe bet when it comes to good Fire-type checks.
+
+Ground-type Checks
+
+: Flying-types and Pokemon with Levitate are excellent partners to draft alongside Gholdengo so that Ground-types cannot safely spam their powerful STAB moves against it. Grass-types are also good, but keep in mind that they add more Fire-type weaknesses alongside Gholdengo.
+
+Checks and Counters
+
+Dark-types
+
+: Dark-types are able to swap into Gholdengo's Shadow Ball and threaten it with strong STAB moves, especially Knock Off. Many prevelant Dark-types such as
+
+Zarude
+
+, Greninja, and
+
+Darkrai
+
+outspeed it naturally, making it prone to being revenge killed by many teams.
+
+Specially Defensive Walls
+
+: Specially defensive Pokemon like Muk,
+
+Heatran
+
+, and Tentacruel can give Gholdengo trouble, especially when they're able to hit back hard or set up on it. Many foes with an Assault Vest can also reliably check it.
+
+Fast Fire-types
+
+: Fast Fire-types such as
+
+Chi-Yu
+
+,
+
+Ogerpon-H
+
+, and
+
+Gouging Fire
+
+can switch into Gholdengo's Steel-type STAB moves and pressure it in return.
+
+Cinderace
+
+especially is annoying, since it can pressure Gholdengo while working around Good as Gold with Court Change.
+
+Ground-types
+
+: Ground-types like
+
+Ting-Lu
+
+, Great Tusk, and Garchomp are pretty bulky and dish out strong Ground-type STAB moves, often forcing Gholdengo to run Air Balloon over other important items.
+
+Gholdengo is a fearsome setup sweeper in Ubers UU, in part due to its terrifyingly strong signature move, potent signature ability, and fantastic defensive typing. Make It Rain allows Gholdengo to output huge damage and hit important targets like
+
+Kyurem-W
+
+,
+
+Baxcalibur
+
+, and
+
+Zacian
+
+, whereas Shadow Ball offers incredible neutral coverage while hitting
+
+Mewtwo
+
+,
+
+Giratina
+
+, and
+
+Galarian Slowking
+
+extremely hard. Recover allows Gholdengo to have incredible longevity alongside its immunity to status moves. Tera Water allows Gholdengo to turn its Fire weakness into a resistance, helping against
+
+Chi-Yu
+
+and Kyurem-W, while also providing a resistance to Water, which assists against
+
+Palkia-O
+
+and
+
+Palafin
+
+. Air Balloon gives Gholdengo a temporary Ground immunity, giving it more entry points through an immunity to Spikes, Earth Power, and Earthquake from
+
+Great Tusk
+
+and
+
+Landorus
+
+. Gholdengo pairs excellently with entry hazard setters such as
+
+Magearna
+
+and
+
+Skarmory
+
+, as it blocks both Rapid Spin and Defog. It can also break through some walls with its sheer power, like
+
+Clefable
+
+and
+
+Arceus-Grass
+
+, giving teammates like Zacian an easier time cleaning up. Gholdengo struggles with faster offensive Pokemon that can halt its sweep and revenge kill it, such as
+
+Dragapult
+
+and Tera Fire Zacian, so Pokemon like
+
+Deoxys
+
+, Palafin, and
+
+Rillaboom
+
+can help Gholdengo by handing them. Pokemon with strong priority moves, like
+
+Kingambit
+
+and Palafin, can also halt its sweep and revenge kill it, so teammates like
+
+Zamazenta-C
+
+and Palkia-O, which can take Sucker Punch and Jet Punch, respectively, provide excellent support for it.
+
+Gholdengo is an excellent setup sweeper and support Pokemon in Ubers UU, in large part due to its fantastic defensive typing, its strong ability, and Nasty Plot. Hex allows Gholdengo to do huge damage to statused foes, like sleeping
+
+Giratina
+
+and statused
+
+Arceus
+
+formes. Thunder Wave allows Gholdengo to disrupt the enemy team, power up its Hex, and cripple offensive Pokemon like
+
+Zacian
+
+,
+
+Palkia-O
+
+, and
+
+Chi-Yu
+
+. Nasty Plot turns Gholdengo from a wall into a potential sweeper with Shadow Ball, being able to boost on Pokemon that rely on status or phazing, like
+
+Arceus-Poison
+
+if its Air Balloon is intact and
+
+Clefable
+
+. Air Balloon gives Gholdengo a temporary Ground-type and Spikes immunity, allowing it to switch in on
+
+Great Tusk
+
+and
+
+Landorus
+
+easily, and keep entry hazards on the field against Great Tusk. Tera Water allows Gholdengo to resist Water- and Fire-type moves from the likes of Chi-Yu,
+
+Kyurem-W
+
+, Palkia-O, and
+
+Palafin
+
+. Gholdengo can paralyze and beat foes like Zacian and
+
+Zamazenta-C
+
+, helping teammates such as
+
+Arceus-Dark
+
+and Kyurem-W that appreciate being faster than opposing threats. However, Gholdengo struggles with Dark-types like
+
+Kingambit
+
+and Arceus-Dark, so Pokemon like
+
+Magearna
+
+and Zamazenta-C pair excellently with it. Additionally, Gholdengo has natural synergy with entry hazard setters like Magearna,
+
+Galarian Slowking
+
+,
+
+Galvantula
+
+, and
+
+Skarmory
+
+, as it blocks both Rapid Spin and Defog, making it the best Pokemon for keeping hazards on the opponent's field.
+
+Gholdengo is a decent option as a Choice Scarf user and revenge killer thanks to its great offensive and defensive typing. Focus Blast allows it to hit
+
+Kingambit
+
+,
+
+Dialga
+
+, and Choice Specs
+
+Chi-Yu
+
+, whereas Thunderbolt can be used instead for
+
+Palafin
+
+and
+
+Toxapex
+
+. Trick cripples opposing Pokemon like
+
+Magearna
+
+and Dialga, which could otherwise wall Gholdengo. As Choice Scarf Gholdengo is unable to run a damage-boosting item, it sometimes lacks in damage. Tera Steel makes up for this by allowing it to OHKO
+
+Mewtwo
+
+after Stealth Rock and OHKO
+
+Great Tusk
+
+; Tera Steel also removes its weaknesses to the Dark- and Ghost-type attacks that would otherwise force it out like Sucker Punch from Kingambit, Shadow Ball from Mewtwo, and Judgment from
+
+Arceus-Dark
+
+. Tera Fighting is used exclusively on Focus Blast sets to turn Gholdengo's Sucker Punch weakness into a resistance while also allowing it to OHKO
+
+Zamazenta-C
+
+and offensive Dialga. Gholdengo is one of the most reliable forms of entry hazard control in the tier, as its immunity to both Rapid Spin and Defog allows it to keep hazards up with ease. Therefore, hazard setters like Magearna,
+
+Skarmory
+
+, and
+
+Deoxys-S
+
+make for excellent partners. Primarily used as a revenge killer, Gholdengo is excellent at enabling other premier offensive cleaners like
+
+Zacian
+
+,
+
+Ogerpon-H
+
+, and Kingambit by punching through their potential checks like
+
+Clefable
+
+and
+
+Dondozo
+
+, while also crippling
+
+Giratina
+
+with Trick. Gholdengo struggles against teams that contain strong priority users like Palafin and Kingambit, so Pokemon that can take hits from them, like
+
+Arceus-Grass
+
+,
+
+Archaludon
+
+, Toxapex, and
+
+Palkia-O
+
+are desirable partners.
+
+Gholdengo is a good wallbreaker and glue for offense and hyper offense teams thanks to its access to Nasty Plot, its ability, Good as Gold, and its typing, which blocks entry hazard removal from
+
+Terapagos
+
+and
+
+Tornadus-T
+
+while also having useful resistances to threats such as
+
+Tapu Lele
+
+and
+
+Iron Valiant
+
+. Nasty Plot allows Gholdengo to OHKO Pokemon such as
+
+Heatran
+
+and
+
+Tapu Koko
+
+at +2. Make It Rain is a powerful STAB move that can allow a boosted Gholdengo to take down Pokemon that Shadow Ball can't, such as
+
+Gliscor
+
+, offensive
+
+Garchomp
+
+, and
+
+Landorus-T
+
+, OHKOing all of them after a boost. Recover can be slotted over Make It Rain in order to increase Gholdengo’s longevity, allowing it to check threats like Iron Valiant and Tapu Lele for longer. Focus Blast is a move that complements Gholdengo’s Ghost-type STAB moves, punching holes into would-be switch-ins like
+
+Kingambit
+
+,
+
+Ting-Lu
+
+, and Heatran. Air Balloon allows Gholdengo to spinblock and threaten
+
+Great Tusk
+
+,
+
+Iron Treads
+
+, and Terapagos lacking Flamethrower. Ghostium Z is a powerful option, and when used in tandem with Nasty Plot, it allows Gholdengo to OHKO specially defensive Garchomp,
+
+Moltres
+
+, and
+
+Toxapex
+
+while also OHKOing the previously mentioned Heatran without relying on the shaky accuracy of Focus Blast. Fightinium Z is another option that allows Gholdengo to bypass Focus Blast’s limited accuracy, notably OHKOing Ting-Lu and Assault Vest
+
+Melmetal
+
+after a boost.
+
+Gholdengo acts as a valuable asset for most offensive team structures with its ability to deny hazard control while also having incredible wallbreaking potential. Pokemon such as
+
+Glimmora
+
+, Ting-Lu, and
+
+Hisuian Samurott
+
+benefit from Gholdengo’s ability to keep hazards up. Additionally, the latter two enjoy Gholdengo’s unique typing, which can help blanket check Fairy- and Fighting-type foes such as Tapu Lele and
+
+Mega Medicham
+
+. Other Pokemon that enjoy Gholdengo’s wallbreaking capabilities include
+
+Raging Bolt
+
+and
+
+Urshifu-R
+
+, as they benefit immensely from Gholdengo removing and overwhelming checks like
+
+Ferrothorn
+
+and
+
+Slowbro
+
+. Gholdengo fears Pokemon such as Kingambit and Hisuian Samurott; therefore, Pokemon that can reliably deal with these Dark-types, such as Great Tusk and
+
+Zamazenta
+
+, are greatly appreciated. Having Pokemon immune to Ground-type attacks is helpful against threats such as Great Tusk and Garchomp, even if Gholdengo is holding an Air Balloon. As such, Pokemon like Landorus-T,
+
+Zapdos
+
+, and Moltres are outstanding partners. Moltres is an especially great teammate due to its ability to check the fearsome Fire-types in the metagame that Gholdengo struggles against, like
+
+Mega Charizard Y
+
+and
+
+Volcarona
+
+.
+
+Bulky Nasty Plot Gholdengo functions as a great defensive piece thanks to its amazing typing, access to reliable recovery, and its near-complete shutdown of entry hazard removal methods, as well as being a reliable offensive threat. Nasty Plot allows Gholdengo to take advantage of the foes it forces out, like
+
+Corviknight
+
+,
+
+Zamazenta
+
+lacking Crunch, and
+
+Toxapex
+
+, to enable it to break apart bulkier special walls such as Assault Vest
+
+Melmetal
+
+. Focus Blast nails otherwise-impassable Dark- and Normal-types like
+
+Ting-Lu
+
+,
+
+Hisuian Samurott
+
+,
+
+Kingambit
+
+, and
+
+Ursaluna
+
+, preventing them from either setting up entry hazards or Pursuit trapping it. It also destroys Steel-types like specially defensive
+
+Heatran
+
+and
+
+Ferrothorn
+
+after a boost. Recover allows Gholdengo to stay healthy in the face of weak attacks from foes like Toxapex, Ferrothorn, and
+
+Alomomola
+
+, letting it get more setup opportunities without fearing being chipped down. It also allows Gholdengo to check threatening Fighting-, Fairy-, and Psychic-types like Zamazenta,
+
+Tapu Lele
+
+, and
+
+Galarian Slowking
+
+throughout the game. The given EV spread allows Gholdengo to take a Choice Scarf
+
+Landorus-T
+
+'s Earthquake from full health as well as outspeed defensive Landorus-T and Jolly Kingambit. Ghostium Z and Fightinium Z give Gholdengo one-time options to remove most foes in its path: Ghostium Z blasts specially defensive Toxapex and Assault Vest
+
+Tornadus-T
+
+, denying them the ability to utilize Regenerator to check Gholdengo's teammates later in the game, while Fightinium Z allows for Gholdengo to beat back its otherwise-solid answers in Ting-Lu and
+
+Blissey
+
+while ignoring Focus Blast's accuracy woes. Leftovers lets Gholdengo conserve Recover PP against the likes of Toxapex, while Air Balloon lets Gholdengo stuff
+
+Gliscor
+
+, gain setup opportunities against Landorus-T, and block Rapid Spin from
+
+Great Tusk
+
+to keep hazards on the field.
+
+Gholdengo's great typing, which lets it deal with troublesome Fighting-, Fairy-, and Psychic-types like the aforementioned Zamazenta and Tapu Lele, as well as its amazing offensive power after a boost and its ability to block hazard removal attempts, lets it find a home on balance teams. Gholdengo greatly appreciates teammates like Zamazenta and
+
+Iron Valiant
+
+, as they are able to ward off the dangerous Dark-types like Kingambit and Hisuian Samurott that take advantage of Gholdengo. In return, Gholdengo threatens the Poison-types like Toxapex that wall them to setup and wreak havoc, as well as checking threatening Psychic- and Fairy-types like Choice Scarf Tapu Lele. Hazard setters like Gliscor and Hisuian Samurott are great partners as well due to Gholdengo's near-complete dominance over most hazard control options. Both also offer unique defensive pairings with Gholdengo; Gliscor deals with Ground-types like Ting-Lu and Landorus-T by putting them on a timer with Toxic, while Hisuian Samurott takes on Fire-types like Heatran. Hazard removal options for Gholdengo like
+
+Moltres
+
+and Great Tusk allow Gholdengo to check the threats it needs to, like all-out attacking Zamazenta and Choice Specs Iron Valiant, without dealing with Spikes damage. Another good defensive partner for Gholdengo is Heatran, as it is able to put
+
+Volcarona
+
+and Moltres on a timer with Toxic while setting up Stealth Rock to chip down Gholdengo's checks like Hisuian Samurott over time.
+
+Gholdengo is a premier defensive piece due to its incredible ability and typing, which helps it check threats like
+
+Tapu Lele
+
+,
+
+Mega Medicham
+
+, and
+
+Zamazenta
+
+while also being immune to
+
+Great Tusk
+
+and
+
+Terapagos
+
+’s Rapid Spin and Defog from
+
+Tornadus-T
+
+and
+
+Zapdos
+
+. Focus Blast allows Gholdengo to hit would-be checks in
+
+Kingambit
+
+,
+
+Mega Tyranitar
+
+, and Terapagos without Tera Shell. Thunder Wave allows Gholdengo to slow down Pokemon such as Terapagos,
+
+Ogerpon-W
+
+, and
+
+Heatran
+
+. Hex is boosted to new heights because of Thunder Wave, and it severely damages
+
+Gliscor
+
+. Ghostium Z allows Gholdengo to greatly harm Pokemon that are unable to be paralyzed by Thunder Wave such as
+
+Raging Bolt
+
+, Zapdos, Great Tusk, and
+
+Landorus-T
+
+. Leftovers allows Gholdengo to have an easier time switching in against Pokemon like Tapu Lele and
+
+Iron Valiant
+
+repeatedly. Fightinium Z helps Gholdengo secure OHKOs on Assault Vest Kingambit, Mega Tyranitar, and Terapagos without Tera Shell while also being more reliable to hit with than Focus Blast. Air Balloon allows Gholdengo to be completely immune to Ground-type attacks from the likes of Gliscor and Great Tusk and block Rapid Spin from Great Tusk more effectively. The given EVs allow Gholdengo to outspeed uninvested Landorus-T and Jolly Kingambit while avoiding the OHKO from Choice Scarf Landorus-T.
+
+Gholdengo fits on various playstyles where its paralysis support and incredible defensive utility are valued. Teammates that set up entry hazards like
+
+Hisuian Samurott
+
+and
+
+Ting-Lu
+
+are perfect partners for Gholdengo because of it being an effective blocker of hazard removal from Terapagos and Great Tusk, especially if it is holding Air Balloon. Wallbreakers such as Mega Medicham and Ogerpon-W benefit from Gholdengo checking revenge killers like Tornadus-T, Choice Scarf Tapu Lele, and Zamazenta while also slowing down these faster threats with Thunder Wave. Gholdengo is unable to consistently break through Pokemon like Ting-Lu and
+
+Volcarona
+
+and is passive against Zapdos and Raging Bolt if it is unable to use a Z-Move. It is also easily outpaced by threats like
+
+Roaring Moon
+
+,
+
+Mega Lopunny
+
+, and
+
+Mega Charizard Y
+
+, limiting its ability to stay on the field safely. Teammates like
+
+Dragonite
+
+, Mega Tyranitar, and Zamazenta are great partners to help work around these issues. Iron Valiant is also a great partner for Gholdengo, as it appreciates Gholdengo paralyzing faster revenge killers like Tapu Lele and Tornadus-T, and in return, it takes care of Pokemon like Hisuian Samurott and Kingambit for Gholdengo.
+
+Boasting a Fighting immunity, the ability to deny status moves, reliable recovery, and the potential to spike the cortisol levels of any opponent, Gholdengo is a versatile and powerful Pokemon that serves as the backbone of nearly all Steel teams. With Ghostium Z and heavy investment into physical bulk, Gholdengo becomes a sturdy set up sweeper and defensive piece that has both incredible longevity and strong immediate offensive presence. Nasty Plot and Recover allow Gholdengo to find setup opportunities multiple times throughout a match, as it can setup safely in front of the many Pokemon—like Swords Dance
+
+Iron Valiant
+
+,
+
+Mega Scizor
+
+, and
+
+Sneasler
+
+—that cannot 2HKO it. Make It Rain heavily dents most Ghost-resistant and immune Pokemon, such as
+
+Roaring Moon
+
+and
+
+Porygon2
+
+. Hex and Thunder Wave can be run over Shadow Ball and Make It Rain, which allows Gholdengo to spread paralysis to the aforementioned Pokemon it checks while also crippling switch-ins like
+
+Volcarona
+
+at the cost of not being able to damage Normal-type Pokemon. When powered up by Ghostium Z, both Hex and Shadow Ball deal massive damage, nearly always OHKOing offensive
+
+Great Tusk
+
+unboosted and being similarly favored to OHKO
+
+Hisuian Samurott
+
+and most
+
+Toxapex
+
+sets after a Nasty Plot boost. Gholdengo's EVs maximize its bulk, notably allowing it to survive
+
+Mega Lopunny
+
+'s Close Combat from full HP while outpacing Jolly
+
+Ursaluna
+
+and
+
+Azumarill
+
+. Spikes
+
+Skarmory
+
+and Stealth Rock
+
+Heatran
+
+are fantastic teammates for Gholdengo, as they form an entry hazard-stacking immunity core that covers Gholdengo defensively while wearing down those of its checks that must switch in multiple times such as
+
+Hisuian Goodra
+
+,
+
+Ting-Lu
+
+, and
+
+Clodsire
+
+. Skarmory handles Ground-type foes and the few Fighting-types Gholdengo cannot, such as Mega Lopunny and Great Tusk, while Heatran absorbs Fire-type moves from Volcarona and
+
+Victini
+
+. In return, Gholdengo ensures hazards stay on the field and helps Skarmory and Heatran not get overwhelmed by Fighting-types and other dangerous foes such as Superpower
+
+Ogerpon-C
+
+. Another good choice to help Gholdengo defensively is Hisuian Goodra, which shrugs off strong moves from special attackers like Choice Specs
+
+Greninja
+
+and
+
+Hydreigon
+
+. Hisuian Goodra can also use Knock Off to remove Heavy-Duty Boots from foes, and its Dragon Tail racks up chip damage from the hazards Gholdengo stops foes from removing.
+
+Iron Treads
+
+removes hazards, threatens to OHKO foes like
+
+Landorus
+
+and Heatran that outspeed and OHKO Gholdengo, and uses Knock Off to further the efficacy of hazard-stacking cores.
+
+Having a typing with a lot of relevant resistances, an immunity to status moves thanks to Good as Gold, and great longevity by virtue of having Recover, Gholdengo is a potent stallbreaker for Ghost teams. Shadow Ball hits most foes for neutral damage, with Never-Ending Nightmare at +2 OHKOing foes such as
+
+Mega Sableye
+
+,
+
+Galarian Slowking
+
+, and
+
+Corviknight
+
+. Make It Rain lets Gholdengo hit foes such as
+
+Alolan Muk
+
+,
+
+Mandibuzz
+
+, and
+
+Kommo-o
+
+, as well as OHKO Ice- and Fairy-type foes such as
+
+Mamoswine
+
+,
+
+Alolan Ninetales
+
+, and
+
+Iron Valiant
+
+, and at +2, this move OHKOes
+
+Gliscor
+
+,
+
+Hippowdon
+
+, and
+
+Ursaluna
+
+. The given EV spread allows Gholdengo to outspeed Adamant Mamoswine and avoid a 2HKO from
+
+Mega Scizor
+
+'s Knock Off,
+
+Ogerpon-C
+
+'s Knock Off after Stealth Rock, and Choice Specs
+
+Tapu Lele
+
+'s Thunderbolt. Mega Sableye forms a good defensive core with Gholdengo, as Mega Sableye mitigates its vulnerability to Dark- and Ghost-type foes such as
+
+Meowscarada
+
+,
+
+Greninja
+
+, and
+
+Hisuian Zoroark
+
+, while Gholdengo handles Fairy-types including Tapu Lele and Iron Valiant.
+
+Sinistcha
+
+can switch into Ground-types such as
+
+Garchomp
+
+,
+
+Mega Swampert
+
+, and
+
+Great Tusk
+
+that Gholdengo is vulnerable to. Fire-types such as
+
+Ceruledge
+
+and
+
+Skeledirge
+
+are solid partners that can check other Fire-types that force out Gholdengo such as
+
+Cinderace
+
+,
+
+Victini
+
+, and
+
+Volcarona
+
+.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!

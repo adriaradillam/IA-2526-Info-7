@@ -1,0 +1,2773 @@
+With its incredible typing, Intimidate, outstanding power, decent Speed, and access to numerous utility moves, Landorus-T becomes one of OU's premier pivots. It can check a wide variety of threats such as
+
+Kingambit
+
+,
+
+Ceruledge
+
+, and
+
+Raging Bolt
+
+and is still capable of being offensively threatening. Its Speed tier lets it outspeed crucial targets like
+
+Pecharunt
+
+and
+
+Great Tusk
+
+and it also provides crucial role compression as a Stealth Rock setter. It can either invest in its bulk compounded by Rocky Helmet and Intimidate to make the most of its defensive profile against the likes of
+
+Cinderace
+
+and
+
+Iron Treads
+
+, or it may opt to lean on its offensive capabilities instead to pressure physical walls such as
+
+Clefable
+
+, and it has a stronger Stone Edge to hit Earthquake-immune targets such as
+
+Zapdos
+
+,
+
+Moltres
+
+, and
+
+Tornadus-T
+
+. Landorus-T may also be used as the team's speed control by running a Choice Scarf to outspeed otherwise faster foes in
+
+Dragapult
+
+,
+
+Ogerpon-W
+
+, and Choice Scarf
+
+Gholdengo
+
+. However, offensive Pokemon such as
+
+Kyurem
+
+, Ogerpon-W, and
+
+Walking Wake
+
+exploit Landorus-T's weaknesses, and common special attackers like Dragapult and
+
+Iron Valiant
+
+take advantage of its middling special bulk; all of these foes even outspeed it when not running Choice Scarf. Common physical walls such as
+
+Corviknight
+
+,
+
+Alomomola
+
+, and
+
+Gliscor
+
+prevent offensive sets from making considerable progress. Pokemon such as Great Tusk and
+
+Zamazenta
+
+may run Ice-type coverage to nail Landorus-T. Moreover, Landorus-T's lack of reliable recovery means that physical attackers that is tasked with checking can quickly chip it down, especially against offensive teams that stack multiple of them together.
+
+Landorus-T acts as important glue on offense teams thanks to its valuable role compression courtesy of its utility options and defensive profile; it functions as a Stealth Rock setter, defensive pivot, and blanket check to the metagame's prominent physical attackers such as
+
+Kingambit
+
+,
+
+Great Tusk
+
+, and
+
+Zamazenta
+
+while chipping them down with Rocky Helmet in the process. It also possesses a decent Speed tier, outspeeding common threats like
+
+Gholdengo
+
+, Great Tusk, and
+
+Raging Bolt
+
+. Earth Power lets Landorus-T check IronPress Zamazenta and Bulk Up Great Tusk and has the added benefit of not being weakened by
+
+Rillaboom
+
+'s Grassy Terrain, but Earthquake can be used instead to hit
+
+Galarian Slowking
+
+and Calm Mind Raging Bolt hard and makes use of Landorus-T's huge Attack stat in general. Aside from popping Kingambit, Gholdengo, and
+
+Heatran
+
+'s Air Balloons for Landorus-T to threaten them later, U-turn is incredibly vital to bring its teammates in safely, especially because it works incredibly well with Intimidate to soften the blow for an incoming teammate or gain momentum by forcing out the aforementioned physical attackers, all while chipping down switch-ins like
+
+Ting-Lu
+
+and Rillaboom. Taunt prevents entry hazards from a number of setters like
+
+Skarmory
+
+,
+
+Gliscor
+
+, opposing Landorus-T, and
+
+Glimmora
+
+, the last of which Landorus-T can anti-lead well with Earth Power to prevent Toxic Debris activation; stops recovery attempts from walls like
+
+Clefable
+
+,
+
+Dondozo
+
+, and Terastallized
+
+Garganacl
+
+; and limits setup attempts from Zamazenta, Air Balloon Kingambit, and
+
+Dragonite
+
+, with the three capable of using Landorus-T as setup fodder otherwise. Especially for special variants, Taunt can be dropped for a coverage move instead; Psychic lets Landorus-T threaten
+
+Hawlucha
+
+, 2HKO maximum HP Great Tusk, and hit Zamazenta slightly harder, while Grass Knot is used to 2HKO Dondozo while denting Great Tusk even more. Landorus-T's Tera type is very flexible and mostly depends on what physical threats the team is weak to. Tera Water lets Landorus-T check foes like
+
+Weavile
+
+,
+
+Cinderace
+
+, and
+
+Hisuian Samurott
+
+more reliably at the cost of making it unable to deal with Raging Bolt. Tera Ghost can be used on special sets with Earth Power to let Landorus-T more reliably deal with IronPress Zamazenta and additionally prevents spinners like Great Tusk and
+
+Iron Treads
+
+from removing its Stealth Rock; however, it can no longer switch into Kingambit afterwards. Other alternative Tera types include Tera Dragon, which similarly improves its matchup against Hisuian Samurott and Cinderace with the additional Grass resistance making it sturdier against
+
+Ogerpon-W
+
+and Rillaboom. Tera Steel improves the matchup against Rillaboom,
+
+Meowscarada
+
+, and Weavile but makes it unable to check Great Tusk and Zamazenta. Similar to Tera Dragon, Tera Grass lets it check Ogerpon-W, Hisuian Samurott, and Rillaboom; the Tera type boosts the power of Grass Knot at the cost of being weak to Cinderace and U-turn from opposing Landorus-T. A Timid nature is optimal for Earth Power variants, whereas a Jolly nature should be used if running Earthquake.
+
+Landorus-T is most effective on offense and bulky offense teams. Any offensive Pokemon generally appreciates the utility it brings to the table, with the likes of Ogerpon-W, Raging Bolt, and Kingambit loving its ability to bring them in safely into the field via U-turn to either set up or wallbreak, especially against Landorus-T's incoming switch-ins; the first two threaten bulky Water-types like
+
+Alomomola
+
+and Dondozo—with Ogerpon-W dealing with opposing Landorus-T and Gliscor as well—while Raging Bolt pressures Skarmory and Defog
+
+Corviknight
+
+, preventing Landorus-T's Stealth Rock from being removed. Moreover, their ability to force switches works well with Landorus-T's Stealth Rock, which can be further supported by other offensive threats like
+
+Iron Valiant
+
+and Rillaboom that can use Knock Off against Heavy-Duty Boots users like Dondozo,
+
+Skeledirge
+
+, and Dragonite. Iron Valiant in particular can also be handy in covering for IronPress Zamazenta and Bulk Up Great Tusk if Landorus-T lacks Earth Power; other Pokemon like Choice Scarf
+
+Enamorus
+
+and Will-O-Wisp
+
+Dragapult
+
+are great options in this regard as well. The aforementioned Kingambit, Raging Bolt, and Rillaboom also appreciate Landorus-T's ability to switch into their offensive checks, namely opposing Landorus-T, Great Tusk, and Zamazenta. In return, some of them possess defensive properties that aid Landorus-T; Ogerpon-W and
+
+Primarina
+
+can switch into foes like
+
+Barraskewda
+
+and
+
+Walking Wake
+
+, while Kingambit and Zamazenta can either handle or soft check Meowscarada and Weavile. IronPress Zamazenta especially appreciates Landorus-T checking Kingambit for it to remain healthy and sweep late-game much more easily. Galarian Slowking deserves a special mention as a specially defensive pivot that pairs well with Landorus-T on bulky offense structures; aside from forming a strong VoltTurn core and providing further support for the team in the form of status-spreading and Future Sight, together they form a strong defensive backbone to blanket check all threats in the metagame. Galarian Slowking is adept at switching into and dealing with most special threats, including Iron Valiant and Walking Wake, while Landorus-T handles the likes of Kingambit, Great Tusk, and Iron Treads for it in return.
+
+Offensive Landorus-T uses its massive Attack stat to its fullest, ripping apart opposing teams with ease while playing defensive and supportive roles simultaneously due to its excellent bulk, typing, and support moves. Stealth Rock helps Landorus-T pressure its own checks like
+
+Gliscor
+
+,
+
+Corviknight
+
+, and
+
+Skarmory
+
+and increase the threat level of its teammates; Landorus-T has no issue setting them due to its ability to force switches combined with its great bulk. Stone Edge chips opposing Landorus-T while doing massive damage to
+
+Moltres
+
+,
+
+Zapdos
+
+,
+
+Dragonite
+
+, and Tera Flying Pokemon such as
+
+Kingambit
+
+and
+
+Gholdengo
+
+. U-turn allows Landorus-T to pivot out of switch-ins like Gliscor and assists in positioning other threats on its team, while Taunt allows it to shut down defensive Pokemon like Gliscor,
+
+Ting-Lu
+
+, and
+
+Garganacl
+
+and deny setup sweepers like Kingambit, Dragonite lacking Ice Spinner, and
+
+Great Tusk
+
+. Rocky Helmet further spreads chip damage against foes like Great Tusk,
+
+Zamazenta
+
+, Kingambit, and U-turn Landorus-T, but a more offensive variant with Soft Sand is also an option, notably having a chance to 2HKO Great Tusk and
+
+Clefable
+
+. Tera Water gives Landorus-T a resistance to Water- and Ice-type attacks from
+
+Weavile
+
+,
+
+Hisuian Samurott
+
+, Ice Beam
+
+Darkrai
+
+, and Ice Spinner Great Tusk and Dragonite. Tera Ground should be used with Soft Sand to maximize its offensive power, with the combination of both notably allowing it to 2HKO
+
+Alomomola
+
+after Stealth Rock. Tera Ghost is an option to maintain hazards against Great Tusk and
+
+Iron Treads
+
+, but it provides little defensive value and leaves Landorus-T very vulnerable to Dark-type attacks from Pokemon like Kingambit that it is otherwise tasked to check.
+
+Offensive Landorus-T fits perfectly on offense, providing these teams with a crucial Stealth Rock setter, offensive pivot, and Ground-immune Pokemon rolled into one. Gholdengo can provide excellent defensive utility for offense teams, blocking entry hazard removal attempts while checking
+
+Iron Valiant
+
+and
+
+Deoxys-S
+
+, and Landorus-T can in return take advantage of the Ground-types that threaten Gholdengo and ease its defensive burdens by checking Kingambit.
+
+Primarina
+
+can also be an excellent partner, able to check threats like
+
+Walking Wake
+
+, Hisuian Samurott, and Weavile to further bolster a team's defensive backbone while being able to take advantage of Pokemon like Gliscor and opposing Landorus-T to force progress. In return, Landorus-T can switch into
+
+Raging Bolt
+
+'s Electric-type attacks and force it out using the threat of an OHKO with Earthquake. Hisuian Samurott is a fantastic alternative as an offensive Water-type that forms a strong pairing with Landorus-T, removing Heavy-Duty Boots from physical walls and stacking Spikes that synergize with Landorus-T's Stealth Rock to put the opponent on an uncomfortably fast ticking timer. Landorus-T synergizes well with physical sweepers that can provide speed control while exploiting Stealth Rock and the holes made by Landorus-T's wallbreaking; Zamazenta and Kingambit are powerhouses that also provide further defensive support against threats that Landorus-T cannot handle alone such as opposing Kingambit, Darkrai, and Gholdengo, while Weavile can use Knock Off to severely weaken Heavy-Duty Boots-reliant foes such as Moltres and Zapdos so that Landorus-T's Stealth Rock can later wear them down. All three of these Pokemon can also help in weakening or eliminating Gliscor, Corviknight, and Skarmory, a facet that this offensive Landorus-T much appreciates. Special wallbreakers like
+
+Kyurem
+
+,
+
+Iron Crown
+
+,
+
+Iron Moth
+
+, and Raging Bolt appreciate the entry points made by U-turn against Pokemon that can sit on Landorus-T like Alomomola, Corviknight, Gliscor, and
+
+Dondozo
+
+while appreciating having Landorus-T to fall back on, particularly if they opt to run Choice item sets; alternatively, these also enjoy Landorus-T having the ability to deny opposing hazards with Taunt. As a strong offensive pivot with solid defensive qualities due to intimidate, Landorus-T forms a great pairing on bulky offense with other pivots such as
+
+Galarian Slowking
+
+and Iron Crown that appreciate a teammate immune to Ground; these Pokemon can bring some special bulk to the table against foes like Iron Valiant and Kyurem without being passive themselves, and their Future Sight can be incredibly hard to switch into when backed up with Landorus-T's Earthquake.
+
+Choice Scarf Landorus-T is an excellent speed control, revenge killer, and offensive pivot that also provides defensive utility thanks to its typing and Intimidate to slow down the tier's physical threats like
+
+Kingambit
+
+and
+
+Cinderace
+
+. Stone Edge discourages
+
+Moltres
+
+and
+
+Zapdos
+
+from safely switching in and grants it additional coverage against Flying-types if another teammate has already Terastallized. U-turn allows Landorus-T to generate momentum for its team while safely bringing in one of its teammates; its boosted Speed makes it an excellent user of the move. Grass Knot, which should then be used with the corresponding Naive nature, gives Landorus-T a strong attack against
+
+Great Tusk
+
+and
+
+Dondozo
+
+. It can also compress roles as the team's Stealth Rock setter especially if the team lacks one otherwise. Tera Ground is used to boost the power of its Earthquake for it to clean up late-game more easily, particularly letting it 2HKO defensive Pokemon such as
+
+Clefable
+
+.
+
+This set is mostly seen on bulky offense teams that appreciate its role as a pivot and a revenge killer.
+
+Galarian Slowking
+
+is an excellent partner for it, as it can reliably handle Pokemon such as
+
+Iron Valiant
+
+,
+
+Iron Moth
+
+, and Choice Scarf
+
+Enamorus
+
+that would otherwise outspeed it, and it appreciates Landorus-T for being able to threaten Kingambit. Backup defensive switch-ins like Great Tusk and
+
+Corviknight
+
+are appreciated; they provide Landorus-T with extra insurance against Kingambit and
+
+Gliscor
+
+, and act as much-needed hazard control for when Landorus-T needs to Terastallize. Kingambit is also a fantastic partner for Landorus-T, and can punish Pokemon like Great Tusk and Flying-types such as
+
+Dragonite
+
+and Enamorus for attempting to exploit Landorus-T if it's locked into a resisted move. Lastly, Landorus-T struggles to break past physically defensive walls, notably
+
+Alomomola
+
+and Corviknight; thus, wallbreakers such as
+
+Ogerpon-W
+
+and powerful special attackers such as
+
+Raging Bolt
+
+and
+
+Kyurem
+
+make for incredibly valuable teammates and can enable it to pick off weakened foes late-game. These Pokemon also greatly enjoy having Landorus-T bringing them onto the field with its fast U-turn, in addition to it picking off faster threats like
+
+Dragapult
+
+and
+
+Darkrai
+
+. Kingambit is another Pokemon that appreciates having a fast pivot that provides it with a safe entry point and can open up for a late-game sweep. Landorus-T also enjoys Kingambit's powerful Sucker Punch for being able to pick off faster Pokemon like Iron Moth and
+
+Walking Wake
+
+.
+
+Other Options
+
+Rock Tomb may be considered on defensive sets to slow down foes such as
+
+Tornadus-T
+
+,
+
+Dragonite
+
+, and
+
+Zamazenta
+
+for its teammates to more easily handle them. Smack Down is another option, as it allows Landorus-T to pressure
+
+Corviknight
+
+and
+
+Skarmory
+
+. Tera Fairy grants Landorus-T with a resistance to
+
+Kingambit
+
+'s Sucker Punch, keeps its resistance to Zamazenta's Body Press and Close Combat, provides it with an immunity to some of the tier's strongest attacks in
+
+Raging Bolt
+
+and
+
+Dragapult
+
+'s Draco Meteor, and grants it a neutral typing against most physical attackers like
+
+Ogerpon-W
+
+and Ice Spinner
+
+Great Tusk
+
+. Leftovers provides Landorus-T with some of the longevity it lacks. Furthermore, Landorus-T may be run with Defense or even Special Defense investment at the cost of some Speed EVs, making it sturdier against the likes of
+
+Rillaboom
+
+, Kingambit,
+
+Iron Moth
+
+, and Raging Bolt; in such cases, 128 Speed EVs with a Bold nature allow Landorus-T to outspeed Modest Raging Bolt, while 4 Speed EVs let it get the jump on Kingambit. However, running fewer Speed EVs means it has a harder time against foes like
+
+Gholdengo
+
+,
+
+Pecharunt
+
+, and Ice Spinner Great Tusk, which it can otherwise check. Sandsear Storm and Psychic may be considered on defensive sets, with the former potentially crippling physical attackers such as Ogerpon-W, Rillaboom, and
+
+Hisuian Samurott
+
+with a burn, while the latter targets Zamazenta, Great Tusk, and
+
+Hawlucha
+
+. Choice Band may be considered to make the most out of Landorus-T's sky-high Attack, letting it 2HKO Great Tusk and the likes of
+
+Alomomola
+
+and
+
+Ting-Lu
+
+after some chip damage with Earthquake as well as Tornadus-T and
+
+Kyurem
+
+with Stone Edge. Similarly, Swords Dance may be used to pressure walls looking to sit on Landorus-T such as Alomomola, non-Iron Defense Corviknight,
+
+Clefable
+
+, and Tera Fairy and Water
+
+Garganacl
+
+.
+
+Landorus-T is an excellent physically defensive pivot that checks foes such as
+
+Koraidon
+
+,
+
+Zacian-C
+
+,
+
+Arceus
+
+, and Dragon Dance
+
+Arceus-Ground
+
+thanks to its rare Spikes immunity, Intimidate, and U-turn. Taunt denies entry hazards and status from Pokemon such as
+
+Ting-Lu
+
+and
+
+Toxapex
+
+and prevents foes like Arceus from continuously setting up in front of Landorus-T. Rocky Helmet punishes foes like Koraidon and Zacian-C for attacking by potentially putting them into range of attacks such as +2 Arceus's Extreme Speed,
+
+Calyrex-S
+
+'s Astral Barrage, and
+
+Giratina-O
+
+'s Shadow Sneak. Tera Water grants a resistance to attacks such as Koraidon's Flare Blitz and Zacian-C's Behemoth Blade, while Tera Fairy grants an immunity to Dragon, denying Scale Shot Koraidon a Speed boost and less importantly blocking moves like
+
+Miraidon
+
+'s Draco Meteor. Landorus-T best fits on bulky offense teams, where it can support offensive teammates such as Calyrex-S, Zacian-C, Arceus, and Miraidon by setting Stealth Rock, safely pivoting them in to wallbreak, and checking revenge killers like Zacian-C and Choice Scarf Koraidon. Ting-Lu checks Pokemon like Calyrex-S, Miraidon, and Calm Mind Arceus-Ground for Landorus-T and provides its offensive teammates with Spikes support; Landorus-T checks strong physical attackers for it in return. Landorus-T lacks recovery, so partners like
+
+Arceus-Fairy
+
+, Arceus-Ground, and Zacian-C can assist it by checking Koraidon, opposing Zacian-C, and Arceus, respectively, with help from Intimidate; Choice Scarf Koraidon can also revenge kill these foes. Teammates like Koraidon, Giratina-O, and
+
+Eternatus
+
+deter
+
+Kyogre
+
+from using its STAB moves to an extent, but Kyogre can still force you to predict whether it will use a Water-type move or Ice Beam in the face of Landorus-T.
+
+Thanks to its amazing typing, Intimidate, and great moves like Stealth Rock and U-turn, Landorus-T is able to provide an incredible amount of role compression, making it one of the best defensive Pokemon in the tier. It is able to function on bulky offense teams as a bulky pivot and short-term check to a myriad of dangerous physical attackers, including
+
+Koraidon
+
+,
+
+Zacian-C
+
+,
+
+Arceus-Ground
+
+, and
+
+Kingambit
+
+. Being able to compress so many roles into one slot allows its team more freedom to handle the rest of the metagame. Landorus-T is also one of the few good Choice Scarf users, being able to revenge kill several fast offensive Pokemon like Zacian-C and
+
+Eternatus
+
+. However, Landorus-T lacks any form of recovery, leaving it prone to get overwhelmed throughout the course of a game. Its power, while serviceable against uninvested Ground-weak targets, is quite disappointing by Ubers's standards, which, in conjunction with Landorus-T's subpar special bulk and below-average Speed, leaves it prone to being taken advantage of by sweepers like
+
+Kyogre
+
+,
+
+Arceus-Fairy
+
+,
+
+Lunala
+
+, and
+
+Arceus-Ghost
+
+. Despite that, Landorus-T is a Pokemon whose good traits and role compression lend itself well to many offensive teams.
+
+This is the most common Landorus-T set, as it compresses several valuable roles into one slot. Landorus-T is one of the best defensive users of Stealth Rock on bulky offense, as it's easy to fit and frees up teammates like
+
+Arceus-Fairy
+
+to run more threatening sets. Earthquake hits
+
+Zacian-C
+
+,
+
+Necrozma-DM
+
+, non-Air Balloon
+
+Kingambit
+
+, and Tera Fire foes like
+
+Koraidon
+
+and
+
+Calyrex-I
+
+super effectively, though it needs some chip damage to actually KO them. U-turn in conjunction with Landorus-T's below-average Speed allows it to easily switch out of disadvantageous matchups and give teammates like Koraidon and
+
+Kyogre
+
+free switches. Rock Tomb slows down faster Pokemon and Speed-boosting sweepers without needing paralysis support, like Tera Flying Zacian-C, Koraidon, and Dragon Dance
+
+Arceus-Ground
+
+, as well as dealing respectable damage to
+
+Ho-Oh
+
+. More rarely, Taunt is useful to halt or prevent setup from Dragon Dance Arceus-Ground, Kingambit, and Stored Power Necrozma-DM. It can also be used to prevent moves like opposing Landorus-T's Stealth Rock,
+
+Giratina-O
+
+'s Defog, and
+
+Ting-Lu
+
+'s Spikes or Whirlwind. Maximum physical bulk and an Impish nature allow Landorus-T to best take on Koraidon, Zacian-C, and Arceus-Ground, while 8 Speed EVs allow it to outspeed paralyzed
+
+Deoxys-A
+
+. Rocky Helmet is used to gain the chip damage necessary to OHKO Zacian-C from full health with Earthquake. Rocky Helmet also punishes U-turn from Choice Scarf Koraidon and Landorus-T. Tera Fairy is preferred to block Koraidon's Scale Shot, which is likely to 2HKO Landorus-T at +1 and guaranteed after Stealth Rock. Tera Fairy is also useful to block
+
+Eternatus
+
+'s Dynamax Cannon and resist Kingambit's Dark-type moves. However, it should be noted that if Landorus-T is the most relied upon Zacian-C check, Tera Fairy should not be used until Zacian-C is removed. Tera Water gives Landorus-T resistances to Steel and Ice, allowing it to be safer against Zacian-C and flip its otherwise disadvantageous matchup against Calyrex-I.
+
+Landorus-T is best used on teams that can stack checks to Koraidon as a short-term check to Zacian-C, a common Koraidon partner. In addition to Choice Scarf Koraidon, Kyogre and Arceus-Fairy are great for this purpose, as they make for an incredibly safe core against most Koraidon variants and love having Landorus-T's Intimidate to shore up their matchup into Koraidon variants that can beat them, such as Iron Head or Choice Band. Pairing Landorus-T with Kyogre and Arceus-Fairy not only allows Landorus-T to focus more on checking Zacian-C, but it also provides them free switches with U-turn and allows Arceus-Fairy to more freely run Calm Mind sets. Landorus-T is a good partner for Eternatus, as alongside Koraidon, it can help check Kyogre. In addition to being the best offensive Kyogre check in the tier, Eternatus is a good check for other special threats like Arceus-Fairy and -Ghost that might take advantage of Landorus-T. Eternatus can absorb Ho-Oh's Sacred Fire decently thanks to its good bulk, Fire resistance, and Pressure.
+
+While
+
+Koraidon
+
+is much more common and preferred over Landorus-T as a Choice Scarf user, Landorus-T has several key advantages that make it worth using instead on some teams. Its typing gives it STAB on Earthquake and an immunity to Sticky Web, allowing it to revenge kill non-Terastallized
+
+Zacian-C
+
+even when Sticky Web is up. This frees Koraidon to run more offensive sets, like Swords Dance and Choice Band. Furthermore, with Stone Edge, it is able to threaten
+
+Ho-Oh
+
+,while Koraidon needs significant chip or Terastallization to do so; do note that it is not guaranteed to OHKO defensive Ho-Oh from full HP. Access to Intimidate also allows it to help play around powerful physical attackers like Zacian-C, Koraidon, and Dragon Dance
+
+Arceus-Ground
+
+, though it cannot safely switch in more than once. Crunch is useful to KO
+
+Lunala
+
+when Shadow Shield is broken and hits
+
+Giratina-O
+
+without Terastallizing. A Jolly nature is needed for Landorus-T to be able to outrun Zacian-C and is useful for outrunning Timid Choice Scarf
+
+Kyogre
+
+. Tera Ground strengthens Earthquake, allowing Landorus-T to more easily revenge kill Koraidon, Dragon Dance Arceus-Ground, and Kyogre. Alternatively, Tera Fairy gives resistances to Dragon and Dark, which are useful against
+
+Kingambit
+
+and Outrage-locked Koraidon. Tera Fairy can also be used with Tera Blast to OHKO Koraidon and hit Giratina-O harder than Crunch.
+
+Choice Scarf Landorus-T is best used to provide offensive partners free switches with its fast U-turn and free up partners to use more threatening sets. Koraidon and
+
+Arceus-Fairy
+
+in particular are great partners, as they are free to run Choice Band and Calm Mind sets, respectively, without needing to worry as much about Zacian-C revenge killing them or being slowed down by Sticky Web. Offensive partners like Koraidon, Zacian-C, Kyogre, Lunala, and Arceus-Fairy appreciate Landorus-T's U-turn giving them opportunities to safely switch in on Pokemon they threaten, like Kyogre, Giratina-O, and opposing Landorus-T. Arceus-Fairy in particular is an important partner for Landorus-T, as it can handle Swords Dance Koraidon, preserving HP on Landorus-T. Landorus-T's disappointing power on neutral targets can leave it prone to being set up on by bulky setup sweepers like Lunala,
+
+Calyrex-I
+
+, and opposing Calm Mind
+
+Arceus
+
+formes like Fairy and Ghost, so teammates that can handle them like Kyogre, Ho-Oh, and Kingambit are appreciated.
+
+Other Options
+
+Tera Steel can be used to resist Extreme Killer
+
+Arceus
+
+'s Extreme Speed,
+
+Arceus-Fairy
+
+'s Judgment, and
+
+Zacian-C
+
+'s STAB moves, but is not worth giving up Tera Water for, as it forfeits Landorus-T's ability to handle
+
+Koraidon
+
+and
+
+Arceus-Ground
+
+, which is especially debilitating, as Arceus-Ground is commonly paired with Koraidon and Zacian-C.
+
+Checks and Counters
+
+Special Attackers
+
+: Landorus-T's subpar special bulk, below-average Speed, and disappointing power leave it prone to being taken advantage of by the tier's special attackers, most notably
+
+Kyogre
+
+, Arceus-Fairy,
+
+Lunala
+
+, and
+
+Eternatus
+
+.
+
+Residual Damage
+
+: Landorus-T's lack of recovery leaves it susceptible to being overwhelmed through repeated hits, entry hazards, and status.
+
+Ho-Oh
+
+'s Sacred Fire and Eternatus's Toxic in conjunction with Stealth Rock can accelerate damage on Landorus-T incredibly quickly, and the former is especially ruinous, as it compromises Landorus-T's ability to hit back. The combination of Koraidon, Zacian-C, and Arceus-Ground can potentially overwhelm Landorus-T over time, paving the way for one of them to clean up. However, this can be mitigated by pairing Landorus-T with Pokemon that can handle one or more of them in isolation.
+
+Ground-immune Pokemon
+
+:
+
+Giratina-O
+
+, opposing Landorus-T, Tera Flying Zacian-C, Ho-Oh, Air Balloon
+
+Kingambit
+
+, and the rare
+
+Gliscor
+
+all exploit Landorus-T's reliance on Earthquake to actually do damage, allowing them to force it out. However, all of these Pokemon must be wary of either Taunt or Landorus-T's coverage.
+
+Ice-type Moves
+
+:
+
+Calyrex-I
+
+,
+
+Kyurem-B
+
+, and the rare
+
+Chien-Pao
+
+naturally threaten Landorus-T with their Ice-type moves, though they dislike seeing Tera Water. Dragon Dance Arceus-Ground can use Ice Beam to immediately dispatch Landorus-T, paving the way for Zacian-C and Koraidon to sweep.
+
+Swords Dance Landorus-T is a strong wallbreaker that greatly eases the matchup against balance Flying teams, one of Ground's worst matchups. Smack Down knocks down airborne Pokemon like
+
+Skarmory
+
+,
+
+Corviknight
+
+,
+
+Gliscor
+
+, and
+
+Galarian Weezing
+
+, allowing Landorus-T to muscle through them with boosted Earthquakes. Gravity removes Ground immunities from the opponent's whole team for a few turns at the cost of Landorus-T's own. Taunt shuts down walls like Gliscor and Skarmory, letting Landorus-T use them as setup fodder. Substitute blocks status conditions and can also protect Landorus-T from a revenge killer like
+
+Bisharp
+
+, although it doesn't block phazing like Skarmory's Whirlwind. Lum Berry should be used if Taunt is used in the final slot to heal off a status condition from moves like
+
+Alomomola
+
+'s Scald,
+
+Spectrier
+
+'s Will-O-Wisp, or
+
+Pecharunt
+
+'s Malignant Chain. Leftovers should be used with Substitute to replenish the HP lost through its use.
+
+Both
+
+Clodsire
+
+and
+
+Sandy Shocks
+
+appreciate Landorus-T providing a Ground immunity for them; Clodsire provides a Water immunity while setting up entry hazards, whereas Sandy Shocks breaks through
+
+Mandibuzz
+
+and
+
+Dondozo
+
+for Landorus-T. Furthermore, Sandy Shocks also brings Landorus-T in safely with Volt Switch. Fast cleaners like Choice Scarf
+
+Great Tusk
+
+, Swords Dance
+
+Garchomp
+
+, and Sand Rush
+
+Excadrill
+
+all greatly appreciate Landorus-T's wallbreaking talents, especially the luring and removal of Corviknight and Skarmory. They can check Dragon-types like
+
+Latios
+
+and
+
+Kyurem
+
+, which Landorus-T struggles with. Choice Band
+
+Mamoswine
+
+can aid in crushing balance Flying teams, and it helps against the bulky Grass-types that wall Landorus-T's set like
+
+Hydrapple
+
+and
+
+Sinistcha
+
+. Mamoswine's Thick Fat ability also gives it a resistance to the Ice-type moves Landorus-T is 4x weak to, while Landorus-T resists the Fighting-type moves Mamoswine is weak to. Offensive
+
+Iron Treads
+
+can outrun and threaten out
+
+Landorus
+
+and Kyurem with the threat of Ice Spinner and Iron Head, respectively, which this Landorus-T set can struggle with.
+
+Landorus-T's unique set of attributes allow it to aid greatly in the Poison, Steel, and Flying matchups, making it a valuable member of Ground teams. Substitute allows Landorus-T to set up on passive Pokemon such as
+
+Corviknight
+
+,
+
+Amoonguss
+
+, and
+
+Clodsire
+
+. Bulk Up makes it nearly impossible for all physical attackers to break Landorus-T's Substitute. Gravity, in tandem with Earthquake, allows Landorus-T to threaten Ground-immune Pokemon such as Corviknight and
+
+Skarmory
+
+. The given EV spread allows Landorus-T to survive a -1 Ice Shard from
+
+Weavile
+
+, guarantee that Amoonguss's Giga Drain will not break its Substitute, and speed tie with maximum Speed Adamant
+
+Tyranitar
+
+.
+
+Landorus-T's Flying typing makes it immune to Ground, which helps cover for Ground-weak teammates such as
+
+Excadrill
+
+and
+
+Iron Treads
+
+. Landorus-T's Gravity also greatly benefits Excadrill, allowing it to freely spam Earthquake in sand. Excadrill and Iron Treads can deal with the Ice-type Pokemon that make quick work of Landorus-T, such as
+
+Kyurem
+
+and
+
+Alolan Ninetales
+
+, while Excadrill is in sand. Choice Scarf
+
+Great Tusk
+
+is able to outspeed and KO Pokemon that impede Landorus-T's ability to set up, such as
+
+Dragapult
+
+,
+
+Latios
+
+, and Choice Scarf
+
+Gholdengo
+
+.
+
+Quagsire
+
+is a great teammate for Landorus-T, as it can beat
+
+Urshifu-R
+
+, whose Surging Strikes will always ignore the Defense boost from Bulk Up. Additionally, Water-immune teammates such as Clodsire and
+
+Gastrodon
+
+are also appreciated on Ground-type teams, and they provide utility in the form of a myriad of entry hazards, which further assist Landorus-T's ability to break through teams.
+
+With its great natural bulk and decent defensive typing, Landorus-T finds many opportunities to set up with Bulk Up and wallbreak. At +1, it notably OHKOes specially defensive
+
+Toxapex
+
+and physically defensive
+
+Amoonguss
+
+, the latter after taking Stealth Rock damage. Substitute allows Landorus-T to take advantage of passive threats such as
+
+Blissey
+
+,
+
+Archaludon
+
+, and Amoonguss to set up. Smack Down hits Flying-types like
+
+Articuno
+
+, and it removes the Ground immunity from the likes of
+
+Corviknight
+
+,
+
+Skarmory
+
+, and
+
+Rotom-W
+
+so that they can be taken out with Earthquake. The given EV spread ensures that Landorus-T's Substitute isn't broken by Foul Play or Giga Drain from Amoonguss. 12 Speed EVs allow it to Speed tie with Adamant
+
+Tyranitar
+
+with maximum Speed EVs.
+
+Gliscor
+
+and Skarmory provide entry hazard support to aid Landorus-T's wallbreaking. Additionally, Gliscor can either remove crucial items with Knock Off or spread status with Toxic, while Skarmory can handle Dark- and Ice-type physical attackers like
+
+Meowscarada
+
+,
+
+Weavile
+
+, and
+
+Mamoswine
+
+with IronPress. In return, Skarmory appreciates Landorus-T taking on Fire- and Electric-types such as
+
+Heatran
+
+,
+
+Cinderace
+
+, and
+
+Regieleki
+
+. Corviknight also appreciates the removal of said Fire- and Electric-types, and in return, it removes hazards with Defog and can pivot Landorus-T in on them. Articuno can take hits such as
+
+Pelipper
+
+'s Water-type STAB moves and
+
+Greninja
+
+and
+
+Kyurem
+
+'s Ice Beam, threatening the former back with Freeze-Dry. Physically defensive
+
+Gyarados
+
+can spread paralysis with Thunder Wave so that Landorus-T can outspeed and threaten would-be faster foes like the
+
+Ogerpon
+
+formes. In return, both Articuno and Gyarados appreciate Landorus-T providing an Electric immunity to take on Regieleki and non-Air Balloon
+
+Raging Bolt
+
+. Choice Scarf
+
+Enamorus
+
+provides speed control for Flying teams, outpacing and taking out the likes of
+
+Dragapult
+
+, Choice Specs Greninja, and non-Choice Scarf
+
+Iron Valiant
+
+, and Landorus-T takes out Steel-types like non-Air Balloon
+
+Gholdengo
+
+, Heatran, and
+
+Iron Crown
+
+in return. Setup sweepers such as
+
+Tornadus-T
+
+,
+
+Galarian Moltres
+
+, and
+
+Dragonite
+
+appreciate Landorus-T's wallbreaking against the likes of Raging Bolt and
+
+Hisuian Goodra
+
+, so they can freely set up and sweep late-game.
+
+Choice Scarf Landorus-T provides solid utility to Flying-type teams thanks to a solid Speed tier and excellent Attack, allowing it to check threats such as
+
+Raging Bolt
+
+and
+
+Ogerpon-H
+
+while serving as a solid pivot. Earthquake deals with threats such as
+
+Hisuian Goodra
+
+and
+
+Flutter Mane
+
+with ease. Stealth Rock makes use of the free turns Landorus-T can create to set up entry hazards safely. U-turn is used to pivot out along with checking threats such as
+
+Hoopa-U
+
+. Stone Edge is used to hit Flying-type threats such as
+
+Zapdos
+
+and
+
+Enamorus
+
+attempting to come in on an Earthquake, along with dealing with Ice-types like
+
+Frosmoth
+
+and
+
+Articuno
+
+. Alternatively, Outrage can be used to deal with Dragon-type threats such as
+
+Latios
+
+, Choice Band
+
+Roaring Moon
+
+, and
+
+Kyurem
+
+.
+
+Corviknight
+
+can handle Ice-type threats such as
+
+Alolan Sandslash
+
+and
+
+Froslass
+
+, use Defog to remove Stealth Rock, and pivot Landorus-T in with U-turn; it can also be used to form a pivot core. Zapdos and
+
+Thundurus-T
+
+provide support by dealing with the Flying- and Water-types that handle Landorus-T such as Corviknight,
+
+Gyarados
+
+, and
+
+Urshifu-R
+
+.
+
+Skarmory
+
+and
+
+Gliscor
+
+provide solid utility by being able to set Spikes to pressure threats trying to handle Landorus-T like
+
+Meowscarada
+
+and
+
+Ogerpon-W
+
+. Skarmory can also deal with Ice-type threats such as
+
+Weavile
+
+and
+
+Mamoswine
+
+. Articuno supports Landorus-T by switching into special attacks from the likes of
+
+Porygon2
+
+,
+
+Sinistcha
+
+, and
+
+Galarian Moltres
+
+, along with threatening Water-types like
+
+Primarina
+
+and
+
+Greninja
+
+with Freeze-Dry. Landorus-T appreciates Choice Band
+
+Dragonite
+
+'s Extreme Speed to pick off faster targets such as Choice Scarf
+
+Darkrai
+
+and Choice Scarf
+
+Ninetales
+
+.
+
+Landorus-T is a fantastic Choice item sweeper and pivot, making great use of Terastallization and Tera Blast to make up for the lack of a reliable Flying-type attack!
+
+Rock Slide versus Stone Edge
+
+: Rock Slide having more consistent accuracy over Stone Edge makes it the preferred option on this set, but Stone Edge is still an option on Choice Band sets if trying to maximize power.
+
+Items
+
+Choice Scarf
+
+: Choice Scarf lets Landorus-T catch faster threats like Jolly
+
+Urshifu
+
+and
+
+Chien-Pao
+
+, making it a potent revenge killer and late-game cleaner.
+
+Choice Band
+
+: Choice Band turns Landorus-T into a powerful wallbreaker against slower teams.
+
+Tera Types
+
+Tera Dependency - Medium / High
+
+: Tera Blast is a key part of this set's sweeping strategy. However, Earthquake's reliable power and U-turn's pivoting can let Landorus-T adapt to different roles based on the situation.
+
+Flying
+
+: Tera Flying is essentially mandatory, giving Landorus-T a consistent Flying-type attack with Tera Blast.
+
+With maximum investment in special bulk and an immunity to Thunder Wave, Landorus-T becomes a premier
+
+Flutter Mane
+
+check.
+
+Rock Tomb
+
+: Rock Tomb's speed control pairs well with this set's bulk, usually allowing Landorus-T to slow down targets like
+
+Dragonite
+
+and Flutter Mane several times.
+
+Taunt
+
+: Landorus-T's Taunt is fast enough to shut down many support users and can be devastating to
+
+Ting-Lu
+
+and
+
+Hippowdon
+
+, which rely on Earthquake as their main damaging move.
+
+Tera Blast with Tera Steel
+
+: This combination lets Landorus-T check Flutter Mane offensively, but it usually requires some Attack investment to consistently OHKO.
+
+Other Options
+
+Grass Knot
+
+: Grass Knot can be used to surprise bulky targets like
+
+Ursaluna-B
+
+,
+
+Swampert
+
+, and
+
+Dondozo
+
+, which otherwise take Landorus-T's unboosted attacks well.
+
+Items
+
+Sitrus Berry
+
+: Sitrus Berry is the preferred item for extending Landorus-T's longevity.
+
+Assault Vest
+
+: If running Tera Blast over Stealth Rock, Assault Vest is a viable option if another teammate needs Sitrus Berry.
+
+EV Spreads
+
+252 HP / 4 Def / 252 SpD with Careful
+
+: With this spread and Sitrus Berry, Landorus-T can almost always survive up to 3 Moonblasts from unboosted Timid Flutter Mane.
+
+252 HP / 36 Atk / 220 SpD with Adamant
+
+: If running Tera Blast, this spread lets Landorus-T almost always OHKO any Flutter Mane except for the maximum Defense with Bold nature sets.
+
+252 HP / 252 Def / 4 SpD with Impish
+
+: Full physical bulk with Intimidate can severely hinder big threats like Dragonite and
+
+Ogerpon-H
+
+, but keep in mind that several physical attackers like
+
+Chien-Pao
+
+and
+
+Urshifu
+
+are still very problematic without Terastallization.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Landorus-T's natural typing is what makes it strong into Thunder Wave Flutter Mane, but Terastallization can shift Landorus-T towards countering other big threats when needed.
+
+Water
+
+: Tera Water is the main way to deal with
+
+Urshifu-R
+
+'s Surging Strikes. The Ice-, Steel-, and Fire-type resistance also assist it against common wallbreakers such as Chien-Pao,
+
+Gholdengo
+
+, and
+
+Chi-Yu
+
+.
+
+Steel
+
+: Tera Steel is best used as a single turn surprise, such as for cushioning strong attacks from Choice Specs Flutter Mane and Ursaluna-B.
+
+Fire
+
+: Tera Fire makes Landorus-T much more reliable into Ogerpon-H while still providing a Fairy-type resistance.
+
+Bulk Up and Substitute give Landorus-T new setup opportunities while still taking advantage of its naturally strong base stats and typing.
+
+Rock Tomb
+
+: Rock Tomb's speed control is a powerful asset for Landorus-T and its teammates, and its lower power can be patched up thanks to Bulk Up.
+
+Substitute
+
+: Substitute and Intimidate can be quite strong against many physical attackers, but Substitute's main strength lies in blocking the effects of Yawn and Salt Cure.
+
+Other Options
+
+Smack Down
+
+: While less versatile than Rock Tomb, Smack Down makes it much harder for
+
+Corviknight
+
+,
+
+Latias
+
+, and other Ground-immune foes to stall Landorus-T out.
+
+EV Spreads
+
+228 HP / 52 Atk / 164 Def / 4 SpD / 60 Spe with Adamant
+
+: With this spread, Landorus-T outruns Jolly
+
+Ogerpon
+
+after a Rock Tomb, and the Attack EVs almost always guarantee that maximum HP
+
+Ogerpon-H
+
+is knocked out by Rock Tomb into Earthquake. The Attack EVs also let Earthquake 2HKO offensive variants of both
+
+Urshifu
+
+formes and
+
+Garchomp
+
+.
+
+252 HP / 4 Def / 252 SpD with Careful
+
+: Investing fully in special bulk makes Landorus-T much more consistent into special attackers like
+
+Flutter Mane
+
+.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: While many matchups favor Landorus-T's natural typing, other threats such as
+
+Chien-Pao
+
+and
+
+Urshifu-R
+
+will require Terastallization if attempting to set up in front of them.
+
+Fairy
+
+: Tera Fairy's Dragon-type immunity is critical for stopping Scale Shot setup from
+
+Dragonite
+
+and making Substitute much harder to break. It provides a well-rounded defensive profile as well, removing all of Landorus-T's natural weaknesses.
+
+Water
+
+: Tera Water is your best shot at stopping Urshifu-R's Surging Strikes, which otherwise is strong into Bulk Up and Substitute. The Fire- and Ice-type resistances are also good for cushioning attacks from
+
+Chi-Yu
+
+and Chien-Pao, respectively.
+
+Fire
+
+: Tera Fire is consistently strong into Ogerpon-H’s STAB attacks and still provides insurance against Ice-type attacks from the likes of Chien-Pao.
+
+A great STAB combination, a sky-high Attack stat, and Intimidate allow Landorus-T to function well in many different roles. These make it a great Choice Band sweeper, threatening many common metagame threats such as
+
+Raging Bolt
+
+and
+
+Flutter Mane
+
+. Landorus-T can also function as a Intimidate pivoter, using its great STAB combination and movepool to provide utility.
+
+More offensive Landorus-T sets appreciate speed control support from
+
+Tornadus
+
+and Icy Wind Flutter Mane, with the former being more consistent by providing Tailwind support and hitting the Grass-types that resist Ground such as
+
+Rillaboom
+
+, while the latter has excellent offensive synergy. Redirection support from
+
+Ogerpon-W
+
+and
+
+Amoonguss
+
+is also appreciated, with both benefiting from Intimidate and Ogerpon-W specifically handling the Ice- and Water-types that give Landorus-T trouble. Choice Scarf Landorus-T partners well with all of the above options; however, it doesn't rely on speed control compared to Choice Band variants.
+
+Rillaboom and Ogerpon-W are difficult for Landorus-T to handle, with the former having Fake Out. which is even more potent because Landorus-T almost exclusively runs Choice items, and halving the damage of Earthquake, while the latter has super effective Water-type STAB moves and a way to redirect its Stomping Tantrum; both of these also resist Ground.
+
+Incineroar
+
+is also an issue, as even though it's weak to Ground, Intimidate and Parting Shot let it constantly debuff Landorus-T, removing the its potential to OHKO many Pokemon. Landorus-T also finds itself difficult to slot into many teams, as each of its individual strong points are better found in other options, such as Incineroar generally being a strong Intimidate pivot and the other
+
+Landorus
+
+forme being a better offensive threat.
+
+Stomping Tantrum is the best single target Ground-type move available, while Earthquake is used to dish out damage to more foes and bypass Follow Me. Rock Slide hits the Flying-types that are immune to Ground, while U-turn is a strong pivot option that also hits Ground-resistant Grass-types, even having a chance to OHKO frailer
+
+Ogerpon
+
+formes.
+
+Choice Band allows Landorus-T to function as a sweeper, partially negating the low Base Power of its Ground-type moves and giving it rolls to OHKO many prevalent threats such as
+
+Raging Bolt
+
+,
+
+Kingambit
+
+, and
+
+Flutter Mane
+
+.
+
+The Defense investment allows Landorus-T to survive a Wicked Blow from Tera Dark
+
+Urshifu-S
+
+, Kowtow Cleave from a +1 Attack Black Glasses Kingambit, and Ivy Cudgel from
+
+Ogerpon-W
+
+. The Special Defense investment allows Landorus-T to survive a Moonblast from Choice Specs Flutter Mane. The Speed investment outspeeds Adamant
+
+Chien-Pao
+
+at -1, with the rest being put into Attack.
+
+Tera Fairy is generally preferred for being a stronger neutral type into the current metagame. It also resists Sucker Punch from Kingambit, which threatens big damage thanks to its ability Defiant, and other Dark-type attackers, allowing it to wall Urshifu-S.
+
+Stomping Tantrum is used as the strongest Ground-type move available, with Rock Slide being coverage for Flying-types and U-turn for general utility. Tera Blast Flying gives Landorus-T a Flying-type move, despite coming at a high cost, allowing it to hit the Grass-types that otherwise resist Stomping Tantrum, as well as generally having more flexibility in the matchups it can be brought to.
+
+Choice Scarf gives Landorus-T the jump on many of its counters such as
+
+Chien-Pao
+
+and
+
+Ogerpon-W
+
+and helps it pivot more easily with U-turn.
+
+The EV spread still survives Wicked Blow from Tera Dark
+
+Urshifu-S
+
+and Ivy Cudgel from Ogerpon-W, with the Attack investment guaranteeing an OHKO on
+
+Rillaboom
+
+with Tera Blast Flying.
+
+Tera Flying is used to give Landorus-T a Flying-type STAB move with Tera Blast and remove its Water-type weakness.
+
+With a solid defensive typing and physical bulk with Fluffy, Landorus-T functions as a physically defensive pivot against some of the tier's most threatening physical attackers in
+
+Zamazenta
+
+,
+
+Great Tusk
+
+, and
+
+Roaring Moon
+
+while also having offensive stats to damage many Pokemon in return. Smack Down threatens Flying-types like
+
+Corviknight
+
+,
+
+Zapdos
+
+, and
+
+Skarmory
+
+as well as common Levitate users such as
+
+Gholdengo
+
+and
+
+Tinkaton
+
+, while Taunt can prevent Defog and Roost from the aforementioned Corviknight or setup of entry hazards from Pokemon like Great Tusk and
+
+Ting-Lu
+
+. Rocky Helmet provides chip damage against the strong physical attackers Landorus-T is able to check like Zamazenta as well as Corviknight and Great Tusk, which may be looking to use U-turn or Rapid Spin, respectively. Leftovers can also be used to provide longevity, allowing it to withstand more hits from physical attackers and mitigating the chip damage from Stealth Rock. 8 Speed EVs allow Landorus-T to outspeed Choice Specs
+
+Primarina
+
+and
+
+Hisuian Goodra
+
+.
+
+Landorus-T is used mostly on offensive and balanced teams as role compression for both an entry hazard setter and a defensive pivot, being one of the few Pokemon with access to both Stealth Rock and U-turn. Offensive Dark-types like Roaring Moon,
+
+Kingambit
+
+, and
+
+Chien-Pao
+
+appreciate Landorus-T's ability to pivot in on Zamazenta and its ability to threaten Corviknight as well. Special attackers like Gholdengo, Primordial Sea Zapdos, and
+
+Latios
+
+can threaten Landorus-T, so specially defensive pivots like RegenVest
+
+Swampert
+
+and
+
+Iron Hands
+
+complement Landorus-T well. Landorus-T can be threatened by Ice-type coverage from both Chien-Pao and Iron Hands, which makes Steel-types like Gholdengo and Kingambit potential allies to alleviate the issue. In return, Landorus-T provides a natural Ground immunity and Fighting resistance for them. Landorus-T appreciates hazard removal, so Pokemon ike
+
+Iron Treads
+
+, Great Tusk, and Corviknight make for nice teammates. Due to Fluffy, Landorus-T can be susceptible to opposing Fire-types like
+
+Cinderace
+
+and
+
+Ogerpon-H
+
+; thus, it values Fire-immune allies like Well-Baked Body Gholdengo and Primordial Sea Zapdos.
+
+Other Options
+
+Landorus-T can utilize Desolate Land to both act as a switch-in to Primordial Sea users like
+
+Zapdos
+
+and
+
+Primarina
+
+and threaten Steel-types like
+
+Corviknight
+
+and
+
+Skarmory
+
+with Weather Ball, although it would be forgoing its pivoting capabilities. Landorus-T can also be used as a fully offensive wallbreaker with Mold Breaker or Sword of Ruin in conjunction with STAB Earthquake and solid coverage options. Well-Baked Body can also be utilized let it act as a defensive pivot against Fire-types like
+
+Iron Moth
+
+,
+
+Moltres
+
+, and
+
+Heatran
+
+.
+
+Checks and Counters
+
+Special Attackers
+
+: Strong special attackers like
+
+Latios
+
+,
+
+Gholdengo
+
+, and
+
+Deoxys-S
+
+all OHKO Landorus-T.
+
+Ice-type Coverage
+
+: Ice-type moves from
+
+Iron Hands
+
+,
+
+Chien-Pao
+
+, and
+
+Great Tusk
+
+can seriously threaten Landorus-T.
+
+Bulky Water-types
+
+: RegenVest Water-types such as Primarina,
+
+Swampert
+
+, and
+
+Manaphy
+
+can stomach hits from Landorus-T while also threatening it with Water-type moves or Knock Off in return.
+
+Landorus-T serves as a strong, bulky attacker that supports its teammates with its fantastic ability Intimidate, which can be devastating for physical attackers like
+
+Iron Hands
+
+and
+
+Ogerpon-H
+
+. Taunt can stop
+
+Incineroar
+
+'s Parting Shot and Amoongus's Spore, setup sweepers like Iron Hands and
+
+Ogerpon-W
+
+, and Trick Room users like
+
+Diancie
+
+and
+
+Porygon2
+
+. Sitrus Berry increases Landorus-T's longevity, while Safety Goggles helps against Spore. The given EV spread lets Landorus-T survive Freeze-Dry from Choice Specs
+
+Iron Bundle
+
+after Terastallizing and a +2 Dragon Pulse from
+
+Raging Bolt
+
+. Landorus-T struggles against super effective moves from Pokemon like
+
+Chien-Pao
+
+, Ogerpon-W, and
+
+Walking Wake
+
+without Terastallizing. Tera Water removes Landorus-T's Ice weakness, which can be helpful against Chien-Pao and Iron Bundle. Tera Grass is an alternative that can help against Water-types like Ogerpon-W and let Landorus-T ignore Sleep Powder and Rage Powder from
+
+Hisuian Lilligant
+
+and
+
+Sinistcha
+
+, respectively.
+
+Notable Partners
+
+Other Defensive Pokemon
+
+: Other defensive Pokemon like Incineroar,
+
+Tornadus
+
+, and
+
+Amoonguss
+
+can be good teammates for Landorus-T, as they form good defensive backbones with it. Additionally, Incineroar makes a double Intimidate core, which neutralizes most physical attackers, with Landorus-T; Tornadus provides Prankster-boosted Stealth Rock and speed control with Tailwind; and Amoonguss shares Regenerator.
+
+Bulky Setup Pokemon
+
+: Bulky setup Pokemon such as Nasty Plot
+
+Gholdengo
+
+and Dragon Dance
+
+Dragonite
+
+appreciate the presence of Landorus-T, as it can help increase their survivability with Intimidate and help them secure KOs with entry hazards.
+
+Draft Order
+
+: Round 2 onwards
+
+Price Range
+
+: 14-15 points
+
+Overview
+
+: Landorus-T's great utility, set versatility, access to Intimidate, and ability to pivot with U-turn make it a very useful pick. It is often the glue that holds a draft together, thanks to Intimidate in combination with its natural bulk and the defensive utility moves it has making it incredibly difficult for physical attackers to deal with, sometimes even if they have an Ice-type move. With a respectable base 91 Speed, Landorus-T is also a strong Choice Scarf user, and its pool of utility moves can support other offensive sets.
+
+Common Roles
+
+Defensive Utility
+
+: Landorus-T's defensive typing, in conjunction with Intimidate, makes it a tough wall to break—even for neutrally attacking physical attackers—despite a lack of reliable healing. Its already high base Attack allows you to invest more EVs defensively, which allows it to set up Stealth Rock, trigger its Intimidate more, and pivot for a longer time.
+
+Offensive Utility
+
+: When invested more in offensive stats, Landorus-T can still use moves like Stealth Rock, Taunt, and U-turn, serving as a good offensive utility pick while dishing out much stronger Ground-type attacks. Its Special Attack stat is also usable, meaning physical walls have to be wary about switching into it.
+
+Revenge Killer
+
+: A base 91 Speed means that Landorus-T outspeeds nearly the entire unboosted metagame when using a Choice Scarf. This combined with a stellar Attack stat makes Landorus-T a very viable revenge killer, even if it doesn't have the widest pool of coverage moves.
+
+Setup Sweeper
+
+: With access to Swords Dance and Bulk Up, Landorus-T can use either to clean up a weakened team. Substitute also helps it set up more safely, allowing it to avoid status or scout its foes having Ice-type coverage moves.
+
+Common Moves
+
+Primary STAB Moves
+
+: Earthquake, Earth Power
+
+Setup Moves
+
+: Swords Dance, Bulk Up, Substitute
+
+Utility Moves
+
+: Stealth Rock, U-turn, Taunt, Brick Break
+
+Coverage
+
+: Rock Tomb, Rock Slide, Stone Edge, Crunch, Hammer Arm, Outrage, Grass Knot, Focus Blast, Sludge Bomb, Sludge Wave, Psychic, Tera Blast
+
+Niche Moves
+
+Gravity and Smack Down
+
+: Gravity and Smack Down are used on slightly different occasions. Gravity works better against teams with multiple Ground-immune Pokemon, while Smack Down is better against teams with just one, such as
+
+Corviknight
+
+. If you value Landorus-T having a Ground immunity on your side, be wary about using Gravity.
+
+Fly
+
+: Fly + Power Herb is an option if the opposing team has a naturally decently bulky Grass-, Bug-, or Fighting-type Pokemon that would be hard to KO if not for catching it off guard with Fly, but sacrificing an item slot for something that can potentially be scouted is something that has to be considered as well.
+
+Scorching Sands / Body Slam
+
+: Bulky Pokemon are commonly answers to Landorus-T, so having moves to fish for a status infliction against those Pokemon is a viable strategy, although it could backfire if Landorus-T has to use too many of these weak moves to successfully get the status infliction.
+
+Common Items
+
+Rocky Helmet
+
+: Rocky Helmet is a fantastic option for getting some chip damage off to punish the weakened attacks that will be coming after Intimidate, particularly useful in punishing opposing U-turn and Knock Off.
+
+Choice Scarf
+
+: Landorus-T is a usable revenge killer, so Choice Scarf is the best option for revenge killing sets.
+
+Leftovers
+
+: As Landorus-T is not especially vulnerable to Stealth Rock, if you expect to be pivoting in and out with it a lot, Leftovers will likely be a better choice instead of Heavy-Duty Boots if you do not have another item in mind. It's useful on both utility and setup sweeper sets, although if Landorus-T is expected to be pivoting with U-turn a lot, it will rarely have time to get good value from Leftovers.
+
+Resistance Berry
+
+: Despite not necessarily being useful against Ice-types, Yache Berry is a good item against the Ice-type coverage moves that will assuredly be coming Landorus-T's way. It won't allow Landorus-T to survive long, as the moves will still hit as hard as a 2x super effective move, but it might give Landorus-T the turn required to gain an advantage. With Water-type coverage moves being much less common than Ice-type ones, the other resistance Berry Landorus-T can effectively use is Passho Berry, which is still good for surprising offensive Water-type Pokemon that threaten to OHKO Landorus-T.
+
+Sitrus Berry
+
+: Sitrus Berry is good for recovering some health and is better for high-tempo games where Leftovers will not have time to give Landorus-T the value that a Sitrus Berry would.
+
+Niche Items
+
+Choice Band
+
+: While being locked into Earthquake is rarely ideal, even most Ground-resistant foes don't want to take an Earthquake from a Choice Band Landorus-T. Its coverage is generally able to assist in covering the Pokemon Earthquake does not hit, but since its physical movepool is limited, this set will often be doling out more a powerful U-turn.
+
+Assault Vest
+
+: Landorus-T can use an Assault Vest to switch more easily into mixed attackers while taking advantage of Intimidate against their physical attacks. Assault Vest sets are particularly vulnerable to chip damage with no means of recovery, but they might make the difference against teams that have a lot of special attackers.
+
+Damage-boosting Items
+
+: In matchups where Landorus-T can constantly fire off Ground-type moves, Soft Sand can be used to boost its power while still letting it switch moves.
+
+Power Herb
+
+: Power Herb should only be used with a Fly set. An important thing to remember is that while Fly is still usable after Power Herb is consumed, it will be much easier for your opponent to take advantage of, so use it wisely.
+
+Tera
+
+Landorus-T seems like a very obvious choice for a Tera Captain, finally gaining access to a reliable Flying-type coverage move for offensive sets or shedding its Ice weakness on defensive sets. However, in practice, it is often incredibly underwhelming due to lacking a way to boost its Speed on setup sets and a lack of any reliable healing making it generally pretty easy to KO. If it is chosen as a Tera Captain, Tera Water is great for defensive sets due to flipping Landorus-T's weaknesses and giving it a solid defensive typing. Tera Blast Flying + Earthquake makes for a very difficult Pokemon to switch into, and even outside of Tera Flying, Landorus-T can gain much needed coverage with whichever Tera type + Tera Blast you decide to go.
+
+Draft Strategy
+
+Landorus-T checks off so many of the parameters that one looks for in a draft team that you can pretty much draft anything alongside it. Having an immunity to Ground and Electric, two very common coverage types, Landorus-T appreciates being able to switch in on those types of moves and U-turn out against unfavorable matchups into something that can handle its weak points.
+
+Bulky Water-types
+
+: Bulky Water-types are already fantastic, so the two covering each other's weaknesses is just the cherry on top. Bulky Water-types such as
+
+Alomomola
+
+,
+
+Rotom-W
+
+, and
+
+Ogerpon-W
+
+that also have pivoting moves are especially useful in forming a dangerous pivot core with Landorus-T.
+
+Potential Wincons
+
+: Unfortunately, without reliable speed control, Landorus-T will not realistically be winning any games by itself. Be sure to draft a Pokemon like
+
+Iron Valiant
+
+or
+
+Zarude
+
+that appreciates being pivoted into while it softens up the team for those Pokemon with Stealth Rock.
+
+Special Attackers
+
+: Landorus-T loves to lure in physical walls only to pivot out into a strong special attacker that can begin punching holes into teams. In addition to Pokemon like
+
+Darkrai
+
+and
+
+Greninja
+
+,
+
+Gholdengo
+
+is a fantastic teammate, as it appreciates a Ground-immune partner, while Landorus-T appreciates the Ice resistance and entry hazard removal blocking that Gholdengo provides.
+
+Other Entry Hazard Setters
+
+: Landorus-T will almost always be your Stealth Rock user due to its relatively limited movepool, and with Intimidate and U-turn, it will cause a lot of pivoting on both sides of the field. You can punish all of that pivoting with entry hazard users like
+
+Overqwil
+
+,
+
+Tentacruel
+
+, and
+
+Glimmora
+
+, which all appreciate the Ground immunity Landorus-T gives your team. Since sometimes it has offensive matchups it would rather not have Stealth Rock on, it should still not be the only hazard setter on your roster.
+
+Checks and Counters
+
+Water-types
+
+: Most bulky Water-types can shrug off a defensive Landorus-T's Earthquake while threatening it out with a STAB move, while offensive Water-types like Greninja and Ogerpon-W are able to outspeed and OHKO it with their STAB moves.
+
+Ice-types or Ice-type Coverage
+
+: Landorus-T often falls victim to getting chunked by Ice-type coverage, as Pokemon such as
+
+Great Tusk
+
+,
+
+Meowscarada
+
+, and
+
+Iron Treads
+
+that would otherwise be relatively safe switch-ins for Landorus-T can include it in their movesets.
+
+Ground-immune Pokemon
+
+: Sometimes taking two turns to hit the foe with Gravity + Earthquake is not a practical solution to dealing with Ground-immune Pokemon such as
+
+Uxie
+
+,
+
+Gliscor
+
+, and opposing Landorus-T, and with no Flying-type coverage, Landorus-T has to rely on painfully inaccurate Rock-type coverage moves or the weak Crunch to hit them, which many Ground-immune foes are neutral against anyway.
+
+Strong Special Attackers
+
+: Strong special attackers, such as
+
+Terapagos
+
+and Darkrai, can take advantage of Landorus-T's middling special bulk to force it out, even with substantial investment in special bulk.
+
+Chip Damage
+
+: Landorus-T wants to switch in as much as possible, but the more chip damage it takes, the harder it makes it to do so with no way to reliably heal itself.
+
+Earthquake is for
+
+Raging Bolt
+
+,
+
+Iron Crown
+
+, and non-Choice Scarf
+
+Metagross
+
+.
+
+Outrage is for
+
+Haxorus
+
+,
+
+Dragapult
+
+, and
+
+Garchomp
+
+.
+
+U-turn makes the matchup against
+
+Hoopa-U
+
+reliable, as Earthquake does not OHKO bulkier sets.
+
+Rock Tomb lets Landorus-T deal with
+
+Volcarona
+
+and Choice Specs
+
+Zapdos
+
+, while Fly allows it to beat offensive
+
+Ogerpon-W
+
+and gives it another option against specially defensive Encore + Disable
+
+Iron Valiant
+
+.
+
+The HP EVs allow Landorus-T to tank Outrage from Jolly Choice Band Dragapult, while the Special Defense EVs allow it to take Overheat from Timid Life Orb Volcarona. The Speed EVs let Landorus-T outspeed non-Choice Scarf Hoopa-U. The remaining EVs are invested in Attack.
+
+Unless trying to outplay Custap Berry foes, such as Custap Berry Hoopa-U, for which Landorus-T has an option between using U-turn and Outrage, it is almost always recommended for Landorus-T to use its strongest attack against its foe.
+
+Earthquake hits
+
+Hisuian Goodra
+
+,
+
+Raging Bolt
+
+,
+
+Tyranitar
+
+,
+
+Skeledirge
+
+, and non-Air Balloon
+
+Pecharunt
+
+.
+
+Bulk Up helps against
+
+Iron Hands
+
+,
+
+Ursaluna
+
+, and Choice Band
+
+Annihilape
+
+.
+
+Hammer Arm is for Ursaluna, Assault Vest
+
+Ursaluna-B
+
+, and Air Balloon
+
+Heatran
+
+.
+
+Smack Down helps against
+
+Corviknight
+
+and Air Balloon Pecharunt, while U-turn increases Landorus-T's reliability against
+
+Hoopa-U
+
+. Protect can be used to prevent Custap Berry Skeledirge's Blast Burn from OHKOing Landorus-T with Blaze. Outrage can be utilized to deal with
+
+Haxorus
+
+and non-Haban Berry
+
+Garchomp
+
+.
+
+The Speed EVs allow Landorus-T to outspeed Modest Raging Bolt. The remaining EVs are invested in HP.
+
+Landorus-T can use an alternative set with an EV spread of 252 Atk / 4 Def / 252 Spe and a Jolly nature. This spread lets Landorus-T outspeed and OHKO most
+
+Porygon-Z
+
+and Hoopa-U sets, though Landorus-T has to carry U-turn for the latter to ensure an OHKO on bulkier sets.
+
+Against Ursaluna, Landorus-T should use Bulk Up until Hammer Arm can OHKO it, as Avalanche does not double in power if Landorus-T does not damage Ursaluna.
+
+Assault Vest is useful to win against foes that Landorus-T doesn't usually beat. Assault Vest can also help it survive attacks from other special attackers like
+
+Raging Bolt
+
+, non-Ice Beam
+
+Porygon-Z
+
+, and Steam Eruption from non-Choice Specs
+
+Volcanion
+
+.
+
+Outrage is a coverage move that helps Landorus-T against Dragon-types like
+
+Dragapult
+
+and
+
+Haxorus
+
+.
+
+U-turn beats
+
+Hoopa-U
+
+.
+
+Bulldoze allows Landorus-T to lower the Speed of the opposing Pokemon, which can help against
+
+Iron Crown
+
+.
+
+Landorus-T struggles against Pokemon that are able to OHKO it, like
+
+Ninetales-Alola
+
+and
+
+Chien-Pao
+
+, as well as  Pokemon that are able to use an Ice-type coverage move like  Choice item
+
+Iron Valiant
+
+and
+
+Meowscarada
+
+, and Pokemon that can tank a hit and OHKO it back like
+
+Primarina
+
+, or ones that aren't affected by any moves it can run, like
+
+Corviknight
+
+.
+
+Thus,  Pokemon such as Iron Crown or Volcanion can be used alongside Landorus-T to cover those threats.
+
+Boasting an excellent defensive typing alongside solid physical bulk bolstered by Intimidate, Landorus-T is able to act as a blanket check to most physical attackers. Taunt allows it to deny a plethora of common status moves, such as entry hazards from
+
+Ferrothorn
+
+and
+
+Ting-Lu
+
+, recovery attempts from
+
+Toxapex
+
+and
+
+Alomomola
+
+, Defog from
+
+Zapdos
+
+and
+
+Corviknight
+
+, Toxic from
+
+Gliscor
+
+and
+
+Moltres
+
+, and setup moves from
+
+Zamazenta
+
+and
+
+Mega Scizor
+
+. Toxic is an alternative that more immediately pressures Zapdos and Moltres while also wearing down Regenerator pivots such as
+
+Tornadus-T
+
+and Alomomola, which otherwise shrug off any of Landorus-T's attacks, and punishing setup attempts from the likes of
+
+Volcarona
+
+and
+
+Garchomp
+
+. Earth Power is an alternative to the standard Earthquake that deals significantly higher damage to
+
+Great Tusk
+
+and Zamazenta and also deals full damage in Grassy Terrain. Rocky Helmet is the item of choice, as it punishes weak contact moves, such as
+
+Tapu Koko
+
+'s and Moltres's U-turn, that are further weakened by Intimidate. The given EV spread allows Landorus-T to outspeed Great Tusk without a Protosynthesis Speed boost, with a Jolly nature if using Earthquake as the Ground-type attack and Timid if it is Earth Power.
+
+Landorus-T's most glaring weakness is its lack of recovery, and thus fits best on more offensive teams that can more effectively take advantage of its limited turns while also appreciating Landorus-T's ability to easily handle
+
+Mega Lopunny
+
+and Zamazenta, which otherwise threaten most offensive structures. Teammates that can set up entry hazards such as
+
+Hisuian Samurott
+
+, Ferrothorn, and Toxapex appreciate Landorus-T utilizing Taunt to prevent most Defog users from removing their hazards. Landorus-T's ability to pivot via U-turn is greatly appreciated by frailer Pokemon such as
+
+Mega Medicham
+
+and
+
+Iron Valiant
+
+that otherwise struggle to safely enter the field. Another weakness of Landorus-T is its lackluster special bulk, which can be mitigated by teammates such as Ferrothorn, Toxapex, and Mega Scizor. These teammates also cover Landorus-T's type weaknesses, the former two covering its weakness to Water-type attacks from the likes of
+
+Urshifu-R
+
+and
+
+Ogerpon-W
+
+, while the latter two resist Ice-type attacks from foes such as
+
+Weavile
+
+and
+
+Kyurem
+
+.
+
+Offensive Landorus-T can be a true terror, as this set allows it to break through Pokemon that would normally switch into it, such as
+
+Gliscor
+
+,
+
+Alomomola
+
+, and
+
+Great Tusk
+
+. Swords Dance makes Landorus-T very threatening to slower teams, enabling it to break through Pokemon that would normally check it such as
+
+Ferrothorn
+
+and Alomomola. Stone Edge lets Landorus-T target foes like
+
+Zapdos
+
+and
+
+Mega Charizard Y
+
+. This set has a good matchup against most entry hazard removal options in the tier, so it keeps Stealth Rock up against foes like
+
+Corviknight
+
+and opposing Landorus-T. This can also dissuade Pokemon like Mega Charizard Y and non-Heavy-Duty Boots
+
+Dragonite
+
+from coming in on it. Fly targets foes like Great Tusk,
+
+Zamazenta
+
+, and
+
+Rillaboom
+
+. When running Fly, Flyinium Z should be used, as it gives Landorus-T the opportunity to OHKO Great Tusk and Zamazenta while also luring in Pokemon like Alomomola for big damage. With Rockium Z, Landorus-T can KO foes like
+
+Skarmory
+
+and Corviknight with the combination of +2 Continental Crush and Stone Edge; otherwise, these two would come in comfortably on Landorus-T.
+
+This variant of Landorus-T is usually found on more offensive structures. These teams appreciate Landorus-T's Electric immunity to block Volt Switch and
+
+Raging Bolt
+
+'s Thunderclap. Landorus-T's ability to pressure physical walls like Alomomola can enable teammates like
+
+Kingambit
+
+and
+
+Melmetal
+
+. These teammates appreciate Landorus-T being able to pressure their switch-ins, such as Great Tusk and Zamazenta, with Flyinium Z or Rockium Z for Corviknight. Landorus-T in turn appreciates Kingambit spamming Knock Off.
+
+Iron Valiant
+
+appreciates Landorus-T being able to remove its checks, such as
+
+Toxapex
+
+and
+
+Galarian Slowking
+
+, so that it can clean up in the late-game. Landorus-T is vulnerable to Water-type Pokemon such as
+
+Ogerpon-W
+
+and
+
+Urshifu-R
+
+, so it appreciates Pokemon like Raging Bolt and Dragonite to switch in and force these foes out. Landorus-T can struggle with Ice-types, as they outspeed and OHKO it; therefore, teammates like Ferrothorn and Kingambit are appreciated.
+
+Choice Scarf Landorus-T functions as an excellent late-game cleaner and revenge killer due to its ability to outspeed Pokemon such as
+
+Tapu Koko
+
+and
+
+Mega Diancie
+
+and threaten important defensive pieces such as
+
+Heatran
+
+,
+
+Gholdengo
+
+, and
+
+Kingambit
+
+with Earthquake. It can also leverage its excellent defensive typing and Intimidate to perform as a switch-in to
+
+Garchomp
+
+,
+
+Dragonite
+
+, and opposing Landorus-T. Stone Edge hits Flying-types such as
+
+Zapdos
+
+,
+
+Mega Charizard Y
+
+, and
+
+Moltres
+
+, OHKOing the latter two. Defog allows Landorus-T to capitalize on forced switches by removing entry hazards, while Explosion allows it to deal large damage to Pokemon such as
+
+Ogerpon-W
+
+and
+
+Rotom-W
+
+and gain momentum when at low HP. 8 HP EVs allow Landorus-T to switch in on Stealth Rock one extra time.
+
+Choice Scarf Landorus-T largely fits on bulky offense teams, where its high Speed and ability to threaten common defensive pieces such as Gholdengo and Kingambit are appreciated. However, Landorus-T struggles to break Flying-types such as opposing Landorus-T,
+
+Gliscor
+
+, and Zapdos. This means teammates that can break these such as
+
+Kyurem
+
+and
+
+Weavile
+
+are appreciated; in return, Landorus-T breaks Steel-types such as Kingambit and
+
+Melmetal
+
+for them and can bring them in safely via U-turn. Landorus-T also finds it difficult to break through common defensive pieces such as
+
+Ferrothorn
+
+and
+
+Ting-Lu
+
+, meaning Fighting-types that beat them such as
+
+Zamazenta
+
+,
+
+Urshifu-R
+
+, and
+
+Mega Lopunny
+
+are all appreciated. In return, Landorus-T breaks through
+
+Toxapex
+
+and revenge kills Tapu Koko and Mega Diancie for them. Landorus-T finds itself vulnerable to Water-types such as Choice Scarf Urshifu-R as well as rain sweepers such as
+
+Mega Swampert
+
+and
+
+Barraskewda
+
+. This means switch-ins such as
+
+Mega Latios
+
+and Ferrothorn are enjoyed, with Landorus-T breaking Steel-types and
+
+Mega Tyranitar
+
+for the former. Landorus-T also struggles with strong priority from Pokemon such as Weavile, meaning teammates such as
+
+Tapu Lele
+
+are appreciated, with Landorus-T breaking Steel- and Poison-types for it and allowing it to use Moonblast more freely.
+
+Landorus-T is one of the best suicide leads in the tier, as its huge Attack stat, great defensive typing, and useful utility movepool allow it to consistently set up Stealth Rock and deny the foe from setting it up itself. Taunt stops any Pokemon slower than Landorus-T, including
+
+Glimmora
+
+,
+
+Gliscor
+
+,
+
+Clefable
+
+, and other Landorus-T, from either setting up entry hazards, setting up boosts, or using Defog. Explosion is useful for OHKOing or heavily chunking Pokemon like
+
+Great Tusk
+
+,
+
+Terapagos
+
+,
+
+Ogerpon-W
+
+, and
+
+Tornadus-T
+
+that could either remove Landorus-T’s hazards or use it as setup fodder; it also provides a free switch-in for a teammate to start applying pressure. Focus Sash allows Landorus-T to take almost any hit, allowing it to set up Stealth Rock or chip foes down with Earthquake or Explosion.
+
+Landorus-T is an amazing Pokemon on hyper offense teams, as it can easily set up Stealth Rock and chip down foes for its teammates to start pressuring the opposing team. Pokemon like
+
+Garchomp
+
+and
+
+Volcarona
+
+appreciate Landorus-T chipping their checks with hazard damage while also being able to heavily damage Pokemon like Great Tusk and Clefable with Explosion. Pokemon that can hit Landorus-T multiple times, either through multi-hit moves from
+
+Weavile
+
+and
+
+Urshifu-R
+
+or from Fake Out from
+
+Mega Lopunny
+
+and
+
+Mega Medicham
+
+, can render it useless, as it can’t set up Stealth Rock in front of these Pokemon. Therefore, teammates like Volcarona,
+
+Dragonite
+
+, and
+
+Mega Scizor
+
+are useful to force out these Pokemon before Landorus-T comes in. Pokemon that can easily remove Landorus-T’s hazards like Great Tusk, Tornadus-T, and Gliscor can also be very problematic, so teammates like your own Great Tusk, Air Balloon
+
+Gholdengo
+
+, and Ogerpon-W can threaten them and consistently deny them chances to remove hazards.
+
+Choice Scarf Landorus-T is one of the best revenge killers Flying teams have access to, outrunning threats like
+
+Tapu Koko
+
+,
+
+Mega Diancie
+
+, and
+
+Terrakion
+
+while boasting great firepower. It's also very desirable thanks to its defensive traits, which include an immunity to Electric-type attacks and Intimidate. U-turn takes advantage of the switches Landorus-T forces, allowing it to pivot out of walls that come in on it such as
+
+Corviknight
+
+and
+
+Mega Venusaur
+
+. Similarly, Knock Off cripples some of the bulky Pokemon it invites in, like
+
+Porygon2
+
+and
+
+Ferrothorn
+
+, by removing their items. Stone Edge notably hits
+
+Kyurem
+
+the hardest and is Landorus-T's best move versus Flying-types like
+
+Zapdos
+
+and
+
+Pelipper
+
+. Alternatively, Explosion lets Landorus-T score a surprise KO against an offensive threat it normally cannot OHKO, such as
+
+Keldeo
+
+or
+
+Mega Lopunny
+
+. Special wallbreakers like
+
+Galarian Moltres
+
+,
+
+Tornadus-T
+
+, and
+
+Mega Charizard Y
+
+are great partners to deal with the aforementioned physical walls Landorus-T draws in.
+
+Thundurus-T
+
+relieves pressure from Landorus-T by acting as a secondary Electric immunity and is a great asset against the Water and Flying teams Landorus-T can't do much to.
+
+Mega Aerodactyl
+
+is able to form a powerful revenge killing core alongside Landorus-T while providing Stealth Rock support for it to clean teams more easily. Corviknight switches into most Ice-type attacks aimed at Landorus-T, removes Stealth Rock with Defog, and is able to bring Landorus-T safely onto the field via its slow U-turn.
+
+Ferrothorn's Power Whip does not break Substitute at +1 Def or -1 Atk from Intimidate.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!
+
+Landorus-T is a useful pivot for offense and balance teams that is able to check threats such as Primal
+
+Groudon
+
+and physical
+
+Arceus-Ground
+
+with Intimidate. Its good Attack stat keeps it from being passive and threatens Pokemon such as
+
+Zacian-C
+
+, Primal Groudon, and
+
+Zekrom
+
+, which allows it to have a niche over
+
+Alomomola
+
+as a physical pivot. Its limited longevity means its window to serve as a pivot is smaller though. It is also unable to recover from specially offensive hits such as Overheat Primal Groudon and Judgement from
+
+Arceus
+
+formes like Alomomola can due to its lack of recovery.
+
+Earthquake takes advantage of Landorus-T's high Attack stat and deals super effective damage to threats like Primal Groudon, Zacian-C, and
+
+Eternatus
+
+while hitting a large portion of the tier neutrally.
+
+Landorus-T can provide useful utility with Stealth Rock, which aids Pokemon such as
+
+Chien-Pao
+
+and
+
+Marshadow
+
+in wallbreaking. Toxic can be used to wear down Pokemon Landorus-T cannot otherwise threaten such as
+
+Zygarde
+
+and support Arceus formes. It can also be used to punish Defoggers such as
+
+Ho-Oh
+
+and
+
+Giratina-O
+
+.
+
+Taunt prevents
+
+Necrozma-DM
+
+from setting up against Landorus-T,
+
+Ferrothorn
+
+from freely setting Spikes, and Primal Groudon from using Toxic. In addition, it stops Ho-Oh from using Defog.
+
+Rocky Helmet allows Landorus-T to punish contact moves from threats it checks such as Zacian-C, Marshadow, and Extreme Killer Arceus.
+
+The given EV spread avoids a 2HKO from Choice Band Marshadow's Poltergeist after Stealth Rock while also outspeeding uninvested Zygarde, with the Attack investment ensuring that Earthquake OHKOs Zacian-C after Rocky Helmet damage.
+
+Landorus-T does not usually need to Terastallize, as its base typing is excellent for the job it needs to do. In addition, teammates such as Chien-Pao, Marshadow, and
+
+Rayquaza
+
+need it to wallbreak. However, Tera Water can be used in order to take on Glacial Lance from
+
+Calyrex-I
+
+more easily while tanking Heat Crash from Double Dance Primal Groudon and Behemoth Blade from Zacian-C in a pinch.
+
+Tera Dark can be used to allow Landorus-T to serve as a switch-in to the large amount of Psychic-types in the tier such as
+
+Ultra Necrozma
+
+and
+
+Deoxys-A
+
+, though Deoxys-A can still 2HKO with Low Kick. In addition, it provides a niche but useful immunity to Taunt from Prankster
+
+Grimmsnarl
+
+, allowing Landorus-T to serve as a slow pivot against it.
+
+Landorus-T is usually best used early-game, where it can set Stealth Rock, allowing allies such as Chien-Pao, Rayquaza, Primal
+
+Kyogre
+
+, and Marshadow to wallbreak more efficiently. Thanks to Intimidate, Landorus-T can force early-game switches from defensive Primal Groudon, though it relies on its great typing to serve as a pivot due to its relative frailty. Landorus-T's main job early-game is to safely pivot in strong wallbreakers such as Chien-Pao and Marshadow on offensive teams so they can heavily dent the opposing team quickly.
+
+Landorus-T can also be used as a one-time check to dangerous threats such as Zacian-C and Primal Groudon. Its limited longevity means it cannot check these threats long-term. Sometimes, the best move can be to sacrifice Landorus-T to their attacks, as its Intimidate alone can force out these threats the next turn in addition to providing Rocky Helmet chip damage or provide a teammate with an excellent setup or revenge killing opportunity.
+
+Landorus-T is not extremely weak to entry hazards. However, Stealth Rock can be a nuisance to it, as it cuts down on its already limited longevity. Therefore, Defoggers such as Giratina-O and Ho-Oh make excellent teammates. This increases Landorus-T's longevity as well as the longevity of Pokemon it pivots in like Chien-Pao. These two can also aid in checking Primal Groudon and Zacian-C, which Landorus-T cannot do long-term. Alomomola also mitigates Landorus-T's longevity issues by being a Wish passer that lessens its burden at checking physical attackers.
+
+Landorus-T is extremely vulnerable to special attackers such as
+
+Yveltal
+
+and
+
+Palkia-O
+
+, so checks to these threats such as
+
+Fezandipiti
+
+, Calm Mind
+
+Arceus-Dark
+
+and
+
+Arceus-Fairy
+
+are appreciated.
+
+The given EV spread allows Landorus-Therian to outspeed scarfed
+
+Chi-Yu
+
+during Tailwind while maximizing its Attack, allocating the remaining EVs in HP.
+
+Tera Flying allows Landorus-Therian to effectively use Tera Blast.
+
+Tera Water allows Landorus-Therian to resist Water and Ice type moves.
+
+The given EV spread is a standard set that allows Landorus-Therian to outspeed
+
+Deoxys-Attack
+
+.
+
+The given EV spread allows Landorus-Therian to survive Moonblast from a terastallized
+
+Flutter Mane
+
+, outspeed
+
+Deoxys-Attack
+
+during Tailwind, and OHKO
+
+Iron Hands
+
+with Tectonic Rage.

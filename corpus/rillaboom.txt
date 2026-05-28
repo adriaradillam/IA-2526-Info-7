@@ -1,0 +1,2164 @@
+Swords Dance Rillaboom leverages its decent bulk and access to good priority to set up and effectively clean up games with Grassy Glide, which also allow it to function as a dangerous revenge killer against foes such as
+
+Darkrai
+
+,
+
+Iron Valiant
+
+, and
+
+Ogerpon-W
+
+. Knock Off allows Rillaboom to punish foes such as
+
+Zapdos
+
+and
+
+Moltres
+
+switching in, removing their Heavy-Duty Boots and therefore making them vulnerable to entry hazards, while also hitting
+
+Gholdengo
+
+,
+
+Pecharunt
+
+, and
+
+Galarian Slowking
+
+for super effective damage. Wood Hammer is Rillaboom's strongest option, threatening slower neutral walls such as
+
+Gliscor
+
+,
+
+Clefable
+
+, and Tera Fairy
+
+Garganacl
+
+. High Horsepower targets other Grass-resistant foes like
+
+Kingambit
+
+,
+
+Galarian Weezing
+
+, and
+
+Raging Bolt
+
+with the added benefit of hitting the aforementioned Gholdengo, Pecharunt, and Galarian Slowking harder once their item has been removed. Tera Grass should be run alongside Wood Hammer and is preferred to crank up its STAB moves further, such as OHKOing faster threats like
+
+Tornadus-T
+
+and
+
+Dragapult
+
+after minor chip damage with +2 Grassy Glide and potentially OHKOing would-be checks like Zapdos and Galarian Weezing with a nuclear +2 Wood Hammer. Tera Dark can be used to boost its Knock Off to overwhelm other Grass-resistant checks like
+
+Corviknight
+
+,
+
+Dragonite
+
+, Moltres, and Pecharunt more reliably, even guaranteeing the OHKO against the latter at +2. At the cost of the aforementioned damage rolls, a Jolly nature can be used as an alternative in order to outspeed Gholdengo and Speed tie with opposing Rillaboom.
+
+Swords Dance Rillaboom fits primarily on more offensive structures, where its ability to revenge kill common foes and clean up late-game is greatly appreciated. Rillaboom often struggles to break through Fire-types such as
+
+Iron Moth
+
+,
+
+Heatran
+
+and Moltres, making Water-types that can threaten them such as Ogerpon-W and
+
+Primarina
+
+greatly appreciated, with the latter also providing pivot support to bring Rillaboom in on foes such as Assault Vest
+
+Alomomola
+
+and
+
+Blissey
+
+. In exchange, Rillaboom can threaten KOs on these opposing defensive Pokemon, preventing them from gaining momentum or setting entry hazards. Rillaboom also struggles with Flying-types such as Zapdos and Moltres, at best only being able to remove their Heavy-Duty Boots with Knock Off, making teammates that can threaten them such as Raging Bolt and
+
+Glimmora
+
+excellent partners. In return, Rillaboom's Grassy Terrain makes them less vulnerable to Earthquake from foes such as Gliscor and
+
+Ting-Lu
+
+, and it also threatens these troublesome Ground-types with Wood Hammer. Another problem Rillaboom can have is Steel-types such as Kingambit and Corviknight, making Fire-types such as
+
+Ceruledge
+
+,
+
+Cinderace
+
+, and Iron Moth great partners. They, in turn, enjoy Rillaboom's Grassy Terrain, making their matchup against Gliscor and Ting-Lu more favorable, while also appreciating Rillaboom breaking through bulky Water-types such as Alomomola for them. Dragon-types such as Dragonite and
+
+Kyurem
+
+can often turn Rillaboom into setup fodder, making Fairy-types such as
+
+Hatterene
+
+and Encore Iron Valiant, which can prevent Scale Shot and punish Dragon Dance, excellent allies. In return, Rillaboom can help to overwhelm Steel-types such as Kingambit for them. Another teammate that can help against these Dragon-types is Dragapult, which can threaten KOs on both Dragonite and Kyurem to prevent them from setting up, with Rillaboom in return beating Ting-Lu. Hazards can also prove troublesome for Rillaboom due to its lack of Heavy-Duty Boots and overall lack of longevity from using Wood Hammer and Life Orb; removal options such as
+
+Great Tusk
+
+and
+
+Iron Treads
+
+are good partners, with Corviknight also being a nice switch-in against opposing Flying-types. Teammates that can exploit Grassy Seed such as Gholdengo and
+
+Hawlucha
+
+also enjoy Rillaboom's Terrain helping them set up more easily, with Gholdengo also appreciating Grassy Terrain halving damage dealt by Earthquake and its passive recovery. In return, Gholdengo can help against foes such as Corviknight and Galarian Weezing.
+
+Zamazenta
+
+also makes a good partner, being able to overwhelm shared checks such as Zapdos, Pecharunt, and Gholdengo with Rillaboom.
+
+With its combination of power, strong priority, solid bulk, and excellent support through Grassy Terrain, Rillaboom is a premier wallbreaker and revenge killer in OU. Grassy Glide allows Rillaboom to revenge kill faster Pokemon like
+
+Iron Boulder
+
+,
+
+Great Tusk
+
+, and
+
+Barraskewda
+
+while also denying lead
+
+Deoxys-S
+
+and
+
+Hisuian Samurott
+
+from getting two turns to set entry hazards. Wood Hammer is an excellent tool for breaking through even resistant Pokemon, being able to 2HKO
+
+Raging Bolt
+
+and
+
+Kingambit
+
+after Stealth Rock while OHKOing
+
+Dondozo
+
+, Great Tusk, and
+
+Hatterene
+
+. U-turn makes Rillaboom a pivot while also being the strongest option against
+
+Lokix
+
+and
+
+Hydrapple
+
+. Knock Off removes items from Rillaboom's checks, including
+
+Dragonite
+
+,
+
+Skarmory
+
+, and
+
+Moltres
+
+, while also being the best option to hit
+
+Gholdengo
+
+,
+
+Skeledirge
+
+, and
+
+Galarian Slowking
+
+. Drain Punch is an alternative that OHKOes Kingambit and hits
+
+Heatran
+
+switching in while increasing Rillaboom's longevity. An Adamant nature is preferred for its power boost; however, a Jolly nature can be used to outspeed opposing Adamant Rillaboom and Gholdengo without Choice Scarf at the cost of being unable to always OHKO Pokemon like Dondozo and Galarian Slowking with Wood Hammer and Knock Off. An alternative EV spread of 172 HP / 252 Atk / 84 Spe can be used alongside an Adamant nature to outspeed
+
+Gliscor
+
+while allowing Rillaboom to survive hits such as Life Orb Deoxys-S's Psycho Boost,
+
+Ogerpon-W
+
+'s +2 Power Whip, and
+
+Tornadus-T
+
+'s Bleakwind Storm; however, it notably worsens Rillaboom's matchup against opposing Rillaboom and Raging Bolt due to being outsped. Tera Grass powers up Rillaboom's Grass-type moves, allowing Grassy Glide to OHKO
+
+Darkrai
+
+, Ogerpon-W, and
+
+Iron Valiant
+
+after Stealth Rock and Wood Hammer to OHKO
+
+Clefable
+
+,
+
+Toxapex
+
+, and Gliscor after Stealth Rock.
+
+Bulk Up Great Tusk can take advantage of Grassy Terrain's recovery while removing entry hazards for Rillaboom with Rapid Spin, as Rillaboom is prone to hazard damage.
+
+Hawlucha
+
+is another one of Rillaboom's biggest beneficiaries, using Grassy Seed and Unburden to become an excellent sweeper with nearly unmatched Speed. In return, Rillaboom breaks open bulky teams for Hawlucha and Great Tusk and removes Rocky Helmet and Heavy-Duty Boots from walls like Skarmory,
+
+Corviknight
+
+, and Terastallized Dondozo. Bulky Ground-weak Pokemon, including Kingambit, Raging Bolt, and Heatran, appreciate Grassy Terrain nullifying their weakness to Earthquake from Pokemon like Gliscor and
+
+Ting-Lu
+
+while providing extra passive recovery. Kingambit can form a dual priority core with Rillaboom, notably revenge killing Grass-resistant Pokemon like
+
+Dragapult
+
+and Gholdengo while any attempts to stall out its Sucker Punch give an extra turn of recovery from Grassy Terrain. Raging Bolt is another excellent priority user and wallbreaker that additionally enjoys Rillaboom's U-turn bringing it on checks like Corviknight, Skarmory, and Moltres.
+
+Iron Moth
+
+and Heatran can also come in on Rillaboom's checks like
+
+Cinderace
+
+, Corviknight, and Skarmory. Iron Defense
+
+Zamazenta
+
+is an excellent teammate, as Rillaboom breaks and overwhelms walls like Dondozo and Skarmory that would get in the way of its sweep, and the extra longevity from Grassy Terrain is amazing to keep Zamazenta healthy, as it lacks any reliable ways to heal outside of Leftovers. Hatterene and
+
+Comfey
+
+can become potent sweepers when used with Rillaboom, both being able to run Grassy Seed while the extra longevity allows Hatterene to keep hazards off more consistenly with Magic Bounce. Grassy Seed allows Hatterene and Comfey to set up on physical attackers that can no longer 2HKO them like Heavy Slam Zamazenta, Ogerpon-W, and Great Tusk while giving an appreciated boost to their Stored Power.
+
+Ursaluna
+
+and Rillaboom form a terrifying offensive core, with Rillaboom supporting Ursaluna with Knock Off and Grassy Terrain to nullify Flame Orb's chip damage. Both Tail Glow and Take Heart
+
+Manaphy
+
+can be used alongside Rillaboom, as the Terrain powers up its Energy Ball and gives extra longevity to set up, become unbreakable, and fire off devastating Stored Powers, respectively. Rillaboom can bypass checks like Dragonite,
+
+Zapdos
+
+, and Moltres with support from Stealth Rock setters like Heatran, Great Tusk, and
+
+Glimmora
+
+in addition to its Knock Off to remove their Heavy-Duty Boots.
+
+Rillaboom is an excellent Terrain setter, revenge killer, wallbreaker, and offensive pivot all at once thanks to its good Attack stat, Grassy Surge, and access to a phenomenal movepool. Knock Off hits Grass-resistant foes such as
+
+Dragapult
+
+,
+
+Gholdengo
+
+, and
+
+Galarian Slowking
+
+super effectively while also removing items from common switch-ins such as Heavy-Duty Boots from
+
+Moltres
+
+, Rocky Helmet from
+
+Skarmory
+
+, and Leftovers from
+
+Zamazenta
+
+, reducing their effectiveness. U-turn allows Rillaboom to pivot out of bad matchups such as against Dragon-types like
+
+Dragonite
+
+and
+
+Raging Bolt
+
+and generate momentum for its team; it also enables Rillaboom to bring its setup sweeper teammates like
+
+Hawlucha
+
+and
+
+Hatterene
+
+in. Low Kick hits foes like
+
+Kingambit
+
+and
+
+Heatran
+
+for super effective damage. Alternatively, Wood Hammer can be used as a stronger STAB move, OHKOing offensive
+
+Great Tusk
+
+and 2HKOing defensive variants, 2HKOing Hatterene, and having a roll to OHKO
+
+Ting-Lu
+
+. 52 Speed EVs allow Rillaboom to outspeed Jolly Kingambit. Alternatively, a spread of 172 HP / 252 Atk / 84 Spe can be run for Rillaboom to outspeed
+
+Gliscor
+
+. With Tera Grass, Rillaboom 2HKOes
+
+Iron Valiant
+
+with Grassy Glide and Gliscor with Wood Hammer after Poison Heal. Otherwise, Tera Fighting can be used to make Rillaboom resistant to Dark-type moves such as Sucker Punch from Kingambit. Terrain Extender helps teammates like Hawlucha to find more opportunities to come in; however, Assault Vest can be used instead to allow Rillaboom to better check special attackers such as
+
+Primarina
+
+and Gholdengo.
+
+Rillaboom shines on offense teams and is a staple on Grassy Terrain-based teams. Terrain Extender should usually be used on hyper offense teams and provides wonderful support to its setup sweeper partners. Assault Vest has overall better defensive utility and thus should generally be used on bulky offense teams; it is exceptional at supporting bulkier threats such as Zamazenta, helping them deal with foes like Primarina and Gholdengo. Although generally the best fits, these recommendations are not set in stone, and either item can be used on either archetype, with Assault Vest potentially providing hyper offense with a one-time check to a special threat and Terrain Extender supporting bulky offense. Hawlucha proves itself to be an exceptional partner for Rillaboom; In Grassy Terrain, it can utilize Grassy Seed to transform into a terrifying cleaner with Swords Dance and Unburden. Hatterene also functions as a remarkable Calm Mind cleaner with Grassy Seed and longevity from Grassy Terrain. Similarly, Primarina appreciates the longevity Grassy Terrain provides to turn itself into a dangerous threat with Calm Mind; moreover, it synergizes well with Rillaboom by helping it against Fire-types such as Moltres. Setup sweepers such that benefit from the Grassy Terrain include Pokemon weak to Earthquake from foes like Ting-Lu and Gliscor, such as Gholdengo, Kingambit, and Raging Bolt. Rillaboom is vulnerable to Fire-types like Moltres,
+
+Cinderace
+
+, and
+
+Iron Moth
+
+so teammates such as Heatran and Great Tusk are appreciated. Rillaboom also likes entry hazards to chip its foes; thus, the aforementioned Heatran and
+
+Glimmora
+
+make perfect partners. Rillaboom is forced out by threats like Dragonite, Skarmory, and
+
+Corviknight
+
+because it's unable to significantly damage them, so partners such as Dragapult and the previously mentioned Raging Bolt should be acknowledged. Dragon-types like Dragapult and Raging Bolt can also give Rillaboom a hard time due to them being resistant to its Grassy Glide, so Pokemon like Iron Valiant and Kingambit make great partners. As a Terrain setter, Rillaboom and its teammates can face difficulty in facing Ice Spinner users like Great Tusk and
+
+Iron Treads
+
+; as such, it is important to position setup sweepers as soon as possible while also packing checks such as the aforementioned Hatterene for Great Tusk and Zamazenta for Iron Treads. Hatterene is also very useful at keeping entry hazards off the field, which is appreciated by Rillaboom and its teammates. Additional hazard removers such as the previously mentioned Great Tusk also make great partners. Zamazenta is also a wonderful partner that proves itself to be a threatening IronPress user with Grassy Terrain solving its problem with longevity.
+
+Comfey
+
+can also take advantage of Grassy Seed's Defense boost and Grassy Terrain's passive recovery to set up with Calm Mind and dismantle unprepared teams.
+
+Serperior
+
+is also an excellent teammate and greatly benefits from Grassy Terrain boosting its Leaf Storm, notably allowing it to KO offensive Gholdengo over two turns.
+
+Choice Band Rillaboom functions as both a strong wallbreaker and late-game sweeper thanks to Grassy Glide. It also provides great support with Grassy Terrain, both boosting its teammates' Grass-type STAB moves and granting them a form of recovery. Thanks to Grassy Glide, not only does Rillaboom dismantle walls like
+
+Empoleon
+
+and
+
+Garganacl
+
+with ease, but it also targets faster threats such as
+
+Iron Boulder
+
+,
+
+Flutter Mane
+
+, and
+
+Keldeo
+
+. Wood Hammer removes targets that Grassy Glide wouldn't fare well against like
+
+Toxapex
+
+and
+
+Gliscor
+
+. Knock Off grants coverage against Ghost-types like
+
+Dragapult
+
+,
+
+Gholdengo
+
+, and
+
+Brambleghast
+
+and removes items from the likes of
+
+Corviknight
+
+and
+
+Dragonite
+
+. Alternatively, High Horsepower targets bulky Poison- and Steel-types such as
+
+Alolan Muk
+
+,
+
+Hisuian Goodra
+
+, and
+
+Heatran
+
+. U-turn allows Rillaboom to pivot one of its teammates in safely while still dealing big damage to the likes of
+
+Meowscarada
+
+and
+
+Hydreigon
+
+. A Jolly nature allows Rillaboom to outspeed and threaten non-Choice Scarf Gholdengo and speed tie with unboosted
+
+Kingdra
+
+.
+
+Brambleghast aids Rillaboom's wallbreaking thanks to its Spikes wearing down incoming foes and Rapid Spin removing entry hazards so Rillaboom has more opportunities to switch in. Brambleghast is also able to switch in against an anticipated Hurricane, Blizzard, or Heat Wave thanks to its Wind Rider ability.
+
+Amoonguss
+
+makes for another great teammate, being able to immobilize a check to Rillaboom like
+
+Galarian Weezing
+
+or
+
+Sneasler
+
+with Spore and punish physical attackers that threaten Rillaboom such as
+
+Scizor
+
+with Foul Play. Rillaboom forms strong wallbreaking cores with special attackers like
+
+Sinistcha
+
+and
+
+Hydrapple
+
+. It checks Flutter Mane and
+
+Ting-Lu
+
+for them, and in return, Sinistcha handles
+
+Zamazenta
+
+as well as potentially spreading burns with Matcha Gotcha, while Hydrapple can set up and deal with
+
+Archaludon
+
+if it is not running Draco Meteor.
+
+Ogerpon-H
+
+and
+
+Ogerpon-C
+
+remove foes that Rillaboom struggles with. Specifically, Ogerpon-H deals with Corviknight, Amoonguss, and Choice Specs
+
+Iron Crown
+
+, while Ogerpon-C handles
+
+Moltres
+
+and unboosted
+
+Volcarona
+
+. In return, Rillaboom deals with faster threats such as Choice Scarf
+
+Landorus
+
+and
+
+Greninja
+
+. Choice Scarf Meowscarada outspeeds and threatens speedy threats like
+
+Chien-Pao
+
+and Choice Scarf
+
+Roaring Moon
+
+, and thanks to Protean, it improves Grass's matchup against types like Dragon. Rillaboom's wallbreaking paves the way for opportunities for
+
+Hisuian Lilligant
+
+to clean late-game.
+.
+
+Rillaboom is a strong offensive pivot that can threaten large amounts of damage; it also provides Fake Out support for setup users like
+
+Kingambit
+
+,
+
+Gholdengo
+
+, and
+
+Raging Bolt
+
+and creates free turns for Pokemon such as
+
+Tornadus
+
+and
+
+Diancie
+
+to use their speed control options.
+
+Grassy Glide is a priority option that lets Rillaboom pick up KOs on chipped foes throughout the game and notably 2HKOes
+
+Chien-Pao
+
+and
+
+Ursaluna-B
+
+. Wood Hammer 2HKOes foes that do not resist Grass, including bulky Pokemon such as
+
+Volcanion
+
+,
+
+Landorus-T
+
+, and
+
+Iron Hands
+
+, as well as OHKOing non-Defense boosted Diancie and potentially uninvested
+
+Landorus
+
+.
+
+U-turn provides Rillaboom with an opportunity to pivot throughout the game and make heavy use of its support options. This allows it to keep Grassy Terrain in play as well as cycle Fake Out turns to support its teammates. Rillaboom's offensive presence and Fake Out support enable it to force more defensive plays from opponents, allowing it to pivot and flip matchups.
+
+High Horsepower can be brought instead of Wood Hammer or U-turn, which allows Rillaboom to hit Pokemon that often wall it, such as
+
+Archaludon
+
+, Gholdengo, Volcanion, and
+
+Chi-Yu
+
+. However, losing Wood Hammer or U-turn comes at the cost of being able to threaten fewer OHKOs and pivot less, respectively.
+
+Rillaboom's Grassy Terrain provides recovery for bulky partners like Raging Bolt and Volcanion, enables setup sweepers like Grassy Seed Chi-Yu and Kingambit, and removes Psychic Terrain for priority attackers like Chien-Pao and Kingambit. Due to Rillaboom's immense bulk and U-turn pivoting, its Terrain is able to be set up multiple times per battle easily.
+
+Assault Vest boosts Rillaboom's Special Defense, allowing it to switch in often and making it more effective against Pokemon like Gholdengo and Archaludon. Assault Vest allows Rillaboom to survive one Sludge Bomb from Landorus as well as one Bleakwind Storm from offensive Tornadus.
+
+Tera Fire allows Rillaboom to flip matchups against prolific Fire-, Ice- and Grass-types, such as Chi-Yu,
+
+Incineroar
+
+,
+
+Ogerpon-H
+
+, and Chien-Pao, which it struggles to combat defensively without using Tera. Tera Grass can also be used on teams where Rillaboom is needed to perform more offensively, boosting its STAB Grassy Glide and Wood Hammer. Tera Grass guarantees an OHKO with Wood Hammer and a 2HKO with Grassy Glide against
+
+Ting-Lu
+
+,
+
+Ogerpon-W
+
+, Landorus, and
+
+Walking Wake
+
+.
+
+Rillaboom has the flexibility to fit on almost any team because of its immense utility, power, and bulk. Key teammates include bulky setup Pokemon such as Kingambit, Raging Bolt, and Gholdengo, which appreciate its Grassy Terrain and Fake Out support, providing opportunities to set up and additional recovery. Priority attackers like Chien-Pao, Kingambit, and
+
+Dragonite
+
+appreciate Rillaboom's ability to remove Psychic Terrain. Landorus and Chi-Yu appreciate Rillaboom's offensive presence to threaten their common checks like Ogerpon-W as well as Fake Out support to deliver more turns of devastating attacks.
+
+Welcome to Battle Stadium Singles Regulation F! This Pokemon has been updated to reflect the new Pokemon that The Indigo Disk has brought!
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Rillaboom’s physical stats, Grassy Surge, and decently powerful priority give it a unique niche over
+
+Ogerpon-H
+
+.
+
+U-turn
+
+: Rillaboom is a fairly good pivot, especially when paired with teammates that love Grassy Terrain support like
+
+Raging Bolt
+
+and Grassy Seed
+
+Sneasler
+
+.
+
+Drum Beating versus Wood Hammer
+
+: A secondary Grass-type attack can be considered for extra power. Drum Beating's speed control can help incoming teammates, while Wood Hammer's high Base Power combined with the Terrain Boost can OHKO threats such as
+
+Chien-Pao
+
+,
+
+Flutter Mane
+
+, and
+
+Ursaluna-B
+
+.
+
+High Horsepower
+
+: While Knock Off will deal more initial damage against
+
+Gholdengo
+
+, High Horsepower deals more damage afterwards against particularly bulky Gholdengo, and is Rillaboom's best attack against bulky Fire-types like
+
+Gouging Fire
+
+and
+
+Incineroar
+
+.
+
+Tera Blast
+
+: Tera Blast can be a big commitment, but the ability to flip several important matchups can be worth it, especially if it supports incoming teammates.
+
+Assault Vest versus Choice Band
+
+: Assault Vest is best for making Rillaboom a bulky offensive support Pokemon, letting it take on powerful special attackers like Flutter Mane and Ursaluna-B more effectively. Choice Band is more independent and relies much more on pivoting, but it makes Rillaboom an awesome revenge killer that strikes fear into the heart of all but very bulky Flutter Mane!
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Rillaboom generally wants to save Tera for a teammate, but many poor matchups can be turned around with Terastallization when needed.
+
+Fire
+
+: Tera Fire grants a Fairy resistance alongside Fire and Ice resistances for Ogerpon-H and Chien-Pao, as well as protection from burn spreaders like
+
+Entei
+
+. However, this comes at the expense of no longer being able to defensively check
+
+Urshifu-R
+
+.
+
+Rock
+
+: Tera Rock can flip the script on Extreme Speed
+
+Dragonite
+
+, Ogerpon-H, and Gouging Fire by resisting their best attack and retaliating with big damage from Tera Blast.
+
+Grass
+
+: Tera Grass makes Grassy Glide even more effective at sniping foes, with Assault Vest Rillaboom now being able to OHKO offensive Urshifu-R.
+
+Ice
+
+: Tera Ice is a poor defensive type outside of the
+
+Iron Bundle
+
+matchup, but with Tera Blast, it's Rillaboom’s most powerful option for hitting Dragonite and
+
+Landorus-T
+
+.
+
+Water
+
+: Tera Water provides a balanced defensive profile, giving Rillaboom Ice and Fire resistances while maintaining its matchup into Urshifu-R.
+
+Alternate EV Spreads
+
+140 HP / 148 Atk / 4 Def / 156 SpD / 60 Spe with Adamant
+
+: With Assault Vest and Grassy Surge recovery, this spread avoids the 2HKO from Iron Bundle's Freeze-Dry without having to Terastallize. The Speed investment lets Rillaboom outrun Jolly
+
+Garchomp
+
+after a single Drum Beating.
+
+4 HP / 252 Atk / 252 Spe with Adamant or Jolly
+
+: Severely compromising Rillaboom's bulk is risky, but outspeeding Modest or Timid Gholdengo depending on the nature used can be a big surprise when using Choice Band Rillaboom.
+
+Grassy Seed turns Rillaboom into a bulky late-game sweeper, particularly one that can stand up to the dreaded
+
+Basculegion
+
+!
+
+Acrobatics
+
+: Acrobatics pairs excellently with Grassy Seed's instant usage and is Rillaboom's strongest option against
+
+Dragonite
+
+if not using Tera Blast.
+
+Tera Blast
+
+: While it mandates using Tera on Rillaboom, Tera Blast is a great option for expanding Rillaboom's shallow offensive coverage.
+
+EV Spreads
+
+12 HP EVs and Grassy Seed
+
+: Thanks to the Defense boost from Grassy Seed, it only takes 12 HP EVs to guarantee that non-Terastallized Rillaboom will survive Adamant
+
+Chien-Pao
+
+'s Icicle Crash!
+
+140 HP / 252 Atk / 12 Def / 92 SpD / 12 Spe
+
+: This EV spread avoids the OHKO from Modest Choice Specs
+
+Flutter Mane
+
+'s Moonblast as well as the 2HKO (or OHKO if Tera Rock) from both
+
+Urshifu
+
+formes' Close Combat. The HP EVs help Rillaboom get the most efficient recovery out of Grassy Terrain. Finally, thek given Speed EVs let Rillaboom outrun up to paralyzed
+
+Dragapult
+
+.
+
+12 HP / 244 Atk / 252 Spe
+
+: An offensive spread still works well with Grassy Seed, and the investment in Speed lets Rillaboom outrun Modest
+
+Gholdengo
+
+, Adamant Dragonite, and Jolly
+
+Breloom
+
+.
+
+Tera Types
+
+Tera Dependency - Medium / High
+
+: Terastallization is often needed to help Rillaboom get going, either by taking attacks from would-be counters or blowing through key matchups with Tera Blast.
+
+Fire
+
+: Tera Fire lets Rillaboom defend against Chien-Pao's and
+
+Ogerpon-H
+
+'s best attacks simultaneously. It also works great alongside Grassy Surge, reducing Earthquake's damage back to neutral levels.
+
+Rock
+
+: Tera Rock with Tera Blast gives Rillaboom a well-rounded matchup into Dragonite, allowing it to deal super effective damage while also resisting Extreme Speed. Earthquake is less of a problem too thanks to Grassy Terrain!
+
+Ice
+
+: Tera Ice is used offensively with Tera Blast to blindside targets like Dragonite and
+
+Landorus-T
+
+. While it is lacking defensively, it does still give Rillaboom a useful Ice resistance versus Chien-Pao.
+
+Grass
+
+: Tera Grass is a bit more unorthodox, but the boost to Grassy Glide gives Rillaboom more immediate revenge killing power.
+
+Rillaboom maintains its status as a premier Fake Out pivot thanks to U-turn, Grassy Glide, and Grassy Terrain. Rillaboom fits on many archetypes and has a wide range of playstyles. Rillaboom is a great counter to Water-types like
+
+Urshifu-R
+
+and
+
+Ogerpon-W
+
+, as it is able to switch into their attacks and pressure them for huge damage if not a KO.
+
+Assault Vest Rillaboom is the most common set currently, as it checks
+
+Flutter Mane
+
+, and can switch in on special threats and threaten with Fake Out or Grassy Glide.
+
+Common Rillaboom partners include Urshifu-R and
+
+Incineroar
+
+to complete the Fire / Water / Grass core, and more offensive sets pair well with
+
+Entei
+
+and
+
+Chien-Pao
+
+with priority spam. Other great partners are defensive Pokemon such as Calm Mind
+
+Raging Bolt
+
+that benefit from Grassy Terrain recovery and Fake Out.
+
+Common Rillaboom checks include Fire-types, Intimidate Pokemon to greatly reduce Rillaboom's damage output, and Pokemon that resist Grass. This includes Entei,
+
+Dragonite
+
+, and especially Incineroar.
+
+Rillaboom is generally restricted to Fake Out, Wood Hammer, and Grassy Glide, with the 4th move usually being U-turn to pivot and sometimes High Horsepower to check Fire- and Steel-types, that would otherwise completely wall Rillaboom.
+
+Rillaboom may run Tera Grass to boost its already high levels of damage, or Tera Fire to stay in on common threats such as
+
+Incineroar
+
+and
+
+Chien-Pao
+
+and U-turn out to safely bring in a frailer Pokemon.
+
+The EV spread allows Rillaboom to almost always survive
+
+Entei
+
+'s Sacred Fire and avoid the 2HKO from Protosythesis-boosted
+
+Flutter Mane
+
+'s Moonblast while retaliating with a OHKO. Thanks to its priority moves, Rillaboom can afford to not invest in Speed.
+
+Clear Amulet Rillaboom works well with Pokemon that would benefit from Rillaboom's Grassy Terrain and offensive presence, such as Assault Vest
+
+Raging Bolt
+
+.
+
+High Horsepower is used as coverage to deal super effective damage to Pokemon such as
+
+Gholdengo
+
+, Raging Bolt, and
+
+Incineroar
+
+.
+
+Clear Amulet provides immunity to
+
+Hisuian Arcanine
+
+'s and Incineroar's Intimidates and Speed drops from
+
+Flutter Mane
+
+'s Icy Wind and Raging Bolt's Electroweb.
+
+The first EV spread allows Rillaboom to survive Special Attack Booster Energy Raging Bolt's +1 Dragon Pulse. The second EV spread allows Rillaboom to outspeed Jolly Incineroar. In both of these EV spreads, the rest of the EVs have been dumped into Attack to maximize offense.
+
+Tera Fire gives Rillaboom a resistance to Fairy-type moves such as Flutter Mane's Moonblast and an immunity to burn. Tera Water allows Rillaboom to keep its resistance to Water while providing most of the resistances Tera Fire provides. Both Tera types provide Rillaboom with resistances to Fire-type attacks such as Incineroar's Flare Blitz and
+
+Ogerpon-H
+
+'s Ivy Cudgel, Ice-type attacks such as
+
+Articuno
+
+'s Blizzard, and Steel-type attacks such as Gholdengo's Make It Rain and
+
+Iron Crown
+
+'s Tachyon Cutter. Tera Ground is used to give STAB to High Horsepower, ensuring 2HKOs on Pokemon that resist Rillaboom's Grass-type moves such as Incineroar, Raging Bolt, and Tera Poison
+
+Ting-Lu
+
+. Tera Ground also offers a resistance to Poison-type moves such as
+
+Landorus
+
+'s Sludge Bomb.
+
+Maximum Attack along with Tera Grass allows Rillaboom to always KO
+
+Flutter Mane
+
+with Sword of Ruin-boosted Grassy Glide. Protect is favored as the last move, as Rillaboom loses a lot of the bulk from the Assault Vest.
+
+This set generally looks for all-or-nothing plays, picking up OHKOs against common tanks such as
+
+Iron Hands
+
+,
+
+Farigiraf
+
+, and
+
+Ogerpon-W
+
+with Wood Hammer, and picking up KOs on frailer pokemon with Grassy Glide.
+
+This set can struggle against Intimidate, especially
+
+Incineroar
+
+, as the sudden drop to its Attack can severely minimize the absurdity of Rillaboom's attacks, allowing bulkier Pokemon to survive a boosted Wood Hammer.
+
+The EV spread allows Rillaboom to survive Tera Stellar Ice Spinner from
+
+Chien-Pao
+
+at -1 and almost always take Fairy Feather Tera Fairy Flutter Mane's Moonblast. Rillaboom can afford to forgo Speed investment, as it already outspeeds common slow Pokemon like Farigiraf and Incineroar.
+
+Rillaboom is one of Regulation G's strongest pivots, slotting well into most teams because of its extremely flexible toolkit. Terrain control is especially valuable in a format where
+
+Miraidon
+
+and
+
+Indeedee-F
+
+are prevalent, with Grassy Terrain elevating Wood Hammer's damage to nuclear levels. Fake Out and Grassy Glide provide strong utility, with the latter threatening the many foes that outspeed Rillaboom and being able to pick off low HP targets. U-turn is generally preferred to give Rillaboom a pivot option, but High Horsepower can also be used as coverage for
+
+Incineroar
+
+and
+
+Raging Bolt
+
+. Assault Vest is used to match up better into special threats such as
+
+Tornadus
+
+and
+
+Calyrex-S
+
+, as well as because Rillaboom doesn't run status moves regardless. The Speed investment outspeeds Calyrex-S while under Tailwind, while the bulk investment makes Astral Barrage from Life Orb Calyrex-S almost always a 3HKO after terrain recovery and allows Rillaboom to live a Flare Blitz from Incineroar. The Attack investment almost always OHKOes
+
+Urshifu-R
+
+at -1 Attack with Wood Hammer.
+
+Rillaboom is strong with any Restricted Pokemon that benefits from its offensive coverage or its terrain and Fake Out granting longevity and setup opportunity, respectively, such as Calyrex-S,
+
+Terapagos
+
+, and
+
+Kyogre
+
+, with the former two appreciating Rillaboom removing Urshifu-R, a counter for both. Rillaboom doesn't need any particular support to function, but Pokemon that complete the Fire / Water Grass defensive core such as Incineroar and Urshifu-R work well. The former can make Rillaboom even harder to KO with Intimidate and has its own Fake Out to complement Rillaboom's cycling, while the latter presents a more offensive threat that hits through Protect, the most common way to beat Fake Out. Rillaboom's worst matchups are those that either resist its Grass-type STAB moves or can weaken its attacks. Opposing Incineroar are a prime example, resisting Grass and hampering its damage with Intimidate.
+
+Rillaboom's offensive prowess and strong STAB moves, boosted further by Grassy Terrain, make it one of strongest physical attackers in the metagame. Grassy Terrain also plays an important role of overriding other Terrains such as Electric Terrain from
+
+Miraidon
+
+and Psychic Terrain from
+
+Indeedee-F
+
+. Grassy Glide is used, since it allows Rillaboom to threaten Pokemon that are faster than it like
+
+Urshifu-R
+
+. High Horsepower is used to threaten super effective damage on Pokemon like
+
+Raging Bolt
+
+, Miraidon, and
+
+Incineroar
+
+. U-turn allows Rillaboom to switch in and out of the battle, helping it reset Grassy Terrain consistently. Protect can be utilized on Miracle Seed variants to block Fake Out as well as stall Trick Room. Choice Band allows Rillaboom to OHKO foes it normally doesn't, while Miracle Seed allows Rillaboom to use Fake Out and means that Rillaboom isn't locked into a single move. The EV spread allows Rillaboom to OHKO Urshifu-R with Miracle Seed Grassy Glide and almost always OHKO
+
+Calyrex-I
+
+with Choice Band Tera Grass Wood Hammer. In conjunction with Choice Band, Rillaboom can OHKO Miraidon with High Horsepower. The defensive investment allows Rillaboom to survive a Flare Blitz from Incineroar. Tera Grass is used to amplify Rillaboom's damage, while Tera Fire is used defensively to resist Fire- and Ice-type moves like Flare Blitz from Incineroar and Ice Spinner from
+
+Chien-Pao
+
+. Tera Fire can also be used to gain immunity to Will-O-Wisp.
+
+Rillaboom is a great partner to
+
+Zamazenta-C
+
+, which appreciates its offensive capability to threaten Pokemon like Urshifu-R,
+
+Calyrex-S
+
+, and
+
+Kyogre
+
+. Wide Guard support from Zamazenta-C can protect Rillaboom from spread moves like Glacial Lance and Astral Barrage, allowing it to stay on the field longer. Rillaboom pairs well with Chien-Pao, which provides another multiplier to Rillaboom's nuclear damage through Sword of Ruin; in return, Rillaboom helps Chien-Pao by OHKOing Urshifu-R. Urshifu-R and Incineroar are great teammates as well, as the trio forms the Fire / Water / Grass core. Rillaboom has a bad matchup against Incineroar and
+
+Tornadus
+
+, which resist its moves and threaten it with Flare Blitz and Bleakwind Storm, respectively. Furthermore, Incineroar is a counter to Rillaboom thanks to Intimidate and its ability to threaten Fake Out on Choice Band variants. Chien-Pao is another check, which can survive one attack thanks to Focus Sash and OHKO Rillaboom with Ice Spinner or Icicle Crash.
+
+Set Details
+
+Rillaboom is a strong physical attacker and a flexible positional piece. Grassy Surge is able to power up its Grass-type attacks while giving its team passive recovery and Terrain control against
+
+Miraidon
+
+and
+
+Indeedee-F
+
+compositions. Its access to Fake Out and U-turn help partners set up and position safely. Its Grass-type STAB moves are valuable to hit the format's Water-types, such as
+
+Urshifu-R
+
+and Tera Water
+
+Calyrex-I
+
+.
+
+Rillaboom runs both Wood Hammer and Grassy Glide to give it access to both strong burst damage and a priority attack to pick off foes at low HP, such as Choice Scarf
+
+Urshifu
+
+and
+
+Calyrex-S
+
+. High Horsepower can also be run to hit Pokemon like
+
+Incineroar
+
+, Miraidon, and
+
+Raging Bolt
+
+, though it prefers to run U-turn to help the team position correctly and reset Fake Out pressure.
+
+Assault Vest patches up Rillaboom's mediocre Special Defense, allowing it to better take on special attackers such as Miraidon, Calyrex-S, and
+
+Kyogre
+
+. Its inability to use Protect is less relevant, as Rillaboom would often prefer to switch out when threatened in order to reset Fake Out pressure.
+
+The allocated bulk allows Rillaboom to survive Helping Hand Draco Meteor from Timid Choice Specs Miraidon in the Grassy Terrain or a +2 Astral Barrage from Life Orb or Tera Ghost Calyex-S. The Attack investment allows Rillaboom to OHKO bulky
+
+Flutter Mane
+
+with Wood Hammer.
+
+Tera Fire gives Rillaboom a resistance to the Ice and Fire-type attacks it was previously weak to, such as
+
+Chien-Pao
+
+'s Icicle Crash, Calyrex-I's Glacial Lance, and
+
+Chi-Yu
+
+'s Fire-type STAB moves. Tera Water gives similar defensive properties but doesn't leave Rillaboom weak to Calyrex-I's High Horsepower or Kyogre's Water-type STAB moves. In exchange, Tera Water Rillaboom gives up the immunity to getting burned and makes itself vulnerable against opposing Rillaboom.
+
+Teambuilding
+
+Calyrex-I,
+
+Koraidon
+
+,
+
+Ogerpon-H
+
+, Chi-Yu, and Chien-Pao all threaten to OHKO Rillaboom with their respective Fire and Ice-type attacks.
+
+Rillaboom does not threaten
+
+Zamazenta-C
+
+or
+
+Zacian-C
+
+, while both threaten significant damage back.
+
+Incineroar and Urshifu-R commonly pair with Rillaboom to form a Fire / Water / Grass core on balance teams. Incineroar and Urshifu-R are strong into the likes of Calyrex-I, Ogerpon-H, Chi-Yu, and Chien-Pao.
+
+Calyrex-S and
+
+Terapagos
+
+appreciate Rillaboom's Fake Out support to allow them to set up, while Terapagos especially appreciates Rillaboom's Grassy Terrain recovery resetting Tera Shell. Calyrex-S can also remove opposing Koraidon.
+
+Zamazenta-C appreciates Rillaboom's ability to remove physically bulky Water-types such as Urshifu-R and Tera-Water Calyrex-I, and it can protect Rillaboom from Glacial Lance thanks to Wide Guard. Zamazenta-C can also remove Chien-Pao to free up Rillaboom.
+
+Assault Vest Rillaboom excels at being a bulky pivot that is able to support its team with Fake Out and Grassy Terrain recovery while having high damage output with Wood Hammer. Rillaboom synergizes very well with setup Pokemon that appreciate the free turns that Fake Out provides as well as the healing from Grassy Terrain.
+
+Grassy Glide allows Rillaboom to take care of weakened foes, while Wood Hammer compensates for the low power of Grassy Glide to operate as a nuke. U-turn is usually the last move of choice on Rillaboom, as it allows one of its partners to come in safely while chipping down the foe, but Rillaboom can forgo it for High Horsepower, which allows Rillaboom to hit common Steel- and Fire-types such as
+
+Kingambit
+
+,
+
+Gholdengo
+
+, and
+
+Incineroar
+
+.
+
+Assault Vest is used on Rillaboom, as it enhances Rillaboom's ability to pivot, with the tradeoff being that it is unable to run status moves such as Protect and Taunt.
+
+Tera Fire gives Rillaboom an immunity to Will-O-Wisp and a resistance to common Fire- and Steel-type moves from Pokemon such as Incineroar,
+
+Hisuian Typhlosion
+
+, and Gholdengo.
+
+The Speed investment allows Rillaboom to outspeed maximum Speed
+
+Tyranitar
+
+and uninvested
+
+Annihilape
+
+, while the Attack investment allows Rillaboom to OHKO both
+
+Ursaluna
+
+formes with Wood Hammer. The bulk allows Rillaboom to live Flare Blitz from Incineroar, two Ice Beams from
+
+Porygon2
+
+, and a +1 Fiery Dance from
+
+Volcarona
+
+.
+
+Assault Vest Rillaboom is able to function a lot more effectively as a bulky pivot, as it is able to switch into special moves more easily. This is particularly helpful against teams that are more offensive in nature, such as hard Trick Room teams and Tailwind hyper offense teams that usually use strong specially offensive Pokemon such as Gholdengo and
+
+Hatterene
+
+to break through teams.
+
+Miracle Seed Rillaboom is an offensive piece that can still support its team with Fake Out, Grassy Terrain, and utility in U-turn pivoting or Taunt.
+
+U-turn is the fourth move of choice on most Miracle Seed Rillaboom; however, Taunt can be used instead to help shut down
+
+Amoonguss
+
+, and Protect can be used to aid in positioning.
+
+Miracle Seed allows Rillaboom to OHKO
+
+Primarina
+
+and
+
+Basculegion
+
+with Grassy Glide and OHKO
+
+Maushold
+
+with Wood Hammer.
+
+Rillaboom does not Terastallize often, but Tera Grass can be used to finish off low HP Pokemon with Grassy Glide or to nuke bulkier threats. For example, Tera Grass allows Rillaboom to OHKO
+
+Annihilape
+
+with Wood Hammer. Tera Fire gives Rillaboom an immunity to Will-O-Wisp from
+
+Magmar
+
+and a resistance to common Fire- and Steel-type moves from Pokemon such as
+
+Incineroar
+
+,
+
+Hisuian Typhlosion
+
+, and
+
+Gholdengo
+
+.
+
+The EV spread allows Rillaboom to survive a +2 Shadow Ball from Gholdengo, a Flare Blitz from Incineroar, and a Dire Claw from
+
+Sneasler
+
+.
+
+Miracle Seed Rillaboom is able to deal extra damage, allowing it to break through teams more effectively. Additionally, it is able to use status moves such as Taunt and Protect that are not available to Assault Vest Rillaboom. However, Miracle Seed Rillaboom is less effective as a defensive pivot, as it takes significantly more damage from special moves.
+
+Teambuilding
+
+Rillaboom can be used with basically anything, as a lot of Pokemon appreciate its supportive toolkit. However, the Pokemon that Rillaboom synergizes the most with are, as stated before, setup Pokemon. Setup Pokemon appreciate Fake Out and Grassy Terrain from Rillaboom; the former gives them space to set up, while the latter offers residual healing, increasing their survivability. Rillaboom also appreciates partners that can help against Fire-types, such as
+
+Incineroar
+
+, and Steel-types, such as
+
+Archaludon
+
+and
+
+Kingambit
+
+.
+
+Primarina
+
+and
+
+Sneasler
+
+are great partners for Rillaboom, as they help with the aforementioned checks, while Rillaboom can help against the Water-types that resist Primarina's Hyper Voice and double Sneasler's Speed by using Grassy Terrain to activate Grassy Seed, triggering Unburden. Kingambit,
+
+Gholdengo
+
+, and
+
+Volcarona
+
+are the main setup partners for Rillaboom; Kingambit scares away Incineroar, Gholdengo offers quick setup and spread damage, and Volcarona is able to KO the Grass-types that resist Wood Hammer.
+
+Rillaboom's main weakness is its typing. Grass may be good defensively because it lets Rillaboom switch in easily, but it is not great offensively in this metagame, as a plethora of Pokemon resist Wood Hammer such as
+
+Amoonguss
+
+, Gholdengo, Archaludon, Kingambit, and Incineroar. The main way around this is to utilize Rillaboom's support capabilities when it cannot offer anything offensively in the position and pivot intelligently. Sneasler is another big threat, as it has a faster Fake Out than Rillaboom and can threaten it with Dire Claw. Bulky redirectors, such as
+
+Magmar
+
+and
+
+Electabuzz
+
+, can take big hits from Sneasler for Rillaboom. Smart pivoting and chipping Sneasler down throughout the game are how Rillaboom is able to get rid of it.
+
+Strategy Comments
+
+Rillaboom's role is as a bulky support Pokemon that can still do great damage. Pivot with U-turn to cycle Fake Out, giving its partner free turns, and, when possible, nuke foes with powerful Wood Hammers and Grassy Glides.
+
+Rillaboom is usually a valuable part of the team throughout a game. In the beginning, Rillaboom is able to leverage Fake Out to allow its partner to set up early or get early damage off. Rillaboom usually pivots during the middle of the game to get more use out of Fake Out and get Grassy Terrain back on the field. Rillaboom chips down the opposing team throughout the game, but it excels at cleaning up in endgames thanks to its access to priority moves and high damage output.
+
+The biggest checks to Rillaboom are Pokemon that resist Grass. When playing against these Pokemon, it is important to pivot out with U-turn to preserve Rillaboom and allow it to get more value later in the game with its attacks. Additionally, partners such as the aforementioned Sneasler and Primarina can help against these Grass-resistant foes.
+
+Draft Order
+
+: Round 4 onwards
+
+Price Range
+
+: 10-11 points
+
+Overview
+
+: As the strongest Terrain setter in the format, Rillaboom is coveted for the support it can provide to a team as well as its individual strengths. Thanks to a high Attack stat and strong terrain-boosted STAB attacks—including a priority move—Rillaboom can break down many walls and threaten to sweep teams as well. On top of this, it has solid utility options and can be a good pivot in the matchups where it may struggle to wallbreak. Despite these strengths, solid but unremarkable stats outside Attack, as well as the inability to threaten some common typings, means Rillaboom should not be picked too early.
+
+Common Roles
+
+Wallbreaker
+
+: Rillaboom can use its strong Terrain-boosted STAB attacks in conjunction with damage-boosting items, such as Choice Band, to wallbreak with consistency. Grassy Glide also allows Rillaboom to break through faster offensive checks and setup sweepers with ease.
+
+Bulky Utility Pivot
+
+: Rillaboom may take a more defensive and supportive role that focuses on its very respectable bulk and strong utility move options, such as Knock Off, U-turn, and Leech Seed, to disrupt foes.
+
+Setup Sweeper
+
+: Rillaboom can use its setup options—Swords Dance and Bulk Up—to break through Pokemon that would typically check or wall to Rillaboom and secure KOs. Rillaboom can also clean teams after setting up with its strong priority Grassy Glide.
+
+Common Moves
+
+Primary STAB Moves
+
+: Wood Hammer, Grassy Glide, Drum Beating
+
+Setup Moves
+
+: Swords Dance, Bulk Up
+
+Utility Moves
+
+: Knock Off, U-turn, Leech Seed, Taunt, Substitute, Protect, Brick Break
+
+Coverage
+
+: High Horsepower, Low Kick, Drain Punch, Hammer Arm
+
+Niche Moves
+
+Acrobatics
+
+: Acrobatics can be found on sets with the item Grassy Seed so it may be boosted to full power when Rillaboom switches in.
+
+Trailblaze
+
+: Trailblaze can be used on setup variants to boost Rillaboom's mediocre Speed, creating more sweeping potential.
+
+Bullet Seed
+
+Bullet seed can be a viable STAB attack for Rillaboom if it may be benefited by a multi-hit and non-contact Grass attack.
+
+Common Items
+
+Choice Band
+
+: Choice Band allows a wallbreaking Rillaboom to repeatedly dish out strong STAB attacks that even most resistances cannot weather.
+
+Miracle Seed / Life Orb
+
+: These damage-boosting items can help wallbreaking and sweeping variants thrive, as they allow more flexibility to set up and switch attacks.
+
+Assault Vest
+
+: Assault Vest lets Rillaboom take more advantage of its strong STAB attacks, useful options Knock Off and U-turn, and coverage.
+
+Leftovers
+
+: Leftovers will often be found on bulkier utility oriented sets that wish to check foes and disrupt the opposing team with increased longevity.
+
+Heavy-Duty Boots
+
+: Against entry hazard stacking teams, Heavy-Duty Boots prevents hazards from weakening Rillaboom too severely. This is especially useful on sets that will frequently be pivoting with U-turn.
+
+Niche Items
+
+Protective Pads
+
+: Protective Pads can be incredibly useful in order to avoid contact against Rocky Helmet users. Rillaboom can freely use contact moves against teams featuring Pokemon with abilities such as Flame Body and Static as well.
+
+Choice Scarf
+
+: Choice Scarf helps Rillaboom overcome its mediocre Speed stat, enabling it to dish out more strong attacks and serve as a fast pivot. This is preferable to damage-boosting items, as you can attack first with stronger moves compared to Grassy Glide and less Terrain-reliant.
+
+Terrain Extender
+
+: Terrain Extender can provide extra turns in Grassy Terrain to further support Rillaboom’s teammates.
+
+Rocky Helmet
+
+: A Rocky Helmet can find use on bulkier sets, allowing Rillaboom to punish contact moves.
+
+Resistance Berries
+
+: In a pinch, Resistance Berries such as Occa Berry and Coba Berry can allow Rillaboom to unexpectedly survive an attack, gaining an extra turn to setup or damage a foe.
+
+Grassy Seed
+
+: Grassy Seed can provide Rillaboom a boost to its Defense, allowing it to check a certain threat or set up with increased ease. This item also boosts Acrobatics to full power upon consumption.
+
+Tera
+
+Although not ideally your Tera Captain due to a plethora of more effective higher tier Tera Captains, Rillaboom can use Tera effectively in several ways. Rillaboom can use Tera Grass to obliterate most walls that stand in its way and further enhance Grassy Glide. Rillaboom can also use offensive Tera Types such as Tera Electric, Ground, and Fairy for coverage to hit common checks harder. Some useful defensive Tera types include Fire, Steel, and Poison, which create better defensive matchups and remove specific weaknesses.
+
+Draft Strategy
+
+While not the centerpiece of your team, Rillaboom should be drafted with the intention of supporting early-round picks and allowing for more niche and flawed teammates that it can support. Rillaboom can offer a lot to a team with its incredibly strong wallbreaking power, solid utility, pivoting capabilities, and Terrain support.
+
+Unburden Pokemon
+
+: Rillaboom is a very consistent enabler of Unburden Pokemon, as they may use a Grassy Seed to easily activate their ability and sweep. Pokemon such as
+
+Sneasler
+
+and
+
+Hawlucha
+
+appreciate this option.
+
+Special Wallbreakers
+
+: Rillaboom does a great job supporting special wallbreakers, as it can safely pivot into them and remove items from foes with Knock Off. As Rillaboom encourages walls to run more physical defense, special wallbreakers in particular, such as
+
+Chi-Yu
+
+and
+
+Iron Moth
+
+, can be great pairs. These types of Pokemon also enable Rillaboom to clean up late-game with Grassy Glide.
+
+Earthquake-weak Pokemon
+
+: Rillaboom’s Grassy Terrain can be a great aid to a number of Pokemon that are typically very weak to Earthquake if the foe does not have access to Ground coverage unaffected by Grassy Terrain. Pokemon such as
+
+Gholdengo
+
+,
+
+Galarian Slowking
+
+, and
+
+Raging Bolt
+
+all enjoy this support greatly but must be wary of moves such as High Horsepower and Stomping Tantrum.
+
+Entry Hazards
+
+: By forcing switches frequently and consistently removing items, Rillaboom can be a great fit on hazard stacking teams. Pokemon such as
+
+Glimmora
+
+and
+
+Hisuian Samurott
+
+can make for fantastic teammates. It is worth noting Grassy Terrain may partially mitigate the effects of said hazards.
+
+Pokemon Lacking Recovery
+
+: Rillaboom’s Grassy Terrain can be of great help to bulkier Pokemon that lack reliable recovery in their learnsets, especially if it uses Terrain Extender. Pokemon such as
+
+Heatran
+
+and
+
+Iron Hands
+
+really appreciate the added longevity.
+
+Checks and Counters
+
+Bulky Grass resistances
+
+: Rillaboom, which often uses Choice items and is at its best using its strong STAB attacks, may struggle against bulkier Grass-type resistances. Flying is a great type that resists Rillaboom's STAB attacks and coverage, but various Fire-, Poison-, Steel-, and Bug-type Pokemon are also capable checks. Pokemon such as
+
+Gouging Fire
+
+,
+
+Zapdos
+
+, and
+
+Corviknight
+
+fit this role.
+
+Faster Offensive Checks
+
+: Due to a mediocre Speed stat and defensive typing, Rillaboom can be checked by a number of threats so long as Grassy Glide does not KO them outright. Pokemon such as Gouging Fire,
+
+Tornadus-T
+
+, and Iron Moth all check Rillaboom offensively and force a switch.
+
+Rocky Helmet / Contact-punishing Abilities
+
+: Rocky Helmet and abilities like Flame Body and Static can threaten Rillaboom’s success, as it primarily uses contact moves.
+
+Ice Spinner Users
+
+: While hitting Rillaboom super effectively, the removal of Terrain hinders its support for teammates and Grassy Glide.
+
+Rillaboom is a fairly powerful physical attacker with solid bulk, setting up Grassy Terrain to aid its teammates and throw off a high-Base Power priority STAB move. High Horsepower provides valuable coverage against otherwise problematic Fire- and Poison-types like
+
+Chi-Yu
+
+,
+
+Arceus-Poison
+
+, and
+
+Galarian Slowking
+
+, as well as dealing with Steel-types such as
+
+Solgaleo
+
+and
+
+Kingambit
+
+. Alternatively, Knock Off serves as a valuable utility tool, as well as providing more power against Psychic- and Ghost-types like
+
+Mewtwo
+
+and
+
+Giratina
+
+. Tera Grass's power boost gives Rillaboom a 50% chance to OHKO bulky
+
+Great Tusk
+
+and a guaranteed OHKO on
+
+Regieleki
+
+with Grassy Glide. In terms of useful teammates,
+
+Sneasler
+
+is a very strong pick, because Grassy Terrain activates its Grassy Terrain + Unburden combination, raising its Speed to extremely high levels and providing a nice Defense boost; additionally, Grassy Terrain reducing Earthquake's damage improves its survivability even further. Bulky Pokemon without reliable recovery like
+
+Magearna
+
+and
+
+Palkia-O
+
+are also aided by the recovery effect of Grassy Terrain. Rillaboom fears strong, faster attackers that it can't threaten with its coverage, such as Chi-Yu, Arceus-Poison,
+
+Chien-Pao
+
+, and
+
+Kyurem-W
+
+, so Pokemon that can take these threats on like
+
+Zamazenta-C
+
+,
+
+Zacian
+
+, and Choice Scarf
+
+Landorus
+
+are helpful partners. Grassy Terrain nerfing Earthquake's damage aids many other Pokemon that are vulnerable to Ground-types, such as Arceus-Poison, Solgaleo, and Chi-Yu.
+
+Choice Band Rillaboom is an incredibly strong wallbreaker that threatens almost all defensive cores because of terrain-boosted Wood Hammer and its synergy with entry hazard setters thanks to Knock Off. Grassy Glide provides Rillaboom with speed control, threatening faster Pokemon like
+
+Ogerpon-C
+
+,
+
+Ogerpon-W
+
+,
+
+Weavile
+
+, and Bulk Up
+
+Great Tusk
+
+alongside some potential prior chip damage. U-turn lets Rillaboom make progress by forcing in counters like
+
+Skarmory
+
+and
+
+Pecharunt
+
+for another teammate to pressure. Tera Grass boosts the damage of Wood Hammer and Grassy Glide to absurd levels, giving Rillaboom the ability to 2HKO physically bulky Grass-resistant foes like
+
+Necrozma-DM
+
+and
+
+Mandibuzz
+
+with Wood Hammer and OHKO Ogerpon-W,
+
+Iron Valiant
+
+, and Great Tusk with Grassy Glide.
+
+Choice Band Rillaboom best fits on offense and balance teams looking for a strong wallbreaker with priority. High Attack gods like Necrozma-DM and
+
+Rayquaza
+
+are mandatory, as Rillaboom's base Attack is not enough to overwhelm cores. Teammates that can make use of Grassy Terrain like
+
+Sneasler
+
+,
+
+Hisuian Electrode
+
+, and Pecharunt are good partners, with Sneasler being able to activate Unburden, Hisuian Electrode gaining significant power on its Leaf Storm, and Pecharunt both taking less damage from Earthquake and gaining extra recovery while providing pivoting with Parting Shot. Pivots like
+
+Sandy Shocks
+
+, Hisuian Electrode, and
+
+Iron Moth
+
+that can pressure Grass-resistant foes make for great teammates, as they can pressure the few switch-ins to Rillaboom, especially Skarmory,
+
+Moltres
+
+, and
+
+Hydrapple
+
+, while also creating VoltTurn cores. Slow pivots like
+
+Slowking
+
+, Mandibuzz, and Pecharunt help Rillaboom switch in safely, allowing it more chances to wallbreak. Spikes setters like Skarmory,
+
+Ting-Lu
+
+, and Sandy Shocks make for fantastic teammates, as they, in conjunction with Knock Off from Rillaboom or other teammates, considerably chip grounded foes who don't have Heavy-Duty Boots like Pecharunt, Necrozma-DM, and Tera Steel users like Slowking and
+
+Clodsire
+
+. Similarly, Stealth Rock setters like
+
+Landorus-T
+
+,
+
+Clefable
+
+, and Necrozma-DM make for great teammates, with the former having U-turn and the latter two also having Knock Off to reduce the necessity for Rillaboom to use Knock Off itself.
+
+Rillaboom is a viable wallbreaker and cleaner thanks to Grassy Surge giving its STAB moves higher power and providing priority to Grassy Glide. U-turn allows Rillaboom to keep up momentum for its team and gives it utility versus teams packing several Grass-resistant Pokemon. Superpower allows Rillaboom to slam
+
+Ferrothorn
+
+,
+
+Heatran
+
+, and
+
+Kingambit
+
+. Knock Off 2HKOes all variants of
+
+Gholdengo
+
+and allows Rillaboom to remove items from the likes of
+
+Zapdos
+
+,
+
+Moltres
+
+, and
+
+Corviknight
+
+. High Horsepower is an option that OHKOes offensive Gholdengo, OHKOes uninvested
+
+Raging Bolt
+
+after Stealth Rock, and still hits Steel-types like Heatran,
+
+Melmetal
+
+, and Kingambit hard, but the benefits are generally very marginal compared to what Superpower and Knock Off offer. Choice Band combined with an Adamant nature allow Rillaboom to hit as hard as possible, and, combined with Grassy Surge, notably makes Wood Hammer 2HKO even bulky resists such as
+
+Galarian Slowking
+
+and Kingambit.
+
+Rillaboom makes for an interesting addition to teams thanks to its unique offensive profile alongside providing its team with Grassy Terrain support. Grassy Terrain is excellent support for several of the tier's Steel-types, as it removes their weakness to Earthquake and provides them with additional recovery. Melmetal, Gholdengo, and Kingambit are notable beneficiaries that also switch into Ice- and Bug-type attacks from
+
+Mega Scizor
+
+,
+
+Kyurem
+
+, and
+
+Weavile
+
+for Rillaboom. They can also help pressure their shared checks in Moltres, Zapdos, and Corviknight via Knock Off from Kingambit, status from Melmetal, or raw wallbreaking power from Gholdengo. Rillaboom greatly dislikes Fire-types, as Heatran,
+
+Mega Charizard Y
+
+, and Moltres all have a 4x resistance to its STAB moves and threaten it in return. Bulky Water- and Dragon-types such as
+
+Toxapex
+
+,
+
+Mega Latios
+
+, Raging Bolt, and
+
+Dragonite
+
+can safely come in on these threats and force them out, although Toxapex fears being trapped by Heatran.
+
+Roaring Moon
+
+,
+
+Alomomola
+
+, and
+
+Slowbro
+
+are less ironclad against these specific threats but make up for that via their pivoting moves to get Rillaboom in safely and create a pivoting core with it. Rillaboom's Grassy Glide makes it adept at revenge killing faster Water-, Ground-, and Rock-types such as
+
+Urshifu-R
+
+,
+
+Mega Diancie
+
+, and
+
+Great Tusk
+
+. This is appreciated by teammates such as Moltres, Heatran, and Kingambit, which often find themselves forced out by these threats and therefore appreciate Rillaboom acting as insurance versus them.
+
+Rillaboom makes for a solid revenge killer thanks to its high Attack and access to Grassy Glide, allowing it to shut down faster offensive threats such as
+
+Ogerpon-W
+
+,
+
+Tapu Lele
+
+, and
+
+Mega Diancie
+
+. Its good HP stat and Grass typing also give it a niche defensive profile, doing well against Water- and Ground-types such as
+
+Urshifu-R
+
+, offensive
+
+Landorus-T
+
+, and the aforementioned Ogerpon-W. Swords Dance allows Rillaboom to punish switches into defensive Pokemon such as
+
+Ferrothorn
+
+, boosting its Attack to make Rillaboom a strong wallbreaker if positioned well. Drain Punch allows Rillaboom to hit Steel-types such as
+
+Heatran
+
+and
+
+Kingambit
+
+, easily OHKOing the latter with entry hazard support, while also enabling Rillaboom to beat Ferrothorn one-on-one, with its healing effect negating damage taken when setting up. Alternatively, Superpower notably OHKOes
+
+Melmetal
+
+when boosted, after a layer of Spikes. Knock Off hits
+
+Gholdengo
+
+,
+
+Pecharunt
+
+, and
+
+Galarian Slowking
+
+, all of which would otherwise counter Rillaboom. It also removes Heavy-Duty Boots off of Flying-type Pokemon such as
+
+Tornadus-T
+
+,
+
+Zapdos
+
+, and
+
+Moltres
+
+, preventing them from reliably switching in. The given EV spread allows Rillaboom to outspeed uninvested
+
+Gliscor
+
+while hitting as hard as possible, the rest being dumped in bulk, notably allowing Rillaboom to avoid the OHKO from Moltres's Flamethrower.
+
+Rillaboom works best on bulky offense and balance teams that can support it with a strong defensive backbone as well as with partners that synergise with it offensively, and they appreciate Rillaboom wearing down foes such as Ferrothorn, Zapdos and
+
+Toxapex
+
+. Rillaboom works well with Steel-types such as Gholdengo, Melmetal, and Heatran, since they are all able to handle the powerful Ice- and Dragon-types that Rillaboom cannot, such as
+
+Kyurem
+
+,
+
+Mega Latios
+
+, and
+
+Raging Bolt
+
+; Heatran is an especially good partner, since it is also able to handle Fire-types, such as Moltres and
+
+Mega Charizard Y
+
+, that Rillaboom struggles with, and it can also setup Stealth Rock, allowing Rillaboom to break through and revenge kill foes such as Landorus-T and Ogerpon-W more easily. In return, Rillaboom's Grassy Surge weakens Earthquake from opposing Ground-types such as
+
+Garchomp
+
+and Gliscor while also providing passive recovery for Melmetal and Heatran, shoring up their recovery issues. Rillaboom also does well against opposing Water-types such as
+
+Hisuian Samurott
+
+for Fire-types, such as
+
+Volcarona
+
+,
+
+Cinderace
+
+, and the aforementioned Heatran. Offensive partners such as Mega Diancie,
+
+Iron Valiant
+
+, and Raging Bolt all appreciate Rillaboom breaking past defensive cores involving Ferrothorn,
+
+Alomomola
+
+, and Gliscor with Swords Dance as well as revenge killing would-be checks to them such as Choice Scarf Urshifu-R and
+
+Tapu Koko
+
+, so that they can successfully sweep and clean through opposing teams more easily; Mega Diancie and Iron Valiant are also further checks to Dragon-types such as Garchomp and
+
+Dragonite
+
+.
+
+Offensive Swords Dance Rillaboom serves as a great mid- and late-game threat largely due to the threat of priority Grassy Glide boosted by Swords Dance thanks to its ability to set Grassy Terrain. Knock Off is great at nailing
+
+Gholdengo
+
+while dealing decent damage against other Grass-resistant foes, such as
+
+Moltres
+
+and
+
+Zapdos
+
+; it can also remove crucial items from these Pokemon, notably Heavy-Duty Boots from the latter two. Superpower dispatches other Steel-types easily, such as
+
+Heatran
+
+and
+
+Melmetal
+
+, while Drain Punch provides more longevity against foes such as
+
+Kingambit
+
+at the expense of dealing less damage and missing out on the OHKO on
+
+Raging Bolt
+
+and Melmetal when at +2. Adamant nature maximizes Rillaboom's damage output, and the lost Speed doesn't matter much due to its subpar Speed tier and Grassy Glide's priority with Grassy Terrain. Life Orb also provides a damage boost, and the HP reduction is mitigated by Grassy Terrain healing and Drain Punch.
+
+Swords Dance Rillaboom fits best on offensive teams that can make use of its high power, shore up its low Speed stat, and appreciate the Grassy Terrain it provides. Swords Dance-boosted attacks can dispatch a variety of slow, bulky Pokemon, such as
+
+Ting-Lu
+
+,
+
+Slowbro
+
+, and
+
+Alomomola
+
+; therefore, teammates that can clean up after Rillaboom's mid-game assault, such as
+
+Dragonite
+
+,
+
+Volcarona
+
+, and
+
+Iron Valiant
+
+, are highly valued. Against faster teams, Rillaboom's strong priority Grassy Glide can KO frailer, faster Pokemon such as Iron Valiant and
+
+Urshifu-R
+
+; however, it struggles against Pokemon that resist Grass, such as Volcarona,
+
+Mega Charizard Y
+
+, and Dragonite. As a result, teammates that can dispatch these Pokemon, such as Urshifu-R, Raging Bolt, and
+
+Weavile
+
+, are greatly appreciated. With base 125 Attack, Rillaboom's damage may struggle to pick up KOs on bulkier Pokemon. Pokemon like Gholdengo, Volcarona, and Kingambit appreciate Earthquake's damage being halved by Grassy Terrain, with Kingambit also enjoying that Rillaboom can remove Psychic Terrain to enable its Sucker Punch.
+
+Choice Band Rillaboom proves itself as a powerful wallbreaker and revenge killer with access to a excellent priority move, a strong STAB option, and a versatile selection of coverage moves as well as Grassy Terrain, which provides excellent support to teammates such as
+
+Aegislash
+
+,
+
+Garganacl
+
+, and
+
+Bisharp
+
+. Grassy Glide threatens common offensive Pokemon like
+
+Mega Aerodactyl
+
+,
+
+Keldeo
+
+, and Sand Rush
+
+Excadrill
+
+, which all need to be slightly chipped down to be in range of a KO. Wood Hammer offers a ridiculously strong STAB move under Grassy Terrain, with it 2HKOing Pokemon that resist it like Aegislash and
+
+Mega Latias
+
+. U-turn lets Rillaboom pivot on its checks, bringing in teammates to beat these Pokemon where it would otherwise be walled. Knock Off is able to hit
+
+Pecharunt
+
+and Aegislash, as well as generating progress against Pokemon that would otherwise wall it in
+
+Skarmory
+
+and
+
+Buzzwole
+
+. Superpower is another option, being stronger against Skarmory,
+
+Scizor
+
+and
+
+Celesteela
+
+. High Horsepower OHKOes
+
+Iron Moth
+
+; threatens Pecharunt, Aegislash, and
+
+Mega Venusaur
+
+; and OHKOes Excadrill without incurring recoil damage.
+
+Rillaboom offers a strong wallbreaking presence to bulky offense and offense teams, as well as Grassy Terrain support for teammates such as Aegislash, Bisharp, and Garganacl; they in turn can answer Pokemon that give Rillaboom trouble such as Mega Latias,
+
+Victini
+
+, and Iron Moth. Rillaboom can bring in
+
+Mega Gardevoir
+
+, Victini, and Mega Aerodactyl, all of which are great threats against Grass-types
+
+Amoonguss
+
+, Mega Venusaur, and
+
+Hydrapple
+
+that Rillaboom forces in. Pokemon like Mega Aerodactyl, Celesteela,
+
+Slowking
+
+, and Pecharunt, which are able to answer the likes of Iron Moth, Buzzwole, and Hydrapple and can comfortably survive Grassy Glide, are valuable partners.
+
+Slowbro
+
+, Scizor, and Iron Moth are great support options, especially Iron Moth, which is great against Pokemon like Buzzwole, Skarmory, and Amoonguss that answer Rillaboom, while Rillaboom threatens Iron Moth checks such as Garganacl,
+
+Tyranitar
+
+, and Slowking.
+
+Swords Dance Rillaboom takes advantage of its powerful priority, strong coverage, and excellent bulk to set up and sweep or wallbreak for its teammates. Knock Off threatens
+
+Aegislash
+
+and
+
+Pecharunt
+
+while still being an excellent tool to make progress against the Steel-types that it would usually struggle with. High Horsepower can alternatively threaten
+
+Iron Moth
+
+while still being great against the aforementioned Ghost-types, albeit with the downside of not being as great against
+
+Skarmory
+
+or
+
+Celesteela
+
+. When paired with Grassy Seed, Acrobatics can be used over Superpower, trading Rillaboom's ability to hit Steel-types for with massive damage for the ability to blow past
+
+Buzzwole
+
+and Grass-types such as
+
+Mega Venusaur
+
+,
+
+Amoonguss
+
+, and
+
+Hydrapple
+
+. Life Orb synergizes well with Grassy Terrain healing while also affording Rillaboom a greater damage output. Terrain Extender lets teammates, especially those weak to Earthquake like Aegislash,
+
+Tyranitar
+
+, and
+
+Excadrill
+
+, make the most of Grassy Terrain, affording them ample opportunity to threaten to sweep, overwhelm the opposing team, or benefit from its passive healing. Rillaboom's longevity is significantly extended by Leftovers, enabling it to come in and threaten foes multiple times a game.
+
+Rillaboom is a great fit on bulky offense and hyper offense teams, serving as a wallbreaker that supports its teammates while also working in conjunction with other powerful sweepers to wear down the opposing team. Rillaboom is an excellent partner to Iron Moth and
+
+Blacephalon
+
+on hyper offense, with Grassy Terrain powering up their Grass-type coverage, enabling them to break past Tyranitar,
+
+Hippowdon
+
+, and
+
+Garganacl
+
+. They both cover Rillaboom's inability to break past Buzzwole; Grass-types like Hydrapple, Mega Venusaur, and Amoonguss without Acrobatics; and Steel-types like Skarmory, Celesteela, and
+
+Magnezone
+
+without Superpower.
+
+Keldeo
+
+and Belly Drum
+
+Azumarill
+
+enjoy Grassy Terrain recovery and Rillaboom threatening the Water-types that act as a road block against them while also working in conjunction with Rillaboom, wearing down the aforementioned Grass-types. Tyranitar is also a great partner, being able to check and trap Fire-types like Iron Moth and
+
+Victini
+
+that often get in the way of Rillaboom making progress all the while leveraging the extra healing and Earthquake weakening properties of Grassy Terrain. Pivots such as Victini,
+
+Scizor
+
+, and Iron Moth are able to bring in and afford Rillaboom the opportunity to make progress against Pokemon like Garganacl, Tyranitar, and Hippowdon. Magnezone is an excellent partner, trapping the Steel-types that otherwise wall Rillaboom without Superpower.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!
+
+The given EV spread allows Rillaboom to survive a Heat Wave from
+
+Mega Charizard Y
+
+or an Icicle Crash from
+
+Chien-Pao
+
+. The given EV spread also allows Rillaboom to outspeed
+
+Deoxys-A
+
+during Tailwind, allocating the remaining EVs in Attack.

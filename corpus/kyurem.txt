@@ -1,0 +1,2261 @@
+Kyurem is one of SV OU's strongest offensive Pokemon, utilizing its powerful mixed offensive stats and solid overall bulk to run a wide variety of sets, each requiring different counterplay. Choice Specs makes Kyurem into a wallbreaker and strengthens its already powerful moves, OHKOing much of the tier and chunking even the bulkiest Kyurem answers, like
+
+Gholdengo
+
+and specially defensive
+
+Moltres
+
+. Kyurem can act as a sweeper with Dragon Dance while still capable of hitting would-be checks with its special coverage, making it a menace even against stall teams. Kyurem's natural bulk enable it to run Substitute + Protect sets to take advantage of Pressure to PP stall foes or even run an Assault Vest to trade with common special attackers like
+
+Darkrai
+
+and
+
+Zapdos
+
+while being tough to switch into. Unfortunately, Kyurem's mediocre Speed and lackluster defensive typing can make it challenging to position. Faster Pokemon like
+
+Zamazenta
+
+,
+
+Iron Valiant
+
+, and
+
+Dragapult
+
+can threaten Kyurem with an OHKO and force it out. Kyurem is weak to Stealth Rock and depends on its item slot for damage, meaning it usually cannot afford to run Heavy-Duty Boots and is forced to rely on entry hazard removal. Moreover, some of Kyurem's sets heavily rely on Tera to boost its damage or provide it with necessary coverage, forcing it to compete with the many Tera-reliant offensive Pokemon in the tier like
+
+Enamorus
+
+and
+
+Garganacl
+
+. Additionally, bulky Steel-types like
+
+Kingambit
+
+, Gholdengo,
+
+Scizor
+
+, and
+
+Iron Crown
+
+can soft check most Kyurem sets or possibly force a Tera.
+
+When using Choice Specs, Kyurem becomes a devastating wallbreaker thanks to its great offensive typing alongside its naturally sky-high Special Attack. Freeze-Dry helps Kyurem in dealing with bulky Water-types like
+
+Toxapex
+
+,
+
+Dondozo
+
+, and common Tera Water users such as
+
+Gliscor
+
+and
+
+Galarian Slowking
+
+. Earth Power finds itself in the last slot, allowing Kyurem to hit Galarian Slowking hard as well as Pokemon that resist its STAB moves, examples being
+
+Heatran
+
+,
+
+Kingambit
+
+, and
+
+Gholdengo
+
+. Blizzard is an option over Draco Meteor that should only be run alongside Chilly Reception Galarian Slowking; it deals immense amount of damage to neutral and even resisted targets, letting it overwhelm Pokemon like Galarian Slowking and Gholdengo that tries to pivot around its Ice Beam more easily. Tera Ice provides the most amount of damage possible to its Ice-type STAB moves, which can potentially OHKO naturally high specially defensive behemoths like
+
+Clodsire
+
+and Toxapex with Ice Beam and Freeze-Dry, respectively, as well as 2HKO offensive Gholdengo and Kingambit with Ice Beam. Meanwhile, Tera Ground can be used to boost up Earth Power, having a chance to OHKO bulky variants of Kingambit and Gholdengo, as well as provide a Rock resistance, which lets it take on Stealth Rock and the dangerous
+
+Iron Boulder
+
+'s Mighty Cleave more easily. Finally, Tera Fairy provides Kyurem with an immunity to Dragon-type attacks such as
+
+Dragapult
+
+,
+
+Walking Wake
+
+, and opposing Kyurem's Draco Meteor, coupled with a newfound Fighting resistance against moves like
+
+Iron Valiant
+
+and
+
+Zamazenta
+
+'s Close Combat and
+
+Corviknight
+
+and
+
+Skarmory
+
+'s Body Press. A Timid nature is preferred for its ability to outspeed key threats like
+
+Tinkaton
+
+and
+
+Landorus-T
+
+as well as Speed tie opposing Kyurem, but a Modest nature can be used for more firepower, letting Kyurem overwhelm its checks like Galarian Slowking much more easily.
+
+Kyurem often finds itself in bulky offense teams that appreciate its ability to destroy common walls. While Kyurem's typing is amazing offensively, defensively it makes Kyurem hard to switch in due to its numerous weaknesses combined with its average Speed tier. To solve this, pair Kyurem with pivot users; Kyurem's best friend is Galarian Slowking, which brings Kyurem in safely and provides snow with Chilly Reception as well as switch into Fairy-types like
+
+Enamorus
+
+and Iron Valiant. Kyurem needs entry hazard removal to not get worn down quickly by hazard-stacking teams; therefore, Rapid Spin users like
+
+Great Tusk
+
+and
+
+Excadrill
+
+are great partners. Corviknight can take Fairy- and Dragon-type moves, clear out hazards with Defog, and provides a slow U-turn to get Kyurem in safely. Additionally,
+
+Cinderace
+
+can use Court Change to use the hazards against the opposing team and can also lure in and pivot out of checks such as Toxapex and Gliscor with U-turn for Kyurem.
+
+Hatterene
+
+is also a good partner for Kyurem, which can deflect hazards with Magic Bounce, slow down faster threats with Nuzzle, and give Kyurem a second chance at wallbreaking with Healing Wish. Physical attackers like
+
+Meowscarada
+
+can be used to scare away common special walls thanks to its crippling STAB Knock Off to make Kyurem's attacks more impactful. Another strong physical attacker is Kingambit, which threaten some of Kyurem's checks like Galarian Slowking, Clodsire, and specially defensive
+
+Clefable
+
+. In return, Kyurem can break past their defensive checks such as Skarmory, Dondozo, and Great Tusk. Gholdengo makes for an amazing partner, as it can switch into super effective moves aimed at Kyurem and threaten Galarian Slowking and Fairy-types with its STAB moves; in return, Kyurem beats Unaware Clodsire for it. Kyurem can take advantage of hazard-stacking teams to be even harder to wall, so common hazard setters like Skarmory, Ting Lu,
+
+Hisuian Samurott
+
+, and Gliscor can be helpful, with the latter two having Knock Off on their arsenal as well to cripple Kyurem's defensive checks.
+
+The mixed set brings out the best out of both sides of Kyurem's attacking capabilities, being able to break through would-be checks and thus turn itself into a monstrous wincon. What this set sacrifices in initial power is made up for in its versatility. Physical walls like
+
+Dondozo
+
+,
+
+Alomomola
+
+, and
+
+Skarmory
+
+looking to handle its Icicle Spear get 2HKOed by Freeze-Dry, while special walls like
+
+Blissey
+
+,
+
+Galarian Slowking
+
+, and
+
+Fezandipiti
+
+trying to tank Freeze-Dry take heavy damage from a Dragon Dance-boosted Icicle Spear. Freeze-Dry is preferred over Ice Beam, as it allows Kyurem to significantly damage Water-type foes like Alomomola,
+
+Ogerpon-W
+
+, and
+
+Primarina
+
+, and Earth Power targets key foes such as
+
+Kingambit
+
+,
+
+Gholdengo
+
+, and
+
+Iron Crown
+
+that could otherwise take Kyurem on. 88 EVs in Special Attack guarantee the 2HKO on physically defensive Gholdengo with Earth Power. A Hasty nature allows Kyurem to live a Moonblast from
+
+Iron Valiant
+
+, while a Naive nature makes it take less damage from Kingambit's Sucker Punch. Never-Melt Ice enhances Kyurem's Ice-type attacks' damage output without locking it into one option and guarantees the OHKO with a three-hit Icicle Spear on
+
+Dragapult
+
+along with an OHKO on
+
+Hisuian Samurott
+
+with Freeze-Dry. Heavy-Duty Boots alternatively helps Kyurem bypass its Stealth Rock weakness; this alleviates the pressure in the teambuilder to pair Kyurem with strong support in the form of entry hazard removal. Tera Ice further pushes the power of its STAB moves to obscene levels; defensive staples such as Dondozo and Primarina fall in the range of being OHKOed, while
+
+Clodsire
+
+can’t stand more than two hits from Icicle Spear. Tera Ground instead gives Kyurem a nice boost to Earth Power that ensures the 2HKO on
+
+Garganacl
+
+and even Assault Vest Iron Crown along with an immunity to Gholdengo's Thunder Wave and
+
+Hatterene
+
+'s Nuzzle. Tera Ground also gives Kyurem a neutrality to Fighting- and Steel-type moves, which can be decisive against
+
+Zamazenta
+
+, Gholdengo, and Iron Crown.
+
+Mixed Dragon Dance Kyurem fits on offensive teams as a wallbreaker capable of breaking past bulkier foes such as Galarian Slowking and Unaware walls such as Dondozo. Kyurem's main roadblock is Zamazenta, which outspeeds Kyurem and only takes neutral damage from Kyurem's attacks while being able to respond with a strong Body Press. Dragapult creates synergy, being able to switch in on Zamazenta's Fighting-type attacks, outspeed it, and force it to switch out. Dragapult can also spread status and overload shared checks like Kingambit to make it easier for Kyurem to sweep.
+
+Deoxys-S
+
+also makes for a great partner, as it also outspeeds and threatens Zamazenta while providing entry hazard support for Kyurem, which helps to chip down enemies such as bulkier variants of Primarina,
+
+Rillaboom
+
+, and
+
+Great Tusk
+
+that could otherwise take a hit. Alternative hazard setters include Great Tusk in more balanced teams and
+
+Glimmora
+
+or Hisuian Samurott in more offensively lenient teams. Bulky Steel-types that can handle Ground-type attacks like
+
+Corviknight
+
+, Air Balloon
+
+Tinkaton
+
+, and
+
+Scizor
+
+pose a significant problem to Kyurem, and Fire-types like
+
+Cinderace
+
+can neutralize them at a relatively low cost for themselves, in turn allowing Kyurem to sweep with minimal opposition. When it's opting to run Never-Melt Ice, Kyurem leaves itself exposed to hazards, which minimizes the amount of times it is able to come in a match. Hazard removal in the form of Great Tusk, Cinderace or even Corviknight can then be helpful to ensure Kyurem has a safe entry to wreak havoc.
+
+By focusing on its natural bulk and typing to utilize the combination of Pressure, Substitute, and Protect, Kyurem's offensive prowess takes on another dimension by slowly suffocating the opposition with PP depletion while still being difficult to switch into due to its attacking options and solid Speed tier. Attacks such as
+
+Gholdengo
+
+'s Make It Rain,
+
+Kingambit
+
+'s Sucker Punch,
+
+Raging Bolt
+
+'s Draco Meteor, and
+
+Tinkaton
+
+'s Gigaton Hammer are at Kyurem's mercy, while higher PP moves like
+
+Clefable
+
+'s Moonblast and
+
+Corviknight
+
+'s Brave Bird aren't safe either. Substitute also help punish status attempts from foes like
+
+Galarian Slowking
+
+and Gholdengo and importantly take advantage of the switches Kyurem forces, especially against passive foes like
+
+Gliscor
+
+,
+
+Alomomola
+
+, and
+
+Clodsire
+
+that might not break the Substitute immediately. Moreover, Kyurem's ability to keep a Substitute up consistently against common walls grants it protection against would-be revenge killers like
+
+Zamazenta
+
+,
+
+Iron Valiant
+
+, and Choice Scarf Gholdengo, even preventing the latter and other Choice item users like
+
+Darkrai
+
+and
+
+Meowscarada
+
+from crippling it with Trick. On top of accruing more Leftovers recovery, Protect notably wastes PP of Encore from Tinkaton, Iron Valiant, and
+
+Ogerpon-W
+
+and scouts for faster offensive threats like
+
+Dragapult
+
+and
+
+Iron Crown
+
+, which is especially important because all of these can still threaten Kyurem behind a Substitute. Another reason it can afford to run Substitute and Protect is that Freeze-Dry and Earth Power provide sufficient and unresisted coverage. Freeze-Dry is the preferred Ice-type STAB move due to it denting bulky Water-types and Tera Water users like Alomomola,
+
+Primarina
+
+, Gliscor, and
+
+Garganacl
+
+and having a lot of PP, letting it fish for freeze in longer games, which Kyurem excels in, more regularly. With its Freeze-Dry handling Ground-type answers like
+
+Landorus-T
+
+,
+
+Zapdos
+
+, and
+
+Hydrapple
+
+, the move is perfectly complemented by Earth Power to pressure Galarian Slowking and Ice-resistant foes such as Kingambit, Gholdengo, Tinkaton,
+
+Cinderace
+
+, and
+
+Iron Moth
+
+. Tera Ground boosts the power of Earth Power, granting it enough power to potentially 2HKO Galarian Slowking and OHKO offensive Kingambit and Gholdengo. Defensively, it provides Kyurem with a newfound Stealth Rock resistance and lets it keep a Substitute up against Garganacl's Salt Cure and Galarian Slowking's Sludge Bomb. The HP EVs allow Kyurem to make 101 HP Substitutes, preventing them from being immediately broken by
+
+Blissey
+
+'s Seismic Toss.
+
+Kyurem is its most effective on bulkier teams, such as semi-stall and balance, that can afford to play longer games while being able to position it carefully, but it can also find a place on even faster-paced offensive teams. Its extreme vulnerability to entry hazards—specifically Stealth Rock and Toxic Spikes—in longer games makes hazard removal very necessary, with common faces like
+
+Great Tusk
+
+, Corviknight,
+
+Galarian Weezing
+
+, and Cinderace being important teammates; even running a combination of them at once is recommended on bulky teams where Kyurem is the primary offensive threat. Moreover, Corviknight and Cinderace provide pivoting support by bringing it in safely on Pokemon like Gholdengo, Alomomola, and Gliscor—even popping the former's Air Balloon in the process—while Galarian Weezing can spread poison via Toxic Spikes to further take advantage of Kyurem's knack for stalling out turns while absorbing opposing Toxic Spikes. Cinderace has the added benefit of threatening bulky Steel-types like Tinkaton, Iron Crown, and
+
+Scizor
+
+that can annoy Kyurem as well as crippling foes like
+
+Hisuian Samurott
+
+, Ogerpon-W, and Assault Vest Alomomola with a burn, preventing them from breaking Kyurem's Substitute in one hit. The aforementioned Corviknight and Galarian Weezing as well as the tier's other walls like Alomomola,
+
+Dondozo
+
+, Zapdos, Galarian Slowking, Gliscor, and
+
+Ting-Lu
+
+provide Kyurem with a defensive backbone to fall back on, especially as they can switch into Pokemon like Zamazenta,
+
+Enamorus
+
+, Iron Valiant, and Dragapult that can threaten Kyurem out if it's not behind a Substitute. Alomomola, Zapdos, and Galarian Slowking similarly provide pivoting duties, with the former providing Wish support, while the latter sets up snow, whose Defense boost lets it survive Close Combat from Zamazenta and physical Iron Valiant from full HP, and absorbs Toxic Spikes as well. Ting-Lu and Gliscor also provide entry hazards of their own, which is crucial in taking advantage of Kyurem's forced switches, especially against foes trying to pivot around its attacks instead of staying in to not waste PP. On the other hand, offensive teammates like
+
+Deoxys-S
+
+, Zamazenta, and Darkrai are great late-game cleaners that love Kyurem's ability to suffocate passive walls early-game. They also have a better matchup against faster offensive teams that can otherwise overrun Kyurem before it gets going. On more offensive teams, hazard setters like Landorus-T,
+
+Glimmora
+
+, and Hisuian Samurott are great options—especially Glimmora with its potential Toxic Spikes—while offensive threats like Great Tusk, Raging Bolt, and Iron Moth can keep up the pressure against the opposition alongside Kyurem and have a greater chance at sweeping once it has done its job. Additionally,
+
+Hatterene
+
+and the aforementioned Glimmora and Great Tusk valuably provide hazard control, with Iron Moth also capable of absorbing Toxic Spikes for these structures.
+
+With an Assault Vest, Kyurem uses its natural bulk to serve as a great blanket check for most of the tier's special attackers while being very difficult to switch into due to the near-unresisted combination of Freeze-Dry and Earth Power. The Assault Vest allows Kyurem to comfortably switch into special attackers like
+
+Iron Moth
+
+,
+
+Darkrai
+
+, and
+
+Zapdos
+
+and force them out in return. Ice Beam is mandatory as Kyurem's strongest no-drawback STAB option, with Freeze-Dry to catch Water-types like
+
+Ogerpon-W
+
+and
+
+Primarina
+
+and Earth Power to hit Ice-resistant Pokemon like
+
+Heatran
+
+, Iron Moth, and
+
+Gholdengo
+
+. Assault Vest Kyurem can run many different options in its last slot. Draco Meteor is used to guarantee an OHKO against
+
+Raging Bolt
+
+and opposing Kyurem without an Assault Vest and for its devastating power. Dragon Tail is run to phaze Pokemon like Nasty Plot Darkrai and Nasty Plot
+
+Pecharunt
+
+; it also comes in handy against Assault Vest
+
+Alomomola
+
+by bypassing Mirror Coat and by phazing whatever Alomomola brings in with Flip Turn. With 252 Defense EVs, Kyurem can run Body Press to catch switch-ins like
+
+Kingambit
+
+,
+
+Tyranitar
+
+, and
+
+Blissey
+
+. This additional Defense investment also allows Kyurem to match up better against threatening physical attackers like
+
+Dragonite
+
+and Ogerpon-W. Alternatively, Focus Blast can be run to hit Kingambit and Tyranitar, with the downsides of low accuracy and bouncing off Blissey. Other more niche options can be run depending on the specific support or synergy your team needs, like Endeavor, Blizzard, and Ancient Power. 120 HP and 76 Special Defense EVs are run to guarantee surviving a Choice Specs
+
+Dragapult
+
+Draco Meteor and mixed
+
+Iron Valiant
+
+Close Combat, with 96 Speed EVs to outspeed Raging Bolt. The spread of 252 Def / 160 SpA / 96 Spe should only be used on variants running Body Press. Another option is a faster spread with a Timid nature to outspeed Gholdengo,
+
+Landorus-T
+
+, and
+
+Great Tusk
+
+, though it requires giving up a significant amount of Kyurem's bulk and power. Tera Fairy is run to become immune to Dragapult and Raging Bolt's Draco Meteor, to resist Darkrai's Dark Pulse, and to flip the matchup versus
+
+Zamazenta
+
+. Similarly, Tera Poison lets Kyurem take hits from Zamazenta and Iron Valiant while also making it immune to the poison (and thereby confusion) of Pecharunt's Malignant Chain and clearing Toxic Spikes. Tera Ground can also be run to boost the power of Earth Power, threatening to KO many Ice-resistant Pokemon, including Gholdengo and Kingambit.
+
+Assault Vest Kyurem fits best on bulky offense structures, where its good bulk and trading power shine most. Kyurem appreciates the support of Healing Wish Pokemon, like
+
+Enamorus
+
+,
+
+Hatterene
+
+, and
+
+Latias
+
+, mitigating its low longevity. Tera Fairy Kingambit works especially well with Kyurem, as Kyurem can significantly chip opposing Steel-types like Heatran, Gholdengo, and opposing Kingambit, enough for Kingambit to be free to use its Tera against Zamazenta without fear of being revenge killed. Additionally, Heatran appreciates Assault Vest Kyurem's ability to threaten opposing Kyurem, while Heatran threatens Kingambit in return and provides the team with Stealth Rock. Due to Kyurem's weakness to Stealth Rock, Assault Vest Kyurem is often paired with Hatterene to block entry hazards or hazard removers like
+
+Cinderace
+
+,
+
+Iron Treads
+
+, and Great Tusk. Structures like these like to capitalize on their reliable hazard removal by running hazard-weak Pokemon like
+
+Tornadus-T
+
+. Nasty Plot Tornadus-T partners well with Kyurem by overloading shared checks like
+
+Galarian Slowking
+
+,
+
+Iron Crown
+
+, and Tyranitar. Kyurem appreciates the support and utility of fast pivots like Assault Vest Tornadus-T with Knock Off and Landorus-T with Stealth Rock, which also give Kyurem switch-in opportunities with U-turn. Kyurem is often accompanied by Zamazenta, which switches into and forces out Pokemon that check Kyurem without Body Press, like Kingambit, Tyranitar, and Blissey. Additionally, Kyurem and Crunch Zamazenta work together to overwhelm Galarian Slowking for each other and Galarian Slowking-weak teammates, like Iron Valiant and Primarina. Iron Valiant partners well with Kyurem, as its superb Speed with Quark Drive allows it to threaten faster threats that force Kyurem out, like Dragapult, while also providing Knock Off support. As a relatively slow wallbreaker, Kyurem also appreciates the switch-in opportunities provided to it by slow pivots like Alomomola and Galarian Slowking. Alomomola can provide Kyurem with Wish support, giving Kyurem more longevity, while Galarian Slowking sets snow with Chilly Reception, letting Kyurem run Blizzard and utilize the Defense boost from snow.
+
+Other Options
+
+Choice Scarf Kyurem is a niche option used to snipe Pokemon like
+
+Dragapult
+
+and
+
+Ogerpon-W
+
+, with the downside of being very prediction-reliant, easy to exploit, and pretty weak without a damage-boosting item. On teams with little to no entry hazard control, Heavy-Duty Boots can be run to mitigate its entry hazard—especially Stealth Rock—weakness, but this comes at the cost of its item slot and, as such, a lot of its damage. Choice Specs sets can run Focus Blast to KO opposing Kyurem and
+
+Kingambit
+
+as well as hit Air Balloon
+
+Heatran
+
+and Tera Steel Levitate Pokemon like
+
+Latios
+
+. Flash Cannon is nice on Substitute + Protect sets alongside Tera Steel to hit opposing Kyurem, Assault Vest
+
+Hatterene
+
+, and
+
+Clefable
+
+while not crumbling to Ogerpon-W post-Tera, like with Tera Ground. A set with Substitute, Protect, Dragon Dance, and Icicle Spear with Leftovers can be used to become a setup sweeper that can take advantage of Pressure and the high PP of its moves to PP stall the opposition, particularly passive Pokemon like
+
+Alomomola
+
+,
+
+Toxapex
+
+, and Terastallized
+
+Gliscor
+
+; this set can opt for Tera Steel to set up on Pokemon like
+
+Iron Crown
+
+and Hatterene or Tera Ghost to set up on
+
+Zamazenta
+
+and Body Press
+
+Corviknight
+
+.
+
+Kyurem makes for an exceptional special wallbreaker on Dragon teams by virtue of its high Special Attack further boosted by Choice Specs and a strong STAB combination. Ice Beam shreds through defensive Pokemon such as
+
+Skarmory
+
+,
+
+Ting-Lu
+
+,
+
+Clodsire
+
+, and
+
+Amoonguss
+
+. Freeze-Dry, despite being weaker than Ice Beam, still hits the same walls with the added benefit of taking out Water-types such as
+
+Swampert
+
+,
+
+Toxapex
+
+, and
+
+Primarina
+
+. Focus Blast is strong coverage that targets Steel-types that resist both of its STAB moves such as
+
+Heatran
+
+and
+
+Bisharp
+
+, as well as Rock-types such as
+
+Tyranitar
+
+and
+
+Garganacl
+
+. Alternatively, Earth Power hits the same targets as Focus Blast along with non-Air Balloon
+
+Gholdengo
+
+and Poison-types such as
+
+Alolan Muk
+
+,
+
+Galarian Slowking
+
+, and
+
+Okidogi
+
+.
+
+Kyurem appreciates entry hazard support from the likes of
+
+Archaludon
+
+and
+
+Garchomp
+
+to wear down foes into OHKO range of one of its attacks. Notably, Kyurem now has a great chance of OHKOing mixed defensive Toxapex sets after Stealth Rock and one layer of Spikes damage and a chance to outright OHKO physically defensive Ting-Lu after one layer of Spikes damage. In return, Archaludon and Garchomp appreciate Kyurem threatening entry hazard removers such as
+
+Great Tusk
+
+,
+
+Gliscor
+
+, and
+
+Mandibuzz
+
+. Thanks to their Steel typing and great bulk, Archaludon and
+
+Hisuian Goodra
+
+take on Fairy-types; Archaludon takes on
+
+Mimikyu
+
+and
+
+Azumarill
+
+, while Hisuian Goodra handles
+
+Flutter Mane
+
+, Choice Specs
+
+Iron Valiant
+
+, and
+
+Enamorus
+
+. Choice Scarf
+
+Dragapult
+
+spreads paralysis with Thunder Wave, and its faster U-turn allows it to threaten the likes of Choice Scarf
+
+Hoopa-U
+
+and Choice Scarf
+
+Meowscarada
+
+, the latter of which can be especially threatening to Dragon teams with its Protean-boosted Play Rough, while Choice Scarf
+
+Latias
+
+handles Fighting-types such as non-Choice Scarf Iron Valiant and
+
+Sneasler
+
+. Dragapult and Latias appreciate Kyurem taking out Ting-Lu and Primarina in return. Choice Scarf
+
+Roaring Moon
+
+provides great speed control, outspeeding and threatening the likes of Flutter Mane, Iron Valiant, Choice Scarf Latias, Gholdengo, and Enamorus while providing pivoting with U-turn. In return, Kyurem deals with Great Tusk, Ting-Lu, Skarmory, and Amoonguss. Late-game sweepers such as
+
+Gouging Fire
+
+, Swords Dance Garchomp, and
+
+Dragonite
+
+appreciate Kyurem's wallbreaking that enables their sweep.
+
+Kyurem's high offensive stats, access to Freeze-Dry, and surprisingly solid defensive profile make it an unparalleled special wallbreaker for Ice teams, with its resistances and coverage letting it pull its weight against Fire and Water teams by giving it good matchups against the likes of
+
+Ogerpon-H
+
+and
+
+Dondozo
+
+among others. STAB Draco Meteor is already a fearsome tool for Kyurem to wield unboosted, but with Choice Specs equipped, it becomes downright nuclear, OHKOing common neutral targets such as
+
+Archaludon
+
+,
+
+Slowbro
+
+, and
+
+Ursaluna
+
+. Ice Beam is the default secondary STAB move for its reliability, giving Kyurem an extremely strong attack that's also spammable; it importantly deals massive neutral damage to many common Draco Meteor switch-ins, securing 2HKOs on
+
+Clefable
+
+,
+
+Hatterene
+
+,
+
+Corviknight
+
+, and
+
+Galarian Weezing
+
+. Blizzard is a stronger alternative to Ice Beam that achieves incredible damage benchmarks, securing a guaranteed OHKO on
+
+Clodsire
+
+and 2HKO on
+
+Hisuian Goodra
+
+after Stealth Rock, two feats that Ice Beam never achieves; however, Blizzard relies on snow being active to be consistent, forcing Kyurem's snow-setting teammate to either run Icy Rock or play far more conservatively than they would otherwise. Freeze-Dry is arguably the most important tool in Kyurem's arsenal, letting it carry the Water matchup on its back by undermining would-be checks like
+
+Primarina
+
+,
+
+Toxapex
+
+, and
+
+Tentacruel
+
+and scoring harder hits on otherwise neutral targets like
+
+Quagsire
+
+,
+
+Rotom-W
+
+, and Dondozo. Earth Power rounds out Kyurem's moveset nicely by giving it coverage for the Steel-types that resist its STAB combination, notably OHKOing
+
+Bisharp
+
+after 1 layer of Spikes and
+
+Metagross
+
+after Stealth Rock while handily 2HKOing dedicated walls like
+
+Empoleon
+
+and non-Choice Scarf
+
+Jirachi
+
+. Earth Power also scores a super effective hit on bulky Poison-types like
+
+Alolan Muk
+
+, which can give Kyurem a hard time otherwise. A Timid nature is an absolute requirement on Kyurem, since its crowded Speed tier would leave a Modest variant outsped by common threats to it such as
+
+Glimmora
+
+,
+
+Excadrill
+
+, and non-Choice Scarf
+
+Great Tusk
+
+, among others.
+
+Alolan Ninetales
+
+is a crucial partner for Kyurem, enabling Blizzard spam and boosting its bulk to ludicrous proportions with snow and Aurora Veil; Kyurem becomes so staggeringly bulky in these conditions that a revenge killing tool as strong as Choice Band
+
+Scizor
+
+'s Bullet Punch will not even 2HKO it after Stealth Rock. Alolan Ninetales's part-Fairy typing is also useful for discouraging Dragon-type revenge killers like
+
+Latios
+
+,
+
+Dragapult
+
+, and
+
+Walking Wake
+
+with Moonblast. Since Kyurem cannot use Heavy-Duty Boots on this set, it must rely on entry hazard removal to maintain its longevity;
+
+Alolan Sandslash
+
+is a standout choice here thanks to Rapid Spin and its secondary Steel typing, allowing it to switch into common revenge killers like
+
+Iron Boulder
+
+, Dragapult, and
+
+Flutter Mane
+
+, as well as threatening Rock- and Fairy-type attackers with its STAB moves. Slush Rush also lets it provide speed control that Kyurem needs to help against threats like Flutter Mane and
+
+Weavile
+
+.
+
+Mamoswine
+
+brings Stealth Rock to make Kyurem even harder to switch into, Ice Shard to help with speed control, and an Earthquake that shakes most Steel-types and special walls into Kyurem's KO range or out of the game altogether, notably OHKOing
+
+Gholdengo
+
+,
+
+Klefki
+
+, and Hisuian Goodra after Stealth Rock.
+
+Froslass
+
+can provide further entry hazard support with Spikes, speed control with Thunder Wave, and spinblocking utility while also switching into Fighting-type attacks for Kyurem, and Destiny Bond lets it trade with a problematic target such as Ogerpon-H. Weavile contributes a powerful Knock Off to remove Heavy-Duty Boots or Eviolite from certain walls that rely on them such as
+
+Articuno
+
+and
+
+Porygon2
+
+, respectively.
+
+Avalugg
+
+is another hazard removal option that provides a much sturdier fallback against physical revenge killers compared to Alolan Sandslash and serves as a secondary wincon with an IronPress set, but this comes at the cost of being agonizingly slow and useless against most Fairy-types.
+
+Kyurem is an incredible setup sweeper for Dragon teams thanks to its good Speed tier and good natural bulk. Known primarily as a special wallbreaker, a physical set is far less expected and harder to check. With Dragon Dance and Loaded Dice, Kyurem threatens special walls like
+
+Hisuian Goodra
+
+,
+
+Clodsire
+
+, and Assault Vest
+
+Hoopa-U
+
+after an attack boost, creates holes in the Flying cores by 2HKOing
+
+Corviknight
+
+and
+
+Skarmory
+
+after Stealth Rock, and can break through Ground-types after gaining Speed from Scale Shots and Fire-types once
+
+Heatran
+
+'s Air Balloon is popped. Earth Power allows Kyurem to hit Steel-types that resist its STAB combination, like non-Air Balloon Heatran, and 2HKO defensive
+
+Archaludon
+
+. A Naive nature lets Kyurem outspeed until base 90 speed mons like
+
+Great Tusk
+
+and
+
+Hisuian Samurott
+
+, and with two Speed boosts, it can also outspeed
+
+Excadrill
+
+under sand,
+
+Kingdra
+
+under rain, and Choice Scarf
+
+Dragapult
+
+.
+
+Dragon Dance Kyurem struggles to set up against physical walls such as
+
+Dondozo
+
+and Skarmory and is pressured by Fighting-type attackers like
+
+Iron Valiant
+
+,
+
+Urshifu-R
+
+, and Great Tusk. Teammates that provide speed control and defensive support are essential. Archaludon checks physical attackers such as Dragapult and
+
+Dragonite
+
+, sets Stealth Rock, and spreads Thunder Wave, slowing fast threats like
+
+Meowscarada
+
+, Iron Valiant, and Dragapult. Likewise,
+
+Latias
+
+offers valuable role compression by utilizing a Choice Scarf to eliminate
+
+Latios
+
+and non-Choice Scarf
+
+Sneasler
+
+, and Healing Wish to give Kyurem a second chance to sweep. Dragapult supports Kyurem with utility options like Will-O-Wisp, crippling physical checks such as
+
+Mamoswine
+
+and Great Tusk and creating setup opportunities. Choice Specs Dragapult can outright remove or heavily dent offensive checks like
+
+Iron Crown
+
+,
+
+Walking Wake
+
+, and
+
+Gholdengo
+
+. Latios and
+
+Raging Bolt
+
+act as strong special wallbreakers, pressuring bulky Poison- and Water-types such as
+
+Galarian Weezing
+
+, Dondozo, and
+
+Toxapex
+
+. Raging Bolt's Thunderclap also provides priority against faster threats, picking off
+
+Greninja
+
+and Sneasler.
+
+Kommo-o
+
+improves difficult Dark- and Steel-type matchups by pressuring Pokemon like Hisuian Samurott,
+
+Bisharp
+
+, and Skarmory. Choice Scarf
+
+Roaring Moon
+
+provides additional speed control and revenge kills threats like unboosted Dragapult. Hisuian Goodra handles special attackers like
+
+Flutter Mane
+
+,
+
+Hatterene
+
+, and Greninja.
+
+Other Options
+
+Ice
+
+Focus Blast can be used over Earth Power to OHKO
+
+Tyranitar
+
+, giving Kyurem an edge in the otherwise difficult Rock matchup. The move also 2HKOes
+
+Blissey
+
+after slight chip damage or Stealth Rock if its Heavy-Duty Boots can be removed, although its shaky accuracy means these advantages are easily undermined by bad luck. Running Focus Blast also leaves Kyurem completely walled by
+
+Gholdengo
+
+and
+
+Jirachi
+
+. Dragon Pulse gives Kyurem a more spammable Dragon-type STAB option, but the combined strength and coverage of its standard moves leave little reason for Kyurem to spam anything else. Ancient Power allows Kyurem to effectively lure
+
+Articuno
+
+for itself, but its low base power and overlapping coverage with Kyurem's other moves leave few other use cases for it.
+
+Dragon
+
+Flash Cannon is an alternative option for Kyurem, allowing it to take on Fairy-types that resist both its STAB options such as
+
+Klefki
+
+and
+
+Alolan Ninetales
+
+. However, most Fairy-type targets of Flash Cannon would outspeed and force Kyurem out.
+
+Kyurem boasts monstrous stats, powerful attacks, and a surprisingly useful typing to act as a terrifying threat in the DOU metagame. Its STAB Ice-type attacks hit common threats and utility Pokemon alike, such as
+
+Landorus
+
+,
+
+Rillaboom
+
+, and
+
+Tornadus
+
+, for super effective damage, and Freeze-Dry forces the format's few Water-types to stay on their toes. Earth Power and Flash Cannon both serve as effective coverage moves to keep Ice- and Dragon-resistant Pokemon at bay. Meanwhile, Ice / Dragon is an excellent defensive typing when combined with Kyurem's natural bulk, allowing it to stand strong in the face of Pokemon like
+
+Ogerpon-W
+
+. Kyurem's Speed stat, while falling short of the format's faster threats, is still high enough to outrun and threaten Pokemon such as
+
+Glimmora
+
+and
+
+Gholdengo
+
+. Kyurem's biggest downfall, however, is its utter reliance on snow. Without the 50% boost to its Defense and perfect accuracy on Blizzard, Kyurem struggles to stand out compared to other juggernauts like
+
+Iron Hands
+
+and
+
+Raging Bolt
+
+. In addition, many of Kyurem's checks also have strong matchups against the snow setters of the format, turning Pokemon like Gholdengo,
+
+Diancie
+
+, and
+
+Tyranitar
+
+from annoyances into serious threats to the team.
+
+Snow and Assault Vest's defensive boosts combine to make Kyurem a juggernaut, capable of taking multiple consecutive hits while dealing heavy damage.
+
+Blizzard is Kyurem's most consistent damage option in snow, threatening both powerful attackers like
+
+Landorus
+
+and
+
+Dragonite
+
+and common support Pokemon like
+
+Tornadus
+
+and
+
+Sinistcha
+
+.
+
+Freeze-Dry expands Kyurem's reach and lets it threaten Water-types and Tera Water users like
+
+Amoonguss
+
+and
+
+Iron Hands
+
+, hitting
+
+Ogerpon-W
+
+and
+
+Pelipper
+
+especially hard.
+
+Earth Power becomes necessary to threaten Pokemon that take minimal damage from Kyurem's Ice-type attacks, like
+
+Gholdengo
+
+,
+
+Incineroar
+
+, Iron Hands, and
+
+Kingambit
+
+.
+
+Flash Cannon is a powerful tool for hitting opposing
+
+Diancie
+
+,
+
+Alolan Ninetales
+
+, and any Pokemon that may use Tera Fairy, such as Gholdengo and
+
+Raging Bolt
+
+.
+
+Glaciate can slot over Freeze-Dry or Flash Cannon, providing a surprisingly powerful speed control move greatly appreciated by the likes of Iron Hands or Kingambit.
+
+Draco Meteor is Kyurem's most powerful single attack, though a Dragon-type move is entirely optional on this set, and Draco Meteor's Special Attack drop may make it more difficult for Kyurem to stay in and trade hits with the opposing side.
+
+This EV spread lets Kyurem outspeed Timid
+
+Glimmora
+
+, avoid a 3HKO from Iron Hands's Drain Punch with Aurora Veil in snow, and always 2HKO maximum HP Kingambit with Earth Power.
+
+Steel is a potent defensive Tera type against Gholdengo and Glimmora and can provide a power boost for Flash Cannon, but it leaves Kyurem more vulnerable to threats like Iron Hands and Landorus. Tera Fairy is a more general option that flips multiple of Kyurem's weaknesses, turning the tables on Pokemon like Iron Hands and opposing Kyurem, but maintains the Steel weakness.
+
+Alolan Ninetales is all but required on teams with Kyurem; Snow Warning giving both a Defense boost and an accurate Blizzard is too good to ignore, and its Aurora Veil lets Kyurem double down on its already incredible bulk.
+
+This set greatly appreciates partners with healing capabilities to extend its survivability.
+
+Rillaboom
+
+and Sinistcha are the most common partners for this purpose, but Pollen Puff users like Amoonguss and
+
+Mew
+
+can provide the same benefit.
+
+Choice Specs gives Kyurem a substantial Special Attack boost that it can use to quickly and definitively end games.
+
+Choice Specs Blizzard is one of the strongest spread moves currently available in the format, hitting some notable KOs on foes such as
+
+Sinistcha
+
+that other items cannot.
+
+Freeze-Dry cleanly answers Water-type Pokemon that would want to switch in on Blizzard, and Choice Specs helps make up for its lower Base Power.
+
+Draco Meteor turns most offensive threats into mush and deals respectable damage to even the bulkiest Pokemon in the format such as
+
+Incineroar
+
+and
+
+Iron Hands
+
+.
+
+Earth Power hits Steel- and Fire-types, forcing them to make tough decisions about switching in, while Flash Cannon OHKOes
+
+Diancie
+
+.
+
+A Timid nature allows Kyurem to outspeed key Pokemon like
+
+Glimmora
+
+and
+
+Gholdengo
+
+, while a Modest nature sacrifices outspeeding those threats in order to maximize damage. Likewise, a little bit of Speed can be dropped from Timid Kyurem for added bulk, but these threats should be kept in mind when doing so.
+
+The chosen defensive Tera types enable Kyurem to continue dealing damage; Ghost provides an immunity to Fake Out from Pokemon such as
+
+Rillaboom
+
+, which is valuable on a Choice item set, but Fairy flips more weaknesses and grants an immunity to moves like
+
+Gouging Fire
+
+'s Breaking Swipe and
+
+Raging Bolt
+
+'s Draco Meteor.
+
+Tera Ice can be used to make Blizzard hurt more, and it notably allows Freeze-Dry to OHKO Terastallized
+
+Ogerpon-W
+
+.
+
+Alolan Ninetales
+
+is required as a teammate thanks to its Snow Warning ability, but Encore and Icy Wind are particularly useful to keep strong attacks off of Kyurem. Other good teammates include Fake Out users like Incineroar and Rillaboom to create space and more offensive threats such as
+
+Landorus
+
+to capitalize on Kyurem's damage output.
+
+Checks and Counters
+
+Incineroar
+
+:
+
+Thanks to its natural bulk and Blizzard resistance, Incineroar is often able to switch in on Kyurem and threaten any of Fake Out, Knock Off, and Parting Shot, all of which cut into Kyurem's ability to continue dealing damage.
+
+Iron Hands
+
+:
+
+Assault Vest Iron Hands is bulky enough to shrug off Blizzard and heal off the damage with Drain Punch, preventing Kyurem from using Blizzard if it wants to threaten it.
+
+Steel-types:
+
+Pokemon such as
+
+Gholdengo
+
+and
+
+Kingambit
+
+can use their Blizzard resistance and STAB Steel-type attacks to force Kyurem to retreat, which grants them the opportunity to set up or deal heavy damage on their own.
+
+Rock-types:
+
+Diancie
+
+and
+
+Tyranitar
+
+both have the bulk to take on Blizzard and the damage to beat Kyurem one-on-one. While it needs speed control,
+
+Glimmora
+
+can also threaten it with powerful Rock-type moves, especially Meteor Beam.
+
+Weather Disruption:
+
+Because Kyurem is so reliant on snow, many teams can use their own weather to combat it.
+
+Torkoal
+
+and Tyranitar can directly threaten Kyurem, while
+
+Pelipper
+
+and
+
+Tornadus
+
+can take away snow at a crucial moment and allow a physical partner to deal full damage to Kyurem.
+
+Entry Hazards:
+
+Common Stealth Rock setters like Glimmora and
+
+Ting-Lu
+
+may not beat Kyurem on their own, but Stealth Rock and Toxic Spikes can cut severely into Kyurem's health, making it less able to take on their teammates.
+
+Draft Order
+
+: Round 3 onwards
+
+Price Range
+
+: 16-17 points
+
+Overview
+
+: Kyurem is a powerhouse of a Pokemon, boasting high mixed attacking stats, great bulk, and a respectable Speed tier to back them up. It uses these traits to perform a variety of roles, such as sweeping and wallbreaking, as either a physical, special, or mixed attacker thanks to a versatile offensive movepool. However, while its typing offers some nice resistances, it comes with plenty of weaknesses to common types. Combined with a lack of reliable recovery and a vulnerability to entry hazards, Kyurem's bulk can easily be compromised, leaving it easily worn down.
+
+Common Roles
+
+Setup Sweeper
+
+: Dragon Dance turns Kyurem into a deadly sweeper, especially when it uses Loaded Dice alongside its multi-hitting STAB moves. This can make for a powerful win condition but requires support, since its physical coverage outside of STAB moves is relatively poor.
+
+All-out Attacker
+
+: This set aims to spread lots of damage reliably and finish off weakened targets. Several items can be used on this set, such as Heavy-Duty Boots to increase longevity and ease switching in as well as damage-boosting items, from Expert Belt utilizing Kyurem's super effective coverage to Choice Specs, to allow Kyurem to assume the role of a wallbreaker.
+
+Choice Scarf Revenge Killer
+
+: Kyurem makes for an excellent revenge killer and potential cleaner when it fixes its mediocre Speed with a Choice Scarf. This set takes advantage of teams left weakened by its teammates, though it must take note to scout out potentially faster Choice Scarf Pokemon.
+
+Common Moves
+
+Primary STAB Moves
+
+: Draco Meteor, Dragon Pulse, Scale Shot, Outrage, Dragon Claw, Ice Beam, Freeze-Dry, Icicle Spear
+
+Setup Moves
+
+: Dragon Dance, Substitute
+
+Utility Moves
+
+: Dragon Tail, Roar
+
+Coverage
+
+: Earth Power, Focus Blast, Shadow Ball, Flash Cannon, Psychic, Iron Head, Zen Headbutt, Stone Edge, Rock Slide, Shadow Claw, Dual Wingbeat
+
+Niche Moves
+
+Protect
+
+: Since Leftovers is Kyurem's sole source of recovery outside of Rest, Protect can be used to get as much use out of it as possible. Protect also pairs well with Kyurem's ability Pressure, allowing Kyurem to more easily PP stall foes, especially if they use attacks with low PP.
+
+Endeavor
+
+: This move can be paired with Endure or Substitute to reliably get Kyurem to low HP, where it will then do massive damage. This can be useful against targets that reliably sponge hits from Kyurem, bypassing their bulk and typing.
+
+Blizzard
+
+: Blizzard is a more powerful special Ice-type STAB move than Ice Beam that can be used when Kyurem is paired with snow, allowing it to never miss.
+
+Fling
+
+: Fling is Kyurem's only Dark-type attack, which reaches 130 Base Power with Big Nugget as the held item. This attack is used for very specific targets, such as
+
+Gholdengo
+
+, that otherwise resist Kyurem's other physical moves.
+
+Endure
+
+: Endure is an alternative to Protect that can attempt to be used to PP stall opposing attacks. However, this is mainly used to activate pinch Berries such as Custap and Salac Berries, as well as to allow Endeavor to reach maximum power.
+
+Common Items
+
+Choice Specs
+
+: Choice Specs greatly increases Kyurem's wallbreaking potential, boosting its powerful special moves such as Draco Meteor and Ice Beam and allowing it to break opposing walls and bulky cores.
+
+Heavy-Duty Boots
+
+: Being vulnerable to entry hazards, especially Stealth Rock, makes Heavy-Duty Boots a great item choice for Kyurem. This increases its longevity and allows it to function without relying on teammates to clear hazards for it.
+
+Loaded Dice
+
+: This item is used on physical sets to ensure Icicle Spear and Scale Shot hit four to five times. This greatly increases their effective Base Power, easing Kyurem's ability to sweep while also bypassing effects such as Sturdy and Focus Sash.
+
+Choice Scarf
+
+: Kyurem has decent Speed but is still outsped by many Pokemon, making it a good candidate for Choice Scarf. This increases the amount of Pokemon it can offensively check and gives it cleaning potential.
+
+Niche Items
+
+Damage-boosting Items
+
+: Damage-boosting items offer a less potent boost compared to Choice Specs, each having their own benefits while also allowing Kyurem to switch moves. Life Orb provides a more potent boost across all moves but leaves Kyurem worn down quickly, while other choices such as Never-Melt Ice provide more specific boosts but allow Kyurem to not KO itself so quickly.
+
+Leftovers
+
+: When paired with reliable entry hazard removal, Kyurem benefits from Leftovers, giving it even greater longevity and allowing it to use its great bulk in combination with moves such as Substitute and Protect to stay healthy.
+
+Assault Vest
+
+: Kyurem has a few crucial resistances alongside high natural HP. These combine well with Assault Vest, allowing Kyurem to assume the role of a tank, sponging special hits while using its natural power to dish out powerful attacks. This should be paired with entry hazard removal to be used effectively.
+
+Tera
+
+Kyurem makes for an exceptionally strong Tera Captain, leading to it usually being Tera banned. If allowed, it can use Tera to power up its highly spammable Dragon- and Ice-type moves by becoming one of those types. Setup sets can use Tera Fairy or Water to allow Kyurem to obtain Dragon Dance boosts more easily. On the flip side, an offensive type such as Tera Ground can be used to give Kyurem a powerful physical coverage move with Tera Blast to break through a potential check.
+
+Draft Strategy
+
+Kyurem has a lot of highly valuable traits for an offensive Pokemon, leveraging its bulk to switch in reliably and set up. Its strong mixed offenses allow it a lot of flexibility and can leave foes struggling to handle it. These traits make it a highly customizable Pokemon, making it perfect for Draft. Regardless, each of its sets, especially ones lacking Heavy-Duty Boots, require support from different kinds of teammates to work effectively.
+
+Entry Hazard Control
+
+: Kyurem's typing leaves it vulnerable to entry hazards, which greatly decreases its bulk and effectiveness when it enters the field unless it uses Heavy-Duty Boots. As such, Kyurem appreciates teammates such as
+
+Great Tusk
+
+and
+
+Terapagos
+
+that can reliably use Rapid Spin to clear the field for it, freeing up its reliance on Heavy-Duty Boots to stay healthy. On the flip side, entry hazards on the opponent's side of the field help to weaken switch-ins to Kyurem, whether it is wallbreaking or sweeping. Entry hazard setters such as
+
+Hisuian Samurott
+
+and
+
+Landorus-T
+
+can reliably set hazards to support Kyurem and weaken all of its checks.
+
+Steel-type Counters
+
+: Steel-types give Kyurem the most trouble, especially its physical sets, resisting its STAB combination and making it rely on coverage to hit them. Fire-types such as
+
+Chi-Yu
+
+and Fighting-types such as both
+
+Urshifu
+
+forms boast STAB moves that can hit these Pokemon super effectively and allow Kyurem to hit the rest of the opposing team.
+
+Speed Control
+
+: Kyurem has a decent Speed stat, but it requires setup or a Choice Scarf to not be easily outsped. Even so, there are many faster Pokemon that can viably run a Choice Scarf to outpace it further. Speed control options should be considered to slow down the opposing team and allow Kyurem to excel. Examples include Thunder Wave users such as
+
+Scream Tail
+
+and Gholdengo, naturally faster Pokemon such as
+
+Darkrai
+
+and
+
+Iron Valiant
+
+, and Sticky Web users such as
+
+Ribombee
+
+.
+
+Snow Setters
+
+: Being an Ice-type with great natural bulk, Kyurem can be potent when snow is on the field, boosting its Defense and allowing it to slot the usually unreliable Blizzard into its moveset.
+
+Alolan Ninetales
+
+and
+
+Abomasnow
+
+can automatically set snow, but they offer little in terms of type synergy. Alternatively,
+
+Slowking
+
+and
+
+Galarian Slowking
+
+are more synergistic with Kyurem and can use Chilly Reception to set snow and pivot into it, allowing it to immediately start benefitting from the snow.
+
+Checks and Counters
+
+Steel-types
+
+: Steel-types such as Gholdengo and
+
+Metagross
+
+naturally resist Kyurem's STAB moves, allowing them to switch in and force Kyurem out by threatening it with super effective STAB attacks in return. These Pokemon can shut down most physical variants, which usually lack powerful coverage to hit them, but they must watch out for Earth Power on special sets.
+
+Faster Pokemon
+
+: Kyurem's Speed leaves it outsped by a myriad of faster offensive threats such as both Urshfu forms,
+
+Garchomp
+
+, and Iron Valiant, which can threaten Kyurem offensively in return. Faster Pokemon that can use a Choice Scarf or boost their own Speed, such as the examples above, can potentially also shut down Kyurem sets that boost Speed.
+
+Entry Hazards
+
+: Without Heavy-Duty Boots or reliable hazard removal, Kyurem is at the mercy of entry hazards, being vulnerable to all of them and having a weakness to Stealth Rock to boot. Constant switching will wear Kyurem down very quickly, reducing its effectiveness, especially if it is a bulky variant.
+
+Phazing
+
+: Phazing can disrupt Kyurem sets that rely on setting up. It also poses a great danger to all Kyurem variants that lack Heavy-Duty Boots, since phazing forces Kyurem to take even more entry hazard damage if hazards are up whenever it re-enters the field, greatly reducing its longevity.
+
+Status
+
+: All Kyurem sets are vulnerable to at least one form of status that can reduce their effectiveness. Physical variants can be shut down by burn from moves like Will-O-Wisp, spread by Fire-types that can also resist Ice-type attacks. Paralysis slows down Kyurem and makes it even easier to outspeed. Finally, poison can combo with how easily non-Heavy Duty Boots Kyurem sets wear themselves down to put them on an even faster timer.
+
+Priority
+
+: Despite great natural bulk, Kyurem's typing leaves it weak to several priority moves, which can threaten even its Speed-boosting sets. Bullet Punch from the likes of
+
+Scizor
+
+and Metagross, which are also troublesome Steel-types, and Mach Punch from Pokemon such as
+
+Breloom
+
+and
+
+Infernape
+
+threaten Kyurem greatly and should be scouted accordingly before attempting to clean or sweep.
+
+Draco Meteor blasts neutral foes, such as slower non-Assault Vest
+
+Great Tusk
+
+sets and Air Balloon
+
+Volcanion
+
+, as well as slower Dragon-type Pokemon, such as non-Haban Berry
+
+Raging Bolt
+
+.
+
+Ice Beam hits Ground-types such as
+
+Ursaluna
+
+, some
+
+Landorus-T
+
+variants, and Grass-types such as
+
+Rillaboom
+
+and
+
+Serperior
+
+, as well as being its best move against Haban Berry Raging Bolt.
+
+Freeze-Dry gives it a strong move to use against Water-type foes such as
+
+Ogerpon-W
+
+and non-Outrage
+
+Dondozo
+
+.
+
+Earth Power gives it consistency against Assault Vest Volcanion, but Flash Cannon may be used instead to defeat
+
+Diancie
+
+.
+
+The EVs allow it to survive Overheat from Modest Choice Specs Volcanion, with the Speed investment allowing it to outspeed Adamant variants of Landorus-T.
+
+Kyurem struggles against faster Dragon-types such as
+
+Haxorus
+
+and
+
+Dragapult
+
+, Fighting-types such as both
+
+Urshifu
+
+formes and
+
+Iron Valiant
+
+, Steel-types such as
+
+Metagross
+
+and Iron Valiant, and Fairy-types such as
+
+Sylveon
+
+. Thus, Fairy-types such as
+
+Primarina
+
+and Fire-types such as Volcanion and
+
+Iron Moth
+
+pair well with it.
+
+Kyurem can utilize Haban Berry to survive important Dragon-type attacks from the likes of
+
+Raging Bolt
+
+,
+
+Garchomp
+
+, and
+
+Dragapult
+
+.
+
+Freeze-Dry is a valuable tool that allows Kyurem to win against any variant of
+
+Walking Wake
+
+,
+
+Ogerpon-W
+
+, and non-boosted variants of
+
+Primarina
+
+.
+
+Glaciate's ability to lower Speed allows Kyurem to finish off targets, like Substitute + Leech Seed
+
+Rillaboom
+
+, with Ice Beam later on.
+
+Earth Power allows Kyurem to defeat
+
+Heatran
+
+with ease after attacking once.
+
+The special bulk investment allows Kyurem to survive both a Draco Meteor from Special Attack Booster Energy Raging Bolt and a +3 Hurricane from
+
+Galarian Moltres
+
+while also surviving a Dragon Darts from Choice Band Dragapult on the physical side.
+
+Against Galarian Moltres, it is worth noting that the Kyurem user should be wary of the item that the foe is holding. If it's Weakness Policy Galarian Moltres, Kyurem may choose to use Ice Beam instead of Glaciate, which Custap Berry variants would prefer to utilize. While it is a lot more difficult to deal with, it's not impossible to defeat Assault Vest Galarian Moltres with enough luck in the form of Hurricane misses or Ice Beam freezes.
+
+Since Kyurem tends to struggle against most Fairy- and Steel-type Pokemon like
+
+Metagross
+
+and
+
+Iron Valiant
+
+, good checks to these like
+
+Volcanion
+
+,
+
+Volcarona
+
+, and
+
+Skeledirge
+
+can serve as good teammates.
+
+Kyurem can easily dismantle various defensive structures found on archetypes ranging from full stall to bulky offense teams by leveraging Pressure and its excellent coverage. Earth Power complements Freeze-Dry well, hitting Steel- and Fire-types super effectively, providing Kyurem with near-perfect coverage, and making it very difficult to switch into. Substitute, when paired with Pressure, allows Kyurem to PP stall its checks, making it very annoying for bulkier teams to deal with. This also provides Kyurem with an immunity to status moves and allows it to get free turns against passive Pokemon such as
+
+Alomomola
+
+and
+
+Ferrothorn
+
+. Substitute combined with Roost means Kyurem can beat its checks, such as Ferrothorn and
+
+Chansey
+
+, by stalling out all of their attacks. Protect can be used in conjunction with Leftovers to stall out offensive threats that Kyurem cannot safely use Roost in front of, such as
+
+Mega Lopunny
+
+and
+
+Tapu Lele
+
+, for longer. However, this leaves Kyurem vulnerable to entry hazards and without reliable recovery, which severely lowers its longevity. 56 HP EVs prevent
+
+Blissey
+
+and Chansey's Seismic Toss from breaking Substitute in one hit, which allows Kyurem to beat them one-on-one.
+
+Kyurem fits on balance and bulky offense teams that appreciate its ability to dismantle opposing walls and balance archetypes while making up for Kyurem's limited defensive utility. Offensive pivots, like
+
+Tapu Koko
+
+and
+
+Urshifu-R
+
+, can bait in walls like Ferrothorn,
+
+Toxapex
+
+, and
+
+Ting-Lu
+
+for Kyurem to prey on. In return, Kyurem can help break down the aforementioned checks as well as
+
+Galarian Slowking
+
+and bulky Dragon-types like
+
+Raging Bolt
+
+and
+
+Dragonite
+
+for them, which allows them to more easily clean up late-game. Other offensive Pokemon, such as
+
+Zamazenta
+
+and
+
+Great Tusk
+
+, also appreciate Kyurem pressuring
+
+Gholdengo
+
+,
+
+Zapdos
+
+, and Alomomola. In return, they can threaten bulky Steel-types such as
+
+Kingambit
+
+,
+
+Mega Scizor
+
+, and
+
+Melmetal
+
+. Due to Kyurem's relatively low Speed stat and somewhat middling bulk, it is easily threatened by strong wallbreakers such as Zamazenta and Tapu Lele, so Pokemon that can switch into them like Gholdengo, Toxapex, and Ferrothorn are appreciated. Its poor Ice typing also means that Kyurem is incapable of checking
+
+Mega Charizard Y
+
+and Superpower
+
+Ogerpon-W
+
+, so Pokemon that can do so such as Toxapex,
+
+Moltres
+
+, and
+
+Mega Venusaur
+
+are appreciated. If running Leftovers and Protect, Kyurem becomes vulnerable to entry hazards, so hazard removal from Zapdos, Great Tusk, and
+
+Terapagos
+
+is also appreciated. Alomomola also makes a great teammate, as it can safely pivot Kyurem into Ferrothorn and Toxapex and heal it with Wish. Kyurem also struggles with Melmetal and Mega Scizor because they can switch in relatively safely and threaten it with their strong Steel-type STAB moves, so Pokemon that can switch into them such as Alomomola, Moltres, and Zapdos make good teammates.
+
+With Heavy-Duty Boots, Kyurem can leverage its decent natural bulk and perfect movepool to clobber otherwise solid answers. Ice Beam and Freeze-Dry are fantastic STAB options; the latter is able to maul structures reliant on bulky Water-types to stymy the assault of powerful Ice Beams. Hidden Power Fire and Earth Power serve as excellent coverage to hit the Steel-types that would otherwise be able to survive the onslaught, with Hidden Power Fire targeting
+
+Ferrothorn
+
+and
+
+Mega Scizor
+
+and Earth Power chunking
+
+Gholdengo
+
+and
+
+Galarian Slowking
+
+for more damage while maiming defensive
+
+Heatran
+
+. Draco Meteor, while less broadly applicable in its targets, can secure important interactions, OHKOing
+
+Raging Bolt
+
+and
+
+Mega Latios
+
+which would otherwise survive an Ice Beam from full health. Roost enables Kyurem to shrug off the chip damage it can often accumulate throughout a game at the expense of further offensive prowess.
+
+Kyurem finds itself most fitting on bulkier teams that can provide it with opportunities to switch out reliably. With the ability to outspeed almost every Ground-type in the tier, Kyurem can find ample opportunities to exploit its coverage and extremely powerful STAB combination, especially against bulkier and slower structures. Kyurem is a one-stop-shop to handle common
+
+Gliscor
+
+and
+
+Toxapex
+
+structures while also doing extremely well versus offenses reliant on
+
+Alomomola
+
+and
+
+Slowbro
+
+to be their defensive backbone. Kyurem is not without weaknesses—its middling Speed tier and weak defensive typing means it is often outpaced and forced out by threatening offensive staples such as
+
+Zamazenta
+
+and
+
+Mega Diancie
+
+. Kyurem thus pairs extremely well with teammates that form a strong defensive core that it can rely on to absorb some of the pressure it inevitably incurs.
+
+Ting-Lu
+
+and
+
+Pecharunt
+
+serve to stymy the assault from Mega Latios and the aforementioned Zamazenta, respectively. Galarian Slowking is an extremely powerful defensive partner, with invaluable resistances to Fighting- and Fairy-type attacks as well as access to Thunder Wave, crippling the faster threats that would otherwise force Kyurem out. Galarian Slowking also boasts access to Chilly Reception, which provides a slow pivot to get Kyurem onto the field safely with the bonus of snow, boosting its already solid Defense. Pecharunt with Parting Shot serves a similar role, with its Fighting immunity and Fairy resistance making it a reliable answer to the ever-threatening
+
+Iron Valiant
+
+, Zamazenta,
+
+Urshifu-R
+
+, and
+
+Ogerpon-W
+
+that can all force Kyurem into a corner. Bulky Gholdengo provides additional offensive pressure along with a robust answer to
+
+Tapu Lele
+
+, and it can serve to soften targets for Kyurem to clean through or trade out with offensive powerhouses that would deny Kyurem from wreaking havoc. Bulky Gholdengo retains access to Thunder Wave to provide the aforementioned paralysis that Kyurem exploits so well.
+
+Mega Lopunny
+
+and Zamazenta make for excellent offensive partners, being able to rely on Kyurem to handle the bulkier structures that they tend to otherwise struggle against.
+
+Equipped with Choice Specs, Kyurem becomes a vicious, albeit high-maintenance wallbreaker. It can leverage its opportunities against common defensive targets such as
+
+Landorus-T
+
+,
+
+Tornadus-T
+
+, and
+
+Gliscor
+
+to pressure opposing teams with its vicious STAB moves and high Special Attack. Freeze-Dry smashes through Water-types such as
+
+Toxapex
+
+and
+
+Alomomola
+
+with ease. Ice Beam provides an alternative Ice-type attack that allows Kyurem to break past
+
+Ferrothorn
+
+,
+
+Galarian Slowking
+
+, and other defensive pivots more easily. Draco Meteor provides a secondary STAB move that can OHKO neutral targets such as
+
+Mega Charizard Y
+
+,
+
+Volcarona
+
+, and
+
+Zamazenta
+
+from full HP, preventing them from potentially switching in to force Kyurem out in a vacuum. Lastly, Earth Power forms near-perfect coverage with Kyurem's Ice-type attacks by ploughing through Steel-types including
+
+Gholdengo
+
+,
+
+Melmetal
+
+, and
+
+Heatran
+
+and can also 2HKO Galarian Slowking from full HP. A Timid nature is preferred to Speed tie with opposing Kyurem and
+
+Tapu Lele
+
+while also outspeeding
+
+Terapagos
+
+and
+
+Great Tusk
+
+. However, a Modest nature is also an option to maximize Kyurem's power, notably improving its odds to 2HKO Ferrothorn with Ice Beam and OHKO Zamazenta with Draco Meteor.
+
+Due to its vulnerability to being revenge killed and crippling weakness to entry hazards, Kyurem fits best on offensive teams. Hazard control options including Terapagos, Tornadus-T, and
+
+Cinderace
+
+are highly valuable teammates for keeping entry hazards off in the face of common hazard setters such as Ferrothorn and Gliscor. Additionally, Tornadus-T and Cinderace tend to invite in defensive Pokemon such as Toxapex and Heatran and can thus use U-turn to provide Kyurem with safe entry into them. Kyurem is also highly prone to being revenge killed by faster threats such as
+
+Mega Diancie
+
+and priority from the likes of
+
+Mega Scizor
+
+and
+
+Kingambit
+
+, making answers such as Toxapex, Zamazenta, and Landorus-T highly worthwhile. Additionally, Kyurem appreciates additional support from defensive pivots, particularly
+
+Pecharunt
+
+,
+
+Slowbro
+
+, and Galarian Slowking, to find safe entry against Landorus-T, Alomomola, and other slower targets. Notably, Galarian Slowking can set snow with Chilly Reception to boost Kyurem's Defense, letting it survive attacks such as Close Combat from Zamazenta and
+
+Urshifu-R
+
+from full HP. Finally, late-game cleaners such as Zamazenta, Volcarona,
+
+Iron Valiant
+
+, and Swords Dance Kingambit appreciate Kyurem's ability to threaten problematic defensive pieces, particularly
+
+Moltres
+
+and Toxapex, early in the match, opening them up to tear through teams more effectively.
+
+Kyurem is an excellent stallbreaker for Dragon teams with its access to Pressure, Roost, and Substitute, allowing it to force out notable bulky pests such as
+
+Toxapex
+
+and
+
+Mega Sableye
+
+. Freeze-Dry is a notable move in the Water matchup, as it allows Kyurem to effectively remove
+
+Mega Swampert
+
+and
+
+Pelipper
+
+to prevent rain. Earth Power eats away at Steel- and Fire-type competitors like
+
+Archaludon
+
+,
+
+Empoleon
+
+, and
+
+Heatran
+
+. With the given EV spread, Kyurem is able to stay behind its Substitute when hit by a Seismic Toss from
+
+Blissey
+
+while also being able to survive a Dazzling Gleam from Choice Specs
+
+Tapu Koko
+
+at full HP. Even with this bulk, Kyurem finds itself being threatened out by Fairy-types like
+
+Iron Valiant
+
+and
+
+Tapu Lele
+
+, so having teammates like Archaludon and
+
+Hisuian Goodra
+
+helps greatly because they can swap into incoming physical and special Fairy-type moves.
+
+Mega Altaria
+
+assists its icy companion by checking Dragon-type threats like the Lati twins and
+
+Garchomp
+
+with its Fairy typing. Choice Scarf
+
+Latias
+
+and
+
+Roaring Moon
+
+can revenge kill threats to Kyurem like
+
+Mega Lopunny
+
+, Choice Scarf Latias, and Choice Band
+
+Sneasler
+
+.
+
+Mega Latios
+
+and
+
+Kommo-o
+
+are notable wallbreakers that assist versus Steel-type threats like
+
+Mega Scizor
+
+and Hisuian Goodra. Garchomp complements Kyurem well by utilizing entry hazards so Kyurem has an easier time stallbreaking thanks to the greater chip damage.
+
+Choice Specs Kyurem is a terrifying wallbreaker with an impeccable STAB combination and coverage movepool, beating threats to Dragon teams like
+
+Toxapex
+
+,
+
+Dragonite
+
+, and
+
+Mamoswine
+
+. Draco Meteor is Kyurem's most powerful move, notably wearing down typical switch-ins like
+
+Mega Sableye
+
+and
+
+Volcarona
+
+. Freeze-Dry is highly effective in the Water matchup by answering would-be checks like
+
+Swampert
+
+,
+
+Gastrodon
+
+, and
+
+Slowking
+
+. Focus Blast catches
+
+Ferrothorn
+
+and
+
+Tyranitar
+
+off guard should they expect a STAB move, while Earth Power hits
+
+Alolan Muk
+
+,
+
+Galarian Slowking
+
+, and
+
+Heatran
+
+for more damage.
+
+Mega Altaria
+
+is heavily appreciated as an answer to Dragon-types like
+
+Kommo-o
+
+,
+
+Roaring Moon
+
+, and
+
+Walking Wake
+
+.
+
+Garchomp
+
+provides entry hazards like Stealth Rock and Spikes to ease Kyurem's wallbreaking.
+
+Latias
+
+checks Fighting-types such as
+
+Iron Hands
+
+,
+
+Galarian Zapdos
+
+, and
+
+Terrakion
+
+, is able to replenish Kyurem's health with Healing Wish, and removes troublesome entry hazards—especially Stealth Rock, given Kyurem's Rock weakness—with Defog.
+
+Dragalge
+
+sets up Toxic Spikes and checks Fairy-types like
+
+Tapu Koko
+
+and
+
+Clefable
+
+. Kommo-o checks Steel-types like Heatran and defensive
+
+Celesteela
+
+and blocks attempts to set hazards with Taunt.
+
+Kyurem is a stellar stallbreaker for Ice teams by utilizing Pressure, Substitute, and Roost to beat or force out walls such as
+
+Toxapex
+
+,
+
+Ferrothorn
+
+, and
+
+Mega Sableye
+
+. Kyurem's good bulk and typing also allow it to function as a defensive pivot, consistently checking threats like
+
+Heatran
+
+,
+
+Rotom-W
+
+, and
+
+Rillaboom
+
+. Moreover, it shrugs a hit from and beats the likes of
+
+Galarian Zapdos
+
+and
+
+Urshifu-R
+
+one-on-one if using a Chople Berry. Freeze-Dry lands a strong hit on Water-types like Toxapex and
+
+Gastrodon
+
+, turning Kyurem into a valuable asset in that matchup. Alongside it, Earth Power grants Kyurem near-perfect neutral coverage by nailing Steel- and Fire-types such as
+
+Magnezone
+
+and
+
+Skeledirge
+
+. The given EV spread allows Kyurem's Substitute to live one Seismic Toss from
+
+Blissey
+
+.
+
+Alolan Ninetales
+
+provides Snow and Aurora Veil support, bolstering Kyurem's defensive utility while preventing
+
+Celesteela
+
+and Heatran from breaking its Substitute. Defensive
+
+Cloyster
+
+is able to remove entry hazards with Rapid Spin, set up Spikes to help Kyurem stallbreak more easily, and switch into physical Steel-type attacks from
+
+Mega Scizor
+
+and
+
+Melmetal
+
+. Similarly,
+
+Piloswine
+
+lays down Stealth Rock and deals with Fire- and Rock-types that Kyurem loses to, such as
+
+Volcarona
+
+and
+
+Mega Diancie
+
+. Setup sweepers like Swords Dance
+
+Weavile
+
+and Shell Smash Cloyster greatly appreciate Kyurem wearing down walls so they can clean up late-game.

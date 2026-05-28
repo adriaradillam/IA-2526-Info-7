@@ -1,0 +1,1843 @@
+Kingambit shines as one of the tier's most dangerous sweepers thanks to its solid STAB combination, superb defensive typing, high Attack stat, access to Swords Dance, and incredible ability in Supreme Overlord. Its access to Sucker Punch allows it to compensate for its low Speed and serve as a potent revenge killer, picking off a wide range of faster targets such as
+
+Dragapult
+
+,
+
+Deoxys-S
+
+, and
+
+Iron Moth
+
+. It can also customize its EV spread, item choice, and Tera type selection to tailor itself to what its team desires and overcome many would-be answers. For example, Tera Flying and Air Balloon improve Kingambit's matchup against Ground-types, Tera Fire and Lum Berry let it foil attempted burns from Will-O-Wisp, and Tera Ghost flips its Fighting weakness and turns the tables on Body Press
+
+Corviknight
+
+and Fighting-types like
+
+Zamazenta
+
+and
+
+Great Tusk
+
+. Thanks to these traits and flexibility, Kingambit is welcomed by nearly every offensive archetype in the tier. However, it is heavily burdened by a crippling weakness to Fighting, as well as common attacking types like Fire and Ground. This leaves it struggling against common threats like Zamazenta and Great Tusk without Terastallizing, and plenty of Pokemon like
+
+Gholdengo
+
+, Deoxys-S, and
+
+Iron Crown
+
+often slap on Fighting-type coverage to deal with it. Additionally, these Pokemon, as well as Corviknight and
+
+Dondozo
+
+, often utilize Tera Fighting specifically to turn the tables on Kingambit. Tera Fairy is also commonplace in the tier, as Pokemon like Gholdengo,
+
+Raging Bolt
+
+, and Iron Moth sometimes utilize it in part to avoid being revenge killed by Kingambit's Dark-type attacks. Additionally, Kingambit's low Speed forces it to rely on Sucker Punch to deal with faster teams and play carefully around Encore from foes such as
+
+Ogerpon-W
+
+,
+
+Dragonite
+
+, and
+
+Iron Valiant
+
+. Relying on Sucker Punch also makes Kingambit vulnerable to well-timed status moves such as Will-O-Wisp, Substitute, and recovery moves from Pokemon like
+
+Darkrai
+
+, Dragapult,
+
+Kyurem
+
+, and Iron Moth. The ubiquity of priority moves, such as Raging Bolt's Thunderclap and Dragonite's Extreme Speed, is also an issue for Kingambit's Sucker Punch. On top of this, Kingambit lacks reliable recovery, and it struggles to fit all the moves it wants in one set to threaten targets like Great Tusk, opposing Kingambit, and
+
+Hisuian Samurott
+
+.
+
+Kingambit is a potent late-game cleaner with Swords Dance, Sucker Punch, and Supreme Overlord. Kingambit can drop one of its STAB moves for Low Kick, which hits
+
+Hisuian Samurott
+
+and opposing Kingambit super effectively while netting crucial benchmarks such as potentially OHKOing
+
+Ting-Lu
+
+at +2, especially because common Fighting-resistant Pokemon like
+
+Galarian Slowking
+
+and
+
+Pecharunt
+
+want nothing to do with Kingambit; Low Kick should only be used on maximum Speed variants to try and hit opposing Kingambit first. However, dropping Iron Head means it is walled by Fairy-types and Tera Fairy users such as
+
+Clefable
+
+,
+
+Galarian Weezing
+
+,
+
+Gholdengo
+
+, and
+
+Moltres
+
+, while dropping Kowtow Cleave makes Kingambit struggle to beat neutral walls like
+
+Corviknight
+
+,
+
+Alomomola
+
+, and
+
+Zapdos
+
+. Leftovers takes further advantage of its defensive profile and works well with Sucker Punch, as foes attempting to play around it will just grant Kingambit more health. Leftovers is especially more effective on variants running the bulky EV spread. Lum Berry mainly prevents Kingambit from being shut down by a burn from the likes of
+
+Dragapult
+
+,
+
+Darkrai
+
+, Alomomola, and Moltres. Black Glasses + Tera Dark should exclusively be used together with Kowtow Cleave, as these propel Kingambit's offensive pressure further; with five Supreme Overlord boosts under its belt, Kingambit can reach feats such as 2HKOing even
+
+Dondozo
+
+with Kowtow Cleave and OHKOing
+
+Dragonite
+
+through Multiscale with Sucker Punch at +2. Air Balloon allows Kingambit to set up on would-be checks in
+
+Landorus-T
+
+and most
+
+Great Tusk
+
+; become a sturdy switch-in to offensive threats like
+
+Kyurem
+
+and Dragonite that mostly rely on their Ground-type coverage to hit it; and gain an immunity to Spikes, which is one of the ways to limit Kingambit's health before it gets going. The latter reasoning thus makes Heavy-Duty Boots an appealing alternative option to combat entry hazards in general, especially on hazard-stacking teams that lack reliable hazard removers while aiming to play a longer game. Similar to Air Balloon, Shuca Berry can be used instead for its matchup against the aforementioned Ground-types and Ground coverage moves; it gives Kingambit more freedom to take on other attacks before if necessary and it hides Kingambit's item from the opponent at the cost of a complete immunity to Ground, even against Spikes. Tera Ghost flips its Fighting weakness, letting it go toe-to-toe against otherwise solid checks in IronPress users like Corviknight,
+
+Skarmory
+
+, and
+
+Zamazenta
+
+more reliably, especially because it naturally puts fear in the likes of Dragapult and Gholdengo from trying to exploit its newfound Ghost weakness. Tera Fighting can be used on Low Kick variants, boosting the move to pressure Ting-Lu, Dondozo, and Great Tusk hard. Tera Flying is an option for its complete immunity to Ground moves from checks like Great Tusk and Landorus-T, especially on sets without Air Balloon. Tera Fire provides a burn immunity from foes like Dragapult, Darkrai, and Moltres, even flipping its Fire weakness against the latter and other threats like
+
+Cinderace
+
+and
+
+Iron Moth
+
+. An Adamant nature is preferred, with maximum Speed investment to Speed tie opposing Kingambit; going even further with a Jolly nature gives better odds in winning this interaction, which also helps in outspeeding most variants of Skarmory,
+
+Primarina
+
+, and
+
+Sinistcha
+
+. A bulkier EV spread further takes advantage of Kingambit's hit-taking abilities, remarkably reaching feats such as surviving +2
+
+Ogerpon-W
+
+'s Ivy Cudgel and two
+
+Iron Valiant
+
+Moonblasts while running just enough Speed for
+
+Blissey
+
+.
+
+Kingambit's late-game potential and defensive utility make it a near staple on any offensive archetype, ranging from bulky to hyper offense, while still being capable of fitting on balance teams. Physically offensive teammates like Ogerpon-W, Zamazenta, Dragonite, and Swords Dance Iron Valiant are helpful to overwhelm shared checks like Zamazenta, Landorus-T, Moltres, and Dondozo. Simultaneously, special attackers like Calm Mind Iron Valiant, Gholdengo, Dragapult, Iron Moth, Kyurem, and
+
+Raging Bolt
+
+are similarly helpful to handle and pressure these checks, preventing them from getting free turns to set up or recover health. Additionally, their synergy doesn't stop there, as Zamazenta and some Iron Valiant variants appreciate Kingambit's ability to switch into and threaten Gholdengo and Galarian Slowking; Dragonite can take on Iron Moth and provide a Ground immunity against Landorus-T; Gholdengo can switch into and check Zamazenta for Kingambit; Dragapult can check Zamazenta and bring Kingambit safely via U-turn; and Kyurem and Raging Bolt can threaten and force damage, respectively, onto Kingambit's Ground-type checks in Landorus-T, Great Tusk, and Ting-Lu. Dark-type offensive threats in Darkrai and Hisuian Samurott, in particular, are notable in forming a Dark-type spam core together with Kingambit, which is capable of overwhelming Dark-resistant Pokemon like Zamazenta and Tera Fairy users like Gholdengo,
+
+Garganacl
+
+, and Moltres together. Moreover, the aforementioned Hisuian Samurott helps chip foes into Kingambit's KO range with its entry hazards, whether it's softening walls like Ting-Lu or potential revenge killers like Ogerpon-W and Iron Moth into Sucker Punch range; thus, other hazard setters like Landorus-T,
+
+Glimmora
+
+,
+
+Deoxys-S
+
+, and Ting-Lu are similarly valuable. Defensive pivots like Landorus-T, Zapdos, Pecharunt, and Galarian Slowking are common faces on bulky offense teams that help switch into threats like Cinderace, Landorus-T, Great Tusk, and Zamazenta for Kingambit and are great at bringing it in safely onto the field, especially with Intimidate and Parting Shot to ease its setup; in return, Kingambit helps check Darkrai, Gholdengo, and Dragapult for Galarian Slowking and Pecharunt. Other and more specific offensive playstyles like Sticky Web, dual screens, and the fringe Trick Room can also mesh well with Kingambit. Sticky Web from
+
+Ribombee
+
+and
+
+Araquanid
+
+compensates for Kingambit's low Speed against faster threats like Raging Bolt, Hisuian Samurott, and Great Tusk if Kingambit runs a Jolly nature, even making it less reliant on Sucker Punch mind games. Dual screens from
+
+Alolan Ninetales
+
+give Kingambit an easier time setting up and let it stomach even super effective hits from Iron Moth and Darkrai. Similar to Sticky Web, Trick Room set by teammates like
+
+Hatterene
+
+can compensate for Kingambit's poor Speed tier, especially against fast foes like Iron Valiant and Encore Ogerpon-W. On balance teams, a sturdier defensive backbone with the likes of Skarmory, Corviknight, Clefable,
+
+Gliscor
+
+, and Alomomola is similarly appreciated, as on top of switching into Kingambit's aforementioned checks and revenge killers, they can also set entry hazards and bring it in safely via slow pivots; Alomomola can also provide Kingambit with Wish support, while Gliscor and Clefable can further weaken walls with Knock Off. Outside of its utility set, Swords Dance Gliscor, in particular, is also a strong setup sweeper that complements Kingambit well.
+
+Other Options
+
+Kingambit has a few other Tera types that it can make use of. Tera Grass flips the matchup against
+
+Ogerpon-W
+
+and lets Kingambit set up on Ground-types like
+
+Great Tusk
+
+,
+
+Ting-Lu
+
+, and
+
+Iron Treads
+
+. Tera Poison grants Kingambit a Fighting resistance while keeping its immunity to Toxic and has the benefit of absorbing Toxic Spikes for teams that are otherwise at a disadvantage against them. Black Belt can be used on Tera Fighting + Low Kick sets, with the boost in particular letting it 2HKO
+
+Dondozo
+
+with five Supreme Overlord boosts. Clear Amulet is another item option to ignore
+
+Landorus-T
+
+'s Intimidate and disrupt Parting Shot from
+
+Pecharunt
+
+to stop it from switching out. Thunder Wave can be used to cripple incoming switch-ins, such as
+
+Zamazenta
+
+and
+
+Moltres
+
+, and it synergizes well with Iron Head's chance to flinch.
+
+With the help of Supreme Overlord and strong priority in Sucker Punch, Kingambit serves as an excellent late-game sweeper. Its typing also grants it the ability to soft check
+
+Calyrex-S
+
+and Extreme Killer
+
+Arceus
+
+, two of the most prominent Pokemon in AG. Kowtow Cleave gives Kingambit a reliable Dark-type STAB move and lets it hit
+
+Ho-Oh
+
+,
+
+Miraidon
+
+, and
+
+Kyogre
+
+harder on the switch. Low Kick can be used instead to better check Arceus and hit
+
+Ting-Lu
+
+harder, OHKOing Arceus after a Swords Dance and Ting-Lu with one Supreme Overlord boost, while also allowing Kingambit to check opposing Kingambit. Leftovers improves Kingambit's longevity and improves its ability to check Calyrex-S and Extreme Killer Arceus, (AC) while Black Glasses increases Kingambit's damage even further, notably giving Sucker Punch a very good chance to OHKO 120 HP Miraidon with two Supreme Overlord boosts and a Swords Dance. Air Balloon can be used instead to give Kingambit an easier time versus Ground-type Pokemon such as
+
+Arceus-Ground
+
+, Ting-Lu, and
+
+Landorus-T
+
+by giving it a temporary immunity to their super effective Ground-type attacks. Kingambit also has great flexibility with its Tera type. Tera Fire gives Kingambit an immunity to burn and a resistance to Fire-type attacks from
+
+Koraidon
+
+and Ho-Oh; it also lets Kingambit avoid an OHKO from Koraidon's Low Kick from full HP. On the other hand, Tera Dark boosts Kingambit's Dark-type attacks to ridiculous levels and can be used in conjunction with Black Glasses to give Kingambit's +2 Sucker Punch a 50% chance to OHKO Koraidon after one layer of Spikes and five boosts of Supreme Overlord. Tera Flying is yet another option that gives Kingambit an immunity to Ground-type attacks from Arceus-Ground and Ting-Lu and a resistance to Fighting-type attacks from Koraidon and
+
+Zacian-C
+
+. Kingambit must be wary of Terastallizing, however, as it removes its resistance to Arceus's Extreme Speed, making it vulnerable to being revenge killed. The given EV spread allows Kingambit to outspeed uninvested
+
+Skeledirge
+
+.
+
+Due to its lack of recovery, Kingambit fits best on offensive teams that appreciate its ability to check Calyrex-S and Extreme Killer Arceus short-term, as well as its efficacy into Sticky Web teams due to its strong priority. Funnily enough, Calyrex-S and Extreme Killer Arceus also make some of Kingambit's best partners. Calyrex-S appreciates Kingambit's ability to check opposing Arceus and, in return, helps break through Ting-Lu and Ho-Oh. Meanwhile, Arceus creates a strong priority spam core with Kingambit that overwhelms their shared checks such as Zacian-C, Ho-Oh, and defensive Arceus formes. Arceus and Kingambit also both check Calyrex-S, which is helpful because it helps avoid bad situations created by Encore. Kingambit can also benefit from the fact that Arceus often forces the opponent to Terastallize their Koraidon into the Ghost-type, which makes it easier for Kingambit to sweep late-game. Other physical wallbreakers such as Koraidon and Zacian-C also have excellent synergy with Kingambit, as they can help wear down opposing physical walls such as the aforementioned Ho-Oh and defensive Arceus formes as well as Landorus-T. Swords Dance Koraidon in particular is a great partner, since it often forces Ho-Oh to Terastallize into the Fairy-type, which makes Ho-Oh vulnerable to Iron Head. In return, Kingambit can switch into Calyrex-S and Arceus trying to revenge kill Koraidon. As Kingambit is often forced out by Fire- and Fighting- type attacks from wallbreakers such as Koraidon and Zacian-C, a strong defensive core is necessary. Landorus-T can switch into both Zacian-C and Koraidon and rack up chip damage on them with Rocky Helmet and Stealth Rock. Stealth Rock also helps chip down walls like support Arceus formes and opposing Landorus-T. Defensive Arceus formes like
+
+Arceus-Fairy
+
+and
+
+Arceus-Water
+
+can also switch into these threats and spread burn, which can help rack up chip damage and make it easier for Kingambit to set up. Ting-Lu switches into Miraidon and Arceus-Ground, acts as another check to Calyrex-S, and can set up Spikes that helps break down defensive Arceus formes and Koraidon over the course the game.
+
+Other Options
+
+Mental Herb can be used to allow Kingambit to set up in front of Pokemon running Taunt or to avoid getting locked into an unfavorable move by Encore
+
+Calyrex-S
+
+. Lum Berry is also another option that allows Kingambit to avoid getting burned by defensive
+
+Arceus
+
+formes and
+
+Skeledirge
+
+without having to Terastallize. Defiant can also be used to help against Sticky Web teams and
+
+Landorus-T
+
+but is usually suboptimal, as it does nothing in other matchups.
+
+Checks and Counters
+
+Dark-resistant Pokemon
+
+:
+
+Koraidon
+
+and
+
+Zacian
+
+can take Kingambit's Dark-type attacks fairly well and threaten an OHKO with their strong Fighting- and Fire-type attacks, usually forcing Kingambit to switch out.
+
+Bulky Ground-types
+
+:
+
+Ting-Lu
+
+,
+
+Arceus-Ground
+
+, and Landorus-T can all take an attack from Kingambit and threaten it back with their super effective STAB moves. However, they must be wary of Tera Flying.
+
+Physical Walls
+
+: Physical walls like defensive Arceus formes and
+
+Ho-Oh
+
+can switch into Kingambit's attacks and cripple it with burn, though they must be wary of Tera Fire.
+
+Encore Calyrex-S
+
+: If Kingambit isn't running Mental Herb, then Calyrex-S can use Encore to lock it into Swords Dance or Sucker Punch and set up Nasty Plot for free.
+
+Supreme Overlord, a high Attack stat, access to Swords Dance and Sucker Punch, and a wide variety of items and Tera types at its disposal make Kingambit one of the most dangerous late-game sweepers in the tier, being able to use Terastallization to lure in and beat Pokemon that would normally check it and completely take games at the drop of a hat. It also has an amazing defensive typing that lets it easily set up on metagame staples like
+
+Lunala
+
+and
+
+Necrozma-DM
+
+to start its sweep. However, the abundance of common Dark-resistant Pokemon in the tier makes making complete comebacks harder, as Pokemon like
+
+Koraidon
+
+,
+
+Zacian-C
+
+, and
+
+Arceus-Fairy
+
+, among others, can take a Sucker Punch and end its attempt at a sweep either by OHKOing it or burning it, though this can be circumvented with Terastallization. Kingambit is also forced into not coming in for the majority of the game, as it's heavily reliant on using up its HP or Terastallization to sweep, and when no teammates have fainted, it is weak compared to the rest of the metagame.
+
+Every part of this set aims to make sure Kingambit can finish off the opposing team with Sucker Punch, as due to the massive damage output of Ubers, Kingambit only gets one chance to sweep. Black Glasses makes Kingambit's Dark-type moves hit astronomically hard, especially with Tera Dark, being able to OHKO Tera Fire
+
+Calyrex-I
+
+and
+
+Zacian-C
+
+as well as
+
+Koraidon
+
+with minimal chip damage with Sucker Punch after a Swords Dance boost and 5 Supreme Overlord boosts. Air Balloon allows Kingambit to come in on the multitude of Ground-type attacks from
+
+Arceus-Ground
+
+,
+
+Landorus-T
+
+, and
+
+Necrozma-DM
+
+, allowing it an opportunity to set up. Lum Berry allows it to absorb burns from
+
+Ho-Oh
+
+and defensive
+
+Arceus
+
+formes, allowing Kingambit to forgo Tera Fire for another Tera type. Tera Dark powers up Kingambit's Dark- type moves even further, allowing Kingambit to, crucially, OHKO Ho-Oh and Arceus-Ground with a Swords Dance boosted Sucker Punch with 5 Supreme Overlord boosts. Tera Fire grants Kingambit a burn immunity and a Fire resistance while removing its Fighting weakness, which allow it to set up on Pokemon like Ho-Oh, Koraidon, and Zacian-C.
+
+Kingambit fits best on hyper offensive teams that need a late-game cleaner and a revenge killer for Pokemon like Calyrex-I, Necrozma-DM, and
+
+Eternatus
+
+. As it's fairly weak without a significant amount of teammates fainted, entry hazard setters like
+
+Glimmora
+
+and
+
+Deoxys-S
+
+are useful for weakening checks like Zacian-C and Koraidon for Kingambit to sweep. In terms of offensive teammates, Koraidon and Zacian-C are amazing teammates, as they can wear down or force common checks such as Ho-Oh, Landorus-T, and defensive Arceus forms to Terastallize, allowing Kingambit to sweep later. Extreme Killer Arceus can force Koraidon and
+
+Kyogre
+
+to Terastallize into a Ghost-type, allowing Kingambit to beat them with Sucker Punch, and one can wear down checks like Kyogre and defensive Arceus formes for the other to break through. Necrozma-DM can lure in Ho-Oh and cripple it with either Knock Off or Stone Edge, allowing Kingambit to muscle through. Meteor Beam Eternatus can also force in and damage Ho-Oh while also threatening
+
+Arceus-Fairy
+
+and
+
+Arceus-Water
+
+, while Kingambit can deal with
+
+Mewtwo
+
+and Necrozma-DM for Eternatus.
+
+Other Options
+
+Tera Flying can be used to become immune to Ground, allowing it to constantly come in on Ground attacks from
+
+Arceus-Ground
+
+and
+
+Landorus-T
+
+without sacrificing the item slot for Air Balloon. Tera Ghost can also be used for an immunity to Fighting-type attacks and Extreme Speed, but Kingambit is resistant to Extreme Speed anyway and the Fighting immunity isn't that worth it over other Tera types like Fire. Heavy-Duty Boots can be used to prevent Kingambit from being chipped down by entry hazards over the course of a game on a bulky offense team.
+
+Checks and Counters
+
+Dark-resistant Pokemon
+
+: Pokemon that resist Kingambit's Sucker Punch, like
+
+Koraidon
+
+,
+
+Zacian-C
+
+, and
+
+Arceus-Fairy
+
+, are very common, so Kingambit can have a hard time breaking through these Pokémon. There are also a lot of Pokémon that can Terastallize into a Dark-resistant type, like
+
+Lunala
+
+and
+
+Ho-Oh
+
+, among others.
+
+Ho-Oh
+
+: Ho-Oh can easily shrug off Kingambit's Sucker Punches, outspeed it, and retaliate with Sacred Fire. Kingambit can circumvent this with Lum Berry or Tera Fire, but it still needs to be wary of Whirlwind.
+
+Defensive
+
+Arceus
+
+Formes
+
+: Arceus-Fairy, Arceus-Ground, and
+
+Arceus-Water
+
+can all easily take Kingambit's attacks and threaten Kingambit with either burn from Will-O-Wisp or damage with Judgement, especially if Kingambit has already Terastallized into a Dark- or Fire-type. Kingambit has ways of playing around these, though, like Lum Berry, Air Balloon, or just pressuring them with entry hazard chip damage.
+
+Landorus-T
+
+: Landorus-T’s Intimidate can make Kingambit thud in the face of it and can use these free turns to set up Stealth Rock, stop it from setting up with Taunt, or just threaten an Earthquake, all while racking up chip damage with Rocky Helmet. However, Landorus-T lacks reliable recovery, so it can get chipped down over the course of the game to the point where Kingambit is able to break through.
+
+Swords Dance, mixed with Kingambit's naturally high Attack as well as access to Defiant to scare off Intimidate users and priority in Sucker Punch, makes it one of the most effective setup sweepers in the metagame. Its respectable bulk, especially its base 120 Defense, often allows it to set up multiple Swords Dances in one match.
+
+Kowtow Cleave offers strong and consistent damage. It OHKOes
+
+Gholdengo
+
+and
+
+Indeedee-F
+
+without a boost and decimates bulky Pokemon like
+
+Amoonguss
+
+and
+
+Entei
+
+at +2, netting guaranteed KOs after minimal chip damage.
+
+Sucker Punch compensates for Kingambit's low Speed, OHKOing faster attackers such as
+
+Landorus
+
+and
+
+Ogerpon-W
+
+after a boost. It also allows Kingambit to revenge kill weakened foes when entering the field.
+
+Dread Plate (or Black Glasses) is vital for Kingambit to secure numerous benchmarks for OHKOs or 2HKOs on Pokemon such as Landorus with Sucker Punch and Ogerpon-W with Kowtow Cleave. Other items can be used in niche scenarios, such as Leftovers for gradual health recovery and Grassy Seed on teams with
+
+Rillaboom
+
+to become resilient to most physical attacks.
+
+Kingambit has a multitude of options for its Tera type. Tera Dark can be used to strengthen its attacks and reduce its weakness to
+
+Iron Hands
+
+'s Fighting-type attacks to only 2x while removing its weaknesses to
+
+Incineroar
+
+'s Flare Blitz,
+
+Ogerpon-H
+
+'s Ivy Cudgel, and Landorus's Earth Power. Tera Dragon allows Kingambit to resist attacks from Ogerpon-H, Ogerpon-W, and
+
+Chi-Yu
+
+. Tera Flying grants an immunity to Landorus's Ground-type moves as well as another way to resist Iron Hands's attacks, but it gives Kingambit a much worse matchup against the faster
+
+Raging Bolt
+
+and
+
+Chien-Pao
+
+.
+
+Kingambit appreciates partners that can create space for it to set up a Swords Dance; this includes Fake Out users, such as Incineroar, Rillaboom, and Iron Hands, and redirection support from the likes of
+
+Sinistcha
+
+and Ogerpon-W. One bonus of running Incineroar is that it actually improves Kingambit's matchup against opposing Incineroar, as it can easily switch into Flare Blitz if necessary or at least reduce the damage Kingambit takes from an opposing Incineroar's Flare Blitz. Landorus fends off some of Kingambit's biggest threats like Iron Hands and Entei, while it appreciates Kingambit's ability to remove some of its threats like Ogerpon-W with a boosted Sucker Punch. Landorus is also one of Kingambit's best offensive checks due to its strong Earth Power, so Kingambit appreciates the support of Jolly Ogerpon-W and Chien-Pao to threaten it offensively.
+
+Kingambit's Defiant supports strong physical attackers such as Rillaboom, Ogerpon-W, and Chien-Pao by deterring opposing Intimidate users. Its Steel typing and opportunity to get a Defiant boost from Bleakwind Storm also make it one of the strongest
+
+Tornadus
+
+checks in the tier, which is appreciated by the aforementioned Grass-types.
+
+Gouging Fire
+
+can further boost Kingambit's Attack with Howl, while Kingambit deters Intimidate users, creating room for multiple turns of boosting.
+
+This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023.
+
+For more information on this format and its current events, check out this page!
+
+If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.
+
+Kingambit sets itself apart from most other Dark-types with its bulk and typing, which make it a reasonable check against
+
+Gholdengo
+
+that lack Focus Blast, and less vulnerable to
+
+Flutter Mane
+
+.
+
+Guillotine
+
+: This makes Kingambit far more difficult to wall with foes such as
+
+Dondozo
+
+and
+
+Ting-Lu
+
+.
+
+Brick Break versus Low Kick
+
+: Low Kick is Kingambit's best option against Tera Normal
+
+Dragonite
+
+and other Kingambit, but Brick Break is preferred because it deals far more damage to
+
+Chi-Yu
+
+.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Kingambit has a good typing, but its vulnerability to Fighting-type attacks or need to boost its power for late-game sweeps means it benefits a lot from Terastallization.
+
+Dark
+
+: Tera Dark makes Kingambit even harder to wall and removes its irritating Ground weakness, though powerful Fighting-type attacks can still be a problem.
+
+Flying
+
+: Tera Flying covers Kingambit's issues with Fighting- and Ground-type attacks very well and lets it deal big damage to Fighting-types like
+
+Annihilape
+
+and
+
+Great Tusk
+
+with Tera Blast.
+
+Fairy
+
+: With Tera Fairy and Tera Blast, Kingambit improves its matchup against
+
+Chien-Pao
+
+and can deal serious damage to
+
+Iron Hands
+
+and Great Tusk, but it becomes vulnerable to Gholdengo.
+
+Abilities
+
+Supreme Overlord
+
+: This ability makes Kingambit a deadly cleaner in late-game scenarios, and is generally the most consistent ability.
+
+Defiant
+
+: Defiant prevents Kingambit from falling to Charm Flutter Mane, and is a good option for punishing speed control options like Rock Tomb.
+
+Alternate EV Spreads
+
+108 HP / 252 Atk / 148 Spe
+
+: This EV spread has enough Speed to outspeed most
+
+Corviknight
+
+and
+
+Skeledirge
+
+, and it still has enough bulk to survive one unboosted Body Press from Corviknight. Since this is a fairly congested Speed range, feel free to move some Attack EVs to Speed.
+
+4 HP / 252 Atk / 252 Spe
+
+: Using maximum Speed might seem absurd on such a slow Pokemon, but outspeeding most Skeledirge, Corviknight, and opposing Kingambit can make this worth it.
+
+Items
+
+Assault Vest
+
+: Kingambit's bulk is perfect for Assault Vest, letting it perform well against Flutter Mane and
+
+Iron Bundle
+
+.
+
+Black Glasses
+
+: While its boost to Dark-type attacks isn't as high as Life Orb's, Black Glasses is a better fit for Kingambit's bulk due to the lack of recoil.
+
+Sitrus Berry and 244 HP EVs
+
+: The burst of recovery helps Kingambit check Gholdengo better. Make sure to run 244 HP EVs to have an even HP stat. This will make Sitrus Berry activate after one use of Ruination.
+
+Kingambit's excellent bulk and offensive presence make it a good, if unexpected, setter of Stealth Rock.
+
+Brick Break versus Low Kick
+
+: While weak, Brick Break is the preferred fighting move for hitting
+
+Chi-Yu
+
+hard. Low Kick does more damage to
+
+Ting-Lu
+
+, other Kingambit and Tera Normal
+
+Dragonite
+
+.
+
+Thunder Wave
+
+: Thunder Wave isn't a particularly common move on Kingambit, potentially letting it surprise some switch-ins like
+
+Iron Moth
+
+and
+
+Annihilape
+
+.
+
+Other Options
+
+Guillotine
+
+: With Guillotine, passive play from foes like
+
+Corviknight
+
+and
+
+Dondozo
+
+becomes far more risky.
+
+Taunt
+
+: Taunt is effective at shutting down common support Pokemon such as Dondozo and
+
+Toxapex
+
+.
+
+Tera Blast
+
+: Tera Fairy Blast is Kingambit's best shot against
+
+Iron Hands
+
+, one of its biggest checks. It also makes sense with Tera Flying to hit
+
+Great Tusk
+
+hard.
+
+Metal Burst
+
+: If using Focus Sash, Metal Burst deals serious damage against a wide variety of leads.
+
+Tera Types
+
+Tera Dependency - Low
+
+: While Terastallization is fully viable, this Kingambit's focus on setting up Stealth Rock early means it's not needed to function.
+
+Flying
+
+: Tera Flying covers Kingambit's Fighting- and Ground-type weaknesses, making it do especially well against
+
+Fairy
+
+: Tera Fairy can help prevent Iron Hands, one of the best Kingambit checks in the game, from OHKOing it.
+
+Dark
+
+: When using Sucker Punch, Tera Dark gives Kingambit some late-game cleaning potential.
+
+Items
+
+Sitrus Berry: Sitrus Berry's quick burst of recovery keeps Kingambit more relevant in the later stages of the game. Make sure to use an even HP stat so that Ruination will activate Sitrus Berry.
+
+Black Glasses
+
+: Kingambit's bulk and support options make Black Glasses a preferable option over Life Orb for more power, especially when using Sucker Punch.
+
+Focus Sash
+
+: Focus Sash will let Kingambit survive even the strongest Fighting-type attacks, if Stealth Rock desperately needs to be set up.
+
+Chople Berry
+
+: Chople Berry eases Kingambit's devastating Fighting-type weakness, though note powerful STAB users of Close Combat such as Iron Hands require massive Defense investment to survive. 252 HP and 12 Defense EVs can be used to survive
+
+Iron Valiant
+
+'s Close Combat.
+
+Abilities
+
+Supreme Overlord
+
+: Even though this Kingambit is often set out early-game to set up Stealth Rock, Supreme Overlord gives it the flexibility to function later in the game if Stealth Rock isn't needed or if it manages to set up Stealth Rock without much harm to itself.
+
+Defiant
+
+: Besides punishing the rare use of Intimidate, Defiant lets Kingambit defeat Charm
+
+Flutter Mane
+
+.
+
+EV Spreads
+
+244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe
+
+: This EV spread gives Kingambit an even HP stat, letting Sitrus Berry activate on the first use of Ruination.
+
+4 HP / 252 Atk / 252 Spe
+
+: Maximizing Speed lets Kingambit get the jump on opposing Kingambit and slower variants of
+
+Wo-Chien
+
+,
+
+Skeledirge
+
+, Corviknight, and Iron Hands.
+
+Kingambit's strong stat line, good typing, and Defiant allow it to shine as an Intimidate counter and general offensive threat. It can function at any Speed tier thanks to Sucker Punch making up for its low Speed. It is flexible against many matchups thanks to its huge bulk and ability to exert huge amounts of pressure after a Swords Dance.
+
+Gouging Fire
+
+is a fantastic partner for Kingambit, as it can boost its attack with Howl and keep it up on the field longer by reducing opponent's Attack with Breaking Swipe, with Kingambit shielding it from Intimidate in return. Physical attackers such as
+
+Rillaboom
+
+,
+
+Ogerpon-W
+
+, and
+
+Chien-Pao
+
+all appreciate Kingambit warding off Intimidate users, with the former two providing Fake Out and Follow Me support, respectively, helping Kingambit set up a Swords Dance, and the latter boosting its damage with Sword of Ruin.
+
+Since Kingambit usually only runs Dark-type attacks, it struggles against Pokemon that resist it, such as the
+
+Urshifu
+
+formes and
+
+Incineroar
+
+, the latter of which matches up well against Kingambit even when boosting its Attack thanks to resisting both of its STAB types. It also has problems with
+
+Amoonguss
+
+, since it can redirect Sucker Punch with rage powder and put it to sleep quite easily, while Kingambit cannot threaten it much in return.
+
+Raging Bolt
+
+can outspeed it and use Thunderclap to attack before Sucker Punch while taking Kowtow Cleave very well, especially since most sets run Tera Fairy.
+
+Swords Dance significantly raises the pressure Kingambit exerts, allowing it to deal significant damage even against resisted targets. However, Iron Head can be used to cover for Fairy-types such as
+
+Flutter Mane
+
+.
+
+Black Glasses provides extra damage, allowing for an OHKO on Flutter Mane at +1 with Sucker Punch; Safety Goggles, however, gives Kingambit a better match-up against
+
+Amoonguss
+
+.
+
+Tera Dragon is chosen to grant resistances to the
+
+Ogerpon
+
+formes' STAB attacks and other metagame threats that resist Dark, such as
+
+Urshifu-R
+
+and
+
+Chi-Yu
+
+. Tera Fairy is also a strong option as a neutral typing, and it also allows Kingambit to wall
+
+Urshifu-S
+
+and other Fighting-types.
+
+The given EV spread allows Kingambit to survive Life Orb
+
+Ursaluna-B
+
+'s Earth Power or an Ivy Cudgel from
+
+Ogerpon-H
+
+as well as avoid the 3HKO from
+
+Raging Bolt
+
+'s Thunderbolt. The Speed investment allows Kingambit to outspeed
+
+Landorus
+
+in tailwind.
+
+Low Kick allows Kingambit to threaten Dark-Types such as
+
+Incineroar
+
+and opposing Kingambit; however, Tera Blast can also be used to cover for Dark- and Fighting-Types at the cost of needing to Terastallize.
+
+Kingambit is a slow attacker that uses its good bulk and typing to tank hits from Pokemon like
+
+Calyrex-S
+
+,
+
+Lunala
+
+, and
+
+Terapagos
+
+, then respond with Dark- and Steel-type STAB attacks. Sucker Punch gives Kingambit a priority attack that it can use to get around its low Speed and that threatens Pokemon like the
+
+Calyrex
+
+formes. Tera Blast pairs with Tera Fairy to hit the Pokemon that wall Kingambit such as
+
+Urshifu-R
+
+and
+
+Iron Hands
+
+as well as Pokemon like
+
+Miraidon
+
+and
+
+Urshifu-S
+
+, while Low Kick is used to hit Pokemon that resist Steel- and Dark-type attacks such as
+
+Incineroar
+
+and
+
+Zamazenta-C
+
+. Assault Vest lets it survive attacks like Mystic Water
+
+Kyogre
+
+'s Water Spout as well as getting 4HKOed by Calyrex-S's Astral Barrage most of the time. Tera Fairy gives Kingambit a resistance to Fighting-type attacks in addition to being a good defensive type that is neutral to most of the metagame.
+
+Kingambit struggles into bulky Pokemon like
+
+Amoonguss
+
+and Incineroar that can easily survive an attack and respond with status moves like Will-O-Wisp or Spore. Offensive partners like
+
+Ursaluna-B
+
+and Miraidon help with this by threatening to OHKO Amoonguss and Incineroar, allowing Kingambit to clean up an endgame with Sucker Punch. Urshifu-R is another check for Kingambit, as it resists Kingambit's STAB attacks and can threaten it with Close Combat. Miraidon can threaten Pokemon like
+
+Mienshao
+
+and the Urshifu formes that threaten Kingambit. Miraidon also has the added benefit of blocking Spore from Amoonguss with Electric Terrain, which allows Kingambit to play more offensively. Calyrex-S is a good partner for Kingambit, as it appreciates Kingambit helping into opposing Calyrex-S and opposing Incineroar while Calyrex-S can threaten the Fighting-types that Kingambit struggles with like Mienshao.
+
+Calyrex-I
+
+can set Trick Room that Kingambit works well in while Calyrex-I threatens Amoonguss.
+
+Farigiraf
+
+is a good partner for Kingambit, as it prevents Fake Out and can set Trick Room for Kingambit while Incineroar, a Pokemon Farigiraf struggles with, doesn't want to switch into Kingambit and give it a Defiant boost.
+
+Kingambit is easily able to steamroll through teams, having a great typing both offensively and defensively and easily defeating metagame staples like
+
+Gholdengo
+
+as well as decimating foes thanks to Swords Dance. Swords Dance bolsters Kingambit's Attack such that it can pick up OHKOs on bulky Pokemon such as
+
+Rillaboom
+
+,
+
+Ursaluna-B
+
+, and
+
+Amoonguss
+
+using Kowtow Cleave, with the latter two requiring Tera Dark.
+
+Sucker Punch compensates for Kingambit's low Speed while also immediately either forcing out or pinning Choice item attackers and Assault Vest users. On top of that, Sucker Punch can cause mind games, with Kingambit potentially just using Kowtow Cleave while forcing a switch with the threat of Sucker Punch. Low Kick can defeat
+
+Tyranitar
+
+and opposing Kingambit as well as
+
+Incineroar
+
+. Iron Head can be used as coverage for Dark-resistant Pokemon like
+
+Primarina
+
+and
+
+Sneasler
+
+, but it's generally harder to pilot and use.
+
+Black Glasses is used to boost the main two moves on Kingambit, Kowtow Cleave and Sucker Punch. It allows +2 Kowtow Cleave to OHKO Rillaboom outright and
+
+Archaludon
+
+with Tera Dark as well as letting Kingambit pick off
+
+Volcarona
+
+with a +2 Sucker Punch. Safety Goggles stops Sucker Punch from getting redirected and negated by Rage Powder, which can be a huge issue for Kingambit. Safety Goggles can also deny Spore, allowing Kingambit to use Amoonguss to set up. Safety Goggles can miss key OHKOs on the Pokemon shown in the aforementioned calculations.
+
+Tera Dark boosts Kingambit's damage further, allowing for OHKOs on
+
+Maushold
+
+and Gholdengo with Sucker Punch, as well as removing Kingambit's Fire weakness and 4x Fighting weakness, proving to be useful against threats like Incineroar, which Kingambit otherwise struggles to get rid of, and certain Fighting-type coverage and Pokemon like opposing Kingambit's Low Kick and
+
+Annihilape
+
+, which otherwise OHKO Kingambit.
+
+Kingambit is really difficult to stop after a Swords Dance boost and Terastallizing, OHKOing
+
+Ursaluna
+
+with Kowtow Cleave. This set struggles with four-moveslot syndrome, as having to pick between the flexibility of Swords Dance and a coverage move is difficult. Another issue that this set has is that it can be really difficult to take Dark-resistant Pokemon down, such as Incineroar. For this, setting up in front of another Pokemon or removing the Dark-resistant Pokemon can help Kingambit thrive.
+
+Assault Vest Kingambit is great at taking strong hits while hitting back hard thanks to its high Attack stat. Its typing works amazing defensively thanks to the lack of good Ground- and Fighting-types, which is even better considering Assault Vest Kingambit works well as a bulky switch-in to many metagame staples such as
+
+Gholdengo
+
+. Defiant is very powerful on this set due to the lack of Swords Dance.
+
+Low Kick is used as coverage for Dark-types, beating Pokemon such as
+
+Incineroar
+
+and opposing Kingambit.
+
+Assault Vest allows Kingambit to take attacks like Earth Power from
+
+Ursaluna-B
+
+and Electro Shot from
+
+Archaludon
+
+as well as surviving extremely powerful attacks such as +1 Fiery Dance from
+
+Volcarona
+
+.
+
+Fire is arguably the best Tera type on this set, providing a resistance to Fire while also removing Kingambit's weakness to Fighting. As a bonus, Tera Fire grants Kingambit a burn immunity, being very useful when facing foes like
+
+Talonflame
+
+. Tera Flying removes both Kingambit's Ground- and Fighting-type weaknesses, turning them into an immunity and a resistance, respectively. Tera Dark boosts Kingambit's Dark-type STAB moves, which can be very necessary due to not using Swords Dance.
+
+The physical bulk investment lets Kingambit survive a Drain Punch from
+
+Annihilape
+
+and a rain-boosted Wave Crash from
+
+Basculegion-M
+
+. With the given special bulk, Kingambit can survive a +1 Fiery Dance from Volcarona and an Earth Power from Ursaluna-B. The offensive investment lets Sucker Punch OHKO Gholdengo with a Defiant boost while OHKOing
+
+Dragapult
+
+75% of the time without it.
+
+Assault Vest Kingambit is more flexible in move choices compared to Swords Dance variations, able to freely carry Iron Head and coverage moves as well as generally being more flexible in playstyle. With Assault Vest, this set has great survivability. However, Assault Vest Kingambit doesn't have much sweeping potential due to not running Swords Dance. Not being able to run Protect is also a noteworthy issue, as in a metagame where Trick Room and weather are everywhere, this drawback can make it difficult to position Kingambit and its allies.
+
+Teambuilding
+
+Coverage for Fighting-, Fairy-, and Dark-types such as
+
+Primarina
+
+,
+
+Incineroar
+
+, and
+
+Sneasler
+
+is almost necessary when teambuilding with Kingambit. Both sets enjoy having redirection on their side, including the likes of
+
+Clefable
+
+,
+
+Electabuzz
+
+, and
+
+Amoonguss
+
+, which can easily take in Fighting-type attacks from threats like
+
+Annihilape
+
+and Sneasler. Swords Dance Kingambit can take advantage of redirection to a greater extent, since this can open windows for setup opportunities.
+
+Rillaboom
+
+is a really good partner for Kingambit, providing setup opportunities with Fake Out and threatening Ground-types such as the
+
+Ursaluna
+
+formes. Dark-resistant Pokemon like Incineroar and even opposing Kingambit can be covered by Primarina, which also has great defensive synergy with Kingambit. Sneasler also works at removing Dark-types while also removing Fairy-types and providing another source of Fake Out support for Kingambit.
+
+Kingambit, thanks to its typing, is extremely weak to Fighting-types, including Annihilape, Sneasler, and
+
+Flamigo
+
+, which prove to be an issue. The aforementioned Amoonguss and Clefable can take in these Fighting-type attacks. Primarina, as mentioned before, has great defensive synergy with Kingambit, taking Fighting- and Fire-type attacks with ease, while Kingambit can cover for it against Grass- and Poison-type attacks.
+
+Strategy Comments
+
+Kingambit's main role is either a setup sweeper with Swords Dance or a defensive pivot piece with Assault Vest. Swords Dance Kingambit's main goal is to set up and stay healthy; redirection and Fake Out support are usually necessary in achieving this. With Tera Dark and at +2, it's very easy for Kingambit to pick up momentum quickly and blitz through careless players. Don't be greedy with using Swords Dances, as it's easy for Kingambit to be OHKOed or brought to low health with careful positioning around Sucker Punch, especially in a format with Fighting-type coverage everywhere.
+
+Kingambit succeeds as a setup sweeper thanks to its typing, bulk, and on Assault Vest sets, coverage. Its typing has many resistances to top types like Dragon, making Kingambit an amazing counter to
+
+Dragapult
+
+and
+
+Hydreigon
+
+. Kingambit's bulk, especially when it's paired with Assault Vest, is really good, allowing Kingambit to withstand hits and potentially turn the tables in a losing late-game position.
+
+Dark-resistant Pokemon are a huge issue for Kingambit, easily taking Kowtow Cleave and Sucker Punch even if they're boosted. These Pokemon can be taken care of by partners such as Primarina and Sneasler. Fighting-types, including the likes of Annihilape, can be a massive issue, easily using Kingambit to set up. Sneasler in particular can be a problem, only taking notable damage from Iron Head. Fighting-type coverage moves are also rather prevalent in the metagame, with Pokemon like Low Kick
+
+Tyranitar
+
+and Body Press
+
+Archaludon
+
+being common. For this, Ghost-type switch-ins like Dragapult or redirection can be helpful in deterring Fighting-type attacks. Additionally, opposing Sneasler can be picked off by Dragapult. Offensive Fairy-types such as Primarina can scare Kingambit away from Terastallizing into a Dark-type, as Moonblast would otherwise easily chunk Kingambit. Sneasler can easily deal with Fairy-types by hitting them hard with Dire Claw.
+
+Kingambit acts as a valuable sweeper and cleaner on offensive teams, providing a refreshing blend of offensive and defensive utility in the form of strong priority in Sucker Punch and the option of having a valuable type immunity. Swords Dance boosts Kingambit's Attack to nuclear levels, OHKOing physically defensive
+
+Manaphy
+
+and threatening to 2HKO Fluffy
+
+Corviknight
+
+with Kowtow Cleave after light chip damage. Adaptability provides even more power; with Black Glasses, it can let Kingambit achieve feats like OHKOing threats such as
+
+Dragonite
+
+after a Swords Dance. Well-Baked Body allows Kingambit to check and set up on
+
+Ogerpon-H
+
+,
+
+Heatran
+
+, and
+
+Iron Moth
+
+and provides an immunity to burn, while Earth Eater turns Dragonite,
+
+Roaring Moon
+
+, and Double Dance
+
+Garchomp
+
+into setup fodder. The given EV spread allows Kingambit to outspeed RegenVest Manaphy and
+
+Jirachi
+
+. Kingambit requires teammates that can threaten Fighting-types like
+
+Great Tusk
+
+,
+
+Iron Hands
+
+, and
+
+Zamazenta
+
+, as these Pokemon can freely switch into it. As a result, Pokemon like
+
+Latios
+
+,
+
+Zapdos
+
+, and Pixilate
+
+Scream Tail
+
+make for good teammates with their ability to comfortably force them out. Offensive pivots that can break holes in the opposing team like the aforementioned Latios and Zapdos, Roaring Moon, and
+
+Barraskewda
+
+are strongly recommended to enable Kingambit to clean late-game. Entry hazard setters like Great Tusk,
+
+Empoleon
+
+, and the aforementioned Scream Tail pair well with Kingambit by helping to passively whittle down its checks like Corviknight, physically defensive Manaphy, and Zamazenta.
+
+Draft Order
+
+: Round 2 onwards
+
+Price Range
+
+: 11-12 points
+
+Tera Price Range
+
+: 16-17 points
+
+Overview
+
+: Kingambit boasts great Attack and two great abilities that make it a terrifying presence when it comes onto the field. Although Supreme Overlord is used more often, Defiant is great to stop Pokemon with Intimidate from checking it reliably. Despite its low Speed, Kingambit has the bulk to take on strong neutral hits and hit back with its good STAB combination and priority, making it tough to remove, especially as a Tera Captain. Furthermore, it has a good number of utility options to support its team if needed. However, like a king on a chessboard, Kingambit requires a lot of support from its teammates to function at its best. In addition, Kingambit has no form of reliable recovery, so it often has to take hits before dishing out any damage, as well as being extremely reliant on Sucker Punch to maintain its ability to clean up weakened teams.
+
+Common Roles
+
+Wallbreaker
+
+: Kingambit can deal enormous damage to a multitude of foes, especially as very few can switch in reliably to check it. Various damage-boosting items can elevate its attacking power further, leaving lasting wounds that a teammate can take advantage of to clean up over the course of a match.
+
+Setup Sweeper
+
+: With access to Swords Dance, Kingambit can become a late-game wincon and cleave through even the sturdiest of walls, and it can pick off faster, frailer threats with Sucker Punch. While this requires great support from its teammates, it has a great payoff, as Kingambit can destroy entire teams if timed correctly.
+
+Utility Attacker
+
+: Kingambit can provide support if needed with moves such as Stealth Rock and Thunder Wave to disrupt foes while remaining strong due to its natural strength. Kingambit can also be a bulky attacker with either an Assault Vest or a Resistance Berry to maintain its presence and trade blows against problematic foes for a teammate to take out afterwards.
+
+Common Moves
+
+Primary STAB Moves
+
+: Kowtow Cleave, Sucker Punch, Iron Head
+
+Setup Moves
+
+: Swords Dance
+
+Utility Moves
+
+: Thunder Wave, Stealth Rock, Substitute, Brick Break, Taunt
+
+Coverage
+
+: Tera Blast, Low Kick, Poison Jab, Rock Tomb, Stone Edge, X-Scissor, Zen Headbutt
+
+Niche Moves
+
+Metal Burst
+
+: On bulkier sets, Kingambit can use Metal Burst to surprise foes and hit back with massive damage, which it can then finish off with a well-timed Sucker Punch.
+
+Lash Out
+
+: Kingambit can use Lash Out to potentially deal horrifying damage to foes that lower its stats, especially as it has access to Defiant.
+
+Facade
+
+: Kingambit can use Facade to punish foes that may use status moves in order to try and check it.
+
+Common Items
+
+Damage-boosting Items
+
+: Damage-boosting items allow Kingambit to elevate its power further without being Choice-locked, which can be detrimental due to its low Speed. Black Glasses gives Kingambit's Dark-type moves more power to chip foes better. It can also use Expert Belt reliably, as it has good coverage.
+
+Leftovers
+
+: Kingambit can use Leftovers to give itself some longevity, especially on Swords Dance.
+
+Mental Herb
+
+: Against problematic Encore or Taunt users, Kingambit may appreciate Mental Herb to guarantee setting up with Swords Dance to aid in its sweep.
+
+Lum Berry
+
+: Kingambit can use Lum Berry if it doesn't have the flexibility to Terastallize into a type that can ignore a burn or paralysis.
+
+Niche Items
+
+Air Balloon
+
+: Air Balloon allows Kingambit to briefly ignore Ground-type coverage and is a potential lead option to disrupt problematic foes with Thunder Wave or to set up entry hazards. It can also force a foe to hit Kingambit with a weaker move, which it will then have to take an attack back.
+
+Assault Vest
+
+: If going up against specially based teams, Kingambit can use an Assault Vest to maintain its presence over the course of a match. It can also gain more power through either Supreme Overlord or Defiant to muscle through foes.
+
+Resistance Berries
+
+: If Kingambit does not expect to Terastallize in a matchup, Resistance Berries can be used against a problematic foe so that Kingambit can cripple back with either a strong attack of its own or status.
+
+Choice Band
+
+: Choice Band allows Kingambit to become almost impossible to switch into. This item can become more reliable against teams that lack Dark- and Steel-resistant foes.
+
+Protective Pads
+
+: If it goes up against a Pokemon with Flame Body or Static, Kingambit can use Protective Pads to ignore these abilities, especially as most of its primary moves and coverage make contact.
+
+Custap Berry
+
+: Custap Berry can allow Kingambit to surprise faster foes and fire off a status move or chip down a foe before it goes down.
+
+Tera
+
+Kingambit should always be your primary Tera Captain of choice if drafted. It is one of the top Tera Captains, as in a vacuum, it can Terastallize into any type it wants and still gain an advantage over foes provoking head-scratching during preparations. Tera Dark and Steel power up its STAB attacks further; Tera Fire can prevent it from being burned if it expects to go up against status users, and Tera Fairy, Flying, and Water are generally great defensive options to either gain a turn setting up or cripple a foe, as well as gaining necessary coverage to deal with foes with Tera Blast.
+
+Draft Strategy
+
+Kingambit requires an immense amount of support to be a threat on the field. For this reason, it is often passed over for other great Tera Captains and often delayed for choosing other Pokemon to fulfil certain roles. If you intend to draft Kingambit, it should be paired with the following Pokemon with roles to support its weaknesses and open an opportunity to show its worth as king.
+
+Bulky Pivots
+
+: While Kingambit can take a few hits, it prefers being able to enter the field healthy to be able to chip or cleave through as many foes as it can during a match. For this reason, it appreciates other bulky Pokemon that can pivot it in such as
+
+Galarian Slowking
+
+,
+
+Rotom-W
+
+, and
+
+Zapdos
+
+.
+
+Special Wallbreakers
+
+: Kingambit can struggle to break through physical walls, so it should be paired with special wallbreakers such as
+
+Iron Valiant
+
+,
+
+Iron Moth
+
+, and
+
+Latios
+
+to lure these physical walls in and chip them down.
+
+Fast Attackers
+
+: Fast Pokemon can chip through foes to grant Kingambit the opportunity to finish them off with a Sucker Punch and force the opponent to invest more in Speed EVs. Pokemon such as
+
+Cinderace
+
+,
+
+Iron Bundle
+
+, and
+
+Meowscarada
+
+are good examples to consider.
+
+Fighting-type Punishes
+
+: Kingambit can often struggle to deal with Fighting-type Pokemon, and while it can Terastallize to deal with these threats, it appreciates teammates to handle them, such as Iron Valiant,
+
+Dragonite
+
+, and
+
+Deoxys-S
+
+.
+
+Healing Wish
+
+: As Kingambit has no form of reliable recovery, it appreciates teammates with Healing Wish like
+
+Latias
+
+,
+
+Mesprit
+
+, and
+
+Alomomola
+
+so that it can break foes mid-game, and return late-game to clean up weakened foes. This also has the added benefit of removing any status conditions it has been afflicted with.
+
+Checks and Counters
+
+Disruption
+
+: As a slow setup attacker, nearly every foe can outspeed Kingambit and lock it into an unfavorable move or setup with Encore unless it has a Mental Herb. They may also Taunt to prevent Swords Dance and thus prevent Kingambit from accomplishing a sweep.
+
+Colbur Berry
+
+: While Kingambit has the means to deal with Ghost- and Psychic-types, they can often run Colbur Berry as a means to check Kingambit and its powerful Sucker Punch and fire off a power move or status in return, crippling Kingambit for the rest of the match.
+
+Physical Walls
+
+: Kingambit can struggle to break through physical walls such as
+
+Great Tusk
+
+,
+
+Iron Hands
+
+, and
+
+Ting-Lu
+
+, all of which can absorb the damage and fire off massive damage in return.
+
+Contact Abilities / Rocky Helmet
+
+: As most of Kingambit's moves make contact, it is susceptible to being afflicted with status or chip damage from Rocky Helmet. It has to be aware of Pokemon such as Zapdos,
+
+Moltres
+
+, and common Rocky Helmet users such as
+
+Garchomp
+
+and
+
+Skarmory
+
+. Kingambit can use Protective Pads to get around this issue, but this removes its item flexibility when it would rather have a damage-boosting item instead.
+
+Status Moves
+
+: As Kingambit is very reliant on Sucker Punch, foes can exploit it with a well-timed Substitute, status move, or a setup move, which can be disastrous in late-game scenarios.
+
+Kingambit is a highly threatening sweeper thanks to Swords Dance boosting its already high Attack, powerful STAB priority in Sucker Punch, and a unique ability in Supreme Overlord. Kingambit also provides a team with notable defensive utility, as it checks dangerous foes such as
+
+Gholdengo
+
+,
+
+Mega Latios
+
+, and
+
+Iron Crown
+
+thanks to its typing and access to Sucker Punch. Knock Off is Kingambit's most powerful STAB move under most circumstances, and it can remove items from Pokemon that check it, such as
+
+Great Tusk
+
+,
+
+Zamazenta
+
+, and
+
+Landorus-T
+
+. Sucker Punch is mandatory to make up for Kingambit's low Speed, allowing it to revenge kill faster threats such as the aforementioned Gholdengo and Mega Latios as well as others such as
+
+Ogerpon-W
+
+,
+
+Volcarona
+
+, and
+
+Iron Moth
+
+. Low Kick is the preferred coverage to hit foes such as opposing Kingambit,
+
+Melmetal
+
+,
+
+Ferrothorn
+
+, and
+
+Ting-Lu
+
+, as it OHKOes all of them after Stealth Rock at +2. Iron Head is an alternative that hits
+
+Clefable
+
+and
+
+Mega Diancie
+
+, but its targets are generally less important and Kingambit must be very healthy if it hopes to beat the latter one-on-one. Black Glasses gives Kingambit a notable boost to its Dark-type STAB moves, letting it hit important benchmarks such as OHKOing offensive Gholdengo as well as, at +2, Ogerpon-W with Sucker Punch and greatly improving Knock Off's damage rolls into important defensive Pokemon such as
+
+Alomomola
+
+and
+
+Toxapex
+
+, especially with Supreme Overlord active. Air Balloon gives Kingambit a one-time opportunity to dodge revenge killing attempts by or set up in the face of Ground-types such as Landorus-T,
+
+Gliscor
+
+, and
+
+Garchomp
+
+. Leftovers gives Kingambit passive recovery and improves its longevity, letting it check Gholdengo throughout a game for its team. An Adamant nature is preferred to hit as hard as possible, but Jolly allows Kingambit to, at worst, Speed tie with opposing Kingambit as well as outrun a few other notable threats such as
+
+Moltres
+
+,
+
+Ursaluna
+
+, and
+
+Mega Mawile
+
+. Supreme Overlord powers up Kingambit as its allies faint; this becomes incredibly dangerous in late-game scenarios, as Kingambit gains a large damage boost if many or all of its teammates have been taken down. Defiant can be situationally useful on certain hyper offense teams that value its ability to punish Defog attempts from Gliscor,
+
+Zapdos
+
+, and Landorus-T, as well as punishing Intimidate from the last one; this is generally best used with Air Balloon to protect Kingambit from Gliscor and Landorus-T. However, Supreme Overlord is generally more consistent, and hyper offense teams often have better ways to punish or outright deny Defog.
+
+Kingambit fits on many offensive teams thanks to the immense amount of pressure it exerts while also giving such teams a check to dangerous Ghost- and Psychic-types such as Gholdengo, Iron Crown, and Mega Latios. Kingambit's presence as a top threat in the metagame means that every team has a method of dealing with it, usually through faster Dark-resistant Pokemon such as Great Tusk, Zamazenta,
+
+Iron Valiant
+
+, and
+
+Hisuian Samurott
+
+; these are often backed up by secondary answers such as defensive Landorus-T, Alomomola, and Moltres. Kingambit can help itself out early-game by spamming Knock Off into these threats in order to remove Heavy-Duty Boots from Great Tusk, Zamazenta, and Alomomola. This strategy pairs very well with entry hazard setters, making teammates such as Landorus-T, Ferrothorn, and Gliscor great partners. The latter two are also capable of setting Spikes, which wear down Fighting-types like
+
+Urshifu-R
+
+for Kingambit. A teammate that can pivot into Fighting-types is also mandatory, as Kingambit tends to invite them into battle. Zapdos, Moltres, defensive Landorus-T, and Toxapex are good teammates as a result. Psychic- and Fairy-type offensive teammates also pair well with Kingambit, since they scare many of its Fighting- and Dark-type answers. Mega Latios, Iron Crown, Mega Diancie, or Iron Valiant combine with Kingambit to create a brutal offensive core, while the Psychic-types in particular appreciate Kingambit threatening
+
+Galarian Slowking
+
+and Gholdengo. Despite being a Steel-type, Kingambit fears
+
+Tapu Lele
+
+due to Psychic Terrain blocking Sucker Punch and it commonly carrying coverage moves that target Kingambit's weaknesses, so solid Tapu Lele checks such as Gholdengo and Melmetal are good teammates.
+
+Leveraging its great natural bulk alongside significant defensive investment and an item to further boost its longevity, Kingambit is able to act as a powerful defensive tool against Pokemon such as
+
+Gholdengo
+
+and
+
+Terapagos
+
+while remaining a threatening late-game cleaner. Knock Off is Kingambit's main STAB option, boasting a high Base Power and a powerful secondary effect, particularly against Heavy-Duty Boots users such as
+
+Zapdos
+
+and
+
+Moltres
+
+and Rocky Helmet users such as
+
+Alomomola
+
+and
+
+Landorus-T
+
+. Pursuit allows Kingambit to forcibly remove most Gholdengo sets while also heavily limiting most dedicated special walls, such as
+
+Blissey
+
+,
+
+Clodsire
+
+, and
+
+Galarian Slowking
+
+, and guaranteeing that Terapagos's Tera Shell is broken. Sucker Punch allows Kingambit to bypass its middling Speed stat, deterring fast and offensive Pokemon that would otherwise be problematic for Kingambit, such as offensive
+
+Volcarona
+
+,
+
+Mega Charizard Y
+
+, Focus Blast variants of Gholdengo, and
+
+Mega Medicham
+
+, while also allowing it to pick off weakened foes such as
+
+Garchomp
+
+and
+
+Ogerpon-W
+
+. Low Kick is used mainly to hit opposing Kingambit while also hitting
+
+Ting-Lu
+
+and
+
+Ferrothorn
+
+and OHKOing
+
+Mega Tyranitar
+
+. Iron Head is an alternative option, allowing Kingambit to immediately threaten
+
+Iron Valiant
+
+,
+
+Tapu Koko
+
+, and
+
+Clefable
+
+while also quickly wearing down
+
+Great Tusk
+
+and all-out attacker
+
+Zamazenta
+
+. Leftovers is the premier item for utility Kingambit, allowing it to stick around for longer games. Most Kingambit should use Supreme Overlord for its excellent and consistent effect, though Defiant is a viable alternative to specifically punish Landorus-T, KOing it with Knock Off into Sucker Punch, both at +1 Attack, and also punish Defog attempts from the likes of Zapdos and
+
+Corviknight
+
+. The EV spread allows Kingambit to outspeed Clefable lacking Speed investment.
+
+Pokemon such as Mega Medicham and
+
+Tapu Lele
+
+benefit from Gholdengo's absence. Iron Defense variants of Zamazenta and Mega Medicham particularly benefit from Kingambit's ability to deal with the aforementioned Ghost-types, as they are difficult for them to break while also being able to cripple them with status effects. Access to Knock Off allows Kingambit to remove Heavy-Duty Boots from foes such as Alomomola, Zapdos, and Moltres for the benefit of hazard-setting teammates such as
+
+Toxapex
+
+, Ferrothorn, and
+
+Mega Diancie
+
+. Kingambit struggles against faster Pokemon such as Zamazenta, Great Tusk, Landorus-T, and
+
+Kartana
+
+. Partners such as Zapdos and Moltres can aid Kingambit by answering multiple of these Pokemon at once. Bulkier Pokemon such as
+
+Melmetal
+
+, Ting-Lu, and Toxapex are able to consistently answer Kingambit defensively, so Tapu Lele, Ogerpon-W, and
+
+Raging Bolt
+
+are greatly appreciated for their ability to immediately threaten these Pokemon. It is worth noting that a significant majority of the Kingambit checks mentioned are susceptible to losing their item to Knock Off.
+
+With its unique typing, Kingambit serves as a powerful defensive tool against Pokemon such as
+
+Giratina-O
+
+lacking Will-O-Wisp,
+
+Yveltal
+
+,
+
+Arceus
+
+, and Choice Specs
+
+Lunala
+
+while also retaining a strong offensive presence thanks to Supreme Overlord, providing bulky offense and fat balance teams with a range of role compression courtesy of its valuable Ghost-, Psychic-, Dark- and Dragon-type resistances, access to priority, and even its ability to act as a late-game cleaner. Unfortunately, Kingambit lacks reliable recovery, which combined with its mediocre bulk relative to the tier, means it is prone to being overwhelmed easily.
+
+Knock Off provides Kingambit with a source of utility by removing items such as Heavy-Duty Boots, preventing Pokemon such as
+
+Ho-Oh
+
+from reliably switching in. It also removes Life Orb from offensive Yveltal, weakening it severely, as well as removing items off other targets such as
+
+Zygarde
+
+, Arceus,
+
+Ferrothorn
+
+, and
+
+Alomomola
+
+, which can help teammates out in the long term. It helps Kingambit against stall teams too, since these structures are often reliant on items, such as the aforementioned Heavy-Duty Boots and
+
+Chansey
+
+'s Eviolite, for their longevity. Especially considering that Kingambit often uses Sucker Punch for damage-dealing due to being outpaced by almost the entire metagame, having Knock Off to punish switch-ins against Kingambit is more useful on a regular basis than the slight and situational extra two hit damage provided from Kowtow Cleave.
+
+Iron Head allows Kingambit to hit Fairy-types such as
+
+Arceus-Fairy
+
+and
+
+Zacian-C
+
+as well as Tera Fairy Zygarde and
+
+Eternatus
+
+. Sucker Punch is essential to make up for Kingambit's poor Speed, allowing it to remove foes such as
+
+Ultra Necrozma
+
+,
+
+Deoxys-A
+
+, and
+
+Mega Mewtwo Y
+
+before they can OHKO it instead. Low Kick can be considered to allow Kingambit to threaten
+
+Arceus-Dark
+
+, but it leaves Kingambit unable to threaten Arceus-Fairy or Tera Fairy Lunala.
+
+Swords Dance allows Kingambit to punish the switches it forces, letting it wallbreak or be a strong late-game cleaner against more offensive teams, especially those lacking Zygarde or defensive Primal
+
+Groudon
+
+, such as against opposing hyper offense teams. It notably lets Kingambit OHKO Arceus-Fairy with Iron Head after Stealth Rock with no Supreme Overlord boosts and also OHKO Dragon Dance
+
+Necrozma-DM
+
+with Sucker Punch after a layer of Spikes. Alternatively, Pursuit is able to trap foes Kingambit switches into, such as Giratina-O and Choice-locked Lunala, wearing them down for offensive partners such as Primal Groudon. It is also good at trapping worn-down checks, such as Ho-Oh and support Arceus formes.
+
+Supreme Overlord is preferred over Defiant due to its reliable damage boost, such as being able to 2HKO Arceus via Knock Off with 4 fainted allies. However, Defiant can be used, notably punishing Sticky Web structures and Defog attempts from Giratina-O and Ho-Oh. However, it is difficult to activate anywhere else, reducing Kingambit's damage overall.
+
+The given EV spread maximises Attack and allows Kingambit to outspeed
+
+Gothitelle
+
+, preventing it from using Taunt or Charm reliably, while ensuring Tera Fairy variants cannot safely 1v1 Kingambit. This is especially useful for Pursuit variants that may be more passive into Gothitelle. The rest is dumped into HP, notably allowing Kingambit to survive Life Orb Yveltal's Heat Wave from full.
+
+Kingambit's typing is essential to its use on a team, and thus doesn't often use Terastalization. Regardless, Tera Dark is its best option, removing Kingambit's Ground- and Fire-type weakness while weakening the damage taken from Fighting-type attacks. This helps Kingambit stomach Earthquake from Necrozma-DM, Ultra Necrozma, and Arceus, along with Heat Wave from Yveltal, while even letting it survive Deoxys-A's Life Orb Low Kick, allowing Kingambit to trade more effectively. Offensively, Tera Dark lets Kingambit OHKO
+
+Marshadow
+
+with Knock Off and Ultra Necrozma with Sucker Punch. It also makes Kingambit more threatening late-game, since it is able to OHKO Ho-Oh and defensive Primal Groudon with +2 Tera Dark Sucker Punch and five Supreme Overlord boosts. However, it should be emphasized that Kingambit relies on its Steel typing to resist attacks from Giratina-O and Arceus more easily and to not be as weak to Fairy-type attacks from Arceus-Fairy and Tera Fairy Lunala.
+
+Swords Dance variants of Kingambit are primarily used late-game, being able to clean up weakened teams after its teammates have wrecked havoc. Due to its middling bulk, this will usually happen after a teammates has fainted, since this prevents Kingambit from getting worn down as badly while it sets up Swords Dance. The only time Kingambit should come out in the early-to-mid game is to tank resisted hits such as Lunala's Moongeist Beam and Giratina-O's Draco Meteor; otherwise, preserving Kingambit's HP by avoiding unnecessary damage from neutral hits is ideal to ensuring it can clean up effectively.
+
+Pursuit variants of Kingambit are more aggressive than the Swords Dance counterpart; it's ideal to abuse double switches from teammates such as Primal Groudon, Zygarde, and
+
+Arceus-Ground
+
+, since all three of these typically invite in Giratina-O, from which Kingambit can easily Pursuit trap it, wearing it down for teammates to break through more easily afterwards. This variant, however, still doesn't appreciate being unnecessarily worn down, since otherwise it may be unable to reliably trap Pokemon such as Choice-locked Lunala and Marshadow and be forced to click Sucker Punch instead so as to not get KOed by their powerful attacks.
+
+Defensive walls, such as Primal Groudon, Zygarde, and the more niche
+
+Dondozo
+
+, all easily stop Kingambit without significant boosts or Tera Dark to help it and threaten it with either STAB moves or, in Dondozo's case, Body Press. Giratina-O is able to handle all three of these, while it appreciates Kingambit switching into the Ghost- and Ice-type attacks Giratina-O doesn't like, such as against Choice Band variants of Marshadow and Chien Pao, notably preventing the former from mindlessly spamming its Ghost-type STAB moves. Kingambit also makes for a solid Yveltal and Arceus-Dark switch-in due to its resistances. Giratina-O is also able to remove hazards, assisting greatly in Kingambit's longevity, while relieving pressure off of Kingambit by checking Arceus itself.
+
+Due to the utility of Knock Off, Kingambit works great with hazard setters such as defensive Primal Groudon in removing Heavy-Duty Boots off of targets like Ho-Oh and Alomomola, making wearing them down late-game easier for Kingambit itself or teammates. Primal Groudon is also able to check Zacian-C for Kingambit, while Kingambit in return harasses Giratina-O with Pursuit. There is also
+
+Landorus-T
+
+, which is similar to Giratina-O in soft-checking Arceus as well as Arceus-Ground, Zacian-C, and Dragon Dance Necrozma-DM. Its access to U-turn also allows it to bring in Kingambit safely against Pokemon it struggles with, such as Giratina-O and Yveltal, both of which can abuse Landorus-T's inability to threaten them back meaningfully.
+
+Offensive partners such as Swords Dance Primal Groudon, Primal
+
+Kyogre
+
+, and Meteor Beam Eternatus, are all able to break through and wear down opposing teams, enabling Kingambit to sweep much more easily. The former is able to overwhelm Zygarde for Kingambit to muscle past it more easily afterwards, while the latter two are powerful special attackers capable of breaking through Zygarde, Ho-Oh and opposing Primal Groudon for Kingambit. In return, Kingambit provides a powerful revenge-killer and sweeper against opposing hyper offense teams that these three Pokemon don't like dealing with.

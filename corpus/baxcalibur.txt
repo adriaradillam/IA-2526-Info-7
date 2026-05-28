@@ -1,0 +1,816 @@
+Baxcalibur functions as a niche wallbreaker and occasional sweeper for hyper offense teams.
+Glaive Rush and Icicle Spear are fantastic STAB moves that hit most of the tier for super effective or neutral damage.
+
+Earthquake provides good coverage against common defensive Pokemon such as
+
+Toxapex
+
+and
+
+Skeledirge
+
+.
+
+Baxcalibur competes heavily with
+
+Chien-Pao
+
+as an offensive Ice-type, as they fill a similar role on teams. The key difference is Baxcalibur's ability to boost its Speed. Another key difference is Baxcalibur's Dragon typing, which gives it weaknesses to common Dragon- and Fairy-type moves. This stacks weaknesses with
+
+Koraidon
+
+and
+
+Miraidon
+
+.
+
+Tera Fairy provides Baxcalibur with a Dragon immunity to better deal with Koraidon and Miraidon, as well as a resistance to Fighting-type moves from Pokemon such as Koraidon and
+
+Great Tusk
+
+. It also ensures
+
+Kingambit
+
+and Chien-Pao cannot easily revenge kill Baxcalibur with Sucker Punch.
+
+Tera Steel grants Baxcalibur important resistances to types like Dragon and Fairy, as well as a Toxic immunity, giving it setup potential against certain walls like Toxapex.
+
+Grimmsnarl
+
+is a great partner: it provides dual screens support, easing Baxcalibur's setup and entry into the match. Another good partner is
+
+Hatterene
+
+or another form of hazard control, since denying Stealth Rock assists Baxcalibur in setting up.
+
+Miraidon is a recommended teammate, as it can provide both sweeping potential and wallbreaking power and appreciates Baxcalibur breaking down
+
+Clodsire
+
+and
+
+Ting-Lu
+
+. Another recommended teammate is Koraidon, since it appreciates Baxcalibur removing walls like Toxapex and Skeledirge.
+
+Swords Dance Baxcalibur is built to withstand hits, set up, and sweep through teams using its STAB attacks. Clear Amulet ensures that its offensive presence isn't hindered by physical damage reduction like
+
+Incineroar
+
+'s Intimidate and Parting Shot or
+
+Gouging Fire
+
+and
+
+Roaring Moon
+
+'s Breaking Swipe.
+
+Maximum HP investment allows Baxcalibur to almost always survive a Make It Rain from
+
+Gholdengo
+
+. In Aurora Veil, it lives Draco Meteor from
+
+Kyurem
+
+and almost always withstands two Drain Punches from
+
+Iron Hands
+
+.
+
+Ice Shard gives this slower Baxcalibur a priority option to finish off weakened foes. It also synergizes well with Glaive Rush, as using Ice Shard immediately after removes the defensive drawback. Additionally, it lets Baxcalibur lock itself into an attack after setting up to avoid being punished by Encore users such as
+
+Alolan Ninetales
+
+.
+
+Thermal Exchange is ideal for a physically-oriented setup Pokemon like Baxcalibur, preventing it from getting burned by moves like Incineroar's Will-O-Wisp. Thermal Exchange also deters Fire-type attacks such as
+
+Ogerpon-H
+
+'s Ivy Cudgel. Ice Body is an alternative option to boost its longevity, but it should only be used alongside an ally Alolan Ninetales to ensure Snow is consistently set.
+
+Tera Ghost gives Baxcalibur useful neutralities to Dragon- and Fairy-type moves, but more importantly, it grants an immunity to Fake Out, often letting it set up for an extra turn, as well as to Fighting-type attacks, which helps against threats like Iron Hands and
+
+Okidogi
+
+. Alternatively, Tera Electric offers neutralities to otherwise threatening Fighting-, Dragon-, and Fairy-type attacks while giving Baxcalibur a crucial resistance to Steel-type attacks, improving its matchup against Pokemon like Gholdengo and
+
+Iron Crown
+
+.
+
+Swords Dance Baxcalibur aims to capitalize on openings created by teammates to set up and tear through teams at any stage of the game. After one Swords Dance, Baxcalibur has a high chance to OHKO uninvested Iron Hands with Glaive Rush and offensive
+
+Tornadus
+
+with Ice Shard.
+
+Regardless of its ability choice, Baxcalibur greatly benefits from Alolan Ninetales's support. Snow Warning provides a Defense boost, and Aurora Veil makes it even harder to remove, giving Baxcalibur the time it needs to set up and sweep. Teammates with Fake Out and pivoting moves such as Incineroar and
+
+Rillaboom
+
+can cycle in and out to help Baxcalibur safely click Swords Dance without being threatened.
+
+Because this set relies primarily on Glaive Rush, Baxcalibur appreciates teammates that can handle the common Steel- and Fairy-types, namely Gholdengo, Iron Crown, Alolan Ninetales, and
+
+Diancie
+
+.
+
+Landorus
+
+is one of the best partners for this, pressuring Steel-types with its Ground moves and Fairy-types with Sludge Bomb. Gholdengo also helps by threatening Fairy-types with Make It Rain while resisting both of Iron Crown's STAB moves and retaliating with Shadow Ball.
+
+Ogerpon-H also threatens the aforementioned Steel-types with Ivy Cudgel while providing redirection with Follow Me, allowing Baxcalibur to safely set up.
+
+Due to its middling Speed, Baxcalibur appreciates Tornadus as a partner to provide Tailwind and Icy Wind speed control, increasing its sweeping potential by allowing it to outspeed most of the metagame and fire off powerful Glaive Rushes.
+
+This Pokemon has been updated to reflect Regulation H, that lasts until January 5h, 2025. After this, Regulation G will return.
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+With good bulk, an immunity to burn, and multiple ways to boost its Speed, Baxcalibur is a unique and dangerous sweeper.
+
+Icicle Spear
+
+: Icicle Spear KOes
+
+Breloom
+
+and
+
+Mimikyu
+
+through Focus Sash and Disguise respectively, and it's also more reliable than Scale Shot.
+
+Dragon Dance versus Swords Dance
+
+: Dragon Dance's Speed boost is generally more effective against offensive teams, but Swords Dance is still viable for breaking through more defensive foes like
+
+Corviknight
+
+due to Scale Shot still providing a Speed boost. Swords Dance also pairs nicely with Ice Shard for late-game sweeping.
+
+Ice Shard
+
+: Ice Shard means Baxcalibur will have a difficult time breaking past bulky Steel-types early-game, but it makes Baxcalibur an effective cleaner otherwise, especially with Swords Dance.
+
+Jolly versus Adamant
+
+: Jolly ensures that Baxcalibur outspeeds
+
+Dragapult
+
+after one Speed boost, but Adamant makes plenty of sense with Ice Shard or when using Dragon Dance with Scale Shot.
+
+Other Options
+
+Focus Sash
+
+: Focus Sash may seem like a waste with Baxcalibur's bulk, but it provides new setup opportunities and eases matchups against other Dragon-types, though Icicle Spear and Scale Shot become far less reliable.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Terastallization is required for Baxcalibur to cover the most amount of threats via Tera Blast and patches up its mediocre defensive typing, but Baxcalibur's bulk and tendency to force switches means it's still viable without Terastallizing.
+
+Ground
+
+: Tera Ground makes Earthquake an especially reliable sweeping tool, removes most of Baxcalibur's weaknesses, and makes it immune to Thunder Wave from the likes of
+
+Archaludon
+
+.
+
+Electric
+
+: Tera Electric lets Baxcalibur set up against
+
+Gholdengo
+
+and
+
+Scizor
+
+and, when paired with Tera Blast, is Baxcalibur's best way of wearing down
+
+Dondozo
+
+. The paralysis immunity also helps Baxcalibur set up against
+
+Serperior
+
+with less risk.
+
+Fairy
+
+: Tera Fairy protects Baxcalibur from faster Dragon-types like
+
+Garchomp
+
+, and it lets Baxcalibur come out on top against Terastallized Scale Shot
+
+Dragonite
+
+.
+
+Ghost
+
+: Tera Ghost provides even better protection against Fighting-type attacks than Tera Fairy and ensures that Dragonite doesn't revenge kill Baxcalibur with Extreme Speed.
+
+Steel
+
+: With a Tera type of Steel, Baxcalibur has a much better matchup against Dragon-types and Mimikyu, and a handy resistance to Scizor's Bullet Punch.
+
+Baxcalibur's fantastic bulk, immunity to burns, and access to a priority attack make it a strong option for an Assault Vest tank, despite its iffy defensive typing.
+
+Icicle Spear
+
+: Icicle Spear is recommended despite its inconsistent damage, as it deals damage through
+
+Mimikyu
+
+'s disguise and potentially KOes Focus Sash users like
+
+Breloom
+
+and
+
+Meowscarada
+
+. Just be careful about hitting Stamina
+
+Archaludon
+
+, who can threaten to gain multiple Defense boosts from it.
+
+**Glaive Rush versus Scale Shot **: Glaive Rush makes Baxcalibur very vulnerable to getting KOed the next turn (especially by OHKO users like Fissure
+
+Dondozo
+
+), but it is still the least risky Dragon-type STAB move. Remember that Ice Shard will remove Glaive Rush's negative effects as well. Scale Shot's Defense drop may not seem like it gels well with this set's bulky focus, but the Speed boost can lead to some late-game clean-ups that would be impossible otherwise.
+
+Other Options
+
+Icicle Crash
+
+: Icicle Crash's chance of missing and being less effective against
+
+Dragonite
+
+'s Multiscale and Mimikyu's Disguise usually makes it the inferior choice to Icicle Spear, but it doesn't risk activating Archaludon's Stamina multiple times, as well as potentially flipping matches by occasionally flinching slower foes like
+
+Ursaluna-B
+
+.
+
+Tera Types
+
+Tera Dependency - High
+
+: Baxcalibur is fully functional without Terastallization, but doing so makes it a far more effective tank due to its poor defensive typing.
+
+Ground
+
+: A Ground Tera type gives Baxcalibur a reliable STAB move in Earthquake, resistance to Stealth Rock, and removes a ton of weaknesses, at the cost of becoming more vulnerable to
+
+Primarina
+
+,
+
+Basculegion
+
+, and
+
+Rotom-W
+
+.
+
+Electric
+
+: With Tera Electric, Baxcalibur's Tera Blast deals massive damage to
+
+Corviknight
+
+that lack a set up move, and helps break through Primarina. Tera Electric also makes Baxcalibur a great
+
+Gholdengo
+
+check thanks to resisting Steel.
+
+Fairy
+
+: Tera Fairy helps Baxcalibur against opposing Terastallizations from Dragon-types like
+
+Garchomp
+
+and
+
+Hydreigon
+
+, though being weak to Steel is a big problem.
+
+EV Spreads
+
+252 HP / 252 Atk / 4 Spe with Adamant
+
+: This simple EV spread maximizes Baxcalibur's bulk and power.
+
+252 HP / 204 Atk / 52 Spe with Adamant
+
+: If using Scale Shot, this Speed investment outspeeds Garchomp, who will often Terastallize in front of Baxcalibur.
+
+116 HP / 156 Atk / 236 Spe with Adamant
+
+: The Speed investment here outspeeds Modest Gholdengo and Adamant Dragonite at the cost of some bulk, in addition to outspeeding Meowscarada after Scale Shot.
+
+Baxcalibur's massive Attack stat, solid bulk, and STAB Ice-type moves allow it to apply immediate offensive pressure or set up to sweep.
+
+Landorus
+
+,
+
+Raging Bolt
+
+,
+
+Rillaboom
+
+, and
+
+Amoonguss
+
+fear its Ice-type STAB moves, and
+
+Incineroar
+
+and
+
+Ogerpon-W
+
+struggle to damage Baxcalibur, which opens up setup opportunities.
+
+Incineroar, Rillaboom, Ogerpon-W, and Amoonguss are great teammates for Baxcalibur, providing Intimidate, Fake Out, Grassy Terrain, and redirection support to give it opportunities to set up Swords Dance and fire off its attacks. Baxcalibur also functions well on
+
+Pelipper
+
++
+
+Archaludon
+
+rain teams, as it threatens Raging Bolt, Amoonguss, Landorus, and Rillaboom, all of which rain struggles against.
+
+Steel-types like
+
+Kingambit
+
+and
+
+Gholdengo
+
+resist Baxcalibur's STAB attacks, which can hinder its ability to sweep or punch holes. In addition, the prevalence of
+
+Flutter Mane
+
+,
+
+Urshifu-R
+
+, and
+
+Urshifu-S
+
+can pressure it to Terastallize. Baxcalibur's low Speed can also make it struggle to keep up with offensive pressure from the opposing side.
+
+With the given EV spread, Baxcalibur can outspeed -1
+
+Landorus
+
+and survive Choice Band Wicked Blow from
+
+Urshifu-S
+
+, a Tera Stellar Sacred Sword from
+
+Chien-Pao
+
+, and a Dazzling Gleam from Choice Specs
+
+Flutter Mane
+
+.
+
+Glaive Rush is Baxcalibur's best Dragon-type STAB because of its massive Base Power, with Protect offsetting the drawback. Ice Shard makes up for Baxcalibur's middling Speed tier and threatens Landorus. Icicle Crash is a good Ice-type STAB that has a chance to flinch the target. Swords Dance grants Baxcalibur a boosting move that makes it a more threatening Pokemon to the opposition.
+
+Tera Poison grants Baxcalibur a to resistance Urshifu's Close Combat and Flutter Mane's Fairy-type moves while also being a great neutral type against the majority of the metagame.
+
+Clear Amulet gives Baxcalibur an immunity to Intimidate from the likes of
+
+Incineroar
+
+and Hisuian-Arcanine. It also helps against Icy Wind from Flutter Mane and ElectroWeb from Assault Vest
+
+Raging Bolt
+
+.
+
+Thermal Exchange prevents Baxcalibur from being burned by Wil-O-Wisp users like Incineroar in addition to deterring
+
+Ogerpon-H
+
+and
+
+Chi-Yu
+
+from using their Fire-type STAB moves.
+
+Baxcalibur is a powerful attacker within the metagame, leveraging its immense Attack and powerful STAB moves to deal massive damage to foes, especially
+
+Rillaboom
+
+,
+
+Dragonite
+
+, and
+
+Ursaluna
+
+.
+
+Scale Shot is integral to Baxcalibur's strength, as when paired with Loaded Dice, it's a consistent STAB move that OHKOes
+
+Sneasler
+
+through Focus Sash while letting Baxcalibur outspeed many common foes, including
+
+Whimsicott
+
+and Sneasler. Icicle Spear also exploits Loaded Dice to act as a powerful multi-hit STAB option that can hit the many common Grass-, Ground-, and Flying-types in the metagame, such as
+
+Amoonguss
+
+, Rillaboom,
+
+Garchomp
+
+, and Dragonite.
+
+Ice Shard is a powerful priority option that can finish off low-HP foes, such as Sneasler and
+
+Pelipper
+
+after being brought down to Focus Sash. High Horsepower can be used to hit Steel-types such as
+
+Gholdengo
+
+and
+
+Kingambit
+
+while also super effectively hitting
+
+Incineroar
+
+.
+
+Loaded Dice allows Baxcalibur's Scale Shot and Icicle Spear to be consistently powerful damage options while letting it KO Focus Sash users, such as Sneasler,
+
+Indeedee-M
+
+, and
+
+Tatsugiri
+
+.
+
+Tera Ghost grants Baxcalibur an immunity to Fighting-type attacks, most notably Close Combat from Sneasler, and Fake Out from Incineroar and Rillaboom as well as Facade from Ursaluna.
+
+The Speed investment allows you Baxcalibur to outspeed Adamant Dragonite, while maximum Attack investment is crucial for guaranteeing the OHKO on Sneasler with Scale Shot or Icicle Spear. The defensive investment allows it to survive Eruption from Modest Choice Specs
+
+Hisuian Typhlosion
+
+and a +2 Body Press from
+
+Archaludon
+
+.
+
+Teambuilding
+
+Baxcalibur works best on predominantly physically offensive teams, which take advantage of Fake Out utility, Defiant Pokemon, and methods of setting up to overwhelm the foe.
+
+Rillaboom
+
+synergizes with Baxcalibur, as it is able to threaten Water-types, most notably
+
+Primarina
+
+, as well as bolstering Baxcalibur's field presence with Fake Out and Grassy Terrain healing. In return, Baxcalibur pressures Grass-, Flying-, and Dragon-types like
+
+Sinistcha
+
+and
+
+Dragonite
+
+.
+
+Sneasler
+
+also pairs amazingly with Baxcalibur; Sneasler's most notable trait is the ability to boost Baxcalibur's offensive and defensive capabilities with Coaching, allowing it to potentially sweep entire teams. Furthermore, Sneasler can hit Steel- and Fairy-types like
+
+Kingambit
+
+and
+
+Alolan Ninetales
+
+, while Baxcalibur can threaten the Flying-types that check Sneasler, like Dragonite.
+
+Redirection from partners like
+
+Volcarona
+
+and
+
+Electabuzz
+
+can protect Baxcalibur from foes that threaten it, allowing for it to safely output damage, while in return, Baxcalibur hits the Grass-types immune to Rage Powder and the Flying- and Ground-types that threaten Volcarona and Electabuzz, respectively.
+
+Baxcalibur really struggles against Steel-types such as Kingambit and
+
+Gholdengo
+
+, which resist its STAB combination while threatening it back. The aforementioned Sneasler helps against Kingambit, while an ally Kingambit can handle Gholdengo. Intimidate from
+
+Incineroar
+
+and
+
+Hisuian Arcanine
+
+is also problematic, as it greatly weakens Baxcalibur's damage output; partners like Kingambit can punish Intimidate, while special attackers like Primarina can threaten both Pokemon without being weakened by it.
+
+Strategy Comments
+
+Baxcalibur functions primarily as a bulky physical sweeper, using powerful STAB moves to break through opposing teams while taking many hits in return. It shines early-game by weakening teams such that its partners can clean up easily; it's especially great against balance compositions with Rillaboom and Dragonite and rain teams once opposing
+
+Archaludon
+
+have been sufficiently weakened. It leverages its immense damage output to outshine other similar attackers like Dragonite against bulkier teams, while Thermal Exchange's burn immunity is crucial against Will-O-Wisp
+
+Magmar
+
+and Volcarona, which can be very problematic for other physical attackers.
+
+As aforementioned, Baxcalibur functions best early-game, using its massive damage to weaken the opposing team such that it can enable its teammates to clean, and it can sweep on its own with Coaching support from Sneasler. It is best used early-game when the opponent's team struggles to KO Baxcalibur, whereas in other matchups, KOing threatening foes like Sneasler and Gholdengo before bringing it in to clean late-game is better.
+
+Gholdengo is the most notable counter to Baxcalibur, resisting its STAB moves and dealing massive damage back, as does Kingambit. Stamina Archaludon also easily takes Baxcalibur's multi-hit attacks while accumulating Defense boosts to retaliate with Body Press. Use partners that can threaten these foes like your own Kingambit and Sneasler to OHKO them or force Terastallization into a typing that allows Baxcalibur to OHKO them. Sneasler can outspeed Baxcalibur and OHKO it with Close Combat, so either Terastallizing it to avoid Close Combat and KO Sneasler with Icicle Spear or using other partners like Gholdengo to threaten the foe is vital.
+
+Draft Order
+
+: Round 3 onwards
+
+Price Range
+
+: 14-15 points
+
+Overview
+
+: Baxcalibur is one of the most powerful physical wallbreakers available. Glaive Rush is an amazing move that makes full use of its Attack stat, and it has plenty of coverage and setup options. It sets itself apart from similar physical attackers with an immunity to burn due to Thermal Exchange and the strongest Ice Shard in the format, allowing it to pick off faster threats. However, it is still vulnerable to many foes before setting up due to its poor defensive typing and mediocre Speed.
+
+Common Roles
+
+Wallbreaker
+
+: Baxcalibur's sky-high Attack stat, powerful attacks, and access to Swords Dance usually lets it pick up a KO or at least deal significant damage whenever it gets a chance to act. its respectable bulk also allows it to survive many stray hits, making it a threat to both defensive and offensive Pokemon alike.
+
+Setup Sweeper
+
+: Although Baxcalibur isn't particularly fast, it has access to both Dragon Dance and Scale Shot, allowing it to boost its stats and tear through weakened teams. Access to Ice Shard means that few Pokemon are able to reliably revenge kill it. Its bulk makes it even harder to revenge kill, and its immunity to burn makes it difficult for many foes to cripple.
+
+Common Moves
+
+Primary STAB Moves
+
+: Glaive Rush, Scale Shot, Dragon Claw, Icicle Spear, Icicle Crash, Ice Shard
+
+Setup Moves
+
+: Dragon Dance, Swords Dance
+
+Utility Moves
+
+: Substitute, Dragon Tail
+
+Coverage
+
+: Earthquake, Iron Head, Crunch, Brick Break, Aqua Tail, Zen Headbutt, Thunder Fang, Aerial Ace, High Horsepower
+
+Niche Moves
+
+Freeze-Dry
+
+: With some Special Attack investment, Freeze-Dry can be a viable option for breaking through bulky Water-types like
+
+Azumarill
+
+and
+
+Dondozo
+
+. That being said, plans that don't involve using its low Special Attack are usually preferred.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Baxcalibur is weak to Stealth Rock, and all entry hazards limit its ability to set up. Heavy-Duty Boots allows it to stay healthy as it switches in and out to continue dealing damage.
+
+Loaded Dice
+
+: Loaded Dice allows Scale Shot to deal consistent damage while providing Speed boosts, and it simultaneously makes Icicle Spear stronger than Icicle Crash.
+
+Choice Band
+
+: Using its massive Attack stat, powerful moves like Glaive Rush, and a Choice Band, Baxcalibur can muscle past nearly any defensive Pokemon. The added power also turns Ice Shard into an even more potent revenge killing tool.
+
+Choice Scarf
+
+: Baxcalibur can outspeed most unboosted attackers if it's given a Choice Scarf. It can take advantage of this fact to land powerful, unexpected attacks on foes that would normally be faster than other Baxcalibur sets.
+
+Niche Items
+
+Leftovers
+
+: If entry hazards can reliably be kept away, Leftovers improves the longevity of bulkier Baxcalibur sets and pairs particularly well with Substitute and Ice Body.
+
+Damage-boosting Items
+
+: Items like Never-Melt Ice and Expert Belt can be used to reach specific damage thresholds against bulky foes.
+
+Resistance Berries
+
+: Berries such as Chople Berry and Roseli Berry can be used to lure Baxcalibur's checks, protect it from coverage moves, and improve its survivability as it sets up.
+
+Lum Berry
+
+: Although Thermal Exchange makes Baxcalibur immune to burn, it still doesn't appreciate other status effects. A Lum Berry can allow it to stay healthy for an extra turn against foes with moves like Thunder Wave.
+
+Tera
+
+Baxcalibur's immense power, bulk, and setup potential make it an incredible user of Terastallization. As a result, it is almost never allowed to be a Tera Captain. If Baxcalibur is allowed to Terastallize, Tera Dragon and Ice are able to power up its STAB attacks, and Tera Ground and Fairy allow it to set up safely while giving it stronger coverage.
+
+Draft Strategy
+
+Baxcalibur is an excellent wallbreaker and setup sweeper, but it needs to rely on teammates for all other roles. As an early pick with little defensive utility, it requires teammates that can handle its numerous weaknesses.
+
+Speed Control
+
+: Baxcalibur's mediocre Speed makes it vulnerable to faster attackers. Fast cleaners like
+
+Tornadus-T
+
+and
+
+Meowscarada
+
+pair well with its wallbreaking ability. Also, partners with access to paralysis like
+
+Zapdos
+
+and
+
+Scream Tail
+
+can help enable Dragon Dance and Scale Shot sets.
+
+Fairy-type Counters
+
+: Fairy-types block Glaive Rush and Scale Shot, making it much harder for Baxcalibur to wallbreak and sweep effectively. Teammates that can pressure them, such as
+
+Sneasler
+
+,
+
+Gholdengo
+
+, and
+
+Iron Crown
+
+, can help Baxcalibur make progress in all matchups.
+
+Entry Hazard Control
+
+: Entry hazards are a major concern for Baxcalibur. The presence of teammates with reliable hazard removal makes it easier to safely run items besides Heavy-Duty Boots. Reliable hazard setters are also important because they help Baxcalibur quickly wear down teams and efficiently sweep.
+
+Chilly Reception
+
+: Baxcalibur's Ice typing and access to Ice Body make it greatly appreciate snow.
+
+Galarian Slowking
+
+and
+
+Slowking
+
+are the most viable snow setters, and they also cover some of Baxcalibur's weaknesses and can safely bring it onto the field, making them excellent partners.
+
+Checks and Counters
+
+Bulky Dragon-resistant Pokemon
+
+: Bulky Fairy-types like Scream Tail and Steel-types like
+
+Empoleon
+
+can force Baxcalibur to run specific coverage options to defeat them, with Fairy-types also preventing Speed boosts from Scale Shot.
+
+Fast Offensive Pokemon
+
+: Pokemon with above-average Speed that aren't weak to Ice Shard can threaten massive damage on Baxcalibur before it gets the chance to contribute. These Pokemon are also able to outspeed Baxcalibur after a Dragon Dance if they hold a Choice Scarf, which can help in revenge killing it.
+
+Entry Hazards
+
+: Without Heavy-Duty Boots equipped, Baxcalibur is significantly weakened by all types of entry hazards, especially Stealth Rock. Even when Heavy-Duty Boots is equipped, it still has to watch out for opposing Knock Off users.
+
+Status Effects
+
+: While it is immune to burn, Baxcalibur struggles heavily against paralysis and poison, with the former making it very difficult to effectively sweep and the latter putting it on a timer.
+
+Baxcalibur is a powerful sweeper, especially with the support of Snow and Aurora Veil. Thermal Exchange makes Baxcalibur immune to being burned, taking what is normally a huge weakness for physical attackers off the table. Earthquake is valuable to cover Steel and Fire types that otherwise pose a fair bit of danger, such as
+
+Solgaleo
+
+and
+
+Kingambit
+
+. Alternatively, Ice Shard finishes off low health targets and surprises faster Pokémon, which is very beneficial due to Baxcalibur's relatively low Speed. Tera Ground powers up Earthquake as well as makes Baxcalibur immune to Thunder Wave and blocking Volt Switch, which is very useful.
+
+Alolan Ninetales
+
+is a fantastic teammate with its ability Snow Warning, as Snow and Aurora Veil increase Baxcalibur's bulk to very high levels. Other good teammates are ones that can cover problems Fighting, Steel, or Fairy types, so
+
+Zacian
+
+,
+
+Mewtwo
+
+,
+
+Chi-Yu
+
+, and Solgaleo are notably appreciated. Some Pokémon like Kingambit and
+
+Arceus-Poison
+
+that are vulnerable to Ground Type attacks appreciate having Baxcalibur around to snuff them out.
+
+Dragon Dance Baxcalibur is an excellent setup sweeper and beneficiary of snow with its solid STAB combination, its high Attack, its powerful attacking moves, and Dragon Dance. Earthquake allows it to hit bulky Steel-type Pokemon like
+
+Magearna
+
+,
+
+Dialga
+
+, and
+
+Solgaleo
+
+, which would otherwise wall it. Tera Ground boosts Baxcalibur's Earthquake and gives it a Thunder Wave immunity, while Tera Fairy allows it to absorb Dragon-type moves and set up on Pokemon like
+
+Palkia-O
+
+, Dialga, and
+
+Giratina
+
+.
+
+Alolan Ninetales
+
+is one of the best teammates for Baxcalibur, as Aurora Veil and the Defense boost snow gives to Ice-types make it much easier for Baxcalibur to set up. Choice Scarf
+
+Chi-Yu
+
+and Choice Scarf
+
+Landorus
+
+are also good teammates for Baxcalibur, as they threaten
+
+Zamazenta-C
+
+and Magearna, which would otherwise beat it, and Landorus can pivot with U-turn. Magearna and Solgaleo can also be used as defensive teammates, as they have excellent synergy with Baxcalibur and can slowly pivot it in, positioning it to sweep.
