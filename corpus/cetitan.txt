@@ -1,0 +1,315 @@
+Cetitan's unique combination of Slush Rush and Belly Drum make it a great snow sweeper for Ice teams. Cetitan is able to use Belly Drum in combination with Slush Rush to boost its Attack and Speed to some of the highest in the tier. Icicle Crash is Cetitan's best way of attacking, shredding most foes that aim to stand in its way. Ice Shard is used to pick off the few Choice Scarf users that outspeed Cetitan, such as
+
+Meowscarada
+
+,
+
+Enamorus
+
+, and
+
+Flutter Mane
+
+. Earthquake is useful for hitting the Steel-, Water- and Fire-types that resist Icicle Crash and Ice Shard, such as
+
+Heatran
+
+,
+
+Toxapex
+
+, and
+
+Ceruledge
+
+. Sitrus Berry is used to restore some of Cetitan's HP after Belly Drum, increasing its longevity.
+
+Since Cetitan needs snow to be able to fulfill its role,
+
+Alolan Ninetales
+
+is a mandatory teammate. Not only can Alolan Ninetales provide snow support, but it can also provide Aurora Veil support, further helping Cetitan stay on the field. Since Cetitan opts to use Sitrus Berry instead of Heavy-Duty Boots, teammates that can remove entry hazards are great support, such as
+
+Avalugg
+
+and
+
+Alolan Sandslash
+
+. Avalugg serves better as a dedicated defensive wall, while Alolan Sandslash can also take advantage of Slush Rush, Swords Dance, and Knock Off.
+
+Kyurem
+
+is excellent at dealing with Unaware walls that would otherwise ignore Cetitan's Belly Drum boost; it is able to use Freeze-Dry and defeat walls such as
+
+Quagsire
+
+and
+
+Dondozo
+
+while also having access to Earth Power, which defeats
+
+Skeledirge
+
+.
+
+Mamoswine
+
+is a good teammate, as it can provide hazard support to break Focus Sash and secure OHKOs on targets such as
+
+Corviknight
+
+, as well as soften the blow from Fire-type attacks.
+
+Draft Order
+
+: Round 7 onwards
+
+Price Range
+
+: 5-7 points
+
+Overview
+
+: Cetitan uses its colossal HP stat and wide array of coverage to act as the format's premier Slush Rush sweeper. It can tailor its bulk to allow it to use Belly Drum against a variety of foes, and Ice Shard can protect it from being revenge killed afterwards. Unfortunately, its numerous type weaknesses and average base Attack make it somewhat Tera-reliant, and it can be hard to fit onto teams with a stronger Tera Captain. It also faces competition from the cheaper
+
+Beartic
+
+and
+
+Alolan Sandslash
+
+.
+
+Common Roles
+
+Snow Sweeper
+
+: Cetitan can make use of Belly Drum and Slush Rush to boost its offensive stats to fearsome levels. It can be difficult to find a safe turn to set up, especially without Tera, but the payoff is massive. The limited turns of snow must also be considered because Cetitan is easily outsped without its ability active. Icy Rock on a teammate can make its sweeps more reliable.
+
+Wallbreaker
+
+: A mid-game Belly Drum can easily force KOs without snow, or the player can opt to run Sheer Force or damage-boosting items like Life Orb and Choice Band to make progress without the need for setup.
+
+Tank
+
+: Cetitan's bulk and access to Thick Fat and Yawn make it a decent tank. Its lack of reliable recovery and weakness to entry hazards mean it often needs to focus on defensively checking a single foe.
+
+Common Moves
+
+Primary STAB Moves
+
+: Icicle Crash, Ice Spinner, Ice Shard
+
+Setup Moves
+
+: Belly Drum
+
+Utility Moves
+
+: Substitute, Yawn, Rest, Body Slam
+
+Coverage
+
+: Earthquake, Superpower, Liquidation, Heavy Slam, Play Rough, Knock Off, High Horsepower, Tera Blast
+
+Niche Moves
+
+Curse
+
+: Curse is a secondary setup option that preys on the opponent's physically offensive Pokemon. The Speed drops make it fit best with defensive Tera types and Thick Fat.
+
+Facade
+
+: If Will-O-Wisp or Toxic Spikes are expected and Cetitan has a free moveslot, Facade can be a powerful neutral coverage option.
+
+Snowscape
+
+: Although Cetitan generally prefers snow to be set by teammates, it can also do so itself if the team is unable to support it for some reason.
+
+Avalanche
+
+: Avalanche can be stronger than other STAB attacks on bulky Cetitan sets.
+
+Common Items
+
+Sitrus Berry
+
+: Belly Drum has great synergy with Sitrus Berry, healing Cetitan back up afterwards as long as its HP is divisible by two. It's important to support these sets with entry hazard removal, however.
+
+Heavy-Duty Boots
+
+: Cetitan is extremely weak to all entry hazards, so it greatly appreciates Heavy-Duty Boots giving it the ability to avoid them on most sets.
+
+Life Orb
+
+: Life Orb is a classic pairing with Sheer Force, boosting Icicle Crash, Liquidation, and Play Rough with no drawbacks. Cetitan has to remain wary of entry hazards and recoil from other attacks like Earthquake and Ice Shard, however.
+
+Niche Items
+
+Assault Vest
+
+: Cetitan's Special Defense can get deceptively high with some investment and and an Assault Vest, allowing it to take on some special attackers with ease, provided entry hazards are kept away.
+
+Damage-boosting Items
+
+: Expert Belt pairs well with Cetitan's coverage moves if they're super effective against relevant targets. Choice Band and items like Never-Melt Ice can help boost its wallbreaking power in other matchups.
+
+Resistance Berries
+
+: Resistance Berries can be used to lure in foes with type advantages or protect it from priority moves like Bullet Punch or Mach Punch mid-sweep.
+
+Lum Berry
+
+: Burn and paralysis can seriously limit Cetitan's potential, so Lum Berry can provide a turn of safety from them as it sets up or eliminates the status user.
+
+Weakness Policy
+
+: Cetitan's Ice typing and bulk make Weakness Policy easy to activate against some weaker attackers, leading to a devastating counterattack.
+
+Tera
+
+Cetitan relies heavily on Tera to serve as a reliable attacker. It often fills the role of a budget Tera Captain, occasionally using Tera over a more expensive Captain. It often wants to use Tera Types that match its coverage moves to boost their power and gain a better defensive profile. These include Tera Water, Ground, Fairy, and Steel. Tera Electric and Fire can be useful for denying status.
+
+Draft Strategy
+
+Cetitan fits best on teams that need more physical offense and a secondary Tera Captain. Certain roles need to be filled by high-tier Pokemon before it can succeed.
+
+Snow Setter
+
+: Cetitan's ideal draft is one with a
+
+Slowking
+
+or
+
+Galarian Slowking
+
+. Chilly Reception gets it onto the field safely and provides it with snow. Other snow setters like
+
+Alolan Ninetales
+
+and
+
+Abomasnow
+
+can also work, though they lack the pivoting ability of the Slowking formes, so it's much harder to set up Cetitan sweeps with them.
+
+Entry Hazard Removal
+
+: Reliable Rapid Spin and even Defog users are extremely important for freeing up Cetitan's item slot and allowing it to function without fear of Stealth Rock.
+
+Great Tusk
+
+,
+
+Iron Treads
+
+, and
+
+Talonflame
+
+are some good options for removing entry hazards, and
+
+Hatterene
+
+can help keep them off the field to begin with.
+
+Entry Hazard Setters
+
+: Entry hazard support can help Cetitan wallbreak and sweep. Stealth Rock and Spikes in particular can help it deal more consistent damage. It can also use Knock Off to remove Heavy-Duty Boots.
+
+Checks and Counters
+
+Status Conditions
+
+: Burn and paralysis can shut down nearly all Cetitan sets, poison puts it on a timer, and sleep likely means it's not waking up before being KOed.
+
+Disruption / Phazing
+
+: It can be difficult to get Cetitan into a position where it can set up and sweep with enough turns of snow remaining. An Encore or Roar on the turn it uses Belly Drum can waste a significant amount of time, HP, and even its Sitrus Berry.
+
+Priority
+
+: Cetitan can be picked off by strong priority moves in the snow if it's weakened by Belly Drum and a stray hit as it sets up. Vacuum Wave is immediately threatening because it hits for super effective damage and isn't weakened by snow. Some opposing priority users without Extreme Speed have to respect the threat of Ice Shard, however.
+
+Cetitan, with its combination of Slush Rush and Belly Drum, is an exceptional wallbreaker and setup sweeper for Ice teams. Normalium Z allows Cetitan to use Z-Belly Drum, which gives it easier setup opportunities. Icicle Crash is the preferred STAB move because of its higher Base Power and the ability to ignore contact effects like
+
+Skarmory
+
+'s Rocky Helmet and
+
+Ferrothorn
+
+'s Iron Barbs; alternatively, the weaker Ice Spinner can be used for its higher accuracy. Earthquake targets Steel- and Fire-types like
+
+Gholdengo
+
+,
+
+Archaludon
+
+,
+
+Heatran
+
+, and
+
+Victini
+
+as well as
+
+Toxapex
+
+. Alternatively, Knock Off provides Cetitan with a way to threaten
+
+Slowbro
+
+and
+
+Rotom-W
+
+. Ice Shard, after a Belly Drum boost, allows Cetitan to pick off Choice Scarf foes like
+
+Sneasler
+
+and
+
+Iron Boulder
+
+, which outspeed it even in snow. A Jolly nature can also be used to allow Cetitan to outspeed Choice Scarf users like
+
+Blacephalon
+
+,
+
+Iron Moth
+
+, and
+
+Iron Treads
+
+in snow.
+
+Alolan Ninetales
+
+is an essential teammate for its ability to set snow and provide Aurora Veil support, facilitating Cetitan's sweeping capabilities.
+
+Kyurem
+
+and Alolan Ninetales also break through bulky Water-types like Slowbro and Rotom-W, which Cetitan may struggle against. With entry hazard support from
+
+Piloswine
+
+and
+
+Cloyster
+
+, Cetitan can OHKO threats like Skarmory,
+
+Corviknight
+
+, and Ferrothorn. Furthermore, Cloyster also provides hazard removal with Rapid Spin, increasing Cetitan's longevity.
+
+This is a sample set, stay tuned for future updates!

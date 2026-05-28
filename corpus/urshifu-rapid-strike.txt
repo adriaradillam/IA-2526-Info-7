@@ -1,0 +1,2399 @@
+This is a sample set while we work on the full analysis!
+
+With a Choice Band, Urshifu-R becomes a devastating wallbreaker for Water teams, easily able to blow past threats like
+
+Ting-Lu
+
+and
+
+Mandibuzz
+
+without requiring setup. Close Combat shreds the likes of
+
+Archaludon
+
+,
+
+Kyurem
+
+, and
+
+Hisuian Samurott
+
+. Surging Strikes easily washes away foes such as
+
+Ceruledge
+
+and
+
+Gliscor
+
+along with 2HKOing
+
+Iron Hands
+
+and
+
+Clefable
+
+, which can often prove infurating for Water teams to handle. Ice Spinner nails Grass- and Dragon-types that attempt to come in on Urshifu-R's STAB moves like
+
+Sinistcha
+
+and
+
+Dragonite
+
+. Alternatively, U-turn can be used to keep up momentum. Finally, Aqua Jet can let Urshifu-R clean up against faster threats like
+
+Flutter Mane
+
+and
+
+Volcarona
+
+. Jolly is the recommended nature to allow Urshifu-R to outspeed the likes of
+
+Terapagos
+
+and Kyurem, while Adamant lets it reliably OHKO threats such as Ting-Lu and Archaludon and consistently 2HKO
+
+Corviknight
+
+and Mandibuzz.
+
+Urshifu-R greatly appreciates
+
+Swampert
+
+thanks to it pivoting Urshifu-R in safely with Flip Turn, providing Stealth Rock support to chip would-be checks like
+
+Meowscarada
+
+and
+
+Dragapult
+
+, using Knock Off to remove
+
+Skarmory
+
+'s Rocky Helmet, and checking Electric-types such as
+
+Raging Bolt
+
+and
+
+Sandy Shocks
+
+.
+
+Toxapex
+
+can assist Urshifu-R by taking on Fairy- and Grass-types like
+
+Enamorus
+
+and Meowscarada on top of providing Toxic support to wear down bulkier targets like
+
+Araquanid
+
+and
+
+Primarina
+
+. Choice Scarf
+
+Greninja
+
+provides vital speed control, enabling it to check fast Psychic- and Ghost-types such as
+
+Latios
+
+,
+
+Latias
+
+, and non-Choice Scarf
+
+Spectrier
+
+with Dark Pulse, alongside using coverage moves such as Sludge Wave to deal with the
+
+Ogerpon
+
+formes and Enamorus. Swords Dance Hisuian Samurott provides Spikes support with Ceaseless Edge to wear down foes like Raging Bolt, along with being able to check threats such as Dragapult with Sucker Punch. Calm Mind Primarina can check annoying foes for Urshifu-R like
+
+Walking Wake
+
+while greatly appreciating Urshifu-R handling Steel-types such as
+
+Empoleon
+
+and
+
+Hisuian Goodra
+
+, which Primarina cannot. Nasty Plot
+
+Rotom-W
+
+provides a nice immunity to Ground that can help against Flying- and Water-types that threaten Urshifu-R such as
+
+Tornadus-T
+
+,
+
+Pelipper
+
+, and Primarina. Alternatively, Rotom-W can pivot Urshifu-R in with Volt Switch.
+
+Choice Scarf Urshifu-R is a solid option for Fighting teams wanting speed control with great offense thanks to its nice coverage options. Urshifu-R is a potent force to reckon with in matchups like Dragon and Flying, where its direct competitors,
+
+Keldeo
+
+and Choice Scarf
+
+Sneasler
+
+, would struggle to make progress. Reaching a respectable 483 Speed, Choice Scarf Urshifu-R outspeeds the whole unboosted metagame, barring
+
+Regieleki
+
+and
+
+Deoxys-S
+
+, as well as some common Choice Scarf Pokemon such as
+
+Great Tusk
+
+,
+
+Kleavor
+
+, and
+
+Hoopa-U
+
+. Surging Strikes OHKOes Choice Specs
+
+Flutter Mane
+
+,
+
+Hisuian Zoroark
+
+, Choice Scarf Hoopa-U, and Focus Sash
+
+Ceruledge
+
+. Close Combat destroys Dark- and Steel-types such as Choice Specs
+
+Greninja
+
+and Choice Scarf
+
+Archaludon
+
+. U-turn lets it pivot out safely against its checks like
+
+Toxapex
+
+and
+
+Primarina
+
+. Lastly, Ice Spinner deals with Dragon-types such as
+
+Dragapult
+
+,
+
+Latios
+
+, and
+
+Dragonite
+
+and provides a safe option to hit Water Absorb
+
+Clodsire
+
+.
+
+With numerous utility options such as Rapid Spin, Stealth Rock, and Knock Off, Great Tusk is a teammate of choice for Urshifu-R, preventing it from being injured by entry hazards and removing Choice Scarf from the likes of
+
+Landorus
+
+and Greninja, with the help of Focus Sash, to ensure Urshifu-R keeps the Speed advantage. Assault Vest
+
+Iron Hands
+
+and
+
+Gallade
+
+are two other solid partners that can withstand special hits from Choice Specs Latios and Dragapult for Urshifu-R ; they also significantly improve some of the tough matchups of Urshifu-R, namely Water and Poison, by dealing with Primarina, Toxapex, and
+
+Amoonguss
+
+. By virtue of its revenge killer status, Choice Scarf Urshifu-R pairs well with most Fighting-type wallbreakers, including
+
+Iron Valiant
+
+, Sneasler,
+
+Okidogi
+
+, and
+
+Scrafty
+
+. Iron Valiant leverages its fantastic movepool and offensive stats to patch any offensive shortcoming the team may have. Thanks to its access to BoltBeam coverage and highly synergetic STAB moves, Iron Valiant dominates the Flying, Dragon, and Water matchups, easily removing
+
+Skarmory
+
+, Defensive
+
+Gyarados
+
+, Latios, and Toxapex. Unburden Sneasler helps to get the upper hand in matchups like Fighting and Fairy, destroying both types after one Swords Dance. Lastly, Okidogi and Scrafty are two potent Bulk Up wallbreakers that can make the difference in the Ghost, Dragon, and Poison matchups. With its solid defensive typing and great bulk, Okidogi puts heavy pressure on Ghost teams, addressing the likes of Dragapult and
+
+Gholdengo
+
+while preventing Flutter Mane from making any progress, thanks to its Fairy neutrality. Its utility is also much appreciated in the Poison matchup where its typing lets it come repeatedly on the field to absorb Toxic and Toxic Spikes while threatening the opposing defensive core with Knock Off. Blessed with a Psychic immunity, Scrafty is a considerable asset in the Dragon and Ghost matchups where its immunity and resistances are useful by preventing Choice Specs Latios from progressing through Luster Purge spamming and leaving both Dragapult and Latios with Draco Meteor only to make progress.
+
+With a Choice Scarf, Urshifu-R can act as a solid form of speed control for Water teams, being able to outspeed threats such as
+
+Tornadus-T
+
+, Choice Specs
+
+Flutter Mane
+
+, and Choice Scarf
+
+Hisuian Samurott
+
+. Close Combat handles Steel- and Dark-types such as
+
+Archaludon
+
+and Choice Specs
+
+Greninja
+
+. U-turn allows for Urshifu-R to keep up momentum against would-be checks like
+
+Toxapex
+
+. Finally, Ice Spinner allows Urshifu-R to threaten Grass- and Dragon-types such as
+
+Hydrapple
+
+,
+
+Dragapult
+
+, and
+
+Dragonite
+
+. Alternatively, Poison Jab can be used to pick off
+
+Ogerpon-W
+
+and Fairy-types like
+
+Primarina
+
+.
+
+Choice Specs Greninja and Urshifu-R form a devastating wallbreaking core, with Greninja being able to remove physical walls that hamper Urshifu-R such as
+
+Amoonguss
+
+,
+
+Skarmory
+
+, and
+
+Galarian Weezing
+
+with ease while Urshifu-R removes special walls that check Greninja such as
+
+Hisuian Goodra
+
+and
+
+Blissey
+
+. Greninja also provides a check to Psychic- and Ghost-type threats such as
+
+Latios
+
+and
+
+Sinistcha
+
+that could easily take Urshifu-R's attacks. Similarly, Swords Dance Hisuian Samurott can act as a check to Ghost- and Psychic-types along with providing Spikes with Ceaseless Edge and being able to use Sucker Punch to pick off faster targets like Choice Scarf
+
+Latias
+
+. Toxapex can handle Grass- and Fairy-types such as Choice Scarf
+
+Meowscarada
+
+and
+
+Hatterene
+
+and set Toxic Spikes to put bulky targets like
+
+Slowbro
+
+and Primarina on timers.
+
+Swampert
+
+can take on Electric-type threats such as
+
+Iron Hands
+
+,
+
+Sandy Shocks
+
+, and
+
+Regieleki
+
+. Swampert also provides support with Stealth Rock to wear down foes like Dragapult and Archaludon.
+
+Empoleon
+
+likewise can provide Stealth Rock support while dealing with threats such as
+
+Kyurem
+
+and Hatterene. Swampert and Empoleon can also both provide Urshifu-R safe entry with their slow Flip Turns.
+
+Pelipper
+
+provides rain, granting Urshifu-R the power boost to take out threats like
+
+Gholdengo
+
+,
+
+Zapdos
+
+, and
+
+Iron Valiant
+
+with Surging Strikes. Ogerpon-W appreciates Urshifu-R dealing with Tornadus-T and
+
+Lokix
+
+, and in return, Ogerpon-W can remove Water-types such as Primarina and
+
+Dondozo
+
+that would otherwise effortlessly wall Urshifu-R. Primarina provides a solid check to Dragon-type threats such as Archaludon and
+
+Walking Wake
+
+that naturally check Urshifu-R.
+
+Swords Dance Urshifu-R is a good choice on Water teams thanks to its high Attack - further boosted by Swords Dance - and decent Speed tier, allowing it to dispatch many of the metagame's defensive staples such as Unaware
+
+Clodsire
+
+,
+
+Alolan Muk
+
+, and
+
+Corviknight
+
+. Swords Dance allows Urshifu-R to set up on a predicted switch. Surging Strikes is a generally powerful move that allows Urshifu-R to muscle past threats such as Bulk Up Corviknight and defensive
+
+Gholdengo
+
+after a Swords Dance. Close Combat hits Dark- and Steel-types such as
+
+Hydreigon
+
+and
+
+Hisuian Goodra
+
+that try to switch in on Surging Strikes, while Drain Punch is weaker but provides some much-appreciated recovery. Finally, Urshifu-R has many viable options for its 4th moveslot; Aqua Jet deters
+
+Iron Valiant
+
+and
+
+Flutter Mane
+
+from attempting to revenge kill Urshifu-R, Thunder Punch hits Flying-types such as
+
+Pelipper
+
+as well as heavily damaging
+
+Toxapex
+
+, and Ice Punch hits Water Absorb Clodsire,
+
+Garchomp
+
+, and Flying-types such as
+
+Zapdos
+
+and
+
+Dragonite
+
+. Zen Headbutt can be run to damage
+
+Amoonguss
+
+and do well against Poison teams. Punching Glove allows
+
+Urshifu
+
+to gain a small boost to its punching moves while being protected from Zapdos's Static and other contact-punishing abilities.
+
+Greninja
+
+and
+
+Hisuian Samurott
+
+are great teammates for Urshifu-R, as they take Psychic-type attacks such as Choice Scarf
+
+Indeedee
+
+'s Psychic and Choice Band
+
+Hoopa-U
+
+'s Zen Headbutt with impunity and punish them with Dark Pulse and Ceaseless Edge, respectively. Hisuian Samurott also sets Spikes to aid in Urshifu-R's wallbreaking efforts, while Greninja can threaten Fighting-types that Urshifu-R struggles with such as Choice Specs Iron Valiant and
+
+Sneasler
+
+with Extrasensory. In return, Urshifu-R can take Bug-type attacks such as Choice Band
+
+Scizor
+
+'s U-turn and Choice Scarf
+
+Kleavor
+
+'s X-Scissor, as well as threaten opposing Dark-types such as
+
+Weavile
+
+. Pelipper provides rain support to augment Urshifu-R's already scary wallbreaking abilities as well as a Grass neutrality to take Choice Scarf
+
+Meowscarada
+
+'s Flower Trick. Toxapex and
+
+Quagsire
+
+take Fairy- and Electric-type attacks, respectively, while both wearing attackers down with Toxic. Toxapex also removes Toxic Spikes, which can put Urshifu-R on a timer.
+
+Gastrodon
+
+is an alternative Electric immunity, sacrificing physical bulk for a better specially defensive profile.
+
+Rotom-W
+
+does well in the Water mirror matchup, as well as doing good damage to Toxapex with Volt Switch. Additionally, it can create setup opportunities for Urshifu-R by burning physical attackers such as Dragonite and
+
+Great Tusk
+
+thanks to Will-O-Wisp.
+
+Barraskewda
+
+provides a good source of speed control as well as respectable power, while
+
+Basculegion-F
+
+is a good special attacker that can blow through common Urshifu-R checks such as physically defensive Toxapex and Quagsire. Both of these appreciate Urshifu-R breaking through their checks: Bulk Up Corviknight for Barraskewda and Gastrodon for Basculegion-F. Finally,
+
+Walking Wake
+
+can blow through defensive staples such as Toxapex, Rotom-W, and Amoonguss with Choice Specs-boosted Draco Meteors. In exchange, Urshifu-R takes care of Hisuian Goodra.
+
+Urshifu-R is a great wallbreaker on Fighting teams thanks to its deadly STAB combination, decent Speed tier, and access to Swords Dance, allowing it to be a good asset versus types like Poison, Water, and Fire. Close Combat is preferred due to its superior damage output; however, Drain Punch may be used instead for recovery and to ignore adverse contact effects thanks to Punching Glove. Aqua Jet threatens frailer revenge killers, taking out faster targets like
+
+Flutter Mane
+
+,
+
+Sandy Shocks
+
+, and
+
+Volcarona
+
+after a Swords Dance boost. Alternatively, Thunder Punch may be used to better deal with
+
+Azumarill
+
+,
+
+Pelipper
+
+, and
+
+Toxapex
+
+, while Zen Headbutt hits
+
+Amoonguss
+
+in addition to Toxapex and
+
+Clodsire
+
+. Surging Strikes notably deals with
+
+Landorus-T
+
+,
+
+Skeledirge
+
+, and
+
+Great Tusk
+
+as well as threatening Bulk Up
+
+Corviknight
+
+and Iron Defense
+
+Zamazenta
+
+. Other options include Ice Punch to hit Amoonguss while also threatening Dragon-types such as
+
+Dragonite
+
+and
+
+Dragapult
+
+and Taunt to prevent Toxapex,
+
+Quagsire
+
+, and Water Absorb Clodsire from using recovery moves as well as Toxic and Haze. Heavy-Duty Boots improves the matchup against hazard stacking teams like Poison; however, Punching Glove is preferred to use Surging Strikes freely without activating Rocky Helmet chip or Static, easing the Flying matchup and minimizing the need for predictions.
+
+Great Tusk is an amazing teammate, providing Stealth Rock to enhance Urshifu-R's wallbreaking abilities and removing entry hazards with Rapid Spin if Urshifu-R isn't using Heavy-Duty Boots. Furthermore, Great Tusk deals with Toxapex if Urshifu-R isn't using coverage to hit it.
+
+Iron Hands
+
+provides a buffer in the Flying, Water, and Fairy matchup, threatening Corviknight, Pelipper, and
+
+Basculegion-F
+
+as well as hitting Flutter Mane,
+
+Hatterene
+
+, and
+
+Iron Valiant
+
+with Heavy Slam. Furthermore, Assault Vest Iron Hands acts as a great pivot into special attacks, as Urshifu-R's Special Defense is rather lackluster. In return, Urshifu-R deals with the Ground-types such as Great Tusk and
+
+Iron Treads
+
+along with Skeledirge.
+
+Sneasler
+
+is great in the Fairy matchup and provides pivoting and Toxic Spikes to accentuate Urshifu-R's wallbreaking potential. Zamazenta appreciates Urshifu-R heavily wearing down teams to allow it to easily clean up late-game with Iron Defense. Iron Valiant removes threats such as
+
+Hisuian Lilligant
+
+,
+
+Meowscarada
+
+, and
+
+Greninja
+
+while also being a huge asset in the Flying matchup thanks to Thunderbolt. Iron Valiant also values Urshifu-R's ability to break Clodsire and lure in Toxapex.
+
+Other Options
+
+Fighting
+
+Poison Jab can be used over Ice Spinner to better handle
+
+Primarina
+
+if the team lacks countermeasures to it.
+
+With its excellent typing and Surging Strikes breaking through Focus Sash, Urshifu-R is among the premier physical attackers of the metagame!
+
+Close Combat versus Drain Punch
+
+: Close Combat's power makes it worth the defensive drops most of the time, especially with the protection of Focus Sash. Drain Punch is usually preferred for bulkier Punching Glove sets to improve Urshifu-R's survivability.
+
+Aqua Jet
+
+: Aqua Jet is perfect for picking off weakened foes that are faster than Urshifu-R, such as
+
+Chien-Pao
+
+and
+
+Flutter Mane
+
+.
+
+Swords Dance
+
+: With Swords Dance, Urshifu-R becomes far more difficult to wall by its defensive checks, though
+
+Dondozo
+
+is a notable exception.
+
+Ice Spinner versus Ice Punch
+
+: Ice Spinner is more powerful when not using Punching Glove, and it also ruins terrain set up from the likes of
+
+Miraidon
+
+and
+
+Rillaboom
+
+. Ice Punch should always be used with Punching Glove, as it prevents Rocky Helmets users like
+
+Dragonite
+
+from passively wearing Urshifu-R down.
+
+Substitute
+
+: Substitute with Punching Glove let's Urshifu-R take advantage of
+
+Alomomola
+
+that try to wear down Urshifu-R with Rocky Helmet, and is also effective at foiling slower status users.
+
+Adamant versus Jolly
+
+: Adamant is the preferred nature for giving Urshifu-R as much breaking power as possible. Maximizing Speed with Jolly is often not needed for most matchups, but it does surpass some key targets in Jolly
+
+Mimikyu
+
+, Jolly
+
+Gliscor
+
+, and Modest
+
+Chi-Yu
+
+.
+
+Other Options
+
+Bulk Up
+
+: Bulk Up takes advantage of Urshifu-R's underrated physical bulk, but it's far less consistent against powerful special attackers like Miraidon and
+
+Calyrex-S
+
+.
+
+Items
+
+Punching Glove
+
+: Punching Gloves protects Urshifu-R from taking devastating damage by hitting Rocky Helmet or Rough Skin with Surging Strikes, in addition to boosting other punching moves. Just note that these moves will now be blocked by Protect and other variants.
+
+Focus Sash
+
+: While it might seem strange with Urshifu-R's good physical bulk, Focus Sash lets it survive extremely powerful physical moves such as Chien-Pao's Electric Tera Blast without investing in bulk, as well as letting it survive powerful special attackers from Flutter Mane, Miraidon, and Calyrex-S.
+
+Protective Pads
+
+: Protective Pads are a niche alternative to Punching Glove, not boosting any attacks but letting Surging Strikes bypass Protective moves from foes like
+
+Garganacl
+
+.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Urshifu-R is able to function perfectly fine without Terastallization, though it has both offensive and defensive uses for it.
+
+Water
+
+: The Tera Water boost to Surging Strikes makes Urshifu-R even more difficult to wall, with even
+
+Ting-Lu
+
+that lack Sitrus Berry being OHKOed by +2 Surging Strikes. It also makes Aqua Jet a more effective cleaning move.
+
+Normal
+
+: Tera Normal is often paired with Punching Glove to block Astral Barrage from Calyrex-S, potentially letting it get off a devastating Surging Strikes against it.
+
+Stellar
+
+: Tera Stellar with Adamant is notable not only for taking advantage of Urshifu-R's great offensive coverage, but also because Tera Stellar Close Combat into Tera Stellar Aqua Jet will OHKO offensive Miraidon variants.
+
+Alternate EV Spreads
+
+108 HP / 252 Atk / 148 Def with Adamant
+
+: Not only does this EV spread maintain maximum power, but the physical bulk let's Urshifu-R survive Adamant Chien-Pao's super-effective Tera Blast 87.5% of the time.
+
+With its high-powered STAB attacks and access to U-turn, Urshifu-R is a strong option for a Choice item pivot.
+
+Aqua Jet
+
+: Aqua Jet is a good way for Choice Band Urshifu-R to clean up weakened teams. That being said, with high Speed and priority attacks being so prevalent in the current climate, Aqua Jet can still find a place on Choice Scarf sets.
+
+Ice Spinner
+
+: Urshifu-R greatly appreciates having a move that prevents it from being walled by
+
+Dragonite
+
+, and it can also foil terrain-based strategies from
+
+Miraidon
+
+.
+
+Choice Scarf versus Choice Band
+
+: Choice Scarf transforms Urshifu-R into an effective revenge killer, outspeeding important threats such as
+
+Chien-Pao
+
+, unboosted Miraidon, and
+
+Flutter Mane
+
+that lack Booster Energy. Choice Band, on the other hand, makes Urshifu-R a far more effective wallbreaker, letting it deal massive damage to foes like
+
+Ting-Lu
+
+,
+
+Scizor
+
+, Ho-oh, and
+
+Calyrex-I
+
+.
+
+Adamant versus Jolly
+
+: Adamant is far and away the preferred option for getting the most damage out of each attack. However, Choice Band does have a use for Jolly when it comes to outrunning and breaking Jolly
+
+Gliscor
+
+, and using it with Choice Scarf guarantees that Urshifu-R outruns Modest Choice Scarf
+
+Chi-Yu
+
+.
+
+Tera Types
+
+Tera Dependency - Low / Medium
+
+: Urshifu-R has both offensive and defensive uses for Terastallization that can greatly influence the outcome of a match, but it isn't always vital for it to function.
+
+Water
+
+: Tera Water removes Urshifu-R's troublesome Fairy-type weakness and gives Surging Strikes a healthy boost in power. With Choice Scarf, Urshifu-R can OHKO Focus Sash Chien-Pao before it has a chance to attack. With Choice Band, Surging Strikes becomes practically unwallable by anything that doesn't resist it.
+
+Normal
+
+: Tera Normal with Choice Band can blindside offensive
+
+Calyrex-S
+
+that attack with Astral Barrage, letting Urshifu-R handily dispatch it with Surging Strikes.
+
+Alternate EV Spreads
+
+108 HP / 252 Atk / 148 Def with Adamant
+
+: When using Choice Band
+
+Urshifu
+
+, this spread's physical bulk can be worth it against Tera Blast Electric from Chien-Pao, surviving 87.5% of the time.
+
+Urshifu-R is the format's premier physical attacker, and much of the meta is warped around this Pokemon. This is due to the difficulty of defensively positioning around Urshifu-R, as it can hit through Protect, ignore Intimidate with Surging Strikes, and has a good offensive typing. Among its strong matchups are
+
+Incineroar
+
+,
+
+Chi-Yu
+
+, and both
+
+Ursaluna
+
+formes.
+
+Urshifu-R has an incredible partnership with
+
+Tornadus
+
+, as opposing teams cannot stall Tailwind turns with Protect in front of Urshifu-R. Tailwind also flips Urshifu-R's matchup into
+
+Flutter Mane
+
+. Bleakwind Storm can remove the Grass-types that check Urshifu-R, most importantly
+
+Rillaboom
+
+, the
+
+Ogerpon
+
+formes, and
+
+Amoonguss
+
+. Tornadus can also boost Urshifu-R's damage output with Rain Dance. Additionally, Urshifu-R specifically appreciates Pokemon with Fake Out, such as Rillaboom and Incineroar, due to the positions that Fake Out + Unseen Fist can create.
+
+Amoonguss is Urshifu-R's hardest check, as it can redirect and resist both of Urshifu-R's STAB moves, deal damage back with Rocky Helmet or Sludge Bomb, and put Urshifu-R to sleep with Spore.
+
+Raging Bolt
+
+is also a big
+
+Urshifu
+
+check, as it can OHKO Urshifu-R with item-boosted Thunderclap and resists both Surging Strikes and Tornadus's Bleakwind Storm. The Ogerpon formes outspeed and threaten to OHKO Urshifu-R with Wood Hammer, while Flutter Mane does the same with Moonblast. Rillaboom and
+
+Farigiraf
+
+also trade damage positively into Urshifu-R, as they can take an attack and OHKO back with Wood Hammer and Psychic, respectively.
+
+Boosting Urshifu-R's damage allows it to pick up KOs it couldn't do otherwise, such as
+
+Chien-Pao
+
+, no-bulk
+
+Ogerpon-H
+
+and
+
+Ogerpon-C
+
+, and other Pokemon defensively trained to survive Urshifu-R's non-boosted attacks, such as Sitrus Berry or physically bulky
+
+Incineroar
+
+, with Surging Strikes.
+
+Aqua Jet gives Urshifu-R access to priority, which allows it to pick off low HP foes.
+
+Life Orb allows Urshifu-R to OHKO
+
+Archaludon
+
+and non-bulky
+
+Ogerpon-W
+
+. It also boosts Surging Strikes's damage rolls, allowing you to KO Pokemon defensively trained to survive Mystic Water Surging Strikes, such as Bold
+
+Flutter Mane
+
+, Defense-invested Chien-Pao and Ogerpon-H, though this comes at the cost of Urshifu-R's longevity.
+
+The Attack investment allows for Urshifu-R to OHKO Chien-Pao with Surging Strikes. The allocated bulk allows Urshifu-R to survive a Thunderclap from most Assault Vest
+
+Raging Bolt
+
+, an Earth Power from most
+
+Landorus
+
+, or a Terrain-boosted Grassy Glide from Ogerpon-H. The Speed investment allows Urshifu-R to outspeed Modest
+
+Regidrago
+
+and Adamant
+
+Dragonite
+
+.
+
+Tera Water is strong both defensively and offensively, allowing Urshifu-R to remove its Fighting-type to survive moves such as Flutter Mane's Moonblast and
+
+Tornadus
+
+'s Bleakwind Storm. The boost to Surging Strikes can allow Urshifu-R to KO Pokemon it otherwise couldn't, such as Bold Flutter Mane and bulky Ogerpon-H. Tera Steel allows Urshifu-R to flip its matchup against
+
+Farigiraf
+
+, Flutter Mane, and
+
+Rillaboom
+
+. The Normal-type resistance is also useful against Extreme Speed Dragonite and can be used in a pinch against both
+
+Ursaluna
+
+formes. Tera Fire has some similar properties to Tera Steel but can also flip Urshifu-R's matchup against Ogerpon-H and give Urshifu-R immunity to burn. Both Tera Steel and Tera Fire make Urshifu-R weak to opposing Urshifu-R, with Close Combat and Surging Strikes respectively.
+
+Choice Scarf gives Urshifu-R a premium Speed tier in the meta, allowing it to outspeed every relevant unboosted Pokemon. Choice Scarf Urshifu-R excels at picking off foes late-game, due to its excellent Speed tier and ability to ignore Protect mind games.
+
+U-turn allows Urshifu-R to reposition in front of threats like
+
+Rillaboom
+
+, while Aqua Jet can pick off threats on low HP. Ice Spinner can remove the Terrain of Rillaboom and
+
+Indeedee-F
+
+, as well as threaten non-Multiscale
+
+Dragonite
+
+with an OHKO.
+
+The Speed investment allows for Urshifu-R to outspeed
+
+Chien-Pao
+
+, while the Attack investment lets it OHKO no-bulk
+
+Ogerpon-H
+
+and
+
+Ogerpon-C
+
+with Tera Water Surging Strikes. The allocated bulk allows for Urshifu-R to survive a Thunderclap from nearly all unboosted
+
+Raging Bolt
+
+, an Earth Power from
+
+Landorus
+
+, and a Terrain-boosted Grassy Glide from Ogerpon-H.
+
+Tera Water provides a damage boost that allows Urshifu-R to OHKO threats such as Chien-Pao and no-bulk Ogerpon-H and Ogerpon-C with Surging Strikes. It also has defensive applications, such as enabling Urshifu-R to survive
+
+Flutter Mane
+
+'s Moonblast and
+
+Tornadus
+
+'s Bleakwind Storm. Tera Ghost can be used to gain immunity to Fake Out and Dragonite's Extreme Speed, and is often run on teams with damage boosts for Urshifu-R, such as rain and Chien-Pao's Sword of Ruin. Tera Ghost removes Urshifu-R's weakness to priority moves like Grassy Glide and Thunderclap, although it gains a weakness to Chien-Pao and
+
+Urshifu-S
+
+'s Sucker Punch.
+
+Focus Sash allows Urshifu-R to be played much more aggressively in front of threats like
+
+Raging Bolt
+
+,
+
+Rillaboom
+
+, and the
+
+Ogerpon
+
+formes, due to the guaranteed survival from one attack.
+
+Taunt is sometimes used over Aqua Jet in order to shut down threats like
+
+Amoonguss
+
+and prevent Trick Room.
+
+Focus Sash allows Urshifu-R to simply maximize its Attack and Speed.
+
+Tera Stellar may be used instead of Tera Water, giving Urshifu-R a damage boost to Close Combat that allows it to OHKO non-bulky
+
+Ogerpon-W
+
+while still boosting Surging Strikes and Aqua Jet. Tera Stellar does, however, prevent multiple Water-type moves from being boosted. These boosts enable Urshifu-R to OHKO
+
+Chien-Pao
+
+and bulkless
+
+Ogerpon-C
+
+and
+
+Ogerpon-H
+
+with Surging Strikes.
+
+Urshifu-R is one of the strongest physical attackers in the format and can punish defensive plays with its ability Unseen Fist. It has a great matchup into
+
+Incineroar
+
+, since it ignores Intimidate with its signature move Surging Strikes, can switch into
+
+Chien-Pao
+
+and
+
+Calyrex-I
+
+, and is able to deal significant damage to
+
+Terapagos
+
+with Close Combat. Aqua Jet is almost unstoppable with Unseen Fist and can pick off Pokemon low on HP or deal damage before Urshifu-R gets KOed. Taunt gives it a much better matchup into
+
+Amoonguss
+
+, shutting it down almost completely, and it prevents Calyrex-I from setting up Trick Room. Focus Sash gives it more survivability and helps with its relatively low Special Defense. Tera Water allows Urshifu-R to deal incredibly high damage with Surging Strikes, allowing for an OHKO against common threats such as
+
+Flutter Mane
+
+and Chien-Pao through Focus Sash. Tera Stellar lets it OHKO Terapagos-S with Close Combat but loses the consistency of Tera Water, since Urshifu-R can no longer use boosted Surging Strikes repeatedly.
+
+Urshifu-R works incredibly well in
+
+Calyrex-S
+
+teams, since it can threaten the Normal- and Dark-types that Calyrex-S struggles with, such as Terapagos and Incineroar. In exchange, Calyrex-S can deal with
+
+Raging Bolt
+
+, which is one of the most common checks to Urshifu-R, as Raging Bolt can use Thunderclap before Urshifu-R can move to bring it down to Focus Sash while also being able to switch-in on Surging Strikes. Urshifu-R synergizes well with
+
+Rillaboom
+
+and Incineroar, since Fake Out and Unseen Fist are a deadly combination, punishing passive plays such as Protect that try to avoid the flinching turn. Their typings also have incredible synergy with each other, allowing them to switch in on many attacks that Urshifu-R is threatened by. With its great physical bulk and natural type advantage, Rillaboom is a great check to it, slowing Urshifu-R down with Fake Out or doing high damage to it with Wood Hammer or Grassy Glide. Urshifu-R also struggles with Amoonguss, which is able to completely wall it while protecting its teammates with Rage Powder or putting it to sleep with Spore.
+
+Tornadus
+
+is a good partner for Urshifu-R, helping with its average Speed stat by setting up Tailwind, heavily increasing the damage Urshifu-R does while making the
+
+Koraidon
+
+matchup easier by using Rain Dance and threatening the Grass-types which could otherwise be problematic such as Amoonguss and Rillaboom with Bleakwind Storm. Koraidon and
+
+Miraidon
+
+are some of the Restricted Pokemon that have the best matchup into Urshifu-R, as Koraidon is able to set up sun and greatly reduce its damage, while Miraidon is able to outspeed it and bring it down to Focus Sash while also pivoting out with Volt Switch.
+
+Choice Scarf Urshifu-R is an excellent revenge killer and cleaner against many offensive Pokemon. The Choice Scarf lets Urshifu-R outspeed the dangerous
+
+Calyrex-S
+
+, meaning that the vast majority of offensive teams get naturally outsped and destroyed by its powerful Surging Strikes or Close Combat, and with Unseen Fist, these teams cannot even attempt to outplay it with Protect. U-turn lets Urshifu-R use the threat of its powerful attacks to pivot out, letting its team maintain momentum even when the opponent tries to switch around its attacks while also letting it 2HKO
+
+Ogerpon-W
+
+. Aqua Jet lets Urshifu-R bypass opposing speed control and priority moves when revenge killing an opposing threat, whereas Coaching makes partner
+
+Calyrex-I
+
+a significantly bigger threat. Tera Water powers up its Surging Strikes, letting it destroy foes like Calyrex-S. It also lets Urshifu-R shed its weaknesses to Psychic and Fairy, letting it potentially take attacks like
+
+Flutter Mane
+
+'s Dazzling Gleam and Calyrex-S's Psychic-type moves. This set maximizes both Urshifu-R's Attack and Speed to make it as fast and strong as possible, but an EV spread of 60 HP / 156 Atk / 20 Def / 20 SpD / 252 Spe with an Adamant nature can be also used to survive
+
+Rillaboom
+
+'s Grassy Glide and Mystic Water
+
+Kyogre
+
+'s Water Spout.
+
+Redirectors such as Rage Powder
+
+Amoonguss
+
+and Follow Me Ogerpon-W disrupt Urshifu-R very effectively, interfering with it attacking vulnerable targets. Rillaboom's Grassy Glide bypasses Urshifu-R's great Speed and threatens it with an OHKO.
+
+Miraidon
+
+and
+
+Raging Bolt
+
+both threaten Urshifu-R with their powerful Electro Drift and Thunderclap, respectively.
+
+Koraidon
+
+,
+
+Groudon
+
+, and even
+
+Tornadus
+
+can set up sun, weakening Surging Strikes so that Urshifu-R can be played around more easily. Additionally, a good way to subvert Urshifu-R's great Speed is with opposing speed control. Users include Tailwind Tornadus, Icy Wind Flutter Mane, and Trick Room Calyrex-I or
+
+Farigiraf
+
+. Urshifu-R's best partner is Tornadus, as it can support Urshifu-R with Tailwind to counter opposing speed control, Rain Dance to boost the power of Urshifu-R's Water-type STAB moves, and Bleakwind Storm to threaten opposing Grass-types like Rillaboom that would threaten Urshifu-R. It can also use Taunt to ensure that Amoonguss cannot use Spore or Rage Powder to disrupt Urshifu-R.
+
+Pelipper
+
+provides rain with its ability and has a STAB Flying-type attack in Hurricane to threaten Grass-types, and it can use Wide Guard to protect Urshifu-R from the variety of spread moves in the format, including Astral Barrage from Calyrex-S and Water Spout from Kyogre. It also can support Urshifu-R with Helping Hand. Amoonguss can handle Electric- and Grass-types that would threaten Urshifu-R by redirecting attacks away from it with Rage Powder. Urshifu-R forms a formidable pivoting core with Rillaboom and
+
+Incineroar
+
+, with the three spamming U-turn or Parting Shot to stay ahead of the opponent's switches, reactivate Fake Out, cycle Intimidate, and let Urshifu-R choose new moves to lock into. Incineroar helps take on opposing Rillaboom and Amoonguss for Urshifu-R, while Rillaboom deals with Kyogre and opposing Urshifu-R well and slows down Miraidon. Both of them can use Fake Out to prevent one of the opposing Pokemon from attacking, letting Urshifu-R attack the other without interference. Fake Out also often forces foes to use Protect, which Urshifu-R can attack through.
+
+Urshifu-R is an excellent offensive Pokemon that can threaten metagame staples such as
+
+Incineroar
+
+,
+
+Chien-Pao
+
+, and
+
+Terapagos
+
+thanks to its fantastic typing and STAB moves, enabled by Unseen Fist. Taunt is utilized to shut down supportive Pokemon and Trick Room setters such as
+
+Amoonguss
+
+and
+
+Farigiraf
+
+as well as prevent Pokemon like Calm Mind Terapagos and
+
+Raging Bolt
+
+from setting up. Aqua Jet is a great alternative to get around Raging Bolt's Thunderclap and pick off weakened foes, which is especially useful, as Urshifu-R ignores Protect. Urshifu-R may opt for Swords Dance to become a deadly sweeper, allowing it to OHKO
+
+Rillaboom
+
+and, after Intimidate, Terapagos-S with Close Combat. Mystic Water boosts Urshifu-R's STAB moves without drawback and allows it to OHKO Incineroar through Sitrus Berry. Safety Goggles lets Urshifu-R ignore Amoonguss's Spore and Rage Powder, which is significant, as Amoonguss resists Urshifu-R's STAB moves; this also provides opportunities for Urshifu-R to set up. The given EV spread enables Urshifu-R to almost always OHKO Chien-Pao with Surging Strikes, survive Rillaboom's Miracle Seed-boosted Grassy Glide and almost always survive Raging Bolt's Thunderclap, and outspeed
+
+Pelipper
+
+and -1 Modest
+
+Miraidon
+
+. Tera Poison is the best defensive Tera as it provides key resistances to
+
+Flutter Mane
+
+'s Moonblast and Rillaboom's Grassy Glide, as well as resisting Fighting-type moves from
+
+Zamazenta-C
+
+and opposing
+
+Urshifu
+
+. Tera Water still sheds Urshifu-R's weaknesses to Flutter Mane's Fairy-type STAB moves,
+
+Calyrex-S
+
+'s Psyshock, and Pelipper's Hurricane, and greatly boosts its damage output, allowing it to 2HKO
+
+Calyrex-I
+
+with Surging Strikes and OHKO
+
+Chi-Yu
+
+with Aqua Jet once Terastallized.
+
+Urshifu-R struggles against Rillaboom and Raging Bolt, which take its attacks exceptionally well and threaten it with strong priority STAB moves.
+
+Ogerpon-W
+
+is also an issue, as it can redirect Surging Strikes and is faster, allowing it to hit Urshifu-R for huge damage with Horn Leech. This makes
+
+Tornadus
+
+and Amoonguss great partners, as Tornadus can threaten the Grass-types, and Amoonguss can protect Urshifu-R from Raging Bolt with Rage Powder. Tornadus can also provide speed and weather control, making up for Urshifu-R's mediocre Speed tier and handling the otherwise problematic
+
+Koraidon
+
+, which can significantly weaken Urshifu-R with the sun it sets up. Taunt is another great tool that allows Tornadus to shut down Amoonguss for Urshifu-R. Urshifu-R can take on threats like Chien-Pao and Chi-Yu for the two in return. Alternatively, Rillaboom is an excellent pick, as it can pivot in Urshifu-R and threaten Ogerpon-W. Incineroar can pair with Urshifu-R and either Amoonguss or Rillaboom to create a fantastic pivot core, switching in on threats like Rillaboom. Rillaboom and Incineroar also bring Fake Out, which synergises with Unseen Fist. Urshifu-R is also a great asset to Calyrex-S, as it has the ability to remove Ghost-resistant foes like Incineroar and Terapagos.
+
+Set Details
+
+Urshifu-R is one of the format's top offensive threats, thanks to its high Attack and strong STAB moves. Unseen Fist allows Urshifu-R to circumvent foes' Protect, which reduces the number of defensive plays the opponent can go for if you can position Urshifu-R correctly. Urshifu-R has especially strong matchups against
+
+Incineroar
+
+,
+
+Chi-Yu
+
+,
+
+Chien-Pao
+
+, and
+
+Terapagos
+
+.
+
+U-turn allows Urshifu-R to reposition while dealing chip damage to threats such as
+
+Rillaboom
+
+. Aqua Jet allows Urshifu-R to pick off faster foes at low HP. Coaching can be used to boost the Attack and Defense of teammates, usually
+
+Calyrex-I
+
+. Rock Tomb is a more niche option that can be used for speed control, and it's especially appreciated by
+
+Calyrex-S
+
+in the mirror matchup.
+
+Urshifu-R's Choice Scarf allows it to outspeed most of the metagame, most importantly Calyrex-S, ensuring it can get strong attacks off. Choice Band is a more niche option to boost Urshifu-R's damage output further, allowing it to 2HKO Calyrex-I with Surging Strikes or Close Combat.
+
+The allocated bulk allows Urshifu-R to survive Incineroar's Fake Out into Calyrex-S's Astral Barrage, while the Attack investment allows Tera Water Choice Scarf Urshifu-R to OHKO most Calyrex-S.
+
+Tera Water boosts the damage of Surging Strikes, which allows Choice Scarf Urshifu-R to OHKO most Calyrex-S. It also removes Urshifu-R's weakness to Psychic- and Fairy-type attacks. Tera Ghost gives an immunity to Fake Out as well as
+
+Zamazenta-C
+
+'s Body Press and opposing
+
+Urshifu
+
+formes' Close Combat.
+
+Teambuilding
+
+Raging Bolt
+
+can OHKO Urshifu-R with its priority Thunderclap.
+
+Flutter Mane
+
+and
+
+Whimsicott
+
+also threaten to OHKO Urshifu-R with Moonblast, with the former outspeeding it and the latter resisting all its STAB attacks.
+
+Amoonguss
+
+can safely redirect all of Urshifu-R's attacks and potentially deal damage back with Rocky Helmet.
+
+Koraidon
+
+'s sun weakens the damage of Surging Strikes, while Life Orb Close Combat will OHKO Urshifu-R. Choice Specs
+
+Miraidon
+
+OHKOes Urshifu-R with any of its attacks.
+
+Rillaboom and Incineroar's pivot moves allow Choice Scarf Urshifu-R to get in position safely. Strong speed control options such as
+
+Tornadus
+
+'s Prankster Tailwind and
+
+Lunala
+
+'s Trick Room can ensure Choice Band Urshifu-R is always moving first.
+
+Tornadus's Bleakwind Storm and Chien-Pao's Icicle Crash threaten the Grass-types that are strong against Urshifu-R as well as Miraidon and Raging Bolt.
+
+Kyogre
+
+and
+
+Pelipper
+
+set the rain to power up Urshifu's Surging Strikes as well as overriding Koraidon's sun. Calyrex-I benefits from Urshifu-R's Coaching, which allows Calyrex-I to better take on Koraidon and
+
+Groudon
+
+.
+
+Set Details
+
+Urshifu-R serves as an offensive threat within the metagame, being able to raise the offensive pressure of the battle with its Unseen Fist ability deterring Protect while hitting hard with powerful STAB moves. It has a good matchup against
+
+Incineroar
+
+, as Surging Strikes does not get slowed down by Intimidate, as well as
+
+Flutter Mane
+
+, as Focus Sash allows Surging Strikes to reliably KO it.
+
+Aqua Jet is a reliable priority move for finishing off low HP targets. Taunt cripples the supportive capabilities of Pokemon such as
+
+Amoonguss
+
+,
+
+Indeedee-F
+
+, and
+
+Grimmsnarl
+
+, as well as blocking
+
+Calyrex-I
+
+and
+
+Farigiraf
+
+from setting Trick Room up.
+
+Focus Sash allows Urshifu-R to retaliate against certain Pokemon that would normally outspeed and OHKO it before Urshifu-R could attack, such as
+
+Calyrex-S
+
+and Flutter Mane.
+
+Tera Stellar provides Urshifu-R offensive variety because it boosts Close Combat, allowing it to OHKO non-Defense Protosynthesis
+
+Brute Bonnet
+
+. However, since the boost is only provided one time to each attack, Tera Water could be preferred, as it consistently boosts the damage output of Surging Strikes, allowing it to OHKO
+
+Ursaluna
+
+,
+
+Chien-Pao
+
+,
+
+Ogerpon-C
+
+, and Calyrex-S after Life Orb chip damage while also removing its Psychic, Flying, and Fairy weaknesses to give it some survivability if Focus Sash is broken.
+
+Teambuilding
+
+Urshifu-R heavily struggles against
+
+Raging Bolt
+
+and
+
+Rillaboom
+
+, which easily threaten it with Thunderclap and Grassy Glide, respectively, and resist Surging Strikes. Amoonguss and Indeedee-F can disrupt Urshifu-R from attacking ideal targets via redirection and potentially break Urshifu-R's Focus Sash if they hold a Rocky Helmet. Indeedee-F's Psychic is able to KO Urshifu-R if Focus Sash is broken; Amoonguss notably takes pitiful damage, as it resists both of Urshifu-R's STAB moves, allowing it to easily put Urshifu-R to sleep with Spore.
+
+Koraidon
+
+and
+
+Miraidon
+
+both outspeed and threaten Urshifu-R while resisting Surging Strikes. On top of this, Koraidon's sun reduces Surging Strikes's damage output, and Miraidon can pivot with Volt Switch while breaking Focus Sash easily.
+
+Urshifu-R heavily appreciates Calyrex-I, which threatens Rillaboom, Amoonguss, Koraidon, Miraidon, and Raging Bolt with Glacial Lance, while Urshifu-R can, in return, threaten Dark-types such as Incineroar,
+
+Chi-Yu
+
+, and Chien-Pao that threaten Calyrex-I. Calyrex-I's Trick Room allows Urshifu-R to stay ahead of opposing Pokemon that would otherwise outspeed it, such as the aforementioned Miraidon and Koraidon.
+
+Tornadus
+
+threatens the Grass-types such as Rillaboom and Amoonguss that annoy Urshifu-R and can Taunt the Amoonguss, preventing it from disrupting Urshifu-R. Tornadus can also remove Koraidon's sun with Rain Dance, decreasing Koraidon's damage output while increasing that of Urshifu-R's Water-type attacks. Tornadus's Bleakwind Storm paired with Urshifu-R's Surging Strikes forces Koraidon to take super effective damage whether it Terastallizes or not.
+
+Urshifu-R complements Miraidon and
+
+Lunala
+
+compositions as a reliable attacker that counters Incineroar, a problematic threat to these compositions. Meanwhile, Urshifu-R's coverage against Dark-types also benefits Lunala; in exchange, Lunala's Moongeist Beam is threatening to Ghost-types like opposing Lunala. Miraidon's Draco Meteor can quickly remove the Dragon-types such as Raging Bolt and Koraidon that resists Urshifu-R's Surging Strikes.
+
+Rillaboom and Incineroar work well with Urshifu-R, as Fake Out and pivoting moves create opportunities for Urshifu-R to safety switch in without breaking Focus Sash, and their typing allows them to tank moves that Urshifu-R would be threatened by, such as Wood Hammer from Rillaboom, Psychic from Calyrex-S, and Electro Drift from Miraidon. Incineroar also threatens sizable damage towards Psychic-types like Indeedee-F and Lunala with Knock Off. Rillaboom helps reduce Miraidon's damage output by removing Electric Terrain while also being able to threaten Fake Out.
+
+Set Details
+
+Mystic Water Urshifu-R is a highly versatile and offensive Pokemon that performs well against foes like
+
+Terapagos
+
+,
+
+Incineroar
+
+, and
+
+Chien-Pao
+
+by threatening them all with Surging Strikes and Close Combat.
+
+Taunt prevents Trick Room from foes like
+
+Calyrex-I
+
+and
+
+Lunala
+
+, setup from
+
+Volcarona
+
+and Terapagos, and moves like Rage Powder and Spore from Pokemon like Volcarona and
+
+Amoonguss
+
+. Aqua Jet is also a great option to finish off weakened foes and deal chip damage before Urshifu-R faints.
+
+Mystic Water gives Urshifu-R the ability to OHKO Pokemon it otherwise could not, such as Chien-Pao, Incineroar, and bulky
+
+Flutter Mane
+
+with Surging Strikes.
+
+The EV spread lets it take Life Orb-boosted Astral Barrage from
+
+Calyrex-S
+
+, Life Orb-boosted Earth Power from
+
+Landorus
+
+, Horn Leech from
+
+Ogerpon-C
+
+, Sword of Ruin-boosted Body Press from
+
+Zamazenta-C
+
+, and Sword of Ruin-boosted Grassy Glide from
+
+Rillaboom
+
+. The Speed EVs let it outpace Pokemon like Miradon and Chien-Pao after a Speed drop.
+
+Tera Water functions as both an offensive and defensive Tera type by removing its Psychic, Fairy, and Flying weaknesses while also boosting its Water-type moves to let Urshifu-R OHKO Calyrex-S and most
+
+Grimmsnarl
+
+with Surging Strikes as well as
+
+Chi-Yu
+
+with Aqua Jet.
+
+Teambuilding
+
+Urshifu-R struggles against Restricted Pokemon like
+
+Koraidon
+
+, which weakens Surging Strikes by setting sun. It also has a hard time versus
+
+Miraidon
+
+, which can outspeed and threaten an OHKO with Volt Switch or Electro Drift.
+
+Non-Restricted Pokemon that can take Urshifu-R's attacks like
+
+Iron Hands
+
+,
+
+Raging Bolt
+
+, and Rillaboom, which also threaten Urshifu-R before and after Terastallization, are very effective against it as well. Amoonguss can redirect and easily survive Urshifu-R's attacks and punish Surging Strikes if Amoonguss is holding a Rocky Helmet.
+
+Ogerpon-H
+
+and -C pose an offensive threat to Urshifu-R with potential OHKOs using Wood Hammer or Power Whip.
+
+Urshifu-R heavily benefits from Tailwind, making setters like
+
+Whimsicott
+
+and
+
+Tornadus
+
+great partners. Tornadus also provides Rain Dance to boost its Water-type attacks significantly, while Whimsicott can provide Light Screen support, which lets Urshifu-R survive attacks such as a Protosynthesis-boosted Thunderclap from Raging Bolt and Flutter Mane's Moonblast.
+
+Miraidon is a strong Restricted partner for Urshifu-R, as it prevents Spore from Amoonguss and can threaten Water- and Dragon-type foes that Urshifu-R struggles to damage, like Koraidon and opposing Urshifu-R. Urshifu-R also supports Miraidon by helping against Ground-types like
+
+Ursaluna
+
+and Landorus.
+
+Calyrex-I and Lunala are also strong Restricted partners for Urshifu-R because they can set Trick Room to provide another form of speed control. Calyrex-I also helps cover Miraidon by threatening it with powerful Ground- and Ghost-type coverage, while Urshifu-R supports them by checking Incineroar.
+
+Kyogre
+
+benefits Urshifu-R by setting rain, increasing the power of its Water-type moves.
+
+Chien-Pao boosts Urshifu-R’s attacks with Sword of Ruin, allowing it to OHKO Ogerpon-H with Surging Strikes while also threatening Miraidon, Raging Bolt, and Rillaboom with Ice Spinner or Icicle Crash.
+
+Balance staples like Rillaboom and Incineroar also support Urshifu-R, as they can pivot into attacks Urshifu-R would rather avoid and provide Fake Out pressure that synergizes well with Unseen Fist.
+
+Draft Order
+
+: Round 3 and beyond
+
+Price Range
+
+: 14-15 points
+
+Overview
+
+: Urshifu-R makes a mark in Draft due to its excellent offensive wallbreaking and sweeping capabilities, especially when made a Tera Captain. With a strong dual typing in addition to a high Attack stat, Urshifu-R can be incredibly difficult to check defensively. This is only made more difficult by the common use of Tera, setup options, and damage boosting items which all allow Urshifu-R to force significant progress each time it switches in and potentially sweep games. Despite these strengths, a mediocre Speed stat, subpar special bulk, and being severely hindered by anti-contact move measures all cause it to not be picked until round 3 or later.
+
+Common Roles
+
+Wallbreaker
+
+: Urshifu-R can use its overwhelming raw power due to an excellent Attack stat and powerful STAB attacks, to weaken or immediately KO a vast majority of the metagame. Due to its mediocre Speed for an offensive Pokemon, Urshifu-R is often at its best when its job is to come in safely and provide immediate damage.
+
+Setup Sweeper
+
+: Setup variations of Urshifu-R use its access to Attack-boosting moves such as Swords Dance and Bulk Up, for easier KOs and can also use Trailblaze to boost its mediocre Speed, making Urshifu-R less easy to revenge kill. With good timing, these sets turn Urshifu-R into an incredibly potent win condition.
+
+Common Moves
+
+Primary STAB Moves
+
+: Surging Strikes, Close Combat, Low Kick, Drain Punch, Aqua Jet
+
+Setup Moves
+
+: Swords Dance, Trailblaze, Bulk Up
+
+Utility Moves
+
+: U-turn, Taunt, Substitute, Brick Break
+
+Coverage
+
+: Ice Spinner, Poison Jab, Iron Head, Thunder Punch, Stone Edge, Zen Headbutt, Fire Punch
+
+Niche Moves
+
+Acrobatics
+
+: Acrobatics may be used on sets featuring a consumable item to provide stronger coverage against certain Pokemon such as Grass-types.
+
+Common Items
+
+Protective Pads / Punching Glove
+
+: These items are used to allow Urshifu-R to safely utilize its plethora of contact moves without being punished by Rocky Helmet or abilities such as Static and Flame Body. If Urshifu-R plans on only using punching moves, then the damage boost from Punching Glove is appreciated; otherwise, Protective Pads are optimal.
+
+Choice Scarf
+
+: Choice Scarf is used for Urshifu-R to overcome its middling Speed stat, allowing it to fire off additional attacks and function more effectively as a fast pivot.
+
+Choice Band
+
+: Choice Band is a commonly used item to further reduce the list of Pokemon that may switch into Urshifu-R while also allowing it to wallbreak with increased ease.
+
+Mystic Water / Black Belt
+
+: This item may be used to hit certain damage thresholds without locking Urshifu-R into one move.
+
+Niche Items
+
+Leftovers
+
+: Leftovers may find use on bulkier setup oriented sets that use moves such as Substitute and Bulk Up, to increase Urshifu-R's longevity.
+
+Lum Berry
+
+: Lum Berry can be used when facing teams that easily spread burn and paralysis, allowing Urshifu-R to maintain effectiveness. It also can be used to set up on a status move with an element of surprise and increased safety.
+
+Resistance Berries
+
+: These Berries will be useful in situations where you anticipate needing Urshifu-R to live a super effective hit to set up. These also pair well with sets that use Acrobatics, as consumption will bring Acrobatics to full power.
+
+Mental Herb
+
+: Mental Herb will be occasionally found on setup sets, allowing Urshifu-R to shrug off Taunt or Encore from a foe in an attempt to prevent it from setting up.
+
+Clear Amulet
+
+: Clear Amulet can be effective when facing a handful of Intimidate Pokemon that resist Surging Strikes.
+
+Tera
+
+Urshifu-R is a great user of Tera and should primarily be drafted to make it a Tera Captain. Urshifu-R is one the premier users to choose same-type Tera in order to enable its wallbreaking capabilities even further. Some common offensive options include using Tera Electric to break bulkier Water-types and avoid paralysis, Tera Ice to break certain Grass- and Flying-types, and Tera Poison or Steel to break certain Fairy-types. On bulkier setup variants, defensive options such as Tera Fairy, Dragon, and Steel, may be used to provide extra turns to set up and sweep.
+
+Draft Strategy
+
+Although this may not be the premier Pokemon you build your team around, Tera Urshifu-R can be a very overwhelming threat if positioned well. This Pokemon can cover your wallbreaking needs excellently, allowing your late-game cleaners to thrive, and can also make for a fantastic setup wincon. That being said, Urshifu-R has its share of flaws that cause it to be a middle-round pick and need to be covered for.
+
+Knock Off Support
+
+: Urshifu-R is a huge benefactor of teammates that can repeatedly remove items from foes. Removing Rocky Helmet from Pokemon on the opposing team can open up Urshifu-R to have far more item flexibility and use Choice Band or Choice Scarf with minimized risk.
+
+Tornadus-T
+
+,
+
+Meowscarada
+
+, and
+
+Iron Treads
+
+can all accomplish this effectively.
+
+Late-game Cleaners
+
+: Being a premier wallbreaker, Urshifu-R is excellent at weakening the opposing defensive backbones, allowing your other Pokemon to clean up games. Early-round options, such as
+
+Darkrai
+
+and
+
+Latios
+
+, fill this role impeccably as Urshifu-R breaks through many of their respective checks.
+
+Reliable Pivots
+
+: Due to its lackluster Special Defence and mediocre Speed, Urshifu-R appreciates reliable pivoting to bring it onto the field safely and in favorable positions. Pokemon such as Tornadus-T,
+
+Zapdos
+
+, and Meowscarada can reliably bring Urshifu-R on the field in a position to wallbreak.
+
+Additonal Wallbreaking
+
+: While slightly overlapping with the role of Urshifu-R, another wallbreaker can be very supplemental to its success. On non-setup sets, Urshifu-R appreciates complementary wallbreakers that can threaten its checks and take advantage of Urshifu-R’s pivoting with U-turn. Pokemon such as Latios,
+
+Iron Moth
+
+, and
+
+Raging Bolt
+
+fit this role and are appreciated if you wish for setup Urshifu-R to be a primary wincon on your draft.
+
+Checks and Counters
+
+Faster Offensive Threats
+
+: Although incredibly strong and able to boost its Speed, Urshifu-R starts out with a mediocre Speed stat. Faster offensive threats with type advantages such as Tornadus-T,
+
+Iron Valiant
+
+, and
+
+Enamorus
+
+can force out Urshifu-R.
+
+Bulky Physical Walls
+
+: While Urshifu-R is very difficult to check, there are a number of Pokemon that have the bulk and resistances that allow them to check Urshifu-R. Pokemon such as
+
+Scream Tail
+
+,
+
+Toxapex
+
+, and
+
+Latias
+
+are examples. This can be circumvented by pivoting with U-turn, setting up, and having the right coverage move options.
+
+Rocky Helmet
+
+: While having strong physical STAB moves is Urshifu-R’s blessing, it can also be a curse. Having a multi-hit contact move as its most prolific attack can be easily punished by the aforementioned physical walls equipping a Rocky Helmet. This can be avoided by using Protective Pads or Punching Glove to prevent contact.
+
+Urshifu-R is a decent Choice Scarf user in Ubers UU due to its excellent signature move, pivoting in U-turn, priority in Aqua Jet, and solid offensive typing. Surging Strikes's guaranteed critical hit chance allows Urshifu-R to break through Defense-boosting sweepers like Cosmic Power
+
+Arceus
+
+formes and
+
+Zamazenta-C
+
+. Aqua Jet allows Urshifu-R to pick off weakened foes that have a Speed boost, like
+
+Ogerpon-H
+
+and
+
+Sneasler
+
+. U-turn allows Urshifu-R to pivot, racking up important chip damage on Pokemon like
+
+Zacian
+
+and
+
+Mewtwo
+
+while generating momentum. Tera Water allows Urshifu-R to power up Surging Strikes and Aqua Jet, notably allowing it to OHKO Mewtwo and Ogerpon-H after Stealth Rock damage; Tera Water also removes its Fairy- and Psychic-type weaknesses, helping against Zacian and Mewtwo. Pokemon like Calm Mind Arceus formes and Zamazenta-C appreciate Urshifu-R taking out faster threats like
+
+Deoxys
+
+, Mewtwo, and
+
+Spectrier
+
+. Urshifu-R struggles to break through Pokemon that resists its STAB moves like
+
+Palkia-O
+
+and
+
+Giratina
+
+, so the support of
+
+Dragapult
+
+and Choice Scarf
+
+Kyurem-W
+
+is greatly appreciated. Urshifu-R can also form pivoting cores with Pokemon like
+
+Landorus-T
+
+and Sneasler, allowing them to pick up on the momentum Urshifu-R generates.
+
+Thanks to its impressive stats and splendid movepool, Urshifu-R is one of the best physical attackers of the metagame, capable of fulfilling both wallbreaking and sweeping roles; its access to Swords Dance alongside two solid Mega Stone options grants it flexibility to adjust its set to best fit the team's needs. Close Combat hits foes like
+
+Arceus
+
+,
+
+Arceus-Water
+
+, and
+
+Kingambit
+
+. Ice Spinner hits Dragon-types like
+
+Dragonite
+
+and
+
+Eternatus
+
+. U-turn makes Urshifu-R an excellent pivot and helps it escape bad matchups such as
+
+Pecharunt
+
+and
+
+Arceus-Fairy
+
+. Swords Dance can be considered over Close Combat or U-turn to turn it into a dangerous cleaner and potentially even break past physical walls like Pecharunt and Eternatus, though it has its drawbacks. Dropping Close Combat makes it weak to Arceus-Water, whereas dropping U-turn means that it can no longer generate momentum for the team. Metagrossite should be used with a Jolly nature to allow Urshifu-R to outspeed foes such as fast variants of Eternatus and Arceus formes, while Aerodactylite with an Adamant nature is a slower but more powerful alternative, achieving feats like 2HKOing Arceus-Fairy with minor chip damage. Urshifu-R synergizes extremely well with offensive staples such as
+
+Raging Bolt
+
+and Kingambit; Raging Bolt, in particular, is a standout partner, forming a formidable VoltTurn wallbreaker duo with it. Entry hazard setters such as
+
+Magearna
+
+, Hearthflame Mask
+
+Great Tusk
+
+, and
+
+Garganacl
+
+are amazing partners, aiding Urshifu-R in maintaining crushing offensive pressure against the opposing team. Urshifu-R also appreciates entry hazard removers such as
+
+Regieleki
+
+, non-Hearthflame Mask Great Tusk, and
+
+Corviknight
+
+as teammates, as they help it maximize its impact by removing hazards and keeping it healthy throughout the game.
+
+Surging Strikes deals with
+
+Landorus-T
+
+,
+
+Skeledirge
+
+, and
+
+Volcarona
+
+.
+
+Close Combat targets Assault Vest
+
+Urshifu-S
+
+, non-Choice Scarf
+
+Porygon-Z
+
+, non-Choice Scarf
+
+Kyurem
+
+, and
+
+Registeel
+
+.
+
+Iron Head is for non-Life Orb
+
+Alolan Ninetales
+
+, since Urshifu-R can get past Encore + Disable variants by ignoring Protect.
+
+Poison Jab is for
+
+Whimsicott
+
+and non-bulky
+
+Primarina
+
+.
+
+Thunder Punch 2HKOes opposing Urshifu-R without having to drop Urshifu-R's Defense with Close Combat.
+
+Against
+
+Ursaluna
+
+and
+
+Ursaluna-B
+
+, Surging Strikes is the best option, since both can carry Chople Berry.
+
+Since Urshifu-R struggles against Psychic- and Fairy-type Pokemon like
+
+Metagross
+
+,
+
+Iron Crown
+
+, and
+
+Iron Valiant
+
+, Pokemon such as
+
+Meowscarada
+
+,
+
+Volcanion
+
+, and Volcarona make for good teammates.
+
+The IronPress combination allows Urshifu-R to wall Pokemon it otherwise wouldn't be able to handle, like
+
+Metagross
+
+, while also dealing with common physical stalwarts like
+
+Ursaluna
+
+and
+
+Registeel
+
+.
+
+Surging Strikes hits
+
+Volcarona
+
+,
+
+Landorus-T
+
+, and
+
+Rhyperior
+
+.
+
+Taunt can be used to prevent foes like Registeel and non-Brave Bird
+
+Corviknight
+
+from setting up or using recovery moves.
+
+Sitrus Berry allows Urshifu-R to usually survive two Psychic Fangs from Choice Band Metagross after an Iron Defense boost so it can respond with two +2 Body Press in return.
+
+Urshifu-R can struggle with Grass- and Electric-type Pokemon like
+
+Ogerpon-W
+
+and
+
+Zapdos
+
+, and as a result, partners like
+
+Raging Bolt
+
+are recommended.
+
+Urshifu-R can struggle against special attackers like
+
+Spectrier
+
+and
+
+Porygon-Z
+
+due to its poor Special Defense, so Pokemon like
+
+Hisuian Goodra
+
+and Assault Vest Ursaluna can make for good partners.
+
+Choice Scarf Urshifu-R is a good late-game cleaner and revenge killer due to its ability to threaten defensive Pokemon like
+
+Heatran
+
+,
+
+Gliscor
+
+,
+
+Great Tusk
+
+,
+
+Landorus-T
+
+, and
+
+Ferrothorn
+
+with its powerful STAB moves. It also sports a great Speed stat, allowing it to outspeed the majority of the unboosted metagame, including
+
+Mega Lopunny
+
+and
+
+Zamazenta
+
+. Surging Strikes's guaranteed critical hit chance means Urshifu-R ignores the Attack drop from Landorus-T's Intimidate and the Defense boost from Zamazenta's Dauntless Shield. U-turn helps Urshifu-R to keep up momentum throughout the course of a game, and also take advantage of defensive switch-ins like
+
+Toxapex
+
+and
+
+Alomomola
+
+for its teammates to set up on. Aqua Jet allows Urshifu-R to pick up KOs on Pokemon that are at low HP but outspeed it, like Speed Booster Energy
+
+Iron Valiant
+
+and Unburden
+
+Hawlucha
+
+. Ice Spinner is a great tool in assuring high damage on important targets like
+
+Dragonite
+
+and
+
+Mega Latios
+
+.
+
+Urshifu-R is a great choice on more balance-oriented teams as the speed control option, and it loves the company of teammates like Landorus-T, which helps Urshifu-R by setting up Stealth Rock and forming a good pivoting core with it.
+
+Mega Diancie
+
+is great at helping Urshifu-R deal with bulky Dragon-types like Dragonite and
+
+Kyurem
+
+, and it can take a Choice Specs Moonblast from Iron Valiant and KO it back; it can also set up entry hazards. While Landorus-T only has the option of setting up Stealth Rock, Gliscor can choose to be a Spikes setter helping to cut into the health of the bulky Water-types that wall Urshifu-R even further. Urshifu-R has the ability to break most Steel-types, most notably Ferrothorn, so it can pave the way for Steel-weak Pokemon like
+
+Tapu Lele
+
+; in return, Tapu Lele is able to help Urshifu-R with most Dragon-types, most notably Dragonite, which it struggles to hit if it is not running Ice Spinner. One of the biggest Urshifu-R checks is Iron Valiant, which can take all of its attacks and KO it back with Moonblast.
+
+Mega Scizor
+
+can safely switch into Iron Valiant's moves and threaten high damage with Bullet Punch. Urshifu-R's powerful Close Combat neutralizes Dark-types such as
+
+Kingambit
+
+and
+
+Mega Tyranitar
+
+, which paves the way for teammates like Mega Latios and
+
+Mega Latias
+
+. Their strong special STAB moves are also a boon for Urshifu-R, as they can take advantage of bulky Water-types like Alomomola and Toxapex, which otherwise wall it. Electric-types like
+
+Raging Bolt
+
+and
+
+Tapu Koko
+
+are also great in this regard, with Urshifu-R being able to help with Ground-types like
+
+Iron Treads
+
+and Gliscor in return. Urshifu-R is heavily hindered by abilities and items that punish it for making contact, most notably Static from
+
+Zapdos
+
+and Flame Body from
+
+Moltres
+
+, as they are able to switch into Urshifu-R's Close Combat and U-turn and punish it via status conditions. Bulkier
+
+Gholdengo
+
+sets are also a big Urshifu-R deterrent, as it can tank both of its STAB moves and hit back hard with Shadow Ball or ruin it with Thunder Wave. Thus, Urshifu-R appreciates the presence of Pokemon like Mega Tyranitar and Kingambit, as they can Pursuit trap Gholdengo, with Mega Tyranitar also being able to safely get rid of Zapdos and Moltres.
+
+Swords Dance Urshifu-R functions as an amazing late-game cleaner due to its ability to boost its Speed with Trailblaze and its Attack with Swords Dance. Trailblaze allows Urshifu-R to outspeed the majority of the tier, including common Pokemon such as
+
+Mega Lopunny
+
+and even Choice Scarf users such as
+
+Tapu Lele
+
+and
+
+Landorus-T
+
+; it is best used to finish off low HP foes as a way to safely boost Speed. Aqua Jet is also an option in order to revenge kill
+
+Mega Diancie
+
+,
+
+Volcarona
+
+, and
+
+Tapu Koko
+
+at low HP. Protective Pads is used in order to ignore Static from
+
+Zapdos
+
+, Flame Body from
+
+Moltres
+
+and Volcarona, and contact damage from
+
+Ferrothorn
+
+, allowing it to break more freely.
+
+Urshifu-R fits primarily on hyper offense and bulky offense teams, where its strong STAB moves coupled with Swords Dance allow it to shred through defensive structures with ease. Urshifu-R is able to break through defensive pieces such as Landorus-T,
+
+Great Tusk
+
+, and
+
+Gliscor
+
+with its strong Surging Strikes, which is appreciated by teammates such as
+
+Gholdengo
+
+and
+
+Kingambit
+
+. In return, Gholdengo can beat problems such as
+
+Toxapex
+
+and
+
+Iron Valiant
+
+, and Kingambit can put pressure on switch-ins such as
+
+Slowbro
+
+. Urshifu-R is also able to threaten Steel-types such as Kingambit and
+
+Melmetal
+
+with its STAB boosted Close Combat, allowing teammates such as Tapu Lele to break through teams more easily. In return, Tapu Lele breaks through Toxapex and
+
+Mega Venusaur
+
+for Urshifu-R. Urshifu-R finds itself weak to Grass-types such as
+
+Ogerpon-W
+
+and
+
+Kartana
+
+, both of which outspeed unboosted Urshifu-R, meaning switch-ins such as
+
+Raging Bolt
+
+and Ferrothorn are appreciated. As well as this, Ferrothorn can set Stealth Rock for Urshifu-R, chipping switch-ins such as non Heavy-Duty Boots
+
+Dragonite
+
+and Raging Bolt. Urshifu-R also has trouble setting up against opposing offense and can easily be revenge killed by Pokemon such as Iron Valiant and Choice Scarf Tapu Lele before setting up, meaning switch-ins such as Gholdengo and
+
+Galarian Slowking
+
+are appreciated, with the latter also being able to bring Urshifu-R in safely via Chilly Reception.
+
+Choice Band Urshifu-R acts as a formidable wallbreaker, boasting a high Attack stat, an excellent offensive typing, and a great combination of coverage moves to break through weakened teams. Thanks to its typing, Urshifu-R can effectively break down defensive Pokemon like
+
+Ting-Lu
+
+,
+
+Garganacl
+
+, and
+
+Ferrothorn
+
+. Urshifu-R generates momentum with U-turn, pivoting out of unfavorable matchups like
+
+Toxapex
+
+while dealing considerable chip damage to foes like
+
+Ogerpon-W
+
+and
+
+Rillaboom
+
+. Aqua Jet revenge kills weakened faster threats like
+
+Volcarona
+
+,
+
+Iron Moth
+
+,
+
+Tapu Koko
+
+, and
+
+Iron Valiant
+
+. Alternatively, Urshifu-R can use Ice Spinner to threaten Pokemon, which resist both its STAB moves, like
+
+Dragonite
+
+and
+
+Mega Latias
+
+, while Thunder Punch targets bulky Water-types, such as Toxapex and
+
+Alomomola
+
+.
+
+Urshifu-R's wallbreaking ability and pivoting are appreciated by offensive and balanced teams. Iron Valiant and
+
+Tapu Lele
+
+form a great offensive core with Urshifu-R, as they benefit from Urshifu-R's ability to remove their checks like Ferrothorn and
+
+Moltres
+
+. In return, Iron Valiant and Tapu Lele can deal with troublesome foes like
+
+Raging Bolt
+
+. Volcarona appreciates Urshifu-R's ability to deal with the likes of
+
+Heatran
+
+and Ting-Lu while easily pivoting into Grass-types such as Rillaboom. Pokemon like Tapu Koko and
+
+Landorus-T
+
+form a solid pivoting core, bringing each other in on their checks. Urshifu-R comes in against foes like Ferrothorn and
+
+Melmetal
+
+while Tapu Koko and Landorus-T come in against switch-ins like Toxapex and Raging Bolt. Entry hazard setters, such as Landorus-T and Ferrothorn, are great partners for Urshifu-R, as it benefits from Stealth Rock and Spikes wearing down switch-ins like Ogerpon-W late-game. Ferrothorn also switches into Tapu Koko and Iron Valiant, which would revenge kill Urshifu-R with ease.
+
+Choice Band Urshifu-R is a strong wallbreaker on Water teams, taking on bulky foes like
+
+Ferrothorn
+
+,
+
+Archaludon
+
+,
+
+Kyurem
+
+, and
+
+Mandibuzz
+
+. Aqua Jet is a strong priority option to pick off faster albeit weakened sweepers and cleaners such as
+
+Ceruledge
+
+and
+
+Sneasler
+
+. Thunder Punch targets Water- and Flying-types like
+
+Toxapex
+
+,
+
+Pelipper
+
+, and
+
+Mantine
+
+, while Ice Spinner handles Dragon- and Ground-types such as
+
+Dragonite
+
+and
+
+Clodsire
+
+. However, Aqua Jet is preferred, since it stops opposing sweepers and cleaners in their tracks to enable its teammates to sweep or clean late-game. U-turn allows Urshifu-R to pivot out of unfavorable matchups, such as against Mantine and Dragonite, and bring a teammate in to deal with them. Pelipper is not only neutral to Grass, but it also sets up rain to boost Urshifu-R's Water-type STAB attacks, turning it into a potential late-game cleaner with rain-boosted Aqua Jet. It notably has a good chance of OHKOing
+
+Alolan Raichu
+
+with Aqua Jet under rain, and rain further makes Surging Strikes harder to switch into. Additionally, Pelipper removes entry hazards with Defog and pivots it in safely with U-turn. Swift Swim users such as
+
+Mega Swampert
+
+and
+
+Barraskewda
+
+thus make for great teammates as well, as they appreciate Urshifu-R's wallbreaking so they can clean late-game. Mega Swampert also provides an Electric immunity to deal with the likes of
+
+Tapu Koko
+
+,
+
+Regieleki
+
+, and
+
+Zeraora
+
+. Toxapex and
+
+Empoleon
+
+are great defensive partners due to their part-Poison and part-Steel typings, respectively, that allow them to take on Fairy-types such as
+
+Mega Diancie
+
+and
+
+Alolan Ninetales
+
+, which Urshifu-R dislikes. Additionally, they can stack entry hazards with Toxic Spikes and Stealth Rock, respectively, to aid Urshifu-R in wallbreaking, and Toxapex also removes boosts from setup sweepers with Haze.
+
+Greninja
+
+forms a strong wallbreaking duo with Urshifu-R, with it taking on the likes of
+
+Sinistcha
+
+, the
+
+Ogerpon
+
+formes, and non-Choice Scarf
+
+Iron Valiant
+
+for Urshifu-R, while it appreciates the removal of Ferrothorn and Empoleon in return.
+
+Ogerpon-W
+
+eases the Ground matchup thanks to its resistance, handling the
+
+Landorus
+
+formes and
+
+Garchomp
+
+in the process.

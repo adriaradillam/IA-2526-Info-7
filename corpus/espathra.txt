@@ -1,0 +1,847 @@
+Espathra's niche is sweeping with its unique combination of Calm Mind, Speed Boost, and STAB Stored Power.
+
+Dazzling Gleam super effectively hits Dark-types, which are immune to Stored Power, like
+
+Chien-Pao
+
+,
+
+Ting-Lu
+
+, and
+
+Grimmsnarl
+
+.
+
+Substitute protects Espathra from potential status conditions that might stop its sweep, like from
+
+Clodsire
+
+'s Toxic.
+
+Protect, instead, allows Espathra to scout Choice-locked foes, such as Choice Specs
+
+Miraidon
+
+. In addition, Protect lets Espathra freely boost its Speed and get Leftovers recovery.
+
+Roost keeps Espathra healthy and makes it less susceptible to priority attacks, like Chien-Pao and
+
+Kingambit
+
+'s Sucker Punch. Roost also allows Espathra to beat Ting-Lu not packing Whirlwind one-on-one.
+
+Tera Fairy turns Espathra's Dark weakness into a resistance, letting it survive the aforementioned Sucker Punch, as well as bolstering its Dazzling Gleam.
+
+Tera Fighting also turns Espathra's Dark weakness into a resistance. Paired with Tera Blast, it beats the aforementioned Dark-types, Kingambit and Chien-Pao, and Steel-types like
+
+Iron Treads
+
+.
+
+112 EVs in Speed allow Espathra to outspeed the entire unboosted metagame at +1, including
+
+Iron Bundle
+
+. At +2, it can even outspeed +1
+
+Iron Valiant
+
+.
+
+The rest of its EVs are poured into physical bulk for survivability, since Calm Mind will boost Special Defense anyway. Electric Seed further improves Espathra's physical bulk while also giving it another boost to Stored Power. Leftovers gives Espathra long-term recovery, and it can be optimized with Calm Mind and the choice of Substitute, Protect, or Roost.
+
+Espathra functions best on offensive teams to sweep after its checks have been weakened. Espathra is very frail and it usually can't switch in safely more than once, so it must fully commit to a sweep once it hits the field.
+
+Fighting-types like
+
+Koraidon
+
+and
+
+Great Tusk
+
+make for good partners, as they threaten Dark- and Steel-types that resist or are immune to Espathra's Stored Power.
+
+Strong Dark-types like Chien-Pao and
+
+Chi-Yu
+
+resist Dark- and Ghost-type attacks, which target Espathra, while also threatening Ghost- and Psychic-types. The former threaten Espathra, and the latter resist Stored Power.
+
+Miraidon is a necessary partner if Espathra is holding Electric Seed, as Electric Terrain activates the item.
+
+This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023.
+
+For more information on this format and its current events, check out the format page!
+
+If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.
+
+With Calm Mind and Speed Boost rapidly increasing Stored Power's damage output, Espathra is a dangerous wincon against bulkier teams, as it even overwhelms Unaware foes.
+
+Tera Blast versus Dazzling Gleam
+
+: Dazzling Gleam provides coverage against Dark-types such as
+
+Chien-Pao
+
+and
+
+Roaring Moon
+
+without having to Terastallize. However, Tera Blast provides more flexible coverage that can also cover Steel-types.
+
+Protect versus Substitute
+
+: Protect is the most reliable way to get a free turn of Speed Boost. Substitute is a riskier option for Speed Boost stalling, but it severely punishes passive Pokemon and works extremely well on dual screen teams.
+
+Roost
+
+: Roost can make it incredibly difficult for special attackers to break Espathra after its used Calm Mind.
+
+Bold versus Timid
+
+: The given EV spread allows Espathra to outspeed Choice Scarf
+
+Garchomp
+
+after two turns of Speed Boost and unboosted
+
+Flutter Mane
+
+and
+
+Iron Bundle
+
+after one turn. If running Timid over Bold, you can reallocate 8 Speed EVs elsewhere.
+
+Tera Types
+
+Tera Dependency - Medium / High
+
+: Tera Blast sets will almost always require Terastallization to have adequate offensive coverage. Having Dazzling Gleam as coverage makes Terastallization less necessary, but Espathra's weaknesses to common types such as Ghost and Dark will remain problematic without it.
+
+Fighting
+
+: When paired with Tera Blast, Tera Fighting is Espathra's best hope of defeating
+
+Ting-Lu
+
+,
+
+Chi-Yu
+
+, and
+
+Kingambit
+
+.
+
+Fire
+
+: Tera Fire and Tera Blast roast
+
+Scizor
+
+, and deal massive damage to Chien-Pao,
+
+Gholdengo
+
+, and Kingambit.
+
+Fairy
+
+: A Fairy Tera type flips the Dark-type weakness to a resistance and severely punishes Choice-locked Dragon-types like
+
+Dragonite
+
+, but at the cost of making Espathra even more vulnerable to Steel-types.
+
+Normal
+
+: Tera Normal provides Espathra with a valuable Ghost-type immunity, blocking Shadow Sneak users in particular that try to get around Espathra's Speed Boost.
+
+Items
+
+Leftovers
+
+: Leftovers works best when stalling with Protect and Substitute, giving Espathra great long-term healing.
+
+Lum Berry
+
+: Roost sets normally can't fit Substitute, so Lum Berry is good insurance against foes who attempt to hit Espathra with status.
+
+Espathra is the only option for the coveted Speed Boost + Baton Pass combination, which can be extremely deadly for setting up sweeps!
+
+Lumina Crash
+
+: Lumina Crash ensures that Espathra isn't totally shut down by Taunt, and the guaranteed -2 Special Defense drop helps against Unaware walls.
+
+Reflect
+
+: Reflect can stop priority attacks from easily revenge killing your chosen Baton Pass partner.
+
+Baton Pass Targets
+
+: While most Pokemon love getting Baton Pass boosts, especially consider Pokemon who appreciate the Special Defense boosts from Calm Mind, such as
+
+Kingambit
+
+,
+
+Annihilape
+
+,
+
+Great Tusk
+
+, and Power Trip
+
+Corviknight
+
+.
+
+Gholdengo
+
+is another option, as it cannot have its boosts removed by Whirlwind.
+
+Other Options
+
+Hypnosis
+
+: While extremely risky, putting a foe to sleep lets Espathra easily stack up on boosts.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Espathra should usually avoid Terastallizing if possible, since its point is to help other Pokemon sweep.
+
+Normal
+
+: With a Normal Tera type, Espathra can set up against Ghost types and isn't worried about Shadow Sneak anymore.
+
+Ghost
+
+: Ghost Tera type makes Espathra immune to Extreme Speed, making passing against
+
+Dragonite
+
+much easier.
+
+Items
+
+Focus Sash
+
+: Focus Sash is the best way to guarantee passing at least one Speed boost, though it's a lackluster option for passing multiple boosts compared to other items.
+
+Leftovers
+
+: Leftovers is the easy option to recommend since it pairs well with Protect and Substitute.
+
+Sitrus Berry
+
+: Sitrus Berry should be used if Espathra is planning on passing Speed to teammates that want Leftovers, such as Annihilape, Great Tusk, or
+
+Skeledirge
+
+.
+
+This set does not have a full write-up yet. If you'd like to finish this, feel free to reserve it here!
+
+Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.
+
+If you feel this analysis is not up to date,
+
+feel free to check out the thread for this Pokemon and post suggestions
+
+. For more resources on Series 1 in general,
+
+check out this thread
+
+.
+
+With Calm Mind and Speed Boost rapidly increasing Stored Power's damage output, Espathra is a dangerous wincon against bulkier teams, as it even overwhelms Unaware foes.
+
+Dazzling Gleam provides coverage against Dark-types such as
+
+Hydreigon
+
+.
+
+Protect is the most reliable way to get a free turn of Speed Boost.
+
+Substitute is a riskier option for Speed Boost stalling, but it severely punishes passive Pokemon and works extremely well on dual screen teams.
+
+Lumina Crash with Life Orb or Focus Sash is an alternative option for dealing with Unaware foes much more quickly, giving
+
+Dondozo
+
+fewer chances to use Fissure and sweeping far more quickly, at the cost of being less reliable to set up.
+
+The given EV spread allows Espathra to outspeed
+
+Meowscarada
+
+after one turn of Speed Boost.
+
+Tera Types
+
+Fairy
+
+: Fairy Tera type makes setting up on Hydreigon a much more realistic scenario and severely punishes Choice-locked Dragon-types like
+
+Dragapult
+
+.
+
+Fighting
+
+: When paired with Tera Blast, Tera Fighting is Espathra's only hope of defeating
+
+Kingambit
+
+.
+
+Dark
+
+: Tera Dark provides gives Espathra a valuable Shadow Sneak resistance and does a better shot of defeating weakened
+
+Gholdengo
+
+.
+
+Espathra is the only option for the coveted Speed Boost + Baton Pass combination, which can be extremely deadly for setting up sweeps!
+
+Lumina Crash ensures that Espathra isn't totally shut down by Taunt, and the guaranteed -2 Special Defense drop helps against Unaware walls.
+
+While most Pokemon love getting Baton Pass boosts, especially consider Pokemon that resist Espathra's common weaknesses, such as
+
+Hydreigon
+
+,
+
+Sylveon
+
+, and
+
+Kingambit
+
+.
+
+The given EV spread outspeeds Choice Scarf Hydreigon after one turn of Speed Boost.
+
+Tera Types
+
+Espathra should usually avoid Terastallizing if possible, since its point is to help other Pokemon sweep. Consider these two options as fairly situational.
+
+Ghost
+
+: Ghost Tera type makes Espartha immune to Extreme Speed, making passing against
+
+Dragonite
+
+much easier.
+
+Normal
+
+: With a Normal Tera type, Espartha can set up against its Ghost types and isn't worried about Shadow Sneak anymore.
+
+Items
+
+Leftovers
+
+: Leftovers is the easy option to recommend since it pairs well with Protect and Substitute.
+
+Sitrus Berry
+
+: Sitrus Berry should be used if Espathra is planning on passing Speed to teammates that want Leftovers, such as
+
+Skeledirge
+
+and
+
+Garganacl
+
+.
+
+Focus Sash
+
+: Focus Sash is the best way to guarantee passing at least one Speed boost, though it's a lackluster option for passing multiple boosts compared to other items.
+
+With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more.
+
+For more information on Series 2, check out the resource thread.
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Espathra is the only option for the coveted Speed Boost + Baton Pass combination, which can be extremely deadly for setting up sweeps!
+
+Lumina Crash
+
+: Lumina Crash ensures that Espathra isn't totally shut down by Taunt, and the guaranteed -2 Special Defense drop helps against Unaware walls.
+
+Reflect
+
+: Reflect can stop priority attacks from easily revenge killing your chosen Baton Pass partner.
+
+Some Teammates
+
+: While most Pokemon love getting Baton Pass boosts, especially consider Pokemon that resist Espathra's common weaknesses, such as
+
+Hydreigon
+
+,
+
+Roaring Moon
+
+,
+
+Sylveon
+
+, and
+
+Kingambit
+
+.
+
+Corviknight
+
+is also worth considering due to Power Trip.
+
+Other Options
+
+Hypnosis
+
+: While extremely risky, putting a foe to sleep lets Espathra easily stack up on boosts.
+
+Tera Types
+
+Espathra should usually avoid Terastallizing if possible, since its point is to help other Pokemon sweep. Consider these two options as fairly situational.
+
+Normal
+
+: With a Normal Tera type, Espartha can set up against its Ghost types and isn't worried about Shadow Sneak anymore.
+
+Ghost
+
+: Ghost Tera type makes Espartha immune to Extreme Speed, making passing against
+
+Dragonite
+
+much easier.
+
+Items
+
+Focus Sash
+
+: Focus Sash is the best way to guarantee passing at least one Speed boost, though it's a lackluster option for passing multiple boosts compared to other items.
+
+Leftovers
+
+: Leftovers is the easy option to recommend since it pairs well with Protect and Substitute.
+
+Sitrus Berry
+
+: Sitrus Berry should be used if Espathra is planning on passing Speed to teammates that want Leftovers, such as
+
+Skeledirge
+
+and
+
+Garganacl
+
+.
+
+With Calm Mind and Speed Boost rapidly increasing Stored Power's damage output, Espathra is a dangerous wincon against bulkier teams, as it even overwhelms Unaware foes.
+
+Dazzling Gleam
+
+: This provides coverage against Dark-types such as
+
+Roaring Moon
+
+and
+
+Hydreigon
+
+.
+
+Protect versus Substitute
+
+: Protect is the most reliable way to get a free turn of Speed Boost. Substitute is a riskier option for Speed Boost stalling, but it severely punishes passive Pokemon and works extremely well on dual screen teams.
+
+EV Spread
+
+: The given EV spread allows Espathra to outspeed
+
+Flutter Mane
+
+and
+
+Iron Bundle
+
+after one turn of Speed Boost.
+
+Tera Types
+
+Fighting
+
+: When paired with Tera Blast, Tera Fighting is Espathra's best hope of defeating
+
+Kingambit
+
+.
+
+Fire
+
+: Tera Fire and Tera Blast roast
+
+Scizor
+
+, and deal massive damage to
+
+Gholdengo
+
+and Kingambit.
+
+Fairy
+
+: Fairy Tera type makes setting up on Hydreigon a much more realistic scenario and severely punishes Choice-locked Dragon-types like
+
+Dragapult
+
+.
+
+Dark
+
+: Tera Dark provides gives Espathra a valuable Shadow Sneak resistance and does a better shot of defeating weakened Gholdengo.
+
+This set will be up for reservation once the analysis process for Series 2 begins.
+
+Draft Order
+
+: Round 5 onwards
+
+Price Range
+
+: 7-8 points
+
+Tera Price Range
+
+: 10-11 points
+
+Overview
+
+: Espathra is very threatening on paper due to its sweeping potential with Speed Boost combined with Calm Mind and Stored Power. It is typically used as a Tera Captain to give it needed coverage for Pokemon that resist its attacks and for better setup potential. However, it is very reliant on lots of support to work properly, as many Pokemon can take advantage of it when it has few boosts due to its weak Stored Power and average Special Attack. Espathra is left vulnerable to disruption and phazing and has many checks that resist or are immune to Stored Power, rendering it nearly useless in some matchups and against opposing teambuilding.
+
+Common Roles
+
+Setup Sweeper
+
+: Espathra uses Calm Mind along with Speed Boost to quickly snowball into a strong sweeper with Stored Power. It often uses Substitute, Protect, or Roost to maintain HP while gaining additional Speed boosts. Espathra has some coverage, such as Dazzling Gleam and Shadow Ball, to hit Pokemon that resist Stored Power, but it can also use Tera Blast for needed coverage.
+
+Wallbreaker
+
+: Espathra's signature move, Lumina Crash, is a great way to break through specially defensive walls that come in anticipating a setup variant. It can then pivot with U-turn or deal further damage with its coverage options.
+
+Common Moves
+
+Primary STAB Moves
+
+: Lumina Crash, Stored Power
+
+Setup Moves
+
+: Calm Mind
+
+Utility Moves
+
+: Roost, Substitute, Protect, U-turn
+
+Coverage
+
+: Dazzling Gleam, Shadow Ball, Flash Cannon, Energy Ball, Tera Blast
+
+Niche Moves
+
+Trick
+
+: Trick can be used alongside a Choice item to shut down opposing wallbreakers or walls that come in anticipating a setup sweeper set.
+
+Reflect / Light Screen
+
+: Espathra can be used as a fast dual screens setter to enable other win conditions.
+
+Foul Play
+
+: With Speed Boost, Foul Play can be used to counter opposing Speed-boosting sweepers such as
+
+Baxcalibur
+
+.
+
+Hypnosis
+
+: Hypnosis allows Espathra to take advantage of a sleeping Pokemon with more setup opportunities; that is, if it hits.
+
+Common Items
+
+Leftovers
+
+: Leftovers can be used on setup sweeper sets alongside Substitute and Protect to maintain HP while building up Speed boosts.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots keeps Espathra as healthy as possible to begin setting up and prevents it from being statused through Toxic Spikes.
+
+Niche Items
+
+Sitrus Berry
+
+: Sitrus Berry can be used as an alternative to Leftovers, especially against Pokemon with attacks that deal around 60% damage to Espathra.
+
+Mental Herb
+
+: Encore is common counterplay against Espathra, so having a Mental Herb helps it not get stuck into specific moves.
+
+Light Clay
+
+: Light Clay is used on dual screens sets to ensure the team gains more value from them.
+
+Weakness Policy
+
+: Espathra can take advantage of weaker attackers that deal super effective damage to instantly gain a large damage boost to Stored Power.
+
+Electric / Grassy Seed
+
+: Espathra combined with
+
+Rillaboom
+
+or
+
+Pincurchin
+
+can use Terrain seeds on setup sets to tank physical attacks more easily.
+
+Kee Berry
+
+: Kee Berry can be used against weaker physical attackers to boost Espathra's Defense and take even more physical hits.
+
+Choice Items
+
+: Espathra's below-average coverage makes it difficult to use Choice Specs or Scarf for wallbreaking and cleaning, respectively. However, combined with Trick, its Choice item can be given to opposing wallbreakers or walls.
+
+Mirror Herb
+
+: On Opportunist sets, Mirror Herb can give Espathra a double boost against opposing setup sweepers, giving it an instantly threatening Stored Power.
+
+Lum Berry
+
+: Lum Berry can be good against Thunder Wave users, especially ones with Prankster such as
+
+Klefki
+
+and
+
+Grimmsnarl
+
+.
+
+Tera
+
+Espathra should not be considered as a team's first choice of Tera Captain. It is extremely one dimensional, has lots of counterplay, and prevents a team from using a more threatening and higher-priced Tera Captain. That being said, it does benefit strongly from Tera due to its less-than-ideal typing and need for coverage options. Offensively, it appreciates Tera types that can help it deal with Psychic-resistant Pokemon, such as Tera Fairy and Fighting. Tera Fairy benefits from a STAB Dazzling Gleam that can hit opposing Dark-types, and Tera Fighting gives it much-needed coverage that can hit Dark- and Steel-types. It can also use defensive Tera types, such as Tera Steel, Dark, and Water, to set up on Pokemon that would typically check it.
+
+Draft Strategy
+
+While Espathra appreciates good teammates and can work as a late-round pick, it is not a Pokemon that a team should be entirely built around. It typically works best as an alternative wincon and has a massive intimidation factor that will force a lot of opposing preparation. However, its reliance on Terastallization means the team will not be able to utilize a higher-priced and more versatile Tera Captain.
+
+Entry Hazard Control
+
+: Espathra appreciates opposing Pokemon being chipped down from entry hazards so that it can sweep a weakened team more easily.
+
+Gliscor
+
+,
+
+Ting-Lu
+
+, and
+
+Glimmora
+
+work as solid entry hazard-setting partners. On the flip side, Espathra wants to stay as healthy as possible, making entry hazard removal important, especially if it does not want to use Heavy-Duty Boots. Solid hazard-removing partners include
+
+Great Tusk
+
+,
+
+Iron Treads
+
+, and
+
+Corviknight
+
+.
+
+Physical Wallbreakers
+
+: Opponents typically use specific Pokemon to counter Espathra, such as specially defensive walls or their own physical wallbreakers. Fast physical wallbreakers like
+
+Meowscarada
+
+and
+
+Iron Valiant
+
+can help handle these checks. Since Espathra requires specific counterplay, it can double switch to put physical wallbreakers in a very strong position against Espathra's checks.
+
+Alternative Win Condition
+
+: Espathra has a large intimidation factor, meaning opponents will bring lots of counterplay for it specifically, such as Special Defense EV investment and disruption. Having other potential wincons, such as
+
+Garchomp
+
+and
+
+Roaring Moon
+
+, makes it difficult for opponents to be prepared for both options. They can also help enable each other by weakening each other's checks.
+
+Dual Screens
+
+: Since Espathra is relatively frail, it benefits from dual screens so that it can have more turns to set up while taking less damage. Klefki and Grimmsnarl are solid options with Prankster, but many Pokemon can also run dual screens as a niche, such as
+
+Rotom-W
+
+.
+
+Checks and Counters
+
+Specially Defensive Walls
+
+: While Espathra can often use Stored Power to eventually break through walls, defensive Pokemon that resist or are immune to Psychic, such as
+
+Kingambit
+
+and
+
+Scream Tail
+
+, can be difficult for Espathra to break and force it to run specific coverage. Assault Vest can also be used on Pokemon that don't have disruption or other types of support to check Espathra.
+
+Disruption and Phazing
+
+: Espathra's predictability in its gameplan allows it to easily be taken advantage of with disruption moves such as Encore and Taunt. This allows other Pokemon to easily break through it without having to worry about it using boosted Stored Power, especially if it can be disrupted early on. Phazing such as Roar or Red Card can also be a great way to force it out, especially if caught before setting up too much.
+
+Entry Hazards
+
+: Espathra's defenses are relatively frail, meaning it wants to maintain as much health as possible. Entry hazards are able to deal enough damage that it can get knocked out by many opposing wallbreakers. Toxic Spikes especially are annoying for Espathra, since it wants to stay in for as many turns as possible to stack multiple stat boosts.
+
+Priority
+
+: Even when investing in lots of physical bulk, Espathra struggles against priority attackers, such as
+
+Dragonite
+
+and
+
+Palafin
+
+, especially if it has already been weakened.
+
+12 speed EVs allow you to outspeed base 120 Speed Pokemon at +1
+
+Espathra can utilize the Clear Amulet to stop any Speed drops from
+
+Primarina
+
+and Special Defense drops from
+
+Sylveon
+
+and non-Knock Off
+
+Hisuian Goodra
+
+.
+
+Calm Mind, in conjunction with Speed Boost, allows Espathra to fire off tremendously powerful Stored Powers after setting up, letting it deal with Primarina and
+
+Manaphy
+
+.
+
+Feather Dance is vital for surviving hits on the physical side, allowing Espathra to survive important attacks like Choice Band-boosted Giga Impact from
+
+Ursaluna
+
+and Earthquake from
+
+Donphan
+
+.
+
+Roost helps as a major recovery tool against the previously mentioned Pokemon, allowing Espathra to be a potent threat as long as it doesn't get critically hit.
+
+The HP and Defense EVs allow Espathra to take a -2 Choice Band-boosted Giga Impact follow by a -4 Choice Band-boosted Giga Impact after a Roost from Ursaluna. The Speed EVs ensure that Espathra outspeeds maximum Speed Modest
+
+Raging Bolt
+
+. The rest of the EVs and nature are placed into Special Defense to give Espathra the best odds against Primarina and Sylveon.
+
+As its only attacking move is Psychic-type, Espathra naturally struggles against Dark-type Pokemon like
+
+Hoopa-U
+
+,
+
+Meowscarada
+
+, and
+
+Darkrai
+
+; therefore,
+
+Iron Valiant
+
+and
+
+Chien-Pao
+
+work well as teammates because they threaten these foes.
+
+Espathra can also struggle against Steel-type Pokemon, like
+
+Metagross
+
+,
+
+Heatran
+
+, and
+
+Iron Crown
+
+, so Ground-type Pokemon like Flame Orb Ursaluna and Smack Down
+
+Landorus-T
+
+are great teammates for it.
+
+Taunt users like Counter
+
+Ogerpon-W
+
+and Raging Bolt are an issue, so faster Dragon-type Pokemon like
+
+Haxorus
+
+and
+
+Walking Wake
+
+can help in these matchups.

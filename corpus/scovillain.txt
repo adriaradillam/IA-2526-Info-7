@@ -1,0 +1,619 @@
+A set with Growth / Flamethrower or Fire Blast / Giga Drain or Solar Beam / Stomping Tantrum and Heavy-Duty Boots could be used but the immediate power of a sun-boosted Choice Specs Tera Fire Overheat, Fire Blast, or Flamethrower is usually too good to give up, especially when
+
+Venusaur
+
+usually runs a Growth set itself, often resigning Scovillain to be the team's wallbreaker.
+
+Scovillain is one of Fire's best sweepers thanks to Chlorophyll. Under sun, Scovillain outspeeds a multitude of threats such as non-Choice Scarf
+
+Greninja
+
+and
+
+Chien-Pao
+
+. Growth is run for Scovillain to boost its damage output while under sun, letting it secure KOs more easily. Giga Drain threatens Pokemon like
+
+Ting-Lu
+
+, allowing Scovillain's teammates to break through them late-game, and it also aids in improving Scovillain's longevity by recovering its HP. Fire Blast can be used to have a chance of 2HKOing
+
+Skeledirge
+
+and
+
+Clodsire
+
+under sun, but Flamethrower is the preferred Fire-type STAB move, since its accuracy is higher than Fire Blast's. Stomping Tantrum hits opposing Fire-types such as
+
+Iron Moth
+
+. Solar Beam is an alternative to Stomping Tantrum, OHKOing the aforementioned Ting-Lu and
+
+Toxapex
+
+after Growth in sun. Life Orb and 32 Attack EVs maximize Scovillain's power, letting it 2HKO specially defensive Clodsire with Stomping Tantrum after Stealth Rock damage. If opting for Solar Beam, the remaining EVs go into HP. A Naive nature allows Scovillain to outspeed Choice Scarf users like
+
+Great Tusk
+
+and Iron Moth under sun while not losing out on Stomping Tantrum damage.
+
+Torkoal
+
+is a mandatory partner for Scovillain, as its ability to set up sun allows Scovillain to outspeed many faster threats like
+
+Iron Treads
+
+,
+
+Iron Jugulis
+
+, and
+
+Quaquaval
+
+, dealing heavy chip damage or outright KOing them. Scovillain appreciates Torkoal getting rid of entry hazards; in return, Scovillain deals with Water- and Ground-types like
+
+Gastrodon
+
+,
+
+Quagsire
+
+, and
+
+Sandy Shocks
+
+.
+
+Paldean Tauros-F
+
+is a great offensive partner for Scovillain, granting benefits such as breaking dual screens from Pokemon like
+
+Klefki
+
+and
+
+Grimmsnarl
+
+, which impede Scovillain's sweeping ability. Paldean Tauros-F is also able to check specially defensive walls like
+
+Blissey
+
+; in return, Scovillain breaks past bulky Water-types like
+
+Slowking
+
+and Toxapex after one Growth under sun.
+
+Cinderace
+
+can offer alternate entry hazard removal with Court Change, which helps Scovillain's longevity. Furthermore, Cinderace's Speed tier allows it to handle offensive Pokemon that naturally outpace Scovillain outside of sun like
+
+Hydreigon
+
+and Iron Treads, the former of which Scovillain cannot hit neutrally. Scovillain also appreciates
+
+Volcarona
+
+as an offensive partner thanks to its non-weather-reliant sweeping potential in Quiver Dance, dealing with Dragon-types such as Hydreigon and
+
+Garchomp
+
+, while Scovillain can weaken Volcarona's checks like Ting-Lu, Unaware Clodsire, and Toxapex throughout the course of the game.
+
+Scovillain turns up the heat on its Fire Blast with a Choice Specs set, burning up
+
+Clodsire
+
+and
+
+Skeledirge
+
+, which usually have no problem with its Growth set. It's notably also strong enough to score a 2HKO on physically defensive
+
+Toxapex
+
+after minimal chip damage, allowing Scovillain to beat Poison teams if it hits every move. Alternatively, Overheat has better accuracy and still 2HKOes Skeledirge and Clodsire, but the Special Attack drop makes it less spammable. Giga Drain threatens a 2HKO on
+
+Pelipper
+
+, which may be tempted to come into Scovillain to block Solar Beam, and also provides Scovillain a form of recovery. A Timid nature lets it outspeed threats such as Choice Scarf
+
+Gengar
+
+and Protosynthesis-boosted Choice Specs
+
+Walking Wake
+
+to burn them to a crisp, while a Modest nature has better odds of 2HKOing Toxapex with Giga Drain and OHKOing
+
+Baxcalibur
+
+with Flamethrower at the cost of outspeeding only up to non-Speed boosting Choice Scarf
+
+Sandy Shocks
+
+.
+
+Torkoal
+
+is a mandatory teammate, as it sets sun, which Scovillain needs to boost its Speed with Chlorophyll, and provides entry hazard support with its ability to set Stealth Rock and remove entry hazards with Rapid Spin. Other forms of entry hazard support in Defog
+
+Talonflame
+
+and Court Change
+
+Cinderace
+
+are also appreciated; they also have access to U-turn, which allows Scovillain to get in more times to wallbreak.
+
+Ceruledge
+
+packs Shadow Sneak to deal with
+
+Flutter Mane
+
+, which otherwise outspeeds and dispatches Scovillain with ease. In return, Scovillain obliterates bulky Unaware walls like
+
+Quagsire
+
+,
+
+Dondozo
+
+, and Skeledirge, all of which hinder Swords Dance Ceruledge from cutting down Water and Ghost teams. Similarly,
+
+Volcarona
+
+and
+
+Iron Moth
+
+love Scovillain's ability to eliminate bulky walls like Clodsire and
+
+Ting-Lu
+
+, allowing them to clean up Poison and Ground teams late-game.
+
+The metagame's abundance of Unaware Pokemon makes it difficult to maneuver Moody Pokemon in general. On top of that, Scovillain is held back by the powerful Dragon-types that resist its STAB combination. However, Scovillain still carves a niche for itself by being the only Moody Pokemon with excellent recovery moves, Leech Seed and Ingrain, allowing it to win a variety of matchups.
+
+Protect and Substitute are mandatory to get the most opportunities to activate Moody. Once you gain enough Defense or Special Defense boosts that Scovillain's Substitute can tank an attack without breaking, it tends to be easy to win the game. Note, however, that Protect, Substitute, and Leftovers's animation make Scovillain very vulnerable to losing via timer.
+
+With enough Moody boosts, Scovillain's Flamethrower tends to be enough to break through an entire team. There are very few Pokemon that are immune or quadruply resistant to Fire, and Flamethrower has good PP and accuracy, which makes it an easy pick.
+
+Unlike Flamethrower, Giga Drain gets shrugged off by a lot of Pokemon, even at +6, notably
+
+Corviknight
+
+and
+
+Dragonite
+
+. However, an attacking move that helps recover HP lost from Substitutes helps it gain gives Scovillain more mileage off of Moody. Giga Drain is also notable to more reliably defeat
+
+Dondozo
+
+, one of the Unaware Pokemon that would give Scovillain a lot of trouble otherwise.
+
+Leech Seed combined with Protect, Substitute, and Leftovers helps Scovillain restore HP while collecting Moody boosts, as well as chipping Pokemon it'd otherwise have trouble against, such as
+
+Clodsire
+
+.
+
+Ingrain is an alternative recovery option that makes Scovillain impervious to phazing moves. When purely considering recovery, it's more reliable than the inaccurate 90% accurate Leech Seed.
+
+Tera Blast with Tera Fairy is an excellent option that helps remedy Scovillain's Dragon susceptibility, particularly making the Infiltrator
+
+Dragapult
+
+matchup easier.
+
+Tera Types
+
+Water
+
+: The Water resistance helps Scovillain beat Dondozo. Even though Dondozo ignores Scovillain's Defense boosts via Unaware, with Tera Water, Scovillain's Substitute can tank a Wave Crash. Tera Water also keeps the Scovillain's Steel resistance, unlike Tera Grass, which makes it easier to check
+
+Scizor
+
+—a common priority user that people attempt to use to check Moody Pokemon.
+
+Fairy
+
+: Tera Fairy mitigating Scovillain's weakness to Dragon-types is massively helpful.
+
+EV Spreads
+
+180 HP / 220 Def / 4 SpA / 4 SpD / 100 Spe with Bold
+
+: This spread bolsters Scovillain’s physical bulk. Notably, Tera Water Scovillain's Substitute manages to survive Dondozo's Wave Crash with this spread. The Speed allows Scovillain to outspeed slow
+
+Baxcalibur
+
+and
+
+Gholdengo
+
+, as well as Dragapult with one Moody Speed boost. The HP is adjusted to make maximum use of Leftovers, with the resulting stat having a remainder of 1 when divided by 16. The remaining EVs are split between Special Attack and Special Defense because, at level 50, investing 8 EVs in either stat has no benefit over investing 4.
+
+Tera Fire Scovillain's damage under sun is absurd, managing to barely KO even Fire-resistant targets. Most notably, its ability to defeat most Pokemon, even powerful Dragon-types, without fearing surprise Terastallizations makes Scovillain a charming offensive option.
+
+Overheat combined with Tera Fire and Choice Specs guarantees the KO on
+
+Garchomp
+
+without bulk EVs. Against the frailer
+
+Dragapult
+
+, Tera Fire and Fire Blast is enough to earn the KO. It's recommended to run both Fire STAB moves because Overheat's added damage can be necessary to guarantee certain KOs, but its stat drop can be fatal.
+
+Solar Beam nails the few bulky Water-types that can survive Scovillain's absurd attacks, most notable examples being notably
+
+Gastrodon
+
+and Assault Vest
+
+Azumarill
+
+. However, Leaf Storm can be used in its stead for the ability to OHKO
+
+Hippowdon
+
+, despite it summoning sand.
+
+Flamethrower is perfectly accurate and is typically more than enough to nip off frailer foes.
+
+In spite of the type matchup, Scovillain is deceptively weak to
+
+Kingambit
+
+thanks to Sucker Punch. Additionally, many Pokemon will use Protect in front of Scovillain to waste sun turns— most notably
+
+Espathra
+
+and
+
+Dondozo
+
+. Against all of these foes, a well-timed Substitute can guarantee the win.
+
+Tera Types
+
+Fire
+
+: It is almost mandatory to run Tera Fire on this Scovillain set. Tera Fire guarantees KOs on most Dragon-types.
+
+Ghost
+
+: The abundantly common
+
+Dragonite
+
+is incredibly strong against Scovillain. Should Stealth Rock support be deemed enough to let Scovillain sweep teams reasonably, even without Tera Fire, using Tera Ghost to gain an immunity to Extreme Speed can be very useful.
+
+Rock
+
+: Tera Rock with Tera Blast can be a decent alternative to Tera Fire, as it gives Scovillain excellent coverage and also provides a much-needed countermeasure to Dragonite's Extreme Speed.
+
+With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more.
+
+For more information on Series 2, check out the resource thread.
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Tera Fire Scovillain's damage under sun is absurd, managing to barely KO even Fire-resistant targets. Most notably, its ability to defeat most Pokemon, even powerful Dragon-types, without fearing surprise Terastallizations makes Scovillain a charming offensive option.
+
+Overheat and Fire Blast
+
+: Overheat combined with Tera Fire and Choice Specs guarantees the KO on
+
+Garchomp
+
+without bulk EVs, and OHKO offensive
+
+Roaring Moon
+
+after Stealth Rock damage. Against the frailer
+
+Dragapult
+
+, Tera Fire and Fire Blast is enough to earn the KO. It's recommended to run both Fire STAB moves because Overheat's added damage can be necessary to guarantee certain KOs, but its stat drop can be fatal.
+
+Solar Beam versus Leaf Storm
+
+: Solar Beam nails the few bulky Water-types that can survive Scovillain's absurd attacks, most notable examples being notably
+
+Gastrodon
+
+and Assault Vest
+
+Azumarill
+
+. However, Leaf Storm can be used in its stead for the ability to OHKO
+
+Hippowdon
+
+, despite it summoning sand.
+
+Flamethrower
+
+: Flamethrower is perfectly accurateand is typically more than enough to nip off frailer foes.
+
+Substitute
+
+: In spite of the type matchup, Scovillain is deceptively weak to
+
+Kingambit
+
+thanks to Sucker Punch. Additionally, many Pokemon will use Protect in front of Scovillain to waste sun turns— most notably
+
+Espathra
+
+and
+
+Dondozo
+
+. Against all of these foes, a well-timed Substitute can guarantee the win.
+
+Tera Types
+
+Fire
+
+: It is almost mandatory to run Tera Fire on this Scovillain set. Tera Fire guarantees KOs on most Dragon-types.
+
+Ghost
+
+: The abundantly common
+
+Dragonite
+
+is incredibly strong against Scovillain. Should Stealth Rock support be deemed enough to let Scovillain sweep teams reasonably, even without Tera Fire, using Tera Ghost to gain an immunity to Extreme Speed can be very useful.
+
+Rock
+
+: Tera Rock with Tera Blast can be a decent alternative to Tera Fire, as it gives Scovillain excellent coverage and also provides a much-needed countermeasure to Dragonite's Extreme Speed.
+
+The metagame's abundance of Unaware Pokemon makes it difficult to maneuver Moody Pokemon in general. On top of that, Scovillain is held back by the powerful Dragon-types that resist its STAB combination. However, Scovillain still carves a niche for itself by being the only Moody Pokemon with excellent recovery moves, Leech Seed and Ingrain, allowing it to win a variety of matchups.
+
+Protect and Substitute
+
+: Protect and Substitute are mandatory to get the most opportunities to activate Moody. Once you gain enough Defense or Special Defense boosts that Scovillain's Substitute can tank an attack without breaking, it tends to be easy to win the game. Note, however, that Protect, Substitute, and Leftovers's animation make Scovillain very vulnerable to losing via timer.
+
+Flamethrower
+
+: With enough Moody boosts, Scovillain's Flamethrower tends to be enough to break through an entire team. There are very few Pokemon that are immune or quadruply resistant to Fire, and Flamethrower has good PP and accuracy, which makes it an easy pick.
+
+Giga Drain
+
+: Unlike Flamethrower, Giga Drain gets shrugged off by a lot of Pokemon, even at +6, notably
+
+Corviknight
+
+and
+
+Dragonite
+
+. However, an attacking move that helps recover HP lost from Substitutes gives Scovillain more mileage off of Moody. Giga Drain is also notable to more reliably defeat
+
+Dondozo
+
+, one of the Unaware Pokemon that would give Scovillain a lot of trouble otherwise.
+
+Leech Seed
+
+: Leech Seed combined with Protect, Substitute, and Leftovers helps Scovillain restore HP while collecting Moody boosts, as well as chipping Pokemon it'd otherwise have trouble against, such as
+
+Clodsire
+
+.
+
+Ingrain
+
+: Ingrain is an alternative recovery option that makes Scovillain impervious to phazing moves. When purely considering recovery, it's more reliable than the inaccurate 90% accurate Leech Seed.
+
+Fairy Tera Blast
+
+: Tera Blast with Tera Fairy is an excellent option that helps remedy Scovillain's Dragon susceptibility, particularly making the Infiltrator
+
+Dragapult
+
+and
+
+Roaring Moon
+
+matchup easier.
+
+Tera Types
+
+Water
+
+: The Water resistance helps Scovillain beat Dondozo. Even though Dondozo ignores Scovillain's Defense boosts via Unaware, with Tera Water, Scovillain's Substitute can tank a Wave Crash. Tera Water also keeps the Scovillain's Steel resistance, unlike Tera Grass, which makes it easier to check
+
+Scizor
+
+—a common priority user that people attempt to use to check Moody Pokemon.
+
+Fairy
+
+: Tera Fairy mitigating Scovillain's weakness to Dragon-types is massively helpful.
+
+EV Spreads
+
+180 HP / 220 Def / 4 SpA / 4 SpD / 100 Spe with Bold
+
+: This spread bolsters Scovillain’s physical bulk. Notably, Tera Water Scovillain's Substitute manages to survive Dondozo's Wave Crash with this spread. The Speed allows Scovillain to outspeed slow
+
+Baxcalibur
+
+and
+
+Gholdengo
+
+, as well as Dragapult with one Moody Speed boost. The HP is adjusted to make maximum use of Leftovers, with the resulting stat having a remainder of 1 when divided by 16. The remaining EVs are split between Special Attack and Special Defense because, at level 50, investing 8 EVs in either stat has no benefit over investing 4.
+
+Draft Order
+
+: Round 8
+
+Price Range
+
+: 1-2 Points
+
+Overview
+
+: Scovillain's decent mixed attacking stats and excellent Speed tier with Chlorophyll allow it to serve as an excellent cheap offensive tool to spice up sun-based drafts. Scovillain can be a decent setup sweeper, a solid late-game cleaner, or an effective wallbreaker. However, due to Scovillain's frailty and extreme reliance on sun, it can be hard to use without proper support. Additionally, its coverage options are nonexistent, as Scovillain struggles to break through Fire- and Dragon-types even with a supporting cast.
+
+Common Roles
+
+Setup Sweeper:
+
+With Growth and sun support, Scovillain becomes an excellent although fragile sweeper. With its mixed attacks, it can easily be a physical or special sweeper depending on team needs.
+
+Wallbreaker:
+
+Paired with a Life Orb or Choice Specs, Scovillain can heavily damage walls with Solar Beam and a sun-boosted Overheat.
+
+Common Moves
+
+Primary STAB Moves
+
+: Fire Blast, Overheat, Flamethrower, Temper Flare, Giga Drain, Energy Ball, Solar Beam, Seed Bomb, Leaf Storm, Bullet Seed
+
+Setup Moves
+
+: Growth, Trailblaze
+
+Utility Moves
+
+: Will-O-Wisp, Leech Seed, Substitute
+
+Coverage
+
+: Stomping Tantrum, Crunch, Tera Blast
+
+Niche Moves
+
+Endeavor
+
+: Endeavor pairs well with Focus Sash sets, allowing Scovillain to deal a massive amount of damage to Pokemon that would otherwise take minimal damage from its STAB moves.
+
+Super Fang
+
+: Similar to Endeavor, Super Fang allows Scovillain to deal a huge chunk of damage to walls it otherwise can’t dent effectively.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots prevents Scovillain from being chipped by entry hazards, allowing it to setup easier or simply dish out damage and switch without being worn down.
+
+Choice Specs
+
+: Choice Specs allows Scovillain to serve as an excellent wallbreaker with a devastating Solar Beam and a sun-boosted Overheat.
+
+Life Orb
+
+: Life Orb provides benefits similar to Choice Specs's but allows Scovillain to wallbreak without the item lock. Due to Scovillain's frailty, it doesn’t mind the chip damage too much.
+
+Niche Items
+
+Focus Sash
+
+: Focus Sash provides Scovillain an essential free turn to set up Growth.
+
+Charcoal
+
+: Charcoal can allow Scovillain to bluff Choice Specs and still deal devastating damage with its Fire-type STAB moves without Life Orb chip damage.
+
+Eject Pack
+
+: Eject Pack can allow Scovillain to serve as a pivot in a momentum-heavy playstyle after attacking with Leaf Storm or Overheat.
+
+Tera
+
+Scovillain is an effective secondary user of Terastallization if your budget allows for it. Tera Fire skyrockets the damage from its Fire-type STAB moves. Tera Grass can be used to boost Giga Drain, providing better longevity as a sweeper. In addition, it powers up Leaf Storm and Solar Beam. Tera Ground and Fairy give Scovillain crucial special coverage in Tera Blast, with Tera Ground also boosting Stomping Tantrum, allowing Scovillain to beat the bulky Fire- and Dragon-types that normally wall it.
+
+Draft Strategy
+
+Scovillain's mediocre stats make it a niche wallbreaker even on dedicated sun teams, and it should never be a team's only sun user. Instead, it serves as a complementary threat to sun-based teams that need a cheap but effective mixed attacker.
+
+Sun Setter
+
+: Scovillain is not very threatening without Chlorophyll's Speed boost and sun-boosted Fire-type STAB moves. Therefore, Scovillain requires an ally that can set sun. Pokemon such as
+
+Torkoal
+
+and
+
+Ninetales
+
+are mandatory teammates.
+
+Entry Hazard Removal
+
+: Scovillain's sets without Heavy-Duty Boots get crippled by hazards, with Focus Sash sets fairing the worst. Hazard removers such as
+
+Great Tusk
+
+and
+
+Iron Treads
+
+are necessary.
+
+Hatterene
+
+is also an excellent teammate thanks to Magic Bounce dissuading hazards.
+
+Complementary Sweepers
+
+: Scovillain is not able to break entire defensive cores by itself, but it can pave the way for sweepers such as
+
+Chi-Yu
+
+,
+
+Raging Bolt
+
+, and
+
+Gouging Fire
+
+.
+
+Pivots
+
+: Due to Scovillain's frailty, it needs free turns in order to set up or wallbreak. Pokemon such as Hatterene and Great Tusk can use Eject Button and Eject Pack respectively to serve as pivots. Flip Turn
+
+Walking Wake
+
+pairs nicely with Scovillain, and Healing Wish Ninetales can grant it a free switch in.
+
+Checks and Counters
+
+Bulky Fire-types
+
+: Due to its complete lack of coverage, bulky Fire-types such as
+
+Skeledirge
+
+and
+
+Heatran
+
+can be extremely difficult for Scovillain to break past. Choice Specs sets especially run into a wall against Heatran.
+
+Dragon-types
+
+: As with Fire-types, Scovillain's bad coverage makes breaking past bulky Dragon-types near impossible without significant support.
+
+Priority
+
+: Due to Scovillain's frailty, any form of priority backed by a decent offensive stat is extremely threatening to it.
+
+Entry Hazards
+
+: If Scovillain is not using Heavy-Duty Boots, hazards make it hard for Scovillain to fulfill its niche. Hazards make Choice Specs sets much harder to use and completely invalidate Focus Sash sets.

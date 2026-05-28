@@ -1,0 +1,1251 @@
+A solid choice for both speed control and wallbreaking, Gengar is a dynamic option for teams, as it can provide immense upside due to its versatility and offensive prowess. Gengar is most often seen sporting a Choice Scarf, comfortably outpacing other Choice Scarf users in the metagame like
+
+Basculegion-F
+
+,
+
+Gardevoir
+
+, and
+
+Mienshao
+
+. Nasty Plot Gengar is a fast, potent setup sweeper that can decimate teams after just one boost. Gengar, using status-spreading moves such as Thunder Wave, Toxic Spikes, and Will-O-Wisp and disruption moves in Encore and Taunt, can disrupt its primary checks like
+
+Cyclizar
+
+,
+
+Umbreon
+
+, and
+
+Registeel
+
+. Despite this tremendous upside, Gengar is incredibly frail and susceptible to getting OHKOed by much of the metagame, including notable checks like
+
+Bisharp
+
+, Cyclizar, and
+
+Alolan Muk
+
+, so getting it on the field can be difficult. Gengar also directly competes with other great Ghost-type Pokemon in the tier, such as Basculegion-F,
+
+Mimikyu
+
+, especially on more bulky team structures.
+
+Set Details
+
+Nasty Plot Gengar is a potentially devastating setup sweeper thanks to its great Speed tier, outpacing base 100 Speed Pokemon like
+
+Jirachi
+
+and
+
+Entei
+
+, and strong STAB combination. Focus Blast gives Gengar the coverage to hit bulky Steel-types like
+
+Bisharp
+
+,
+
+Hisuian Goodra
+
+, and
+
+Registeel
+
+and Gengar's primary check in
+
+Cyclizar
+
+for massive damage, though it comes at the cost of accuracy issues. Encore can be really disruptive to lock slower walls into unfavorable positions, such as forcing
+
+Suicune
+
+to use Calm Mind and
+
+Umbreon
+
+to use Wish, giving Gengar free setup opportunities. Air Balloon is quite powerful on Gengar, affording it safe entry and setup chances against
+
+Hippowdon
+
+and
+
+Quagsire
+
+as well as Choice-locked
+
+Krookodile
+
+if it locks into Earthquake. Colbur Berry similarly gives Gengar great defensive value, allowing it to comfortably survive Knock Off from Pokemon like Cyclizar, Krookodile, and
+
+Mienshao
+
+to threaten them back safely. Tera Ghost allows Shadow Ball to OHKO Jirachi after Spikes damage and
+
+Reuniclus
+
+, while Tera Fighting can be used to flip the weakness to Dark and boost the power of Focus Blast to annihilate Hisuian Goodra after taking Spikes damage and Assault Vest Cyclizar.
+
+Nasty Plot Gengar fits best on balance and bulky offense teams that can provide it entry points where it can set up and clean late-game. Choice Scarf users like Mienshao and
+
+Gardevoir
+
+pair well with Gengar, fulfilling the speed control role over Gengar to help against Cyclizar and Krookodile, and they grant it safe entry opportunities against their checks like
+
+Slowbro
+
+and Jirachi with U-turn and Healing Wish respectively. Defensive pivot support options like Cyclizar and Jirachi are key teammates; Cyclizar provides entry hazard and item removal to wear down Gengar's checks like Hisuian Goodra and Registeel, Jirachi can help enable Gengar by spreading paralysis and providing Wish passing, and they serve as Ghost- and Psychic-type switch-ins against Pokemon like
+
+Basculegion-F
+
+and Gardevoir, respectively. Hazard setters like
+
+Chesnaught
+
+, Hippowdon, and Jirachi are valuable to accrue chip damage on the opposition, which improves Gengar's ability to clean; the first two also help to absorb Knock Off attempts from Cyclizar and Krookodile. Other offensive setup options like Bisharp,
+
+Flygon
+
+, and
+
+Terrakion
+
+can help enable Gengar to sweep late-game, as they can wallbreak effectively against its checks like Hisuian Goodra and Umbreon early- to mid-game or can swap roles with Gengar and clean late-game themselves.
+
+Set Details
+
+Hex takes advantage of status spread by Gengar and its teammates, notably Thunder Wave from users like
+
+Reuniclus
+
+and
+
+Slowbro
+
+, to bolster its damage to seemingly unwallable range. Sludge Bomb is used over Sludge Wave because of the increased odds to poison, which can similarly help to enable Hex damage. Dazzling Gleam gives Gengar a reliable attack for its most common check,
+
+Cyclizar
+
+, along with
+
+Krookodile
+
+and
+
+Umbreon
+
+. Will-O-Wisp is used to disrupt Cyclizar and offensive Pokemon like
+
+Bisharp
+
+and
+
+Maushold
+
+that may try to switch into Gengar and force it out. Heavy-Duty Boots helps Gengar hit the field more often to spread status and use its strong attacks. Leftovers can be run to similarly maintain health on Gengar, though it requires entry hazard removal support to maximize its effectiveness. Colbur Berry is a nice item for Gengar to have against the aforementioned Cyclizar and other Knock Off users like Krookodile, allowing it to comfortably survive an attack and ensure an attempt at burning and hindering the opposition. Tera Fairy can provide a boost to Dazzling Gleam and flips the weakness to Dark, which can allow Gengar to take down Dark-types, like Choice Scarf Krookodile, while also helping absorb strong Dragon-type attacks from threats like
+
+Hisuian Goodra
+
+and
+
+Noivern
+
+. Tera Dark similarly flips the weakness to Dark while providing a key immunity to Psychic, which is useful to help against the bulky Psychic-types that can stomach a hit like
+
+Jirachi
+
+and Reuniclus.
+
+Hex Gengar fits best on balance and bulky offense teams that aim to spread status to enable a late-game sweep for Gengar. Teammates that can help spread status, like Body Slam Jirachi, Thunder Wave Slowbro and Reuniclus, and Toxic Umbreon can help wear down Gengar checks like Hisuian Goodra and
+
+Registeel
+
+while also helping bolster the damage from Hex. Offensive partners that can also take advantage of this type of status spam are slower wallbreakers like
+
+Breloom
+
+and
+
+Crawdaunt
+
+, which can outspeed a lot of threats after they are paralyzed to consistently dish out strong attacks. Defensive partners that can help absorb Knock Off and other Dark- and Ghost-type attacks from threats like Bisharp, Krookodile, and
+
+Basculegion-F
+
+—like
+
+Chesnaught
+
+, Cyclizar, and Umbreon—are important for Gengar, as they allow Gengar to fall back on them to wear down foes before threatening to sweep late-game. Leftovers Gengar also appreciates Cyclizar for its entry hazard removal abilities, with other teammates like Noivern and
+
+Talonflame
+
+offering similar hazard removal and pivot support. Gengar does struggle to break through some of the special walls in the tier, especially Hisuian Goodra, Registeel, and Umbreon, so hazard support from teammates like Chesnaught and Jirachi can go a long way. Physical attackers like
+
+Gallade
+
+, Krookodile, and
+
+Mienshao
+
+also help Gengar break through Dark- and Steel-types like Bisharp and Umbreon.
+
+Set Details
+
+Choice Scarf Gengar is one of the fastest Pokemon in RU, leaving speed demons like
+
+Cyclizar
+
+and
+
+Barraskewda
+
+as well as Choice Scarf users like
+
+Mienshao
+
+and
+
+Gardevoir
+
+in the dust. Ghost / Poison is an excellent offensive typing that can hit most of the metagame for at least neutral damage, only resisted by
+
+Krookodile
+
+,
+
+Bisharp
+
+,
+
+Overqwil
+
+, and
+
+Alolan Muk
+
+. Choice Scarf Gengar functions as a revenge killer against Pokemon without priority like
+
+Basculegion-F
+
+,
+
+Armarouge
+
+, and slower Choice Scarf users such as
+
+Jirachi
+
+and Krookodile. Trick gives Gengar a way to incapacitate setup sweepers like
+
+Feraligatr
+
+and
+
+Suicune
+
+that it doesn't have the power to reliably OHKO and walls like
+
+Hisuian Goodra
+
+and
+
+Gastrodon
+
+that can easily switch into one of Gengar's attacks. Gengar can lean into its utility options, setting Toxic Spikes for more entry hazard-focused teams. Focus Blast allows Gengar to threaten Steel-types like Bisharp,
+
+Empoleon
+
+, and non-Assault Vest Hisuian Goodra. It can use Thunder Wave as speed control to allow a slower sweeper like Armarouge or Weakness Policy Basculegion-F to outspeed foes. Destiny Bond can be used as a last resort to stop sweepers or when Gengar is weakened and simply needs to trade one-for-one. Tera Ghost boosts Gengar's Shadow Ball and lets it function as a cleaner against teams that are chipped down, notably OHKOing physically defensive
+
+Slowbro
+
+and having a chance to OHKO maximum HP Jirachi after Stealth Rock damage. Additionally, it removes Gengar's weaknesses to Ground and Psychic, allowing it to survive Psychic-type attacks from
+
+Reuniclus
+
+or Earthquake from
+
+Hippowdon
+
+. Tera Dark allows Gengar to live a Sucker Punch from even a +2 Bisharp and OHKO it with Focus Blast and turns Gengar's weaknesses to Psychic, Dark, and Ghost into resistances. This lets it switch into Choice-locked Psychic-type attacks from Gardevoir and Armarouge and the strong Psychic-type STAB attacks of Reuniclus, Slowbro, and
+
+Necrozma
+
+without worry. Tera Dark also allows Gengar to win the mirror match by resisting Shadow Ball and OHKOing back with its own Shadow Ball.
+
+Gengar can fit on a wide variety of team structures, from offense to balance, due to its ability to revenge kill, shut down walls like Hisuian Goodra and Empoleon with Trick, use Toxic Spikes to spread hazards, and leverage Thunder Wave to slow down opposing revenge killers like Mienshao and
+
+Maushold
+
+. Gengar is a great addition to hazard stack teams with its ability to leverage hazard chip damage to meet damage thresholds like OHKOing Hisuian Goodra with Focus Blast after three layers of Spikes and shutting down Defog users like
+
+Talonflame
+
+with Trick. Teammates like Suicune and Armarouge love Gengar's ability to use Trick on special walls and give them its Choice Scarf, letting them set up for late-game sweeps. Cyclizar makes an excellent teammate for Gengar, as it is able to keep the field clear of hazards for it while pivoting into Gengar to absorb pesky Fighting- and Fairy-type moves that threaten the little bike lizard.
+
+Entei
+
+can threaten the Steel-types that switch in when Gengar locks into Sludge Wave or punish Bisharp trying to revenge kill it with Sucker Punch. Defensively, Gengar loves having a Dark-type that can resist the Dark-, Ghost-, and Psychic-type moves that threaten it, making Pokemon like Krookodile and
+
+Umbreon
+
+enticing choices. Krookodile can set up Stealth Rock for Gengar to take advantage of, while Umbreon can keep it healthy with Wish and cripple walls with Toxic. Knock Off absorbers like Rocky Helmet
+
+Chesnaught
+
+and Hippowdon can switch in to prevent Gengar from being heavily damaged and losing its item.
+
+Noivern
+
+can lure in Pokemon looking to hit it with a strong Moonblast, then U-turn into Gengar, which resists the move. It can also threaten their common checks, Steel-types, with Flamethrower.
+
+Other Options
+
+Thunder Wave, Toxic, and Toxic Spikes can provide great value for Hex Gengar. Destiny Bond is always a nice option to trade against something slower than Gengar, such as
+
+Hisuian Goodra
+
+and
+
+Umbreon
+
+, which can be otherwise tricky to take down. Knock Off gives Gengar its own item removal option, which can help on entry hazard-stacking teams at the cost of not being offensively threatening due to its low Attack. Pain Split is Gengar's only form of recovery, which it can use against foes like
+
+Cyclizar
+
+and Hisuian Goodra well. Taunt similarly shuts down slower setup sweepers like
+
+Bisharp
+
+and can pair well with Destiny Bond to ensure it trades effectively. Choice Specs can be used to threaten OHKOs on Pokemon like Assault Vest Cyclizar and
+
+Jirachi
+
+.
+
+Checks and Counters
+
+Dark-types
+
+: Although Gengar can use Focus Blast to hit Dark-types like Bisharp and
+
+Krookodile
+
+for massive damage, it struggles to effectively take down either of them, as Sucker Punch from Bisharp threatens an immediate OHKO while Krookodile often uses Choice Scarf, outpacing and taking Gengar down with ease. Umbreon is susceptible to Encore and Trick as well as being used as setup fodder, but it can reliably tank attacks and threaten to take Gengar out with Foul Play.
+
+Alolan Muk
+
+, while more niche, can comfortably take hits from Gengar before KOing it with Knock Off, though it must be wary of Will-O-Wisp.
+
+Faster Pokemon
+
+: Non-Choice Scarf Gengar is outpaced and immediately threatened by a majority of the Choice Scarf users in the metagame, including
+
+Basculegion-F
+
+,
+
+Gardevoir
+
+,
+
+Mienshao
+
+, and even opposing Gengar. Similarly, Gengar is in a pretty comfortable Speed tier naturally, but it is still outsped by plenty of Pokemon that threaten to OHKO it with slight chip damage, such as
+
+Barraskewda
+
+,
+
+Maushold
+
+, and
+
+Noivern
+
+.
+
+Cyclizar
+
+: Assault Vest Cyclizar is a common Gengar check and can disrupt it significantly, switching in and threatening big damage with Knock Off while also being able to pivot out into Ghost-type teammates on an expected Focus Blast.
+
+Poison
+
+Gengar's amazing Special Attack and Speed along with its solid Ghost typing give it a solid offensive role. However, it has major competition in
+
+Iron Moth
+
+, which has overall superior utility thanks to its higher bulk and Special Attack, usually performing better against most types.
+
+Gengar finds a niche on Poison teams thanks to its secondary Ghost typing and unique coverage, allowing it to serve as a solid alternative to
+
+Iron Moth
+
+. Shadow Ball threatens Ghost- and Psychic-type Pokemon like
+
+Gholdengo
+
+,
+
+Pecharunt
+
+, and
+
+Hatterene
+
+. Thunderbolt provides solid coverage by hitting dangerous Flying- and Water-types like
+
+Corviknight
+
+,
+
+Pelipper
+
+, and
+
+Primarina
+
+. Focus Blast allows Gengar to deal with Dark-, Normal-, and Steel-type threats in
+
+Hydreigon
+
+,
+
+Ursaluna
+
+,
+
+Heatran
+
+, and
+
+Archaludon
+
+, while Dazzling Gleam provides a less risky option to hit Dark-types along with Dragon-types like
+
+Walking Wake
+
+. Finally, Trick allows Gengar to disrupt special walls like
+
+Alolan Muk
+
+,
+
+Iron Hands
+
+, and
+
+Ting-Lu
+
+by granting them a useless Choice Specs, along with Choice locking
+
+Bisharp
+
+, which can prove problematic for Poison teams. Icy Wind, however, has the solid role of removing
+
+Landorus
+
+and
+
+Gliscor
+
+, which pose significant threats to Poison teams.
+
+Amoonguss
+
+can take hits from Water- and Ground-types that Gengar cannot handle such as
+
+Ogerpon-W
+
+,
+
+Swampert
+
+, and
+
+Great Tusk
+
+, along with using Spore to grant Gengar safe entry. Amoonguss can also use Foul Play to remove threats to Gengar such as
+
+Dragapult
+
+and
+
+Mimikyu
+
+.
+
+Galarian Weezing
+
+threatens potent Dark-types like
+
+Meowscarada
+
+, Ting-Lu, and
+
+Roaring Moon
+
+thanks to its Fairy-type STAB move and Will-O-Wisp. Galarian Weezing can also use Defog to remove entry hazards, ensuring Gengar stays healthy.
+
+Toxapex
+
+can handle priority from threats like
+
+Scizor
+
+, Mimikyu, and
+
+Lokix
+
+attempting to remove Gengar, along with being able to handle threats like
+
+Weavile
+
+and
+
+Barraskewda
+
+.
+
+Overqwil
+
+pairs nicely with Gengar with its immense physical bulk, being able to take hits from fast physical Ghost- and Psychic-types such as
+
+Ceruledge
+
+,
+
+Iron Boulder
+
+, and
+
+Gallade
+
+. Overqwil's entry hazards also provide utility in chipping down special walls such as
+
+Hisuian Goodra
+
+and Ting-Lu, which can both prove problematic to Gengar. In return, Overqwil appreciates Gengar's Ghost typing allowing it to block Rapid Spin from the likes of
+
+Forretress
+
+and
+
+Tentacruel
+
+. Alolan Muk can handle special attacking Ghost- and Dark-type threats like
+
+Flutter Mane
+
+,
+
+Spectrier
+
+,
+
+Greninja
+
+, and
+
+Darkrai
+
+.
+
+Galarian Slowking
+
+can switch into revenge killers Gengar can struggle with, such as Choice Scarf
+
+Latias
+
+and Choice Scarf
+
+Enamorus
+
+, and threaten them back with its strong coverage moves. Both
+
+Sneasler
+
+and
+
+Okidogi
+
+can handle Dark-types like Alolan Muk,
+
+Hisuian Samurott
+
+, and Bisharp while appreciating Gengar removing Ghost- and Psychic-types like Gholdengo, Hatterene, and
+
+Slowbro
+
+. Choice Scarf Sneasler can also blitz past problematic foes such as
+
+Hoopa-U
+
+, Hisuian Goodra, and non-Choice Scarf Darkrai without worry. Okidogi, meanwhile, appreciates Gengar weakening physical walls like Galarian Weezing, Toxapex, and
+
+Sableye
+
+that prevent it from setting up safely. In response, Okidogi can handle Dark-type menaces like Bisharp, Meowscarada, and Roaring Moon without any issues.
+
+Gengar's solid Speed tier and its access to Toxic Spikes, Taunt, and Destiny Bond allow it to have a niche as a lead on Ghost teams. Setting up Toxic Spikes is Gengar's main objective, as the extra chip damage helps wear down Pokemon that would otherwise give Ghost teams lots of trouble, such as
+
+Ting-Lu
+
+and
+
+Porygon2
+
+. Taunt is used to prevent opposing leads from setting up their own entry hazards, such as
+
+Skarmory
+
+,
+
+Swampert
+
+, and
+
+Tinkaton
+
+. Destiny Bond can be used in tandem with Taunt to force foes to attack and secure a trade. Sludge Bomb allows Gengar to not be completely passive, as well as having a 50% chance to OHKO
+
+Hatterene
+
+, dissuading it from trying to block Toxic Spikes.
+
+Toxic Spikes greatly helps offensive teammates muscle through bulkier foes.
+
+Spectrier
+
+appreciates its would-be checks getting worn down by poison damage, such as Porygon2 and
+
+Hoopa-U
+
+. Additionally, Spectrier can utilize Hex's double-damage effect immediately rather than having to spend a turn using Will-O-Wisp. The same goes for
+
+Dragapult
+
+which notably secures an OHKO on poisoned Choice Specs
+
+Flutter Mane
+
+.
+
+Ceruledge
+
+appreciates Gengar preventing foes from setting entry hazards with taunt, thus keeping its Focus Sash intact. In turn, Ceruledge can handle the Steel-type Pokemon that Gengar is useless against.
+
+Gholdengo
+
+'s ability, Good as Gold, blocks Defog from the likes of
+
+Braviary
+
+and
+
+Mandibuzz
+
+. It is also yet another Pokemon that can use Hex to its fullest potential without having to spend a turn using Thunder Wave. Both
+
+Froslass
+
+and
+
+Brambleghast
+
+can stack additional hazards in spikes, ensuring that even foes unaffected by Toxic Spikes will still take some hazard damage.
+
+Other Options
+
+Poison
+
+Energy Ball provides solid coverage, allowing Gengar to remove Ground-types like
+
+Swampert
+
+,
+
+Hippowdon
+
+, and
+
+Mamoswine
+
+.
+
+Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.
+
+If you feel this analysis is not up to date,
+
+feel free to check out the thread for this Pokemon and post suggestions
+
+. For more discussion and resources on Series 1 in general,
+
+check out this thread
+
+.
+
+Gengar's useful immunities and fast Encore give it a niche as an incredibly disruptive Pokemon, especially if taking the correct predictive risks.
+
+Destiny Bond is excellent at making foes second-guess attacking Gengar. When slower foes don't take the bait and use a setup move, Gengar can punish them with Encore.
+
+Thunder Wave is great at crippling faster sweepers if Gengar's Focus Sash is intact, and punishing fast, common switch-ins such as
+
+Hydreigon
+
+.
+
+Sludge Bomb covers
+
+Meowscarada
+
+and Fairy-types, in addition to being Gengar's most powerful attack.
+
+Dazzling Gleam OHKOes Hydreigon after Stealth Rock damage and is an appealing secondary STAB move when using Tera Fairy.
+
+Focus Blast is Gengar's best shot at beating
+
+Kingambit
+
+outside of Destiny Bond.
+
+Will-O-Wisp does a great job of crippling bulky sweepers that Gengar can be forced to Destiny Bond against, such as
+
+Dragonite
+
+and Tera
+
+Annihilape
+
+.
+
+Tera Types
+
+Normal
+
+: Tera Normal Gengar can turn slower Ghost-types such as
+
+Mimikyu
+
+and Annihilape into easy Encore targets.
+
+Fairy
+
+: A Dragon-type immunity gives Gengar new Encore targets and better threatens Dragon-types.
+
+Flying
+
+: Earthquake is a common attack against Gengar, so Tera Flying can turn the tables effectively. It also takes advantage of common Fissure users such as
+
+Dondozo
+
+and
+
+Garganacl
+
+.
+
+Dark
+
+: A Dark Tera type lets Gengar surprise
+
+Espathra
+
+, letting it Encore Stored Power and potentially ruin its sweep.
+
+With Paradox Pokemon being introduced, Series 2 is bringing big changes to Battle Stadium Singles! This is a modified Series 1 analysis that takes Paradox Pokemon into account. We will update this overview and analysis again once the metagame settles more.
+
+For more information on Series 2, check out the resource thread.
+
+If you feel that this analysis is missing important information, feel free to leave feedback here.
+
+Gengar's useful immunities and great support movepool give it a niche as an incredibly disruptive Pokemon, especially if taking the correct predictive risks.
+
+Destiny Bond
+
+: Destiny Bond is excellent at making foes second-guess attacking Gengar. When slower foes don't take the bait and use a setup move, Gengar can punish them with Encore.
+
+Encore
+
+: Gengar's excellent speed makes it an especially disruptive user of Encore, being able to disrupt key threats such as
+
+Garchomp
+
+and
+
+Dragonite
+
+.
+
+Icy Wind
+
+: Icy Wind's Speed control can give Gengar the upper hand against fast Focus Sash leads such as
+
+Flutter Mane
+
+, and lets Gengar outspeed faster threats that it may want to Destiny Bond, such as
+
+Meowscarada
+
+.
+
+Thunder Wave
+
+: Thunder Wave is great at crippling faster sweepers if Gengar's Focus Sash is intact, and punishing fast, common switch-ins such as
+
+Roaring Moon
+
+.
+
+Sludge Bomb
+
+: This covers Meowscarada and Fairy-types, in addition to being Gengar's most powerful attack.
+
+Dazzling Gleam
+
+In addition to OHKOing
+
+Hydreigon
+
+after Stealth Rock damage, Dazzling Gleam is an appealing secondary STAB move when using Tera Fairy.
+
+Focus Blast
+
+: Focus Blast is Gengar's best shot at beating
+
+Kingambit
+
+outside of Destiny Bond.
+
+Other Options
+
+Will-O-Wisp
+
+Gengar does a great job of burning bulky sweepers that Gengar can be forced to Destiny Bond against, such as Dragonite,
+
+Great Tusk
+
+,
+
+Iron Treads
+
+, and Tera
+
+Annihilape
+
+.
+
+Tera Types
+
+Normal
+
+: Tera Normal Gengar can turn slower Ghost-types such as
+
+Mimikyu
+
+, Flutter Mane, and Annihilape into easy Encore targets.
+
+Fairy
+
+: A Dragon-type immunity gives Gengar new Encore targets and better threatens Dragon-types.
+
+Flying
+
+: Earthquake is a common attack against Gengar, so Tera Flying can turn the tables effectively. It also takes advantage of common Fissure users such as
+
+Dondozo
+
+and
+
+Garganacl
+
+.
+
+Dark
+
+: A Dark Tera type lets Gengar surprise
+
+Espathra
+
+, letting it Encore Stored Power and potentially ruin its sweep.
+
+Gengar makes for an amazing wallbreaker, breaking through offensive threats like
+
+Gholdengo
+
+,
+
+Great Tusk
+
+, and
+
+Enamorus-T
+
+, as well as having a decent Speed tier. Focus Blast hits Dark-types that try to switch in such as
+
+Chien-Pao
+
+and
+
+Roaring Moon
+
+as well as Steel-types such as
+
+Heatran
+
+and
+
+Hisuian Goodra
+
+. Nasty Plot turns Gengar into a threatening wallbreaker, allowing it to 2HKO RegenVest Hisuian Goodra and
+
+Manaphy
+
+with its coverage options. Sludge Wave hits Fairy- and Grass-types like Enamorus-T,
+
+Hisuian Electrode
+
+, and
+
+Ogerpon-W
+
+. Energy Ball hits Ground-types like
+
+Swampert
+
+and Great Tusk, while Thunderbolt hits non-Volt Absorb
+
+Corviknight
+
+and
+
+Mandibuzz
+
+. Gengar is great at threatening physical walls like Corviknight and
+
+Deoxys-D
+
+, so it partners well with physical wallbreakers like
+
+Galarian Zapdos
+
+and Chien-Pao; in return, they can pressure special walls that Gengar struggles to break through like Hisuian Goodra and
+
+Blissey
+
+. Due to Gengar's frailty, it struggles against faster threats such as
+
+Azelf
+
+, Roaring Moon, and Chien-Pao, so defensive switch-ins to them like Mandibuzz, Great Tusk, and Intimidate Corviknight make for good partners. Gengar greatly appreciates Knock Off support from Pokemon like Swampert, Manaphy, and Deoxys-D to remove Assault Vest from RegenVest Pokemon such as Swampert, Hisuian Goodra, and
+
+Meloetta
+
+, allowing it to have an easier time breaking past the opposing team.
+
+Normalize Gengar not only threatens to remove opposing RegenVest pivots, often the best check to more conventional Gengar sets, but also reliably sets Toxic Spikes and wins one-on-one against slower setup threats like Swords Dance
+
+Iron Hands
+
+and Calm Mind
+
+Cresselia
+
+. Mean Look in conjunction with Skill Swap traps and removes opposing specially defensive walls like
+
+Swampert
+
+,
+
+Manaphy
+
+, and
+
+Empoleon
+
+that are aiming to check it. Skill Swap also reliably forces out and generates a free turn against any Pokemon slower than Gengar such as
+
+Sandy Shocks
+
+and Beads of Ruin
+
+Walking Wake
+
+, as they will be unable to hit it through Normalize. This makes Gengar one of the most reliable Toxic Spikes setters, as it threatens most common removal options like
+
+Corviknight
+
+and
+
+Great Tusk
+
+. Gengar is an excellent teammate for fast special cleaners like
+
+Azelf
+
+,
+
+Deoxys-S
+
+, and
+
+Iron Moth
+
+, as they benefit tremendously from opposing special walls being removed or weakened with Toxic Spikes. Gengar struggles against teams with fast Dark-types like
+
+Roaring Moon
+
+,
+
+Meowscarada
+
+, and
+
+Chien-Pao
+
+, as it cannot meaningfully damage them and is immensely threatened by them, making Pokemon like Fluffy Corviknight and physically defensive Manaphy great partners; they can also provide a slow pivot to get Gengar in safely. Weather Ball from Pokemon with Primordial Sea or Desolate Land bypasses Normalize, meaning Gengar cannot reliably force out common users like Walking Wake and
+
+Volcanion
+
+, so sturdy checks to them like RegenVest Swampert and
+
+Blissey
+
+make solid teammates.
+
+Draft Order
+
+: Round 5 onwards
+
+Price Range
+
+: 8-9 points
+
+Overview
+
+: Gengar is a mid-tier special attacker; it can be a solid wallbreaker, reliable revenge killing option, or late-game setup sweeper with Nasty Plot. Its vast coverage is valuable, as it can tailor its moveset to hit most drafts. Gengar works best when paired with Pokemon that can bring it in safely, as it is unlikely to survive a super-effective hit upon switching in; it can leverage its Normal and Fighting immunities to find a chance to come in, however. That being said, Gengar is held back by its underwhelming bulk, common weaknesses, and having to choose between outspeeding foes or reaching the KO thresholds it needs to.
+
+Common Roles
+
+Utility
+
+: Albeit not a bulky Pokemon, Gengar has access to Toxic Spikes, Thunder Wave, Will-O-Wisp, and Toxic, which means it can hinder threats with the appropriate status and threaten big damage with Hex. These sets can also attempt to trade with a foe via Destiny Bond and be disruptive with Encore.
+
+Wallbreaker
+
+: Nasty Plot can boost Gengar's Special Attack to let it KO most Pokemon with its STAB moves or coverage, and its Speed enables it to break slower threats. Choice Specs can make it easier for Gengar to wallbreak, as it gives it the immediate power to force switches.
+
+Revenge Killer
+
+: Gengar can reliably run Choice Specs to finish off bulkier walls when chipped or Choice Scarf to revenge kill faster threats. It can run Trick on these movesets to potentially neutralize a defensive wall and threaten to clean entire teams when it is no longer Choice-locked.
+
+Common Moves
+
+Primary STAB Moves
+
+: Sludge Bomb, Sludge Wave, Shadow Ball, Hex
+
+Setup Moves
+
+: Nasty Plot
+
+Utility Moves
+
+: Toxic Spikes, Trick, Will-O-Wisp, Destiny Bond, Encore, Pain Split, Taunt, Thunder Wave, Toxic, Hypnosis, Substitute
+
+Coverage
+
+: Dazzling Gleam, Energy Ball, Focus Blast, Giga Drain, Psychic, Psychic Noise, Thunder, Thunderbolt, Dark Pulse, Icy Wind
+
+Niche Moves
+
+Knock Off
+
+: The boon of removing a foe's item cannot be understated. Knock Off has a hard time fitting onto Gengar's movesets, but utility variations of Gengar may be able to use this to force plenty of progress.
+
+Haze / Clear Smog
+
+: Though Gengar is not bulky enough to utilize Haze consistently, its Speed may allow it to remove its foe's boosts in a pinch. Clear Smog is the preferred option, as it still deals damage when removing stat boosts, though it comes at the cost of Steel-types being immune.
+
+Endure
+
+: Endure allows Gengar to survive any hit coming its way, and it could use a Salac Berry alongside this to become a deadly late-game wincon. Custap Berry can also allow Gengar to set an extra layer of Toxic Spikes or act before it would be KOed.
+
+Foul Play
+
+: Gengar may be able to use Foul Play to hit threats with very high Attack that aren't threatened by its coverage or STAB moves; this also includes setup sweepers attempting to boost their Attack.
+
+Curse
+
+: Curse has limited applications, but it can be a great way to quickly whittle down foes and force switches.
+
+Disable
+
+: Disable can possibly shut down a super effective move in a pinch and allow Gengar to apply pressure for extra turns.
+
+Common Items
+
+Choice Specs
+
+: Choice Specs allows Gengar to break down plenty of special walls without the need to set up. Punching holes using a combination of Shadow Ball, Sludge Wave, and Focus Blast means very few Pokémon can switch-in safely. Choice Specs can also be given to defensive Pokemon with Trick to disrupt them.
+
+Choice Scarf
+
+: If it instead chooses Choice Scarf, Gengar becomes a great revenge killer and can take out unboosted threats using its STAB moves, working as a late-game cleaning option. Choice Scarf may also be given to defensive Pokemon with Trick to disrupt them.
+
+Damage-boosting Items
+
+: Gengar may run Life Orb, which is a risky option, as the chip damage hurts its longevity and ability to switch in repeatedly, or it may run Expert Belt to circumvent the recoil. Other damage-boosting items include Spell Tag and Poison Barb, which boost either of Gengar's STAB moves without requiring the attack to be super-effective or making Gengar take recoil.
+
+Heavy-Duty Boots
+
+: Entry hazards, except Toxic Spikes, limit Gengar's opportunities to switch in safely; Heavy-Duty Boots can guarantee that it maintains offensive pressure, making it not so easily revenge killed, as it becomes immune to being hurt by Stealth Rock and Spikes or slowed down by Sticky Web.
+
+Niche Items
+
+Air Balloon
+
+: Giving Gengar an extra, albeit temporary, immunity to Ground allows for more setup or damage opportunities.
+
+Resistance Berries
+
+: Resistance Berries can be useful to overcome Gengar's poor natural bulk and let it serve as a lure, surviving one hit and trading with a threatening foe or statusing it.
+
+Leftovers / Black Sludge
+
+: Extra health on Gengar can allow for one extra opportunity to switch in safely; Substitute sets also benefit from the extra health and ability to set up Substitute multiple times over a game. Black Sludge in particular can be useful to give to foes with Trick.
+
+Focus Sash
+
+: Surviving a single hit in a pinch allows Gengar one extra turn to set up a layer of Toxic Spikes, spread status, or get vital chip damage on a threatening foe.
+
+Custap Berry
+
+: Custap Berry enables Gengar to get in some vital chip damage or use one of its solid utility options to get ahead in battle after using Endure.
+
+Weakness Policy
+
+: Though generally not bulky enough to take most strong neutral hits, let alone super effective ones, Gengar may be able to find a scenario where it can trigger Weakness Policy for an immediate boost to its wallbreaking and cleaning power. This is best used in conjunction with Will-O-Wisp or Reflect and Light Screen, which have value in reducing damage from incoming attacks.
+
+Tera
+
+Although generally outclassed, Gengar is worth considering as a Tera Captain to circumvent some of its checks. Tera Fighting is the most potent, as it allows Gengar to flip matchups on Steel- and Dark-types with a reliable Tera Blast Fighting. Tera Flying for Ground-type moves and Tera Dark for Psychic-type moves also work rather well, as they give Gengar a turn to set-up with Nasty Plot. Other Tera types involve Tera Ghost and Poison to provide a small boost to Gengar's STAB moves, or you could choose another Tera type to strengthen its coverage options.
+
+Draft Strategy
+
+Gengar is a frail, offensive Pokemon that you draft as a wallbreaker or cleaner with solid utility options. Solid support is needed for it to truly excel.
+
+Slow Pivots
+
+: Anything that may circumvent Gengar's frailty is a boon to your draft. Pokemon such as
+
+Scizor
+
+,
+
+Mandibuzz
+
+, and
+
+Corviknight
+
+are bulky enough to take the attacks that threaten Gengar and then proceed to get it in safely via U-turn.
+
+Entry Hazards
+
+: Allowing Gengar to hit KO ranges without boosting gives it an easier time cleaning and wallbreaking, as it pressures out far more Pokemon if entry hazards are used. This also opens up Nasty Plot to let Gengar hit extra KO ranges that it would not normally reach.
+
+Hisuian Samurott
+
+can use Ceaseless Edge to set up hazards whilst maintaining offensive pressure, or
+
+Ting-Lu
+
+can set Stealth Rock and Spikes to give Gengar plenty of chances to rack up chip damage on foes as it forces out possible checks to its teammates or even itself.
+
+Alternate Attackers
+
+: While powerful on its own, Gengar usually doesn't have enough space to fit everything it needs onto its moveset and is typically an asset to a better wallbreaker or sweeper. High-tier wallbreakers and sweepers that Gengar supports include, but are not limited to,
+
+Roaring Moon
+
+,
+
+Weavile
+
+,
+
+Keldeo
+
+, and
+
+Urshifu-S
+
+. Fighting- and Dark-types in particular really appreciate Gengar's ability to remove Fairy-types or threaten them out consistently.
+
+Dual Screens Support
+
+: Reflect and Light Screen can enable Gengar to take hits and sweep with Nasty Plot sets or clean more easily using Choice Specs or Choice Scarf.
+
+Grimmsnarl
+
+pairs very well with Gengar, with no shared weaknesses across their types, so they can pivot around each other reliably;
+
+Tinkaton
+
+may also use Reflect and Light Screen in a matchup alongside other support moves that may help Gengar.
+
+Uxie
+
+and
+
+Rotom-W
+
+get Reflect and Light Screen too while keeping the Ground-types that threaten Gengar at bay.
+
+Checks and Counters
+
+Steel- and Dark-types
+
+: Gengar can only hit Steel- and Dark-types super-effectively with Focus Blast, which is very unreliable in most scenarios, and considering the bulk of such Pokemon, it cannot deal with them effectively. Pokemon such as Ting-Lu, Mandibuzz, and Tinkaton can be difficult for Gengar to break.
+
+Faster Attackers
+
+: Due to its low natural bulk and good, albeit not elite, Speed, there are a multitude of attackers that can outspeed and revenge kill Gengar. Pokemon such as
+
+Meowscarada
+
+, Weavile, and Roaring Moon can all outspeed Gengar to revenge kill.
+
+Priority Attacks
+
+: Its frailty means strong priority attacks can KO Gengar; its weakness to Sucker Punch makes it a prime target for the move, which is seen across a plethora of Dark types. Gengar also struggles with other priority attackers such as
+
+Palafin
+
+, Scizor, and
+
+Raging Bolt
+
+which can often KO it.
+
+Resistance Berry Lures
+
+: Gengar can hit hard, but being unboosted makes it easy to be put on the receiving end of a resistance Berry lure and be removed with a strong, super effective attack.
+
+Special Walls
+
+: Gengar must respect special walls, as most are naturally bulky enough to take it on and return reliable damage to force it out, even when boosted with Nasty Plot or damage-boosting items.
+
+This is the sample set before we work on
+
+new analyses
+
+. This will be updated as the metagame continues to develop. Stay tuned!

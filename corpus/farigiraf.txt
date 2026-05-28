@@ -1,0 +1,691 @@
+Farigiraf can reach great heights as a setup sweeper thanks to its great bulk and solid Special Attack. Psyshock hits specially bulky Pokemon such as
+
+Naclstack
+
+and
+
+Articuno
+
+and ignores Special Defense boosts on sweepers like
+
+Lilligant
+
+and
+
+Jolteon
+
+. As Farigiraf accumulates multiple boosts, though, Stored Power helps it become a taller order for teams to check, and it hits physically bulkier Pokemon like
+
+Regirock
+
+and
+
+Sandaconda
+
+harder. However, Stored Power provides less immediate damage for breaking teams and is more inflexible by requiring Farigiraf to spend multiple turns boosting. Dazzling Gleam covers Dark-types like
+
+Spiritomb
+
+and
+
+Sneasel
+
+, and after Terastallizing Tera Fairy Farigiraf, it becomes even stronger. Armor Tail aids Farigiraf's sweep by denying priority attacks like Aqua Jet from Accelrock from
+
+Lycanroc
+
+and Ice Shard from Sneasel. Armor Tail also saves Farigiraf from being locked into its setup by Prankster Encore from
+
+Whimsicott
+
+and
+
+Sableye
+
+. Farigiraf can invest fully in its Special Attack to become immediately more threatening, potentially sweeping just off of Agility, but full investment in HP gives it better opportunities to use multiple setup moves; Psyshock is better tailored for sets with maximum Special Attack investment, compared to Stored Power, which works better on maximum HP sets where it can more comfortably accumulate multiple boosts.
+
+Farigiraf fits on hyper offensive teams as a setup sweeper. Fellow setup sweepers such as
+
+Virizion
+
+and
+
+Toxicroak
+
+greatly appreciate partnering with Farigiraf, given its positive matchups against Prankster disruptors like Whimsicott and Sableye. Powerful offensive partners like
+
+Glastrier
+
+, Virizion, and
+
+Typhlosion
+
+can break holes in teams for Farigiraf to more easily sweep. Farigiraf has to exhaust Terastallization in order to beat Spiritomb, so it appreciates partners that can deal with it, such as Whimsicott and
+
+Magneton
+
+. Hyper offense leads like
+
+Froslass
+
+and Lycanroc can set up entry hazards to help weaken foes like Regirock and
+
+Dipplin
+
+to better enable Farigiraf to sweep.
+
+Orthworm
+
+is a tough target for Fargiraf to break on its own, so it appreciates help from Fire-type teammates like
+
+Charizard
+
+and Typhlosion that can pressure it. Fighting-type partners like
+
+Primeape
+
+, Virizion, and
+
+Hitmontop
+
+can handle Orthworm as well as another obstacle to Farigiraf in Regirock.
+
+Hisuian Sneasel
+
+is a standout partner for Farigiraf by checking all three aforementioned stops to it, while Fargiraf pressures its defensive answers such as
+
+Weezing
+
+and
+
+Muk
+
+.
+
+Other Options
+
+Tera Fairy blunts the damage from Knock Off and other Dark-type moves from
+
+Sneasel
+
+,
+
+Spiritomb
+
+, and
+
+Primeape
+
+, and it also denies Dragon Tail from
+
+Dipplin
+
+and
+
+Appletun
+
+. Tera Fighting beats Steel-types, hits
+
+Cryogonal
+
+harder and sooner than Stored Power can with limited boosts, and also flips Farigiraf's Dark and Bug weaknesses. A Weakness Policy on Stored Power sets can take advantage of weaker attacks like Knock Off and U-turn from
+
+Mesprit
+
+but is situational, tough to activate, and limits Farigiraf's longevity. Cud Chew, with a Sitrus Berry, can give Farigiraf more concentrated recovery than Leftovers, and, with a Lum Berry, it can help it more comfortably set up against Glare
+
+Sandaconda
+
+and Toxic
+
+Toedscruel
+
+. Sap Sipper can provide Farigiraf with setup opportunities against
+
+Whimsicott
+
+and
+
+Arboliva
+
+locked into Grass-type moves. However, Armor Tail best enables Farigiraf as a sweeper by guarding it from priority moves. Farigiraf can run an offensive Trick Room set, though
+
+Alolan Exeggutor
+
+often does this role better because of its greater power and coverage. Farigiraf has other options in its movepool such as Future Sight, Wish, and Roar but struggles to support teams with its mediocre defensive typing.
+
+Checks and Counters
+
+Dark-types
+
+:
+
+Malamar
+
+has enough special bulk to take a boosted hit from Farigiraf and retaliate with their Dark-type STAB moves, Sneasel outspeeds Farigiraf before an Agility and hits it hard with Knock Off, and
+
+Alolan Persian
+
+can Taunt Farigiraf before it can set up. Although
+
+Sableye
+
+and Spiritomb don't deal much damage to Farigiraf on their own, they can force it to exhaust Terastallization or totally counter it if it's no longer available.
+
+Steel-types
+
+: Farigiraf lacks coverage to beat Steel-types like
+
+Magneton
+
+,
+
+Orthworm
+
+, and
+
+Perrserker
+
+on its own.
+
+Bulky Pokemon
+
+:
+
+Naclstack
+
+and
+
+Regirock
+
+can stomach Farigiraf's hits unless it's accumulated multiple boosts for Stored Power. Dipplin and Appletun can phaze Farigiraf with Dragon Tail; similarly,
+
+Articuno
+
+can use Haze to clear away Farigiraf's boosts or Roar to phaze it, and it has the bulk and recovery to repel Farigiraf repeatedly.
+
+Taunt
+
+: With Taunt,
+
+Skuntank
+
+,
+
+Froslass
+
+, and Persian-Alola can prevent Farigiraf from setting up, which is especially disruptive if Farigiraf lacks boosts and has Stored Power, and they can set up on it in return.
+
+Farigiraf is a relatively niche but potentially very lethal Trick Room sweeper in PU. Although it suffers stiff competition from other, more reliable offensive Psychic-types such as
+
+Espeon
+
+,
+
+Hoopa
+
+, and
+
+Hisuian Braviary
+
+, Farigiraf makes up for it thanks to having incredible bulk, a solid typing that gives it openings to set up on Pokemon like Hoopa, Espeon, and
+
+Palossand
+
+, and most notably Armor Tail, allowing it to completely bypass Sucker Punch attempts from the likes of
+
+Skuntank
+
+,
+
+Zoroark
+
+, and
+
+Brute Bonnet
+
+as well as other priority moves from
+
+Pawmot
+
+and
+
+Arcanine
+
+. Psyshock allows Farigiraf to muscle through specially defensive threats like
+
+Goodra
+
+and
+
+Florges
+
+more easily. Psychic is an alternative which gives Farigiraf a tougher matchup against special walls in exchange for allowing it to hit
+
+Rhydon
+
+without Terastallizing, as well as hitting
+
+Amoonguss
+
+and
+
+Qwilfish
+
+harder. Hyper Voice offers Farigiraf neutral coverage for Dark-types such as
+
+Wo-Chien
+
+and
+
+Hisuian Qwilfish
+
+and opposing Psychic-types like
+
+Delphox
+
+. Dazzling Gleam puts more pressure on Dark-types and synergizes well with Tera Fairy, while Thunderbolt smashes
+
+Milotic
+
+and similarly pairs well with Tera Electric. These options are not STAB-boosted, though, and so opting for them makes Farigiraf more dependent on Tera to function.
+
+Farigiraf is a solid option on offense and hyper offense teams looking for a late-game setup sweeper that can turn the tables on an opposing team thanks to Trick Room. Farigiraf can often struggle to take down two of the most common defensive Pokemon in the tier, Milotic and Rhydon. As such, teammates which threaten these two, like Brute Bonnet and
+
+Hisuian Decidueye
+
+, or have shared checks with Farigiraf, like Arcanine and Delphox, can be useful to get these Pokemon worn down and allow Farigiraf to sweep. Pivots like
+
+Bruxish
+
+and
+
+Jolteon
+
+can help Farigiraf find safe positions to set up for a sweep versus Pokemon like Espeon, non-Encore
+
+Alolan Ninetales
+
+, and
+
+Rotom-Heat
+
+. Knock Off-resistant teammates like
+
+Paldean Tauros-F
+
+and Skuntank can be helpful to have due to Farigiraf's extreme weakness to the move, and they can chip down checks like Goodra and
+
+Alolan Sandslash
+
+into range for Farigiraf. Finally, Farigiraf pairs well with other slow teammates that benefit from Trick Room like
+
+Golurk
+
+and
+
+Glastrier
+
+. In fact, Farigiraf can serve as a setter and sweeper for the uncommon dedicated Trick Room teams.
+
+This is a sample set as we work on proper analyses. Stay tuned!
+
+Farigiraf's excellent bulk combined with the immunity to Prankster Taunt and Fake Out given by Armor Tail ability make Farigiraf an extremely consistent Trick Room setter. This is because its ability prevents Farigiraf from being taunted by the main Taunt user in the format,
+
+Tornadus
+
+, and the opponent can no longer use Fake Out to stall out Trick Room turns. Additionally, Armor Tail gives Farigiraf a great matchup against Pokemon that rely on priority like
+
+Rillaboom
+
+and
+
+Dragonite
+
+.
+
+The different
+
+Ogerpon
+
+formes are all great partners for Farigiraf, because the redirection means Trick Room is almost guaranteed to go up, while their Grass typing means that Spore is no longer an issue.
+
+Ogerpon-W
+
+has a great defensive typing and can easily tank most hits it redirects away from Farigiraf,
+
+Ogerpon-H
+
+hits
+
+Amoonguss
+
+and the Steel-types that resist Farigiraf's moves, and
+
+Ogerpon-C
+
+is particularly helpful for redirection due to its Sturdy ability. Rillaboom and
+
+Incineroar
+
+are also great partners, as Fake Out + Trick Room is a great combination due to the fact that Fake Out prevents both opponents from attacking Farigiraf before Trick Room goes up.
+
+Partners that are physically frail or weak to one of the big priority moves like
+
+Urshifu-R
+
+really enjoy having it as an ally.
+
+Flutter Mane
+
+is an excellent partner, as it can handily deal with the Dark-types that Farigiraf struggles against, and
+
+Ursaluna-B
+
+is a strong Trick Room sweeper that enjoys being immune to the Fake Out cycling from Incineroar and Rillaboom.
+
+Farigiraf can have a difficult time against Pokemon that can threaten to OHKO it both in and out of Terastallization, like
+
+Kingambit
+
+and
+
+Urshifu-S
+
+. Another issue is opposing Trick Room Pokemon, especially
+
+Torkoal
+
+and Amoonguss, the former being able to outspeed Farigiraf inside of Trick Room and OHKO it with Tera Fire-sun-boosted Eruptions, and the latter being able to put any Farigiraf that isn't running Safety Goggles to sleep and just being a general threat when Trick Room is up.
+
+While Psychic and Trick Room are self-explanatory, Dazzling Gleam is a fantastic option to hit Dark-types. Psychic Noise is a good option, as it completely restricts the use of Horn Leech from the
+
+Ogerpon
+
+formes, and Drain Punch from
+
+Iron Hands
+
+, which Farigiraf's partners might be weak to; Psychic Noise also stops all Pokemon from healing from
+
+Rillaboom
+
+'s Grassy Terrain. Imprison is used to block opposing Trick Room while also stopping opposing
+
+Flutter Mane
+
+from using Dazzling Gleam. Protect is just a generally consistent option, allowing Farigiraf to stick around to provide the team with priority blocking for longer.
+
+Sitrus Berry is generally preferred, as the extra recovery allows it to live important attack combos such as
+
+Chien-Pao
+
+'s Icicle Crash into
+
+Entei
+
+'s Sacred Fire; however, Safety Goggles is also a valid option, allowing it to ignore Spore from opposing
+
+Amoonguss
+
+, a common counter to Trick Room.
+
+With Sitrus Berry recovery, Farigiraf can always survive an Icicle Crash from Adamant Chien-Pao and a Sword of Ruin-boosted Sacred Fire from Entei. The Special Defense investment allows Farigiraf to live an unboosted Overheat from Timid
+
+Chi-Yu
+
+. The rest of the EVs were put into offense.
+
+Fairy is the best Tera type on Farigiraf in this format, allowing it to resist common Dark-type attacks from
+
+Urshifu-S
+
+and
+
+Kingambit
+
+. Tera Fairy also allows Farigiraf to deal more substantial chip damage with Dazzling Gleam, allowing it to OHKO Urshifu-S.
+
+Hyper Voice activates Throat Spray to inflict a lot of damage and boost subsequent Psychics. Psyshock deals less damage than Psychic overall, but it allows Farigiraf to hit
+
+Flutter Mane
+
+and Assault Vest Pokemon like
+
+Rillaboom
+
+harder.
+
+Throat Spray allows Farigiraf to put really good amounts of pressure unlike other Trick Room setters. Life Orb allows for more immediate damage and more pivoting ability, as you wont lose the damage boost when switching out, but provides less damage overall.
+
+The HP and Special Defense EVs allow Farigiraf to survive Tera Fairy Moonblast from Choice Specs Flutter Mane, Tera Normal Helping Hand-boosted Hyper Voice from Life Orb
+
+Ursaluna-B
+
+, as well as non-Tera Life Orb Blood Moon. The heavy amount of Special Attack investment allows Farigiraf to serve its role as an offensive Pokemon very well, especially after a Throat Spray boost. The Defense investment allows Farigiraf to take Surging Strikes from Tera Water Choice Scarf
+
+Urshifu-R
+
+.
+
+Farigiraf's main role is as a bulky support piece and Trick Room setter, and its ability to block priority is incredibly valuable in a format full of moves like Fake Out, Grassy Glide and Thunderclap. Due to its typing, it has a good matchup into
+
+Calyrex-S
+
+, and its Psychic-type STAB moves are generally good into the metagame but especially into
+
+Amoonguss
+
+and
+
+Urshifu-R
+
+. Tera Blast is often used in the second moveslot, as both before and after Terastallization, it gives Farigiraf a consistent single-target STAB move. Foul Play is used to give Farigiraf a way to hit both
+
+Calyrex
+
+formes for super effective damage, being able to 2HKO both. Electric Seed is used in tandem with
+
+Miraidon
+
+and gives Farigiraf more bulk, allowing it to stick around longer to support the team with Helping Hand and Armor Tail. Sitrus Berry allows Farigiraf to disrupt the opponent for longer than it would be able to without it. It can also help it take some double-ups to help safely get Trick Room up, such as Surging Strikes + Knock Off from Urshifu-R and
+
+Incineroar
+
+. Safety Goggles is viable if your team has a particularly bad matchup into Amoonguss and you want Farigiraf to be able to set up Trick Room without being put to sleep without Electric Terrain support from Miraidon. The HP and Special Defense EVs allow Farigiraf to tank a Choice Specs Beads of Ruin single-target Tera Starstorm from
+
+Terapagos
+
+, and the rest is put into Defense. Tera Ground is used next to Miraidon to allow it to freely use Discharge, and Tera Fairy allows it to resist the Dark- and Bug-type moves it'd otherwise be weak to like Knock Off and U-turn from Incineroar and
+
+Rillaboom
+
+, while also resisting Fighting-type attacks and gaining an immunity to Dragon-type moves, like Collision Course and Draco Meteor from
+
+Koraidon
+
+and Miraidon, respectively.
+
+Farigiraf really doesn't like Restricted Pokemon that can OHKO it and potentially prevent Trick Room, such as
+
+Kyogre
+
+or Tera Fire Koraidon. It also struggles against fast Taunt users, such as Speed Booster Energy
+
+Flutter Mane
+
+, due to them being able to prevent Trick Room from going up, and bulky Dark-types like Incineroar, as Farigiraf can't hit them very hard without Tera Ground. Incineroar in particular can force it to Terastallize with Knock Off. Miraidon and Farigiraf are great partners for each other, as Farigiraf stops Miraidon from being interrupted by Fake Out, which is particularly important for the Choice Specs set, and Miraidon can activate the Electric Seed to make Farigiraf even bulkier; furthermore, as previously mentioned, Farigiraf can even Tera Ground so Miraidon can freely click Discharge next to it, while the Electric Terrain makes Farigiraf immune to Amoonguss's Spore. Farigiraf itself benefits from partners that can help it set Trick Room, such as bulky Fake Out users like Incineroar and Rillaboom as well as redirectors like Amoonguss and the
+
+Ogerpon
+
+formes. Trick Room sweepers also like having Farigiraf as a partner; for example,
+
+Calyrex-I
+
+loves the boost from Helping Hand, and so does
+
+Ursaluna-B
+
+. Another great partner is
+
+Iron Hands
+
+on the aforementioned Miraidon teams, as Farigiraf enjoys having a Fake Out user as a partner, and its Helping Hand lets Iron Hands do insane levels of damage with Quark Drive.
+
+Farigiraf functions well as a supportive and offensive Pokemon. After a Throat Spray boost, Psychic OHKOes
+
+Amoonguss
+
+and 2HKOs
+
+Flutter Mane
+
+. Twin Beam reliably OHKOes Focus Sash and Psychic-weak Pokemon like
+
+Urshifu-R
+
+and
+
+Mienshao
+
+. Hyper Voice deals consistent damage and activates Throat Spray. The EV spread allows Farigiraf to survive Adamant
+
+Koraidon
+
+’s Flare Blitz and
+
+Kyogre
+
+’s Water Spout. Throat Spray powers up Farigiraf's already powerful attacks after a Hyper Voice. This allows it to then pick up KOs on foes like Koraidon. Tera Fairy is used on Farigiraf to resist powerful super effective attacks from Dark-types like
+
+Urshifu-S
+
+and
+
+Chi-Yu
+
+along with Fairy being a great neutral type in the metagame. Tera Normal sheds Farigiraf's Dark weakness and allows it to deal massive damage with Hyper Voice, 2HKOing on Pokemon like
+
+Miraidon
+
+and
+
+Clefairy
+
+.
+
+Farigiraf has to be careful of powerful Dark-type attacks from Chi-Yu and
+
+Incineroar
+
+. A great partner for Farigiraf is Kyogre because it appreciates Farigiraf blocking powerful Grassy Glides and Thunderclaps as well as Fake Out. Other Pokemon like Incineroar and
+
+Rillaboom
+
+are also great partners, as they offer Fake Out support, allowing Farigiraf to set up Trick Room and, through Hyper Voice, Throat Spray. Urshifu-R is another amazing partner because it can hit the annoying Steel- and Dark-types that keep Farigiraf in check while also synergizing well with the aforementioned partners. It also appreciates Farigiraf's nullification of Fake Out, Thunderclap, and Grassy Glide as well as it removing Amoonguss.
+
+Set Details
+
+Farigiraf is a great supportive pick for a team. Its good defensive typing makes it a solid
+
+Calyrex-S
+
+check, and with Electric Seed, it can also match up well into
+
+Calyrex-I
+
+. Farigiraf also has the ability to block various priority moves such as Fake Out, Sucker Punch, and Thunderclap, keeping Farigiraf and its partners safe.
+
+Foul Play can hit both
+
+Calyrex
+
+formes for heavy damage while dealing solid damage to other strong physical attackers such as
+
+Koraidon
+
+,
+
+Ogerpon
+
+, and
+
+Ursaluna
+
+. Psychic can be used to reliably hit
+
+Urshifu-R
+
+and
+
+Amoonguss
+
+, while Psychic Noise can stop recovery from
+
+Rillaboom
+
+'s Grassy Terrain and
+
+Terapagos
+
+'s and
+
+Ho-Oh
+
+'s Leftovers and prevent
+
+Iron Hands
+
+from using Drain Punch.
+
+Electric Seed helps Farigiraf have a much better matchup against strong physical attacks such as Wood Hammer from Rillaboom and Throat Chop or Crunch from
+
+Chien-Pao
+
+. Electric Seed can also weaken the power of Knock Off from
+
+Incineroar
+
+, which Farigiraf would normally struggle against.
+
+The EV spread allows Farigiraf to live a Crunch or Throat Chop from Chien-Pao, Flare Blitz from Life Orb Koraidon, or Body Press from
+
+Zamazenta-C
+
+comfortably while letting it take a Draco Meteor from Special Attack Booster Energy
+
+Raging Bolt
+
+.
+
+Tera Water is great against Urshifu-R because it will resist Surging Strikes, and it lets Farigiraf more comfortably take Glacial Lance from Calyrex-I. Tera Dark packs a resistance to Wicked Blow from
+
+Urshifu-S
+
+, while letting Foul Play OHKO low bulk Calyrex-S and deal hefty damage to Calyrex-I, though it can be vulnerable to Close Combat from both Urshifu formes and Koraidon and Body Press from Zamazenta-C.
+
+Teambuilding
+
+The Urshifu formes can bypass the Electric Seed Defense boost with Surging Strikes and Wicked Blow, with Urshifu-S being able to OHKO Farigiraf. Farigiraf can also be vulnerable to strong special attacks like Electro Drift from
+
+Miraidon
+
+, Dark Pulse from
+
+Chi-Yu
+
+, and Water Spout and Origin Pulse from
+
+Kyogre
+
+. Dark-types such as Incineroar, Chien-Pao, and
+
+Grimmsnarl
+
+are good checks, since Farigiraf does negligible damage back. Taunt from
+
+Flutter Mane
+
+and Incineroar can also shut down Farigiraf's supportive capabilities.
+
+Miraidon is mandatory to pair alongside this set, helping Farigiraf activate Electric Seed and easily removing the Urshifu formes with Electro Drift and Dazzling Gleam while greatly appreciating Farigiraf's ability to block Fake Out and Sucker Punch, which may hinder Miraidon. Iron Hands and Calyrex-I like Farigiraf's ability to reliably set Trick Room and support with Helping Hand while having a good matchup into opposing Iron Hands and Calyrex-I. In return, Iron Hands can remove the Dark-types that Farigiraf struggles against.

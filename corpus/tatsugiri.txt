@@ -1,0 +1,453 @@
+Tatsugiri is a Nasty Plot sweeper that compresses offensive utility in its access to both Rapid Spin and Storm Drain. The former is not only a valid option for entry hazard removal but also one way that Tatsugiri may clean late-game when setting up on more passive foes like
+
+Palossand
+
+and
+
+Coalossal
+
+. That being said, Tatsugiri is very frail, which limits its potential to set up both Nasty Plot and Rapid Spin, making it easier to revenge kill with priority and diminishes the impact of Storm Drain when Water-types like
+
+Bruxish
+
+can OHKO it with their stronger coverage. Eject Pack is ran over Heavy-Duty Boots on some offensive VoltTurn teams, as the sacrifice to Tatsugiri's bulk and consistency in removing entry hazards could be worth it to preserve momentum and bring in a wallbreaker after using Draco Meteor. A Timid nature ensures Tatsugiri may revenge kill Adamant
+
+Skuntank
+
+and
+
+Bombirdier
+
+, but on teams where its revenge killing purposes are not as necessary, Tatsugiri may opt for a Modest nature, which enjoys some extra liberties like 2HKOing
+
+Hoopa
+
+with Draco Meteor after Stealth Rock. Tatsugiri's Tera typings are defensive, as they offer the strongest sweeping chances by limiting its revenge killers; Tera Fairy is generally the best, allowing Tatsugiri to wall opposing Tatsugiri and resist Sucker Punch. Tera Ghost is another option to reliably revenge kill—or prevent the revenge kill from—foes like
+
+Ambipom
+
+and Choice Scarf
+
+Heracross
+
+. Lastly, Tera Normal is a niche option to avoid relevant Ghost-type attacks like
+
+Hisuian Decidueye
+
+'s Shadow Sneak and Choice Scarf Hoopa's Shadow Ball, with the minor benefit of buffing Rapid Spin.
+
+Tatsugiri may easily fit on a variety of teams due to its offensive utility, with a predilection for offensive structures, but it ultimately always needs careful positioning for it to get on the field due to its frailty. It will best offensively check entry hazard users like
+
+Mudsdale
+
+and Coalossal, so pivots like
+
+Rotom-Heat
+
+,
+
+Grimmsnarl
+
+, and
+
+Passimian
+
+are great at getting Tatsugiri in safely against these walls. Skuntank and
+
+Hisuian Typhlosion
+
+may lure these walls in as well, making for riskier albeit just as rewarding, positioning plays for Tatsugiri to double switch or simply come in on their Stealth Rock and Spikes. In return, these two offensive teammates put pressure on some of the specially defensive walls that Tatsugiri struggles with, like
+
+Florges
+
+and Assault Vest
+
+Galarian Slowbro
+
+. Fire- and Ground-types such as
+
+Paldean Tauros-F
+
+and
+
+Golurk
+
+will enjoy Tatsugiri's ability to deter Water-type attacks from walls and revenge killers alike, such as
+
+Milotic
+
+,
+
+Cramorant
+
+, and Choice Scarf Bruxish; use these matchups as setup opportunities for Tatsugiri. Defensive cores with walls such as Mudsdale, Galarian Slowbro, and Florges are good to rely on when Tatsugiri is forced out by faster revenge killers like
+
+Pawmot
+
+and
+
+Zoroark
+
+. With Eject Pack, Tatsugiri will have a one-time switch on special walls like
+
+Wo-Chien
+
+and
+
+Snorlax
+
+, so physical wallbreakers that enjoy the free switch-in like Flame Orb Heracross and Choice Band Paldean Tauros-F will make the most out of this interaction.
+
+While Tatsugiri has many good traits, like its Speed, access to Rapid Spin as well as Nasty Plot, and a great ability in Storm Drain, it usually falls short due to its practically non-existent bulk. However, some hyper offense can work around this glaring issue and capitalize on Tatsugiri's great traits with this set.
+
+Tatsugiri is solely used to combine with
+
+Dondozo
+
+, and shouldn't be picked outside of that purpose.
+
+Icy Wind is used as a late-game speed control option. Dragon Pulse is a more consistent STAB move compared to Draco Meteor and Muddy Water, at the cost of damage. Sleep Talk allows Tatsugiri to better answer
+
+Amoonguss
+
+, while Tera Blast hits
+
+Flutter Mane
+
+and
+
+Chien-Pao
+
+in the rare circumstances where Tatsugiri is Terastallized.
+
+Choice Scarf allows Tatsugiri to clean up late-game once
+
+Dondozo
+
+is down, either serving as speed control with Icy Wind to support its partner or dealing damage with Muddy Water and Draco Meteor.
+
+The given EVs allow Tatsugiri to outspeed Choice Scarf
+
+Landorus-T
+
+and survive an Icicle Crash from Chien-Pao and a Wicked Blow from
+
+Urshifu-S
+
+.
+
+Tera Steel gives Tatsugiri a resistance to Dragon and Fairy and a generally better defensive profile. Tera Water can be used to boost Muddy Water's damage and remove its weakness to Flutter Mane's Fairy-type STAB moves, which is useful in some end-game scenarios.
+
+Tatsugiri-D's main role is to be beside
+
+Dondozo
+
+and give it a boost thanks to Commander and Order Up boosting Dondozo's Defense stat. When not beside Dondozo, it can support partners with Helping Hand and deal spread damage with Muddy Water, which can swing games by having a chance to lower the foes' accuracy. Draco Meteor is a strong Dragon-type attack that can threaten other Dragon-types like
+
+Miraidon
+
+and
+
+Roaring Moon
+
+. Helping Hand can be used to boost the attacks of partners like
+
+Calyrex-S
+
+and
+
+Chi-Yu
+
+. With Helping Hand, Calyrex-S can KO
+
+Raging Bolt
+
+with Astral Barrage, while Chi-Yu can KO
+
+Flutter Mane
+
+with Heat Wave. Focus Sash allows Tatsugiri-D to survive an attack and fire back or support its partners. With a Modest Nature, Tera Stellar Tatsugiri-D can OHKO both
+
+Urshifu
+
+formes, Calyrex-S, and most Assault Vest Raging Bolt with Draco Meteor and Chi-Yu with Muddy Water. Tatsugiri-D can run a Timid nature, making it deal less damage but letting it outspeed threats like Modest
+
+Terapagos
+
+and
+
+Regidrago
+
+.
+
+Tatsugiri is solely used to combine with Dondozo, and shouldn't be picked outside of that purpose.
+
+========
+
+Tatsugiri-D's role is to give
+
+Dondozo
+
+an omniboost thanks to Commander while also enabling Dondozo's Order Up to raise its Defense every time. Tatsugiri-D can also be used as a late-game cleaner after Dondozo faints with its decent Speed and good Special Attack.
+
+Draco Meteor threatens to OHKO some non-Assault Vest
+
+Miraidon
+
+and
+
+Raging Bolt
+
+variants as well as some
+
+Koraidon
+
+variants. Tatsugiri-D can also deal solid spread damage with Muddy Water. Helping Hand gives Tatsugiri-D a more supportive role, boosting the offense of partners like
+
+Calyrex-S
+
+,
+
+Chi-Yu
+
+, Miraidon, and Koraidon. With Helping Hand, Life Orb Calyrex-S can OHKO Assault Vest
+
+Iron Hands
+
+with Psychic, Chi-Yu can OHKO bulky
+
+Flutter Mane
+
+with Overheat, Choice Specs Miraidon can OHKO
+
+Calyrex-I
+
+and Assault Vest
+
+Incineroar
+
+with Electro Drift, and Life Orb Koraidon can OHKO Raging Bolt and
+
+Zamazenta-C
+
+with Close Combat.
+
+Icy Wind can be used over Helping Hand as a form of speed control.
+
+Focus Sash can help Tatsugiri-D survive one hit and dish out damage back or support its teammates, and it can also ensure that Tatsugiri-D survives to boost Dondozo.
+
+With a Modest nature and Tera Stellar, Draco Meteor can OHKO some bulky
+
+Urshifu-R
+
+and Assault Vest Raging Bolt variants. A Timid nature can instead outspeed
+
+Smeargle
+
+, as well as Miraidon, Koraidon, and
+
+Chien-Pao
+
+after a Speed drop, all while still guaranteeing an OHKO on non-bulky Urshifu-R.
+
+Tera Normal can also be used to become immune to Ghost-type attacks from Calyrex-S and
+
+Lunala
+
+.
+
+Teambuilding
+
+Dondozo is a mandatory partner for Commander Tatsugiri-D, as Tatsugiri-D has no other notable niche.
+
+Tatsugiri-D's subpar Speed and underwhelming bulk makes it vulnerable to various metagame threats such as Calyrex-S, Miraidon, and Koraidon.
+
+Tatsugiri-D also can have a hard time breaking through more specially defensive Pokemon such as Zamazenta-C, Flutter Mane,
+
+Rillaboom
+
+, and Assault Vest Iron Hands, which are all capable of dealing hefty damage to Tatsugiri-D.
+
+Galarian Weezing
+
+can shut down Commander with Neutralizing Gas, preventing Tatsugiri-D from supporting Dondozo.
+
+Calyrex-S and Miraidon can blast away foes and pave a path for the Tatsugiri-D + Dondozo combination to win the late-game, and Miraidon's pivoting via Volt Switch can help Tatsugiri-D and Dondozo get into a favorable position.
+
+Tatsugiri only appears on teams to enable
+
+Dondozo
+
+with its Commander ability and potentially offer some support and damage.
+
+Icy Wind offers speed control and considerable damage into the likes of
+
+Garchomp
+
+and
+
+Dragonite
+
+, though it only appears on Choice Scarf sets. Draco Meteor is a high-damage STAB option with drawbacks, while Dragon Pulse offers consistent damage. Taunt can stop status moves like Spore from
+
+Amoonguss
+
+; Follow Me from
+
+Electabuzz
+
+,
+
+Magmar
+
+, and
+
+Maushold
+
+; and Trick Room from
+
+Porygon2
+
+and the
+
+Indeedee
+
+formes. Taunt in combination with Safety Goggles can ignore Rage Powder to stop opposing setup. The status moves are not intended for a Choice Scarf set. Protect appears on Focus Sash and Safety Goggles sets, and it can be used to bait attacks into Tatsugiri before Dondozo is sent out, drawing damage away from Tatsugiri's partner.
+
+Choice Scarf lets Tatsugiri outspeed the entire metagame if the opponent does not have Speed boosts, though it is less flexible. Focus Sash aids survivability for Tatsugiri, with its low defensive presence, but the set lacks speed control. Safety Goggles stops Tatsugiri from getting punished by a slow Spore on the turn Dondozo faints. The Safety Goggles set has mediocre Speed and bulk and can be taken out by fast offensive threats.
+
+Tera Ghost is useful for blocking moves like Fake Out and Extreme Speed, which will quickly break a Focus Sash. Tera Steel turns Tatsugiri's weaknesses to Dragon, Fairy, and Freeze Dry into resistances and adds other useful resistances, such as to Grass- and Normal-type moves like Wood Hammer, Blood Moon, and Hyper Voice. Tera Stellar boosts general offense, given that Focus Sash Tatsugiri is likely to survive a turn.
+
+Tatsugiri is solely used to combine with
+
+Dondozo
+
+and shouldn't be picked outside of that purpose.
+
+Draft Order
+
+: Round 7 onwards
+
+Price Range
+
+: 2-4 Points
+
+Overview
+
+: Tatsugiri is an unconventional budget spinner with a strong typing, shallow but usable movepool, high Special Attack stat with strong STAB options, and just enough utility moves to catch opponents off-guard. It fits best on teams with several prominent physical attackers that give it room to deal damage and provide utility for its team. All that being said, Tatsugiri has almost no coverage, a relatively low Speed stat, and paper-thin Defense, which makes it outclassed by nearly every other Rapid Spin user in the metagame.
+
+Common Roles
+
+Utility
+
+: Tatsugiri's main utility is being able to use Rapid Spin to keep entry hazards away for its teammates. Depending on the opposing team structure, it can then run strong STAB attacks, Taunt to prevent recovery or setup, and Memento to give a teammate an opportunity to sweep.
+
+Special Wallbreaker
+
+: Tatsugiri can use Nasty Plot to boost its Special Attack and threaten teams without strong answers to Water- and Dragon-type moves. Icy Wind and Tera Blast offer coverage for specific cases, while Rapid Spin can be used to allow Tatsugiri to outrun typically faster foes. Choice Specs offers more immediate power at the cost of being locked into a move.
+
+Common Moves
+
+Primary STAB Moves
+
+: Draco Meteor, Dragon Pulse, Hydro Pump, Surf
+
+Setup Moves
+
+: Nasty Plot
+
+Utility Moves
+
+: Rapid Spin, Memento, Taunt, Substitute
+
+Coverage
+
+: Icy Wind, Tera Blast
+
+Niche Moves
+
+Counter / Mirror Coat
+
+: With a Focus Sash, a resistance Berry, or some defensive investment, Tatsugiri can live a hit and deal massive damage back, surprising foes that may not mind taking its attacks otherwise.
+
+Whirlpool
+
+: Tatsugiri can trap foes switching in, allowing it to set up, attack, or pivot into teammates without worry of the foe also switching.
+
+Chilling Water
+
+: Tatsugiri can reduce the Attack of foes with Chilling Water while dealing chip damage, allowing it to potentially survive a physical hit or let its teammates switch in more comfortably.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Tatsugiri prefers not to get worn down by entry hazards if it needs to switch in multiple times to use Rapid Spin and Draco Meteor, so Heavy-Duty Boots allows it to switch in and out more efficiently.
+
+Choice Scarf
+
+: Choice Scarf allows Tatsugiri to boost its relatively mediocre Speed and outrun would-be faster foes, threatening them with strong special coverage or spinning away hazards before it gets KOed.
+
+Damage-boosting items
+
+: Choice Specs, Life Orb, Mystic Water, and Dragon Fang are all viable options to boost Tatsugiri’s offensive coverage against slower teams or in battles where it can consistently boost its Speed.
+
+Niche Items
+
+Resistance Berries
+
+: Tatsugiri can use Haban Berry, Roseli Berry, and even Yache Berry to live a super effective hit that would normally KO it and fire back with a Mirror Coat, Counter, or a strong offensive move.
+
+Assault Vest
+
+: Tatsugiri has just enough attacking options and a usable enough Special Defense stat with Assault Vest to become an offensive pivot against weaker special attackers that can also potentially take super effective hits it normally couldn’t and fire back with a Mirror Coat.
+
+Eject Pack
+
+: Against teams with multiple Pokemon that resist its STAB attacks, Tatsugiri can utilize Eject Pack to use a Draco Meteor to both deal big damage and allow it to pivot to a teammate for free.
+
+Tera
+
+Tatsugiri is a somewhat usable Tera Captain because it does appreciate any additional coverage, but more often than not, players should have stronger options. In the case where Tatsugiri is the only option, Tera Fire and Ground can grant Tatsugiri strong coverage against Steel-types with Tera Blast while taking advantage of Storm Drain, Tera Poison and Steel can help it hit Fairy-types, and Tera Electric and Grass do meaningful damage to Water-types.
+
+Draft Strategy
+
+Tatsugiri is primarily drafted late as a special wallbreaker and Rapid Spin user with decent typing and a Water immunity. It fits on specific teams lacking in the tools it can provide to teams on a budget. As it offers little else other than some small amount of utility, it should only be considered for well-built teams that already have physical offense, entry hazards, and type coverage locked in.
+
+Checks and Counters
+
+Faster Foes
+
+: Tatsugiri's middling Speed tier and unremarkable bulk leave it being outsped and threatened by a large portion of the metagame, at least before it can get a Speed boost from Rapid Spin.
+
+Physical Attackers
+
+: Tatsugiri's low HP and Defense means even neutral STAB moves from foes like
+
+Urshifu-S
+
+,
+
+Landorus-T
+
+, and
+
+Galarian Zapdos
+
+can OHKO it without boosting items.
+
+Bulky Water- and Dragon-resistant Pokemon
+
+:
+
+Empoleon
+
+,
+
+Primarina
+
+, and
+
+Azumarill
+
+are a few examples of bulkier Pokemon that resist or are immune to Tatsugiri’s STAB attacks and aren’t bothered by its meager coverage.
