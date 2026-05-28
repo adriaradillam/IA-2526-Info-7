@@ -1,0 +1,21 @@
+id,descripcion,consulta_booleana,consulta_texto_libre,relevantes
+1,Pokémon ofensivo físico con Danza Espada y un ataque de prioridad con STAB para limpiar equipos.,"Swords Dance" AND (priority OR "Bullet Punch" OR "Sucker Punch"),Swords Dance priority STAB sweeper cleaner,"kingambit, scizor, ceruledge"
+2,Pivot defensivo que pueda quitar hazards del campo (con Defog o Rapid Spin) y que resista ataques de tipo Tierra o Lucha.,("Defog" OR "Rapid Spin") AND pivot AND (resist OR immune),defensive pivot Defog Rapid Spin hazard removal,"corviknight, zapdos, great-tusk"
+3,Atacante especial muy rápido que sea resistente o inmune al tipo Hada para frenar a amenazas como Iron Valiant.,fast AND special AND (Fairy AND resist),fast special attacker Fairy resistance check,"gholdengo, iron-moth"
+4,Pokémon de tipo Tierra que pueda colocar Trampa Rocas y actuar como una muralla física.,"Stealth Rock" AND Ground AND defensive,Ground type Stealth Rock physical wall defensive,"ting-lu, great-tusk, gliscor, landorus-therian, garchomp"
+5,Pokémon que pueda usar Desarme de forma segura y sirva de muralla especial.,"Knock Off" AND "Special Defense" AND wall,Knock Off special wall defensive utility,"ting-lu, toxapex, amoonguss"
+6,Pokémon de tipo Agua muy defensivo que pueda curarse a sí mismo y aguantar ataques físicos.,Water AND defensive AND (recover OR synthesis OR roost),bulky Water type reliable recovery physical wall,"dondozo, toxapex, rotom-wash"
+7,Usuario de Esporas que tenga la habilidad Regenerador.,"Spore" AND "Regenerator",Spore Regenerator pivot status,amoonguss
+8,Atacante físico rápido de tipo Lucha o Siniestro con acceso a Mofa.,"Taunt" AND fast AND physical AND (Dark OR Fighting),fast physical Dark Fighting Taunt attacker,"roaring-moon, meowscarada"
+9,Pokémon con la habilidad Espejo Mágico que sirva como atacante especial.,"Magic Bounce" AND special,Magic Bounce special attacker hazard control,hatterene
+10,Pokémon de tipo Fuego rápido que pueda hacer mucho daño bajo el Sol y usar Ida y Vuelta.,Fire AND Sun AND "U-turn",fast Fire type Sun U-turn pivot,"cinderace, gouging-fire"
+11,Pokémon de tipo Dragón que se potencie con Danza Dragón y use ataques físicos como Terremoto.,Dragon AND "Dragon Dance" AND "Earthquake",Dragon type Dragon Dance Earthquake physical sweeper,"dragonite, baxcalibur, roaring-moon"
+12,Pokémon defensivo especial con acceso a Tóxico y Deseo.,"Wish" AND "Toxic" AND defensive,Wish Toxic special wall cleric support,clefable
+13,Atacante especial fuerte que use Gafas Elección y tenga Rayo Hielo o Bola Sombra.,"Choice Specs" AND ("Ice Beam" OR "Shadow Ball"),Choice Specs special wallbreaker Ice Beam Shadow Ball,"gholdengo, dragapult, kyurem"
+14,Usuario de Viento Afín o Red Viscosa que se use como líder.,lead AND ("Tailwind" OR "Sticky Web"),lead hyper offense Tailwind Sticky Web,ribombee
+15,Pokémon de tipo Acero con acceso a Plancha Corporal y Defensa Férrea.,Steel AND "Iron Defense" AND "Body Press",Steel type Iron Defense Body Press physical wall,"corviknight, skarmory, zamazenta"
+16,Pokémon que ponga el clima de Lluvia automáticamente.,Rain AND setter AND weather,Rain weather setter Drizzle,pelipper
+17,Pokémon con acceso a Sorpresa e Ida y Vuelta/Voltiocambio.,"Fake Out" AND ("U-turn" OR "Volt Switch"),Fake Out U-turn Volt Switch pivot,"iron-hands, rillaboom"
+18,Pokémon con Trampa Rocas y Fuego Fatuo.,"Stealth Rock" AND "Will-O-Wisp",Stealth Rock Will-O-Wisp hazard status,"skeledirge, heatran"
+19,Pokémon de tipo Fantasma rápido que pueda causar mucho daño con Infortunio.,Ghost AND fast AND "Hex",fast Ghost type Hex status abuser,"dragapult, gholdengo"
+20,Pokémon versátil que pueda aprender Truco para pasar un objeto elegido.,"Trick" AND Choice,Trick Choice item cripple wall,"gholdengo, rotom-wash, latios"
