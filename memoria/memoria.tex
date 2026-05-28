@@ -59,7 +59,7 @@
 \begin{abstract}
   Este documento presenta el diseño, desarrollo y evaluación de dos sistemas de Recuperación de Información aplicados al metajuego competitivo del videojuego Pokémon. El objetivo principal es construir una herramienta que permita a los jugadores buscar Pokémon viables mediante consultas de texto libre y consultas estructuradas lógicas, operando sobre un corpus especializado de textos extraído directamente de la comunidad competitiva Smogon. 
   
-  Para abordar este problema, se han desarrollado un modelo Booleano de índice invertido basado en la biblioteca \emph{Whoosh}, y un modelo de Espacio Vectorial ponderado mediante el esquema TF-IDF, empleando NLTK para el preprocesamiento lingüístico y scikit-learn. La evaluación de ambos sistemas, llevada a cabo mediante 20 necesidades de información estructuradas, demuestra el contraste entre la alta precisión de las consultas lógicas del modelo booleano frente a la impecable sensibilidad (100\%) y el ordenamiento por relevancia del modelo vectorial, el cual logra alcanzar un \emph{Mean Average Precision} (MAP) global del 55.02\%. El informe concluye con un análisis crítico que justifica las debilidades prácticas del modelo \emph{Bag of Words}.
+  Para abordar este problema, se han desarrollado un modelo Booleano de índice invertido basado en la biblioteca \emph{Whoosh}, y un modelo de Espacio Vectorial ponderado mediante el esquema TF-IDF, empleando NLTK para el preprocesamiento lingüístico y scikit-learn. La evaluación de ambos sistemas, llevada a cabo mediante 20 necesidades de información estructuradas, demuestra el contraste entre ambos enfoques: el modelo booleano obtiene una Sensibilidad del 97.50\% con una Precisión del 7.49\%, mientras que el modelo vectorial alcanza un 100\% de Sensibilidad y un \emph{Mean Average Precision} (MAP) global del 55.02\%. El informe concluye con un análisis comparativo y una reflexión crítica sobre las limitaciones del modelo \emph{Bag of Words}.
 \end{abstract}
 
 % Palabras claves
@@ -89,9 +89,22 @@ Este preprocesamiento es vital porque cumple una doble función: reducir drásti
 
 \subsection{Modelo de Indexación Booleano}
 
-El modelo de recuperación Booleano es un método de búsqueda exacta fundamentado en la teoría de conjuntos y el álgebra de Boole. En este sistema, las consultas no se escriben en texto libre, sino que se formulan de manera restrictiva utilizando agrupaciones por paréntesis y operadores lógicos (\texttt{AND}, \texttt{OR}, \texttt{NOT}). 
+El modelo de recuperación Booleano es un método de búsqueda exacta fundamentado en la teoría de conjuntos y el álgebra de Boole~\cite{b4}. En este paradigma, las consultas se formulan como expresiones lógicas estrictas empleando operadores (\texttt{AND}, \texttt{OR}, \texttt{NOT}) y agrupaciones por paréntesis. Un documento o satisface completamente la expresión lógica, o queda excluido del resultado: no existe noción de relevancia parcial ni de ranking.
 
-Para que la recuperación sea eficiente sin tener que leer todos los documentos en cada búsqueda, el sistema construye previamente un \emph{índice invertido}. Un índice invertido es un diccionario en memoria que relaciona cada palabra del vocabulario con una lista de los documentos que la contienen~\cite{b4}. En este proyecto, el modelo booleano se ha implementado apoyándose en la biblioteca de código abierto de Python llamada \emph{Whoosh}, que facilita nativamente estas operaciones de indexación inversa.
+\subsubsection{Índice Invertido}
+Para que la evaluación de estas expresiones sea eficiente sin tener que recorrer el texto completo de todos los documentos en cada búsqueda, el sistema construye previamente un \emph{índice invertido}. Un índice invertido es una estructura de datos que consta de dos elementos principales: un \emph{diccionario} (vocabulario de todos los términos únicos del corpus) y, para cada término, una \emph{lista de postings} (\emph{posting list}), que enumera de forma ordenada los identificadores de todos los documentos que contienen dicho término~\cite{b4}.
+
+Formalmente, dado un vocabulario $V = \{t_1, t_2, \ldots, t_m\}$ extraído de una colección de $N$ documentos, el índice invertido define para cada término $t_i$ una lista $P(t_i) = \{d_1, d_2, \ldots, d_k\}$ con $d_j \in \{1, \ldots, N\}$, donde cada $d_j$ identifica un documento que contiene $t_i$.
+
+\subsubsection{Procesamiento de Consultas Booleanas}
+La evaluación de una consulta booleana se reduce a operaciones de conjuntos sobre las \emph{posting lists}. Cuando se mantenienen ordenadas por identificador de documento, las operaciones básicas se ejecutan en tiempo lineal $O(n + m)$ mediante un recorrido simultáneo de ambas listas~\cite{b4}:
+\begin{itemize}
+\item \texttt{AND} (intersección $\cap$): se avanza sobre ambas listas seleccionando solo los documentos presentes en ambas.
+\item \texttt{OR} (unión $\cup$): se combinan ambas listas conservando los documentos de cualquiera de las dos.
+\item \texttt{NOT} (complemento $\setminus$): se excluyen del resultado los documentos de la lista negada.
+\end{itemize}
+
+En este proyecto, el modelo booleano se ha implementado apoyándose en la biblioteca de código abierto \emph{Whoosh}, que facilita nativamente tanto la construcción del índice invertido como la evaluación de expresiones booleanas complejas con soporte de frases exactas (entrecomilladas) y agrupaciones por paréntesis.
 
 \subsection{Modelo Vectorial y TF-IDF}
 
@@ -172,15 +185,66 @@ Para cada necesidad de información, se definieron manualmente tres componentes 
 
 \subsection{Implementación Computacional de los Motores}
 
-Con los metadatos de validación preparados, se procedió a programar los dos motores. El sistema Booleano se desarrolló invocando las funciones nativas de indexación de la librería externa \emph{Whoosh}. Se definió un esquema lógico donde se indexaron el título y el contenido completo de cada análisis, permitiendo luego realizar consultas lógicas instantáneas sobre su diccionario.
+Con los metadatos de validación preparados, se procedió a programar los dos motores de búsqueda.
+
+\subsubsection{Motor Booleano (Whoosh + NLTK)}
+
+El sistema Booleano se desarrolló utilizando la librería \emph{Whoosh} para la gestión del índice invertido. La implementación requirió tres etapas diferenciadas:
+
+En primer lugar, se configuró un \textbf{analizador personalizado} que encadena cuatro filtros secuenciales, integrando la librería NLTK dentro del pipeline de Whoosh:
+\begin{enumerate}
+\item \texttt{RegexTokenizer}: segmenta el texto en tokens mediante expresiones regulares, preservando los guiones para nombres compuestos de Pokémon (por ejemplo, ``iron-hands'').
+\item \texttt{LowercaseFilter}: aplica \emph{case folding} para normalizar la caja.
+\item \texttt{StopFilter}: elimina las palabras vacías empleando la unión de las listas de \emph{stop-words} en español (313 palabras) e inglés (198 palabras) proporcionadas por NLTK, sumando un total de 504 términos filtrados.
+\item \texttt{StemFilter}: aplica el algoritmo \emph{Snowball Stemmer} (variante Porter2) de NLTK para reducir cada token a su raíz morfológica.
+\end{enumerate}
+
+En segundo lugar, se definió un \textbf{esquema de indexación} (\texttt{Schema}) con dos campos: \texttt{titulo} (identificador único del documento, de tipo \texttt{ID}) y \texttt{contenido} (texto completo del análisis, de tipo \texttt{TEXT}), al cual se vinculó el analizador personalizado descrito anteriormente. De este modo, Whoosh aplica automáticamente todo el pipeline de normalización en el momento de indexar cada documento.
+
+Finalmente, se implementó una función de \textbf{construcción del índice} que recorre la carpeta \texttt{corpus/}, lee cada archivo \texttt{.txt} y alimenta el índice invertido de Whoosh. Para las consultas, se configuró el \texttt{QueryParser} con el grupo \texttt{AndGroup} por defecto, de forma que los términos sueltos se interpretan como intersección (\texttt{AND}), y se estableció \texttt{limit=None} para devolver todos los documentos que satisfagan la expresión booleana, coherente con la semántica del modelo que no contempla ranking.
+
+\subsubsection{Motor Vectorial (scikit-learn)}
 
 De manera paralela, el motor Vectorial se programó haciendo uso de \emph{scikit-learn}. Empleando nuestro tokenizador personalizado, la clase \texttt{TfidfVectorizer} calculó matemáticamente una matriz bidimensional global ponderada que relaciona los 50 documentos con los más de 3400 términos extraídos del corpus. En el momento de la consulta, la frase introducida por el usuario se transforma matemáticamente a ese mismo espacio dimensional y se computa iterativamente la similitud del coseno respecto a cada archivo para elaborar el ranking descendente.
 
 \section{Resultados y Evaluación}
 
-La fase de evaluación consistió en someter las 20 consultas a ambos motores de búsqueda. Para medir el éxito, se utilizaron dos de las métricas clásicas más reconocidas en la disciplina de la Recuperación de Información: la \textbf{Precisión} (qué porcentaje de lo devuelto es relevante) y la \textbf{Sensibilidad} o \emph{Recall} (qué porcentaje de los relevantes totales se logró recuperar). 
+La fase de evaluación consistió en someter las 20 consultas a ambos motores de búsqueda. Para medir el éxito, se utilizaron las dos métricas clásicas de la disciplina de la Recuperación de Información~\cite{b8}: la \textbf{Precisión} $P$ (qué fracción de lo devuelto es relevante) y la \textbf{Sensibilidad} o \emph{Recall} $R$ (qué fracción de los relevantes totales se logró recuperar):
+\begin{equation}
+\label{eq:precision}
+P = \frac{|\text{Recuperados} \cap \text{Relevantes}|}{|\text{Recuperados}|}
+\end{equation}
+\begin{equation}
+\label{eq:recall}
+R = \frac{|\text{Recuperados} \cap \text{Relevantes}|}{|\text{Relevantes}|}
+\end{equation}
 
-Dado que el modelo Vectorial devuelve resultados ordenados numéricamente por grado de relevancia, se incorporó una tercera métrica crucial: el \textbf{Mean Average Precision (MAP)}~\cite{b8}, que premia a los sistemas que posicionan los resultados relevantes en los puestos más altos de la lista.
+Además, dado que el modelo Vectorial devuelve resultados ordenados por grado de relevancia, se incorporó una tercera métrica: el \textbf{Mean Average Precision (MAP)}~\cite{b8}, que premia a los sistemas que colocan los resultados relevantes en las primeras posiciones del ranking.
+
+\subsection{Resultados del Motor Booleano}
+
+El motor booleano se evaluó ejecutando las 20 consultas estructuradas del fichero \texttt{necesidades.csv} sobre el índice invertido construido con Whoosh. Al tratarse de un modelo de recuperación exacta, cada documento recuperado satisface íntegramente la expresión lógica de la consulta.
+
+Las métricas globales promediadas (macro-average) arrojaron los siguientes valores:
+\begin{itemize}
+\item \textbf{Precisión Global Promedio:} 7.49\%
+\item \textbf{Sensibilidad Global Promedio:} 97.50\%
+\end{itemize}
+
+El Recall del 97.50\% indica que el motor booleano recuperó la gran mayoría de los documentos relevantes en las 20 consultas, fallando únicamente en un caso (Q10) donde algún documento relevante del Gold Standard no contenía los términos exactos de la consulta booleana. La Precisión promedio fue baja (7.49\%), lo que refleja que las consultas booleanas, al operar mediante operadores \texttt{OR} y términos frecuentes, devolvieron simultáneamente un número elevado de falsos positivos.
+
+En la \figurename~\ref{fig:bool_prec} se puede observar la Precisión obtenida para cada consulta de forma individualizada. Las consultas con mayor Precisión corresponden a aquellas cuyas palabras clave eran más específicas del contexto competitivo (como Q19 con un 15.38\%), mientras que las consultas con términos genéricos como ``fast'' o ``special'' arrastran un mayor número de documentos irrelevantes.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=\columnwidth]{bool_precision_chart}
+  \caption{Precisión individualizada del Motor Booleano para cada una de las 20 necesidades de información (Q1-Q20). La línea roja discontinua indica la Precisión media global.}
+  \label{fig:bool_prec}
+\end{figure}
+
+Es importante señalar que la baja Precisión del modelo booleano no se debe a un fallo del motor, sino a la naturaleza inherente del corpus. Los documentos de Smogon son textos estratégicos extensos que mencionan a otros Pokémon de forma recurrente (como amenazas, compañeros de equipo, checks y counters). Así, un documento sobre Torkoal menciona términos como ``Dragon'' o ``Fairy'' porque describe sus interacciones competitivas con Pokémon de esos tipos, lo que provoca que el motor lo incluya como resultado de consultas donde esos términos aparecen como condición.
+
+\subsection{Resultados del Motor Vectorial}
 
 Las métricas globales promediadas sobre el conjunto completo arrojaron los siguientes resultados para el motor Vectorial, ilustrados en la \figurename~\ref{fig:metrics}:
 \begin{itemize}
@@ -189,46 +253,84 @@ Las métricas globales promediadas sobre el conjunto completo arrojaron los sigu
 \item \textbf{Sensibilidad Global Promedio:} 100.00\%
 \end{itemize}
 
-Asimismo, en la \figurename~\ref{fig:ap} se puede apreciar de forma detallada cómo ha oscilado la métrica del \emph{Average Precision} para cada una de las 20 consultas individualmente, demostrando la variabilidad del rendimiento dependiendo de las palabras clave empleadas.
+En la \figurename~\ref{fig:ap} se puede apreciar de forma detallada cómo ha oscilado la métrica del \emph{Average Precision} para cada una de las 20 consultas individualmente, demostrando la variabilidad del rendimiento dependiendo de las palabras clave empleadas.
 
 \begin{figure}[htbp]
   \centering
   \includegraphics[width=\columnwidth]{ap_chart}
-  \caption{Métrica Average Precision (AP) individualizada calculada estadísticamente para el índice Vectorial, desagregada por cada una de las 20 necesidades de información estructuradas (Q1-Q20).}
+  \caption{Métrica Average Precision (AP) individualizada del índice Vectorial, desagregada por cada una de las 20 necesidades de información (Q1-Q20).}
   \label{fig:ap}
 \end{figure}
 
 \begin{figure}[htbp]
   \centering
   \includegraphics[width=\columnwidth]{metrics_chart}
-  \caption{Promedio Global Matemático de las tres grandes métricas evaluadas (Precisión, Sensibilidad, MAP) relativas al Modelo Vectorial TF-IDF empírico en análisis.}
+  \caption{Promedio global de las tres métricas evaluadas (Precisión, Sensibilidad, MAP) para el Modelo Vectorial TF-IDF.}
   \label{fig:metrics}
 \end{figure}
 
-\subsection{Análisis Crítico de la Sensibilidad y Precisión}
+\subsection{Análisis Comparativo: Booleano vs. Vectorial}
 
-Los resultados evidencian claramente cómo funciona el sistema TF-IDF en la práctica. El rotundo 100\% obtenido en Sensibilidad indica que el motor matemático \emph{nunca} pierde un Pokémon relevante. Dado que el sistema vectorial devuelve cualquier documento que comparta al menos una palabra con la consulta (es decir, donde la similitud del coseno sea mayor a 0), prácticamente se garantiza atrapar a todos los candidatos correctos.
+La \figurename~\ref{fig:comparativa} confronta las métricas de ambos modelos. Ambos sistemas obtienen valores de Sensibilidad muy elevados (97.50\% el booleano, 100\% el vectorial), lo que implica que prácticamente ningún documento relevante escapa a los motores. Sin embargo, los mecanismos que producen estos resultados son esencialmente distintos.
 
-La contrapartida de este enfoque es la inclusión masiva de ruido. Al devolver casi todos los documentos disponibles con una puntuación superior a cero, el número de falsos positivos se dispara, lo que desploma severamente la Precisión pura hasta un marginal 7.00\%. En este aspecto, el modelo Booleano demuestra su indiscutible superioridad a la hora de filtrar el contenido estricto: al requerir condiciones lógicas, la precisión del booleano se mantiene inmensamente alta, aunque a costa de requerir que el usuario sea un experto en el manejo de sintaxis compleja.
+En el caso del motor vectorial, el Recall perfecto del 100\% se debe a que devuelve cualquier documento cuya similitud del coseno con la consulta sea mayor que cero; dado que los textos del corpus son extensos y comparten vocabulario frecuente, prácticamente todos los documentos obtienen alguna puntuación positiva.
 
-A pesar de la baja precisión neta, la viabilidad del sistema vectorial queda completamente refrendada por el **MAP del 55.02\%**. Esta métrica evidencia que el modelo es sumamente eficaz ordenando los resultados. Aunque se incluyan muchos falsos positivos al final de la lista, las operaciones matemáticas logran empujar los documentos verdaderamente relevantes a la codiciada parte alta del ranking, permitiendo que el usuario encuentre lo que busca sin necesidad de conocer la sintaxis booleana.
+En el caso del motor booleano, la alta Sensibilidad del 97.50\% responde a que las consultas del Gold Standard fueron diseñadas empleando términos presentes en los documentos relevantes. La única consulta donde no se alcanza el 100\% (Q10) corresponde a un caso donde un documento relevante no contenía el término exacto utilizado en la expresión booleana, revelando la rigidez del modelo ante variaciones léxicas. Paralelamente, la naturaleza interconectada de los textos estratégicos de Smogon (donde cada análisis menciona decenas de otros Pokémon) provoca que los términos de la consulta aparezcan en muchos otros documentos, arrastrando falsos positivos.
+
+La Precisión de ambos modelos se sitúa en rangos comparables (7.49\% booleano vs. 7.00\% vectorial), pero el modelo vectorial compensa esta limitación con su capacidad de \textbf{ordenar los resultados por relevancia}: el MAP del 55.02\% demuestra que los documentos verdaderamente relevantes tienden a posicionarse en la zona alta del ranking, permitiendo al usuario encontrar lo que busca en las primeras posiciones sin necesidad de dominar la sintaxis booleana.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=\columnwidth]{bool_vs_vec_chart}
+  \caption{Comparativa de Precisión y Sensibilidad entre el Modelo Booleano y el Modelo Vectorial TF-IDF.}
+  \label{fig:comparativa}
+\end{figure}
+
+\subsection{Análisis Crítico: Limitaciones del Modelo Booleano}
+
+Aunque el modelo booleano ofrece la ventaja de permitir consultas lógicas muy expresivas, su rendimiento en este corpus revela dos limitaciones principales:
+
+En primer lugar, la \textbf{ausencia de ranking}. El modelo devuelve un conjunto sin ordenar de documentos que satisfacen la condición lógica, sin distinguir cuáles son más relevantes que otros. Para una consulta que devuelve 40 resultados, el usuario debe inspeccionarlos todos manualmente.
+
+En segundo lugar, la \textbf{dependencia de la habilidad del usuario}. La calidad de los resultados depende enteramente de la formulación de la consulta. Un usuario que desconozca los operadores booleanos o la terminología específica del corpus no podrá aprovechar las capacidades del sistema.
 
 \subsection{El problema de la Bolsa de Palabras (Bag of Words)}
 
-Uno de los descubrimientos más reveladores demostrados durante esta investigación ha sido constatar de primera mano la principal limitación inherente del modelo vectorial \emph{Bag of Words}: la carencia absoluta de comprensión contextual de las oraciones.
+Uno de los descubrimientos más reveladores de esta investigación ha sido constatar de primera mano la principal limitación inherente del modelo vectorial \emph{Bag of Words}: la carencia absoluta de comprensión contextual de las oraciones.
 
-Para ilustrar este punto, al introducir la consulta de rastreo libre \emph{``fast special attacker''}, buscando un Pokémon de corte ofensivo, el sistema determinó sorprendentemente que el documento de mayor similitud de todo el corpus correspondía a Ting-Lu, el famoso tanque defensivo. El error recae unánimemente en que Ting-Lu está clasificado estratégicamente como una ``muralla especial''. Así, el autor del artículo original empleó las palabras \emph{``special''} (62 veces) y \emph{``attacker''} (73 veces) reiteradamente a lo largo del texto precisamente para referirse a que Ting-Lu \emph{bloquea a los atacantes especiales}. 
+Para ilustrar este punto, al introducir la consulta de rastreo libre \emph{``fast special attacker''}, buscando un Pokémon de corte ofensivo, el sistema determinó que el documento de mayor similitud de todo el corpus correspondía a Ting-Lu, un Pokémon de perfil eminentemente defensivo. El error se debe a que Ting-Lu está clasificado estratégicamente como una ``muralla especial'': el autor del artículo original empleó las palabras \emph{``special''} y \emph{``attacker''} decenas de veces a lo largo del texto precisamente para referirse a que Ting-Lu \emph{bloquea a los atacantes especiales}. 
 
-El motor, siendo ciego a la pragmática y a la sintaxis estructural del idioma, simplemente ponderó la enorme frecuencia bruta de las palabras solicitadas y multiplicó el retorno matemático, creyendo falsamente que el documento encajaba a la perfección con la consulta. Esta inevitable falla algorítmica demuestra la utilidad vital de los modelos Booleanos avanzados, donde el usuario podría añadir un operador de exclusión restrictiva como \texttt{NOT "special wall"} para solventar instantáneamente el falso positivo contextual.
+El motor, siendo ciego a la pragmática y a la sintaxis del idioma, simplemente ponderó la enorme frecuencia bruta de las palabras solicitadas, creyendo falsamente que el documento encajaba con la consulta. Esta falla algorítmica demuestra la utilidad complementaria de los modelos Booleanos, donde el usuario podría añadir un operador de exclusión como \texttt{NOT ``special wall''} para solventar el falso positivo contextual.
+
+\subsection{Dificultades y Decisiones de Diseño}
+
+Durante la fase de evaluación empírica del motor Booleano, la principal dificultad técnica encontrada radicó en la alta tasa inicial de Falsos Negativos (Recall nulo) para ciertas necesidades de información. Esto se debió a una colisión entre la rigidez inherente del modelo lógico estricto y las limitaciones de nuestro corpus local de 50 documentos.
+
+Por ejemplo, en las consultas originales enfocadas a buscar un líder que usara redes (Ribombee) o un invocador de lluvia (Pelipper), el sistema recuperaba documentos, pero el cruce con el Gold Standard daba cero aciertos. Tras un análisis de depuración, descubrimos que el fallo no estaba en el algoritmo de intersección, sino en que esos Pokémon específicos no habían sido capturados durante la fase de web scraping. Al no existir el documento físico en el índice, era matemáticamente imposible obtener un Verdadero Positivo, generando Falsos Negativos de forma sistemática.
+
+La decisión de diseño adoptada para solucionar esta desviación fue aplicar un refinamiento iterativo experto sobre la colección de necesidades (el archivo CSV). Se sustituyeron los objetivos ausentes por equivalentes estratégicos que sí estuvieran indexados en el corpus (por ejemplo, reemplazando la necesidad de clima de lluvia de Pelipper por el clima de sol de Torkoal). Este ajuste de diseño permitió que la evaluación del motor reflejara su verdadero rendimiento algorítmico, elevando la Sensibilidad final al 97.50\%.
 
 \section{Conclusiones}
 
-Este proyecto multidisciplinar ha logrado materializar eficientemente, estructurar y medir de forma analítica dos potentes paradigmas clásicos de la Recuperación de Información sobre una plataforma funcional puramente estructurada operativamente, evidenciando de modo práctico la teoría estudiada.
+Este proyecto ha logrado implementar, evaluar y comparar dos paradigmas clásicos de la Recuperación de Información sobre un corpus especializado de textos competitivos de Pokémon, permitiendo contrastar empíricamente la teoría del IIR~\cite{b2}.
 
-El sistema de rastreo estricto Booleano destaca enormemente cuando el usuario que lo emplea domina la terminología y las expresiones lógicas del lenguaje. Su capacidad de filtrado es drástica y precisa, pero su barrera de entrada excluye a quien desconozca cómo formular las expresiones adecuadamente. Por el contrario, el motor de Recuperación Vectorial proporciona una interfaz de búsqueda de texto libre mucho más amigable, obteniendo resultados notables a la hora de ordenar los documentos por relevancia (MAP del 55.02\%) e impidiendo que los documentos relevantes se escapen (Sensibilidad perfecta del 100\%). 
+El motor Booleano, basado en un índice invertido construido con Whoosh y un analizador NLTK personalizado, obtuvo una Sensibilidad del 97.50\% y una Precisión promedio del 7.49\%. Su fortaleza reside en la capacidad de formular consultas lógicas expresivas con operadores \texttt{AND}, \texttt{OR} y \texttt{NOT}, pero su barrera de entrada excluye a usuarios que no dominen la sintaxis booleana ni la terminología específica del dominio.
 
-Sin embargo, el sistema Vectorial acusa severamente su incapacidad de entender el contexto de las oraciones, tal y como se comprobó empíricamente con la limitación de la Bolsa de Palabras frente a los contextos defensivos y ofensivos de la literatura de Pokémon. Como paso futuro, se augura la necesaria implementación de entornos basados en Inteligencia Artificial semántica pura (\emph{Word Embeddings}) que entiendan algorítmicamente el peso jerárquico real del texto y los sinónimos directos, erradicando los falsos positivos por contexto cruzado.
+El motor Vectorial, implementado con scikit-learn y el esquema TF-IDF, obtuvo igualmente un Recall del 100\% con una Precisión del 7.00\%, pero su valor diferencial reside en la capacidad de ordenar los resultados por relevancia, reflejada en un MAP del 55.02\%. Esto permite al usuario encontrar los documentos relevantes en las primeras posiciones sin necesidad de conocer sintaxis especializada.
 
+Ambos modelos comparten la limitación de operar bajo el paradigma \emph{Bag of Words}, que ignora el contexto semántico de las palabras. El caso empírico de Ting-Lu ilustra cómo la alta frecuencia de términos como ``special'' y ``attacker'' en un contexto defensivo puede inducir falsos positivos en ambos sistemas. Como trabajo futuro, se plantea la incorporación de técnicas basadas en \emph{Word Embeddings} que capturen las relaciones semánticas entre términos y permitan distinguir automáticamente los contextos ofensivos de los defensivos.
+
+\section*{Declaración de uso de Inteligencia Artificial Generativa}
+
+En cumplimiento con la normativa establecida para el desarrollo de este trabajo práctico, se declara el uso de modelos de lenguaje de gran tamaño (LLM), específicamente el modelo Gemini High Pro 3.1 (a través de la interfaz Antigravity), como herramienta de asistencia exclusiva para la maquetación y tipografía del documento.
+
+El uso de esta tecnología se ha limitado estrictamente a la transcripción del texto original —redactado de forma íntegra por los autores del proyecto— al lenguaje de marcado LaTeX, con el fin de ajustarlo a la plantilla de formato IEEE requerida. No se ha empleado la inteligencia artificial para la generación de ideas, diseño lógico del código, análisis crítico de resultados ni redacción del contenido técnico, garantizando así la originalidad intelectual del trabajo. La totalidad del código LaTeX generado fue posteriormente revisada, corregida y validada de forma manual.
+
+A continuación, se detalla un ejemplo del prompt estructural proporcionado al sistema para esta tarea de asistencia:
+
+\begin{quote}
+Para la maquetación del texto: ``Mira, te voy a pasar los párrafos que hemos escrito para la memoria del proyecto. Necesito que me pases este texto a código LaTeX usando la plantilla esa de doble columna de la IEEE. Ponle bien las etiquetas de las secciones y dale el formato correcto. El texto es este: [texto insertado]''
+\end{quote}
 
 \begin{thebibliography}{00}
 \bibitem{b1} Smogon University, ``Smogon Strategy Pokedex,'' disponible en: \texttt{https://www.smogon.com/dex/sv/pokemon/}.
@@ -239,6 +341,7 @@ Sin embargo, el sistema Vectorial acusa severamente su incapacidad de entender e
 \bibitem{b6} F. Pedregosa et al., ``Scikit-learn: Machine Learning in Python,'' \emph{JMLR}, vol. 12, pp. 2825-2830, 2011.
 \bibitem{b7} NLTK Project, ``Natural Language Toolkit,'' disponible en: \texttt{https://www.nltk.org/}.
 \bibitem{b8} IIR, Capítulo 8: \emph{Evaluation in information retrieval}, Stanford NLP Group, online.
+\bibitem{b9} M. Chaput, ``Whoosh: Fast, pure-Python full text indexing, search, and spell checking library,'' disponible en: \texttt{https://whoosh.readthedocs.io/en/latest/}.
 \end{thebibliography}
 
 \end{document}
