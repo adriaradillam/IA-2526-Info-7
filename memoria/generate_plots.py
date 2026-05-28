@@ -1,0 +1,41 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+# 1. Gráfico de AP por consulta
+queries = [f'Q{i}' for i in range(1, 21)]
+aps = [
+    0.4977, 0.4583, 0.2017, 0.8819, 0.2765, 0.5073, 1.0000, 0.1191, 1.0000, 0.8167,
+    0.5500, 0.5972, 0.6017, 1.0000, 0.6250, 0.1429, 0.3611, 0.4776, 0.2508, 0.6389
+]
+
+plt.figure(figsize=(10, 5))
+plt.bar(queries, aps, color='steelblue')
+plt.axhline(y=np.mean(aps), color='r', linestyle='--', label=f'MAP: {np.mean(aps):.4f}')
+plt.title('Average Precision (AP) por Necesidad de Información', fontsize=14)
+plt.xlabel('Consulta', fontsize=12)
+plt.ylabel('AP', fontsize=12)
+plt.ylim(0, 1.1)
+plt.xticks(rotation=45)
+plt.legend()
+plt.tight_layout()
+plt.savefig('c:/Users/adrmu/Desktop/IA/Proyecto/IA-2526-Info-7/memoria/ap_chart.png', dpi=300)
+
+# 2. Gráfico de métricas globales Vectorial
+metrics = ['Precisión', 'Sensibilidad (Recall)', 'MAP']
+values = [0.0700, 1.0000, 0.5502]
+colors = ['lightcoral', 'mediumseagreen', 'steelblue']
+
+plt.figure(figsize=(8, 5))
+bars = plt.bar(metrics, values, color=colors)
+plt.title('Métricas Globales - Modelo Vectorial (TF-IDF)', fontsize=14)
+plt.ylabel('Valor', fontsize=12)
+plt.ylim(0, 1.15)
+
+for bar in bars:
+    yval = bar.get_height()
+    plt.text(bar.get_x() + bar.get_width()/2, yval + 0.02, f'{yval*100:.2f}%', ha='center', va='bottom', fontsize=11, fontweight='bold')
+
+plt.tight_layout()
+plt.savefig('c:/Users/adrmu/Desktop/IA/Proyecto/IA-2526-Info-7/memoria/metrics_chart.png', dpi=300)
+
+print('Graficas generadas con exito.')
