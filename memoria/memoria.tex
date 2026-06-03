@@ -6,6 +6,9 @@
 % Inserción de gráficos
 \usepackage{graphicx}
 
+% Escritura de pseudocódigo
+\usepackage[kw]{pseudo}
+
 % Escritura mejorada de tablas
 \usepackage{booktabs}
 \usepackage{tabularx}
@@ -59,7 +62,7 @@
 \begin{abstract}
   Este documento presenta el diseño, desarrollo y evaluación de dos sistemas de Recuperación de Información aplicados al metajuego competitivo del videojuego Pokémon. El objetivo principal es construir una herramienta que permita a los jugadores buscar Pokémon viables mediante consultas de texto libre y consultas estructuradas lógicas, operando sobre un corpus especializado de textos extraído directamente de la comunidad competitiva Smogon. 
   
-  Para abordar este problema, se han desarrollado un modelo Booleano de índice invertido basado en la biblioteca \emph{Whoosh}, y un modelo de Espacio Vectorial ponderado mediante el esquema TF-IDF, empleando NLTK para el preprocesamiento lingüístico y scikit-learn. La evaluación de ambos sistemas, llevada a cabo mediante 35 necesidades de información estructuradas, demuestra el contraste entre ambos enfoques: el modelo booleano obtiene una Sensibilidad del 90.00\% con una Precisión del 13.21\%, mientras que el modelo vectorial alcanza un 94.29\% de Sensibilidad y un \emph{Mean Average Precision} (MAP) global del 37.07\%. El informe concluye con un análisis comparativo y una reflexión crítica sobre las limitaciones del modelo \emph{Bag of Words}.
+  Para abordar este problema, se han desarrollado un modelo Booleano de índice invertido basado en la biblioteca \emph{Whoosh}, y un modelo de Espacio Vectorial ponderado mediante el esquema TF-IDF, empleando NLTK para el preprocesamiento lingüístico y scikit-learn. La evaluación de ambos sistemas, llevada a cabo mediante 35 necesidades de información estructuradas, demuestra el contraste entre ambos enfoques: el modelo booleano obtiene una Sensibilidad del 90.00\% con una Precisión del 13.28\%, mientras que el modelo vectorial alcanza un 94.29\% de Sensibilidad y un \emph{Mean Average Precision} (MAP) global del 37.07\%. El informe concluye con un análisis comparativo y una reflexión crítica sobre las limitaciones del modelo \emph{Bag of Words}.
 \end{abstract}
 
 % Palabras claves
@@ -149,6 +152,32 @@ Seguidamente, para estructurar los datos extraídos, se empleó la clase \texttt
 
 Para el proceso de vectorización, se desarrolló un tokenizador personalizado en Python. Su metodología se basa en un diseño secuencial de filtrado lingüístico: cada documento se segmenta en sus componentes atómicos fundamentales mediante un algoritmo estandarizado de división (\emph{word\_tokenize}). Seguidamente, se ejecuta un proceso que descarta todos los elementos no alfabéticos, depurando el corpus de signos de puntuación y números. A continuación, el filtro somete las palabras restantes a una validación negativa frente al diccionario universal de \emph{stop-words} en inglés de NLTK, excluyendo artículos y preposiciones. Finalmente, las palabras supervivientes son canalizadas a través del algoritmo \emph{Porter Stemmer}, el cual extrae la raíz lexema inalterada. Esta secuencia finita de operaciones normalizadoras consolida la reducción del vocabulario final recuperable y prepara los textos para ser procesados por el \texttt{TfidfVectorizer}.
 
+El flujo de este proceso de preprocesamiento se resume en la \figurename~\ref{pcd:preprocesamiento}.
+
+\begin{figure}[htbp]
+  \centering
+  \fbox{%
+    \begin{minipage}{0.95\columnwidth}
+      \begin{pseudo}*
+        \hd{\fn{PreprocesarTexto}}(D) \\*
+        \multicolumn{2}{l}{\textbf{Entrada}: Un texto crudo \( D \)} \\*
+        \multicolumn{2}{l}{\textbf{Salida}: Lista de tokens procesados \( T_{final} \)} \\
+        \( T \leftarrow \fn{RegexTokenizer}(D) \) \\
+        \( T_{final} \leftarrow \textnormal{lista vacía} \) \\
+        para cada \( t \) en \( T \) hacer \\+
+        \( t \leftarrow \fn{Lowercase}(t) \) \\
+        si \( t \in StopWords \) \textnormal{ o no es alfabético entonces} \\+
+        \textnormal{continuar} \\-
+        \( t_{stem} \leftarrow \fn{PorterStemmer}(t) \) \\
+        \textnormal{añadir } \( t_{stem} \) \textnormal{ a } \( T_{final} \) \\-
+        devolver \( T_{final} \)
+      \end{pseudo}
+    \end{minipage}%
+  }
+  \caption{Algoritmo del pipeline de Preprocesamiento de Lenguaje Natural (PLN)}
+  \label{pcd:preprocesamiento}
+\end{figure}
+
 \begin{table*}[t]
   \caption{Muestra representativa de 6 de las 20 Necesidades de Información definidas para evaluar los motores de búsqueda.}
   \label{tab:necesidades}
@@ -157,17 +186,17 @@ Para el proceso de vectorización, se desarrolló un tokenizador personalizado e
     \toprule
     \textbf{ID} & \textbf{Consulta de Texto Libre} & \textbf{Consulta Booleana (Lógica Estricta)} & \textbf{Docs. Relevantes} \\
     \midrule
-    Q1 & Swords Dance priority STAB sweeper cleaner & "Swords Dance" AND priority AND STAB AND (sweeper OR cleaner) & 3 \\
+    Q1 & Swords Dance priority STAB sweeper cleaner & ``Swords Dance'' AND priority AND STAB AND (sweeper OR cleaner) & 3 \\
     \midrule
-    Q4 & Ground type Stealth Rock physical wall defensive & Ground AND "Stealth Rock" AND defensive AND "physical wall" & 4 \\
+    Q4 & Ground type Stealth Rock physical wall defensive & Ground AND ``Stealth Rock'' AND defensive AND ``physical wall'' & 4 \\
     \midrule
     Q7 & Spore Regenerator pivot status & Spore AND Regenerator AND pivot & 1 \\
     \midrule
-    Q9 & Magic Bounce special attacker hazard control & "Magic Bounce" AND "special attacker" AND "hazard control" & 1 \\
+    Q9 & Magic Bounce special attacker hazard control & ``Magic Bounce'' AND ``special attacker'' AND ``hazard control'' & 1 \\
     \midrule
-    Q14 & fast lead Stealth Rock Spikes Taunt & fast AND lead AND "Stealth Rock" AND Spikes AND Taunt & 1 \\
+    Q14 & fast lead Stealth Rock Spikes Taunt & fast AND lead AND ``Stealth Rock'' AND Spikes AND Taunt & 1 \\
     \midrule
-    Q18 & Stealth Rock Will-O-Wisp hazard status & "Stealth Rock" AND "Will-O-Wisp" AND hazard AND status & 2 \\
+    Q18 & Stealth Rock Will-O-Wisp hazard status & ``Stealth Rock'' AND ``Will-O-Wisp'' AND hazard AND status & 2 \\
     \bottomrule
   \end{tabularx}
 \end{table*}
@@ -205,7 +234,31 @@ Finalmente, se implementó una función de \textbf{construcción del índice} qu
 
 \subsubsection{Motor Vectorial (scikit-learn)}
 
-De manera paralela, el motor Vectorial se programó haciendo uso de \emph{scikit-learn}. Empleando nuestro tokenizador personalizado, la clase \texttt{TfidfVectorizer} calculó matemáticamente una matriz bidimensional global ponderada que relaciona los 100 documentos con los más de 3400 términos extraídos del corpus. En el momento de la consulta, la frase introducida por el usuario se transforma matemáticamente a ese mismo espacio dimensional y se computa iterativamente la similitud del coseno respecto a cada archivo para elaborar el ranking descendente.
+De manera paralela, el motor Vectorial se programó haciendo uso de \emph{scikit-learn}. Empleando nuestro tokenizador personalizado, la clase \texttt{TfidfVectorizer} calculó matemáticamente una matriz bidimensional global ponderada que relaciona los 100 documentos con los más de 3400 términos extraídos del corpus. En el momento de la consulta, la frase introducida por el usuario se transforma matemáticamente a ese mismo espacio dimensional y se computa iterativamente la similitud del coseno respecto a cada archivo para elaborar el ranking descendente. La \figurename~\ref{pcd:ranking} ilustra este proceso de evaluación vectorial.
+
+\begin{figure}[htbp]
+  \centering
+  \fbox{%
+    \begin{minipage}{0.95\columnwidth}
+      \begin{pseudo}*
+        \hd{\fn{RankingVectorial}}(Q, Corpus) \\*
+        \multicolumn{2}{l}{\textbf{Entrada}: Una consulta \( Q \),} \\*
+        \multicolumn{2}{l}{\textnormal{y la matriz TF-IDF del } \( Corpus \)} \\*
+        \multicolumn{2}{l}{\textbf{Salida}: Lista de documentos ordenados por relevancia} \\
+        \( \vec{q} \leftarrow \fn{Vectorizar}(Q, \textnormal{TF-IDF}) \) \\
+        \( Resultados \leftarrow \textnormal{lista vacía} \) \\
+        para cada \( D \) en \( Corpus \) hacer \\+
+        \( \vec{d} \leftarrow \textnormal{obtener vector TF-IDF de } D \) \\
+        \( sim \leftarrow \frac{\vec{q} \cdot \vec{d}}{|\vec{q}| \times |\vec{d}|} \) \\
+        \textnormal{añadir } (D, sim) \textnormal{ a } Resultados \\-
+        \fn{OrdenarDescendente}(Resultados, \textnormal{por } sim) \\
+        devolver Resultados
+      \end{pseudo}
+    \end{minipage}%
+  }
+  \caption{Algoritmo de Recuperación Vectorial y similitud del coseno}
+  \label{pcd:ranking}
+\end{figure}
 
 \section{Resultados y Evaluación}
 
@@ -227,11 +280,11 @@ El motor booleano se evaluó ejecutando las 35 consultas estructuradas del fiche
 
 Las métricas globales promediadas (macro-average) arrojaron los siguientes valores:
 \begin{itemize}
-\item \textbf{Precisión Global Promedio:} 13.21\%
+\item \textbf{Precisión Global Promedio:} 13.28\%
 \item \textbf{Sensibilidad Global Promedio:} 90.00\%
 \end{itemize}
 
-El Recall del 90.00\% indica que el motor booleano recuperó la gran mayoría de los documentos relevantes en las 35 consultas, fallando únicamente en un caso (Q10) donde algún documento relevante del Gold Standard no contenía los términos exactos de la consulta booleana. La Precisión promedio fue baja (13.21\%), lo que refleja que las consultas booleanas, al operar mediante operadores \texttt{OR} y términos frecuentes, devolvieron simultáneamente un número elevado de falsos positivos.
+El Recall del 90.00\% indica que el motor booleano recuperó la gran mayoría de los documentos relevantes en las 35 consultas, fallando únicamente en un caso (Q10) donde algún documento relevante del Gold Standard no contenía los términos exactos de la consulta booleana. La Precisión promedio fue baja (13.28\%), lo que refleja que las consultas booleanas, al operar mediante operadores \texttt{OR} y términos frecuentes, devolvieron simultáneamente un número elevado de falsos positivos.
 
 En la \figurename~\ref{fig:bool_prec} se puede observar la Precisión obtenida para cada consulta de forma individualizada. Las consultas con mayor Precisión corresponden a aquellas cuyas palabras clave eran más específicas del contexto competitivo (como Q19 con un 15.38\%), mientras que las consultas con términos genéricos como ``fast'' o ``special'' arrastran un mayor número de documentos irrelevantes.
 
@@ -277,7 +330,7 @@ En el caso del motor vectorial, el Recall perfecto del 94.29\% se debe a que dev
 
 En el caso del motor booleano, la alta Sensibilidad del 90.00\% responde a que las consultas del Gold Standard fueron diseñadas empleando términos presentes en los documentos relevantes. La única consulta donde no se alcanza el 94.29\% (Q10) corresponde a un caso donde un documento relevante no contenía el término exacto utilizado en la expresión booleana, revelando la rigidez del modelo ante variaciones léxicas. Paralelamente, la naturaleza interconectada de los textos estratégicos de Smogon (donde cada análisis menciona decenas de otros Pokémon) provoca que los términos de la consulta aparezcan en muchos otros documentos, arrastrando falsos positivos.
 
-La Precisión de ambos modelos se sitúa en rangos comparables (13.21\% booleano vs. 1.76\% vectorial), pero el modelo vectorial compensa esta limitación con su capacidad de \textbf{ordenar los resultados por relevancia}: el MAP del 37.07\% demuestra que los documentos verdaderamente relevantes tienden a posicionarse en la zona alta del ranking, permitiendo al usuario encontrar lo que busca en las primeras posiciones sin necesidad de dominar la sintaxis booleana.
+La Precisión de ambos modelos se sitúa en rangos comparables (13.28\% booleano vs. 1.76\% vectorial), pero el modelo vectorial compensa esta limitación con su capacidad de \textbf{ordenar los resultados por relevancia}: el MAP del 37.07\% demuestra que los documentos verdaderamente relevantes tienden a posicionarse en la zona alta del ranking, permitiendo al usuario encontrar lo que busca en las primeras posiciones sin necesidad de dominar la sintaxis booleana.
 
 \begin{figure}[htbp]
   \centering
@@ -314,7 +367,7 @@ La decisión de diseño adoptada para solucionar esta desviación fue aplicar un
 
 Este proyecto ha logrado implementar, evaluar y comparar dos paradigmas clásicos de la Recuperación de Información sobre un corpus especializado de textos competitivos de Pokémon, permitiendo contrastar empíricamente la teoría del IIR~\cite{b2}.
 
-El motor Booleano, basado en un índice invertido construido con Whoosh y un analizador NLTK personalizado, obtuvo una Sensibilidad del 90.00\% y una Precisión promedio del 13.21\%. Su fortaleza reside en la capacidad de formular consultas lógicas expresivas con operadores \texttt{AND}, \texttt{OR} y \texttt{NOT}, pero su barrera de entrada excluye a usuarios que no dominen la sintaxis booleana ni la terminología específica del dominio.
+El motor Booleano, basado en un índice invertido construido con Whoosh y un analizador NLTK personalizado, obtuvo una Sensibilidad del 90.00\% y una Precisión promedio del 13.28\%. Su fortaleza reside en la capacidad de formular consultas lógicas expresivas con operadores \texttt{AND}, \texttt{OR} y \texttt{NOT}, pero su barrera de entrada excluye a usuarios que no dominen la sintaxis booleana ni la terminología específica del dominio.
 
 El motor Vectorial, implementado con scikit-learn y el esquema TF-IDF, obtuvo igualmente un Recall del 94.29\% con una Precisión del 1.76\%, pero su valor diferencial reside en la capacidad de ordenar los resultados por relevancia, reflejada en un MAP del 37.07\%. Esto permite al usuario encontrar los documentos relevantes en las primeras posiciones sin necesidad de conocer sintaxis especializada.
 
