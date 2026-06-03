@@ -52,9 +52,9 @@ print(f"\nPrecision media: {np.mean(precisions):.4f} ({np.mean(precisions)*100:.
 print(f"Recall medio:    {np.mean(recalls):.4f} ({np.mean(recalls)*100:.2f}%)")
 
 # 1. Grafico de Precision por consulta (modelo booleano)
-queries = [f'Q{i}' for i in range(1, 21)]
+queries = [f'Q{i}' for i in range(1, len(precisions) + 1)]
 
-plt.figure(figsize=(10, 5))
+plt.figure(figsize=(14, 5))
 plt.bar(queries, precisions, color='darkorange', label='Precisión')
 plt.axhline(y=np.mean(precisions), color='r', linestyle='--',
             label=f'Media: {np.mean(precisions)*100:.2f}%')
@@ -71,7 +71,7 @@ print("Guardado: bool_precision_chart.png")
 # 2. Grafico comparativo Booleano vs Vectorial
 metrics = ['Precisión', 'Sensibilidad (Recall)']
 bool_vals = [np.mean(precisions), np.mean(recalls)]
-vec_vals = [0.0700, 1.0000]
+vec_vals = [0.0176, 0.9429]
 
 x = np.arange(len(metrics))
 width = 0.35

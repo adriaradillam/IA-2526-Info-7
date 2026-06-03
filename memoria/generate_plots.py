@@ -2,13 +2,15 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # 1. Gráfico de AP por consulta
-queries = [f'Q{i}' for i in range(1, 21)]
+queries = [f'Q{i}' for i in range(1, 36)]
 aps = [
-    0.4977, 0.4583, 0.2017, 0.8819, 0.2765, 0.5073, 1.0000, 0.1191, 1.0000, 0.8167,
-    0.5500, 0.5972, 0.6017, 1.0000, 0.6250, 0.1429, 0.3611, 0.4776, 0.2508, 0.6389
+    0.2333, 0.2659, 0.0707, 0.6383, 0.3859, 0.5769, 1.0000, 0.0455, 1.0000, 0.4167,
+    0.5195, 0.0323, 0.2922, 1.0000, 0.3611, 1.0000, 0.2917, 0.1238, 0.7000, 0.5556,
+    0.5000, 0.0455, 0.1429, 0.5278, 0.1111, 0.3333, 0.0000, 0.0000, 0.0250, 1.0000,
+    0.3333, 0.0135, 0.1429, 0.2698, 0.0213
 ]
 
-plt.figure(figsize=(10, 5))
+plt.figure(figsize=(14, 5))
 plt.bar(queries, aps, color='steelblue')
 plt.axhline(y=np.mean(aps), color='r', linestyle='--', label=f'MAP: {np.mean(aps):.4f}')
 plt.title('Average Precision (AP) por Necesidad de Información', fontsize=14)
@@ -22,7 +24,7 @@ plt.savefig('c:/Users/adrmu/Desktop/IA/Proyecto/IA-2526-Info-7/memoria/ap_chart.
 
 # 2. Gráfico de métricas globales Vectorial
 metrics = ['Precisión', 'Sensibilidad (Recall)', 'MAP']
-values = [0.0700, 1.0000, 0.5502]
+values = [0.0176, 0.9429, 0.3707]
 colors = ['lightcoral', 'mediumseagreen', 'steelblue']
 
 plt.figure(figsize=(8, 5))
