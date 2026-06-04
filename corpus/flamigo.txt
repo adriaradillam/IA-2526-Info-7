@@ -1,0 +1,755 @@
+Flamigo's unique offensive typing and access to U-turn to pivot make it stand out from the other Fighting-types in NU. Scrappy allows Flamigo to hit Ghost-types like
+
+Chandelure
+
+and
+
+Hisuian Typhlosion
+
+as well as Tera Ghost users like
+
+Cinccino
+
+and
+
+Porygon-Z
+
+, which would usually block its Close Combat. Choice Scarf allows Flamigo to consistently revenge kill faster threats like
+
+Inteleon
+
+,
+
+Kilowattrel
+
+, and
+
+Tornadus
+
+, while Choice Band gives Flamigo the ability to 2HKO defensive tanks like
+
+Galarian Slowbro
+
+and
+
+Vaporeon
+
+with entry hazard support. However, faster Choice Scarf users, such as
+
+Flygon
+
+and
+
+Munkidori
+
+, threaten and can easily revenge kill Flamigo with their STAB attacks. Additionally, Flamigo’s STAB attacks can be easily played around thanks to it being Choice-locked and its STAB moves inviting common switch-ins like Galarian Slowbro,
+
+Bronzong
+
+, and
+
+Gligar
+
+. Flamigo also faces competition from other Fighting-types like
+
+Toxicroak
+
+,
+
+Paldean Tauros-W
+
+, and
+
+Paldean Tauros-F
+
+, since they offer better defensive typings and the ability to run other sets.
+
+Set Details
+
+Flamigo easily forces out Steel-, Fighting-, Grass-, and Dark-types like
+
+Registeel
+
+,
+
+Paldean Tauros-W
+
+,
+
+Amoonguss
+
+, and
+
+Incineroar
+
+, which grants it free turns to use Roost, allowing it to maintain longevity and use Brave Bird more often. Throat Chop can be run so that Flamigo can better threaten
+
+Bronzong
+
+as well as users of sound moves like
+
+Sylveon
+
+,
+
+Scream Tail
+
+, and
+
+Toxtricity
+
+. Choice Scarf allows Flamigo to outspeed normally faster Pokemon like
+
+Inteleon
+
+and
+
+Cinccino
+
+. Alternatively, Flamigo can run Choice Band, making it a very strong wallbreaker that can overwhelm defensive tanks like
+
+Galarian Slowbro
+
+and
+
+Diancie
+
+. Tera Fighting gives Close Combat a bit of a push, letting Flamigo pressure foes like
+
+Swampert
+
+and Diancie. Tera Flying, on the other hand, gives Brave Bird an extra power boost, allowing it to 2HKO foes like
+
+Overqwil
+
+and
+
+Tentacruel
+
+.
+
+Choice Band Flamigo pairs greatly with other pivots like
+
+Flygon
+
+,
+
+Munkidori
+
+, Incineroar, and
+
+Raikou
+
+, as they can draw in Amoonguss, Registeel, opposing Incineroar, and
+
+Goodra
+
+for it while putting pressure on many of its checks like Scream Tail, Overqwil,
+
+Milotic
+
+, and
+
+Gligar
+
+. Psychic-types like Munkidori,
+
+Uxie
+
+, and
+
+Meloetta
+
+appreciate Flamigo for checking Steel- and Dark-types like Registeel, Incineroar,
+
+Scrafty
+
+, and
+
+Alolan Muk
+
+; in return, they handle Poison-types like Galarian Slowbro,
+
+Dragalge
+
+, and Tera Poison Milotic. Flamigo appreciates Steel-type teammates like
+
+Copperajah
+
+, Bronzong, and Registeel for checking Ice- and Fairy-types such as
+
+Alolan Ninetales
+
+,
+
+Alolan Sandslash
+
+, Sylveon, and Scream Tail. The aforementioned Steel-types also help Flamigo handle faster Choice Scarf users like Flygon and Munkidori, since they can easily revenge kill them. Choice Scarf Flamigo synergizes greatly with special wallbreakers like Toxtricity,
+
+Chandelure
+
+, and Inteleon, since they can handle common physically defensive Pokemon like Swampert,
+
+Avalugg
+
+, and Gligar. In return, Flamigo can threaten common specially defensive foes like
+
+Porygon2
+
+,
+
+Gastrodon
+
+, and Alolan Muk.
+
+Swords Dance Flamigo aims to capitalize on passive foes such as
+
+Wo-Chien
+
+and
+
+Swampert
+
+to set up and then throw off boosted attacks to break through the opposing team. On balanced teams, Flamigo uses Roost so that it can repeatedly come in regardless of Stealth Rock being up and take advantage of the aforementioned walls, not worrying about their Leech Seed and Knock Off. In contrast, Flamigo runs Agility on hyper offense teams so that it can run through faster teams, outspeeding even Choice Scarf users such as
+
+Flygon
+
+,
+
+Munkidori
+
+, and
+
+Paldean Tauros-W
+
+. Not running an item allows Flamigo to use the drawback-free Acrobatics over the health-wasting Brave Bird, whereas Sitrus Berry eases setup for Flamigo on hyper offense builds while allowing it to still use Acrobatics later. The second EV spread is for Flamigo on hyper offensive teams, as it maximizes its Attack and, after an Agility, allows it to outspeed Speed Booster Energy
+
+Scream Tail
+
+. Tera Steel lets Flamigo take a hit from Munkidori, Choice Scarf Flamigo, and
+
+Sylveon
+
+in a pinch so that it can retaliate with an Acrobatics or, in Sylveon's case, capitalize on them better. Alternatively, Tera Electric and Ground give Flamigo an immunity to
+
+Klefki
+
+'s Thunder Wave. However, for a paralysis immunity, Tera Electric is better, as
+
+Bellibolt
+
+'s Static can circumvent Tera Ground. Additionally, Tera Electric lets Flamigo use
+
+Kilowattrel
+
+as setup fodder and allows it to take a Brave Bird from opposing Flamigo in a pinch. Tera Ground offers a full immunity to Electric-type moves from Kilowattrel and Bellibolt, though, meaning Flamigo won't be getting constantly chipped like it would be with Tera Electric.
+
+Flamigo's biggest enemy is Bellibolt, and because of this, it appreciates any way to wear it down, whether that be through entry hazard stacking with aid from setters such as Spikes Klefki,
+
+Diancie
+
+, and
+
+Gastrodon
+
+as well as Stealth Rock Flygon, in tandem with Knock Off users like
+
+Incineroar
+
+and
+
+Cinccino
+
+, or by checking it with Ground-types like
+
+Gligar
+
+, Flygon, and Swampert. Pivots like Munkidori, Cinccino,
+
+Basculegion-M
+
+, and Flygon pair well with Roost Flamigo, bringing in Steel- and Grass-type foes like
+
+Copperajah
+
+, Wo-Chien, and
+
+Amoonguss
+
+, which it can take advantage of. Flamigo's middling Speed leads it to rely on partners like
+
+Rhyperior
+
+,
+
+Bronzong
+
+, and Bellibolt on balance teams so that it can better position itself around common offensive threats like Kilowattrel, Munkidori, and
+
+Tornadus
+
+. Double Dance Flamigo sets love dual screens Klefki and
+
+Sableye
+
+as well as Aurora Veil
+
+Alolan Ninetales
+
+, since they help lessen the burden on Flamigo's bulk to survive turns as it sets up. On these dual screens teams, partners often are fellow setup sweepers such as Flygon,
+
+Toxtricity
+
+,
+
+Drednaw
+
+, Scream Tail, and Cinccino. Flygon and Toxtricity can capitalize on Bellibolt and
+
+Galarian Slowbro
+
+, which Flamigo often falls against; Flygon, Drednaw, and Cinccino can work in tandem with Flamigo to chip away at walls like Gligar, Swampert, and Diancie; and Toxtricity and Scream Tail can nail physically defensive Pokemon such as Sylveon and Bellibolt for Flamigo while it takes care of special walls like Gastrodon and Copperajah for them.
+
+Other Options
+
+Swords Dance Flamigo can use Protective Pads to avoid adverse contact effects such as paralysis from
+
+Bellibolt
+
+'s Static and chip damage from
+
+Galarian Slowbro
+
+'s Rocky Helmet. However, this forces Flamigo to rely on Brave Bird instead of the more reliable Acrobatics, needing to take recoil and, consequently, use Roost constantly, which can make Flamigo more passive than it would prefer.
+
+Checks and Counters
+
+Revenge Killers
+
+: Faster threats like
+
+Flygon
+
+,
+
+Munkidori
+
+, and
+
+Infernape
+
+can outspeed Flamigo and KO it or use it for free momentum, but none of them can directly switch in against Flamigo's attacks. Additionally, they all often run Choice Scarf, outspeeding Flamigo's own Choice Scarf sets. Priority users like
+
+Basculegion-M
+
+,
+
+Staraptor
+
+, and
+
+Decidueye
+
+can pick off Flamigo after it has been weakened.
+
+Fairy-types
+
+:
+
+Sylveon
+
+,
+
+Florges
+
+,
+
+Scream Tail
+
+, and
+
+Diancie
+
+can tank Flamigo's attacks, threaten it back with their STAB attacks, and set up on it. However, the former three must be cautious about directly switching into Flamigo's Brave Bird, while Diancie doesn’t enjoy switching into its Close Combat.
+
+Electric-types
+
+:
+
+Kilowattrel
+
+,
+
+Raikou
+
+, and
+
+Toxtricity
+
+can destroy Flamigo with their Electric-type attacks, and the former two can outspeed non-Choice Scarf variants. However, none of them enjoy switching into Flamigo's attacks.
+
+Psychic-types
+
+: Fast Psychic-types like Munkidori and
+
+Galarian Articuno
+
+can outpace and threaten to KO Flamigo. Bulkier Psychic-types like
+
+Uxie
+
+and Galarian Slowbro can take advantage of Choice-locked Flamigo by using it as free setup fodder, and the former can outspeed Choice Band sets.
+
+Welcome to the next generation of Battle Stadium Singles! In this new and exciting metagame, new ideas are constantly developing, so this analysis will constantly be updated to reflect metagame trends.
+
+If you feel this analysis is not up to date,
+
+feel free to check out the thread for this Pokemon and post suggestions
+
+. For more resources on Series 1 in general,
+
+check out this thread
+
+.
+
+Scrappy gives Flamigo a unique niche, letting it throw out powerful Close Combats that are unsafe for
+
+Gholdengo
+
+and
+
+Dragapult
+
+to take!
+
+Throat Chop is a decent filler move, letting Flamigo shut down
+
+Sylveon
+
+'s Hyper Voice and
+
+Skeledirge
+
+'s Torch Song. Note that Close Combat still does more damage to most Ghost-types.
+
+Tailwind is a filler move that gives Flamigo's team some extreme speed control before it goes down.
+
+Tera Types
+
+Fighting
+
+: Tera Fighting lets Flamigo fully take advantage of Scrappy, giving Choice Scarf sets a 81.3% chance to OHKO offensive Dragapult.
+
+Fire
+
+: Tera Fire makes Flamigo immune to Will-O-Wisp, letting Choice Band sets more easily break through Skeledirge, and gives Flamigo the option to 2HKO
+
+Corviknight
+
+with Tera Blast.
+
+Items
+
+Choice Scarf
+
+: With Choice Scarf, Flamigo outspeeds major threats such as Dragapult and
+
+Hydreigon
+
+, making it a more effective late-game cleaner.
+
+Choice Band
+
+: Choice Band lets Flamigo deal massive damage, giving it a shot at 2HKOing Skeledirge with Close Combat.
+
+Flamigo both hits hard and is decently fast, doing particularly well into threats such as
+
+Incineroar
+
+,
+
+Gholdengo
+
+, and
+
+Sneasler
+
+thanks to its ability Scrappy and good offensive typing.
+
+Dual Wingbeat is a respectably strong attack that is able to OHKO Pokemon through Focus Sash, notably Sneasler. Brave Bird is able to pick up OHKOes onto Pokemon such as
+
+Rillaboom
+
+and is more consistent than Dual Wingbeat, but it breaks Flamigo's own Focus Sash, leaving it vulnerable to attacks. Wide Guard can protect Flamigo and its partners from powerful spread attacks like Eruption from
+
+Hisuian Typhlosion
+
+, Make It Rain from Gholdengo, and Expanding Force from the likes of
+
+Indeedee-M
+
+and
+
+Hatterene
+
+.
+
+Focus Sash allows Flamigo to guarantee surviving at least one attack, which is especially useful with its low bulk and the stat drops from Close Combat.
+
+Tera Ghost lets Flamigo ignore Fake Out, being able to OHKO many sturdy threats such as Rillaboom and Incineroar without being at risk of their partner's attack. Tera Ghost also stops Extreme Speed from knocking out Flamigo when its health has been lowered, as well as preventing Extreme Speed and Fake Out from breaking Focus Sash. Tera Stellar increases Flamigo's damage output, notably OHKOing
+
+Archaludon
+
+with Close Combat.
+
+Teambuilding
+
+Flamigo works nicely alongside Earthquake users like
+
+Ursaluna
+
+and
+
+Garchomp
+
+, threatening the Grass-types that can easily take on Earthquake while also being immune to it. Redirection can help keep Flamigo away from attacks, considering its fragility.
+
+Ursaluna and Garchomp can easily threaten
+
+Electabuzz
+
+and
+
+Magmar
+
+, which redirect Flamigo's attacks away from Pokemon Flamigo is meant to threaten like
+
+Gholdengo
+
+. The aforementioned Ground-types can also avoid redirection with Earthquake.
+
+Porygon2
+
+can hit Flying-types with Ice Beam and Thunderbolt. Gholdengo can threaten Fairy-types like
+
+Sylveon
+
+and
+
+Hatterene
+
+, which resist Flamigo's Close Combat.
+
+Multi-hit moves like Scale Shot from
+
+Dragonite
+
+are a major issue, as they can OHKO Flamigo through Focus Sash. These multi-hit moves can be redirected with the help of
+
+Amoonguss
+
+, while the damage can be mitigated with Intimidate from
+
+Incineroar
+
+.
+
+Strategy Comments
+
+Flamigo's main role is to be a wallbreaker that can threaten top Pokemon like Gholdengo and Incineroar. Flamigo really shines when against Steel-types like Gholdengo and
+
+Kingambit
+
+, threatening them with Close Combat.
+
+Flamigo is meant to be brought first, but it can be saved in certain matchups, such as the Psychic-type spam matchup, since Wide Guard is able to deny Expanding Force and Eruption from foes such as
+
+Indeedee-M
+
+and
+
+Hisuian Typhlosion
+
+, respectively.
+
+Faster Pokemon like
+
+Dragapult
+
+are some of the biggest threats to Flamigo, as they can bring Flamigo down to Focus Sash or double target Flamigo and KO it. Physically bulky Pokemon such as
+
+Dondozo
+
+can also be an issue, as they can take hits and deal good damage back. Bulky Flying-types like Dragonite and
+
+Corviknight
+
+can take on attacks from Flamigo while hitting hard back. Powerful special attackers like Gholdengo can take down the physically bulky foes. Electric- and Ice-type attacks like Thunderbolt and Ice Beam from Porygon2 can threaten these Flying-types, while Clear Smog Amoonguss does well into Dondozo.
+
+Draft Order
+
+: Round 7 onwards
+
+Price Range
+
+: 3-4 points
+
+Overview
+
+: Flamigo is an attacker that can spam its Fighting-type moves even in the face of Ghost-types thanks to its ability Scrappy. Despite a great ability and two great spammable STAB options, its Speed stat is lackluster, its bulk is near unusable, and without items to significantly boost its power, it is not strong enough to make up for any of it.
+
+Common Roles
+
+Revenge Killer
+
+: By holding a Choice Scarf, Flamigo can act as a revenge killer that can also use U-turn to generate offensive momentum for its team.
+
+Wallbreaker
+
+: Having the option to hold a Choice Band or set up with Swords Dance, Flamigo can serve as a wallbreaker that can spam its Fighting-type move worry-free thanks to Scrappy.
+
+Common Moves
+
+Primary STAB Moves
+
+: Close Combat, Brave Bird, Low Kick
+
+Setup Moves
+
+: Bulk Up, Swords Dance, Agility
+
+Utility Moves
+
+: Roost, Taunt, U-turn
+
+Coverage
+
+: Liquidation, Lunge, Throat Chop
+
+Niche Moves
+
+Sky Attack / Acrobatics
+
+: While it is less reliable than Brave Bird and relies on a Power Herb, Sky Attack could be used alongside Acrobatics if a stronger Flying-type move is needed. With an easily consumable item such as Power Herb, Acrobatics is about as powerful as Brave Bird and avoids the recoil damage.
+
+Upper Hand
+
+: Flamigo is easily KOed with priority moves, meaning it can use Upper Hand to try and gain the upper hand against foes that want to do this.
+
+Tailwind
+
+: Tailwind can be used to speed itself up without having to hold a Choice Scarf, and U-turn can be used alongside it to allow Flamigo to pass that Speed boost to its teammates.
+
+Common Items
+
+Choice Scarf
+
+: Flamigo needs to outspeed its foes in order to gain any value, and Choice Scarf ensures that most unboosted Pokemon will be outsped.
+
+Choice Band
+
+: If Flamigo wants more punching power, Choice Band can be used to break through the defensive Pokemon that would otherwise want to switch into it.
+
+Niche Items
+
+Damage-boosting Items
+
+: Items like Life Orb and Black Belt can give Flamigo the power it needs to break through some Pokemon while still being able to switch its moves.
+
+Power Herb
+
+: With Sky Attack, Power Herb can provide a one-time powerful attack that does not have the recoil damage like Brave Bird does.
+
+Lum Berry
+
+: By allowing Flamigo to set up against Pokemon that want to debilitate it with a status effect, Lum Berry can be used to transform it into a strong sweeper.
+
+Tera
+
+Flamigo is too frail, weak, and slow to take advantage of Terastallization. Its offensive typing has good synergy, with both combining to form a near unresisted combination. If it is made a Tera Captain, Tera Fighting and Flying are the only two types that make sense, giving a boost to whichever STAB option is better in the matchup.
+
+Draft Strategy
+
+Flamigo likes to be on bulky offense teams that have allies it can pivot to with U-turn but also take advantage of its role as a revenge killer. Pokemon that it can form pivot cores with are also helpful, allowing the offensive pressure it gives to span beyond its own reaches.
+
+Offensive Pivots
+
+: Pokemon like
+
+Greninja
+
+,
+
+Meowscarada
+
+, and
+
+Roaring Moon
+
+that do not want to switch in directly but can continue to gather momentum through their own U-turns can increase Flamigo’s worth.
+
+Defensive Pivot
+
+: Pokemon like
+
+Iron Treads
+
+,
+
+Landorus-T
+
+, and
+
+Rotom-W
+
+that can tank hits and get other teammates in make Flamigo much easier to use its strong moves without having to worry about locking itself into something that could be punished.
+
+Checks and Counters
+
+Faster Pokemon
+
+: Faster Pokemon such as
+
+Iron Valiant
+
+,
+
+Enamorus
+
+, and
+
+Zarude
+
+that commonly have ways to boost their Speed will outspeed and easily KO Flamigo.
+
+Physically Defensive Walls
+
+: Pokemon like
+
+Pecharunt
+
+,
+
+Uxie
+
+, and
+
+Corviknight
+
+that can shrug off Flamigo’s attacks are common answers to it.
+
+Chip Damage / Recoil
+
+: Damage taken from Brave Bird's recoil and Rocky Helmet adds up, allowing Pokemon like
+
+Palafin
+
+and
+
+Scizor
+
+to revenge kill Flamigo with priority moves.
+
+Fairy-type Pokemon
+
+: Although Fairy-type Pokemon often have mediocre physical bulk, they have no problem switching into Flamigo’s Fighting-type moves and threatening it out with their own Fairy-type moves.

@@ -1,0 +1,1515 @@
+This is a sample set while we work on the full analysis!
+
+Ursaluna-B utilizes its extremely high special wallbreaking power to power through DOU. It is a threatening force due to few Pokemon in the tier resisting its STAB combination with the help of Mind's Eye, and it fits on both Trick Room and Tailwind-centric teams. Pokemon that would normally Terastallize into Ghost-types to be immune to its Normal-type STAB moves, such as
+
+Incineroar
+
+,
+
+Chien-Pao
+
+, and opposing Ursaluna-B, no longer have this option, allowing Ursaluna-B to fire off strong STAB moves like Blood Moon and Hyper Voice against foes for neutral damage. Ursaluna-B uses Earth Power to hit foes like Incineroar,
+
+Kingambit
+
+,
+
+Diancie
+
+,
+
+Iron Hands
+
+, and
+
+Gholdengo
+
+super effectively. Additionally, it has phenomenal natural bulk, often boosted by Assault Vest. However, Ursaluna-B frequently struggles against defining Pokemon like
+
+Ogerpon-W
+
+, Chien-Pao, and its brethren
+
+Ursaluna
+
+due to type matchups and its Speed tier.
+
+Assault Vest allows Ursaluna-B to enhance its immense natural bulk and improve matchups against faster special attackers like
+
+Gholdengo
+
+,
+
+Chi-Yu
+
+, and
+
+Landorus
+
+.
+
+Vacuum Wave priority allows Ursaluna-B to pick off Pokemon that commonly run Focus Sash like Chi-Yu,
+
+Tornadus
+
+, and
+
+Chien-Pao
+
+, threatening an OHKO on the latter after any Stealth Rock or Fake Out chip damage. Vacuum Wave also allows Ursaluna-B to maneuver around Sucker Punch users like Chien-Pao and
+
+Kingambit
+
+, which it 2HKOes.
+
+The best Tera types for Assault Vest Ursaluna-B are Ghost, Fairy, and Normal. Tera Ghost provides an important Fake Out and Fighting immunity, while Fairy is a strong defensive option for teams that may be weak to Chien-Pao and other Dark-types. Tera Normal boosts its already strong STAB moves, allowing it to OHKO
+
+Sinistcha
+
+,
+
+Ogerpon-W
+
+, and
+
+Dragonite
+
+after Stealth Rock chip damage.
+
+Sinistcha is a natural partner, providing healing and redirection for attacks that would threaten Ursaluna-B, such as
+
+Iron Hands
+
+'s Fighting-type moves and Ogerpon-W's STAB moves after Terastallization.
+
+Ogerpon-W is a common partner due to its ability to redirect opposing attacks and its Water immunity.
+
+Speed control is a necessity with Ursaluna-B due to its low Speed tier. Pokemon like Sinistcha and Tornadus provide Trick Room or Tailwind to help its offensive pressure.
+
+The first EV spread allows Ursaluna-B to outspeed Tornadus and the
+
+Ogerpon
+
+formes in Tailwind. 100 HP EVs with the help of Assault Vest allow it to survive +2 Make It Rain from Gholdengo, Overheat from Modest Chi-Yu, and Icicle Crash from Adamant Chien-Pao.
+
+On more Trick Room-dominant teams, Ursaluna-B can opt to run no Speed EVs and invest fully in its HP.
+
+Life Orb boosts Ursaluna-B's already immense wallbreaking power, allowing it to pick up KOs on Pokemon it would normally be shy of OHKOing such as
+
+Landorus
+
+and
+
+Gholdengo
+
+.
+
+Protect provides Ursaluna-B with a way to stall out remaining Tailwind or Trick Room turns, which can be crucial for momentum and offensive pressure.
+
+Tera Normal is the premier choice for Life Orb Ursaluna-B, boosting STAB attacks for more damage and removing weaknesses to Ice, Water, and Grass; however, it keeps its weakness to Fighting, making it vulnerable to foes like
+
+Iron Hands
+
+.
+
+Tera Ghost provides an important Fake Out and Fighting immunity but makes Ursaluna-B weaker to common threats like
+
+Chien-Pao
+
+and
+
+Chi-Yu
+
+and reduces overall damage output compared to Tera Normal. Tera Ghost is also beneficial because common threats like Iron Hands,
+
+Diancie
+
+, and
+
+Ursaluna
+
+can underspeed Ursaluna-B in Trick Room, so it benefits from an immunity to Fighting- and Normal-type moves from these Pokemon.
+
+Speed control is a necessity due to its low Speed. Pokemon like
+
+Sinistcha
+
+, Diancie, and
+
+Cresselia
+
+provide Trick Room, and
+
+Roaring Moon
+
+and
+
+Tornadus
+
+set Tailwind to help Ursaluna-B's offensive pressure.
+
+The first EV spread allows Ursaluna-B to outspeed both the
+
+Ogerpon
+
+formes and Tornadus in Tailwind, as well as survive an Adamant Icicle Crash from Chien-Pao and Heat Wave from Modest Tera Fire Chi-Yu.
+
+No Speed investment allows Ursaluna-B to underspeed most common threats in the tier and should be run on Trick Room sets. However, Iron Hands, Diancie, and Ursaluna can underspeed it in Trick Room.
+
+Checks and Counters
+
+Gholdengo
+
+: Gholdengo is a premier threat to Ursaluna-B due to its high power and Make It Rain, hitting its lower Special Defense stat.
+
+Ogerpon-W
+
+: Ogerpon-W's strong STAB attacks can prove troublesome, and its ability to Terastallize and receive a +1 Special Defense boost reduces Ursaluna-B's effectiveness in damaging it.
+
+Chien-Pao
+
+: Chien-Pao reduces Ursaluna-B's defensive capabilities due to Sword of Ruin, fires off super effective Ice-type STAB attacks, and punishes Tera Ghost with Dark-type attacks.
+
+Chi-Yu
+
+: Chi-Yu reduces Ursaluna-B's defensive capabilities due to Beads of Ruin, hitting it with strong Fire-type STAB attacks and allowing partners like Gholdengo and
+
+Tornadus
+
+to hit it for more damage.
+
+With its great bulk, power, and coverage thanks to high-powered Normal-type STAB moves and amazing ability in Mind’s Eye, Ursaluna-B is a formidable special attacker.
+
+Blood Moon
+
+: Blood Moon gives Ursaluna-B incredibly high neutral damage. It's a great way to cover a switch or predicted Terastallization, but it requires some forethought to maximize efficiency because it cannot be used on consecutive turns.
+
+Vacuum Wave
+
+: Vacuum Wave is highly valuable for revenge killing foes, notably hitting
+
+Chien-Pao
+
+. It can hit
+
+Calyrex-S
+
+due to Mind's Eye.
+
+Earth Power
+
+: Earth Power gives great coverage against the Steel-types that resist Blood Moon, making Ursaluna-B nearly unwallable except by non-grounded Steel-types like
+
+Corviknight
+
+.
+
+Hyper Voice
+
+: Hyper Voice is a more spammable Normal-type STAB move that can bypass Substitute, allowing Ursaluna-B to thwart attempts to Substitute stall out Blood Moon, like Tera
+
+Garganacl
+
+.
+
+Items
+
+Assault Vest
+
+: Assault Vest remedies Ursaluna-B's middling Special Defense, allowing this slow but hard-hitting Pokemon to survive longer.
+
+Silk Scarf
+
+: Silk Scarf can be used instead of Assault Vest to boost the power of Ursaluna-B’s Normal-type STAB attacks, making it more difficult to switch into, though this makes match-ups against special attackers like
+
+Flutter Mane
+
+shakier.
+
+Life Orb
+
+: If using Ursaluna-B on a Trick Room team, Life Orb can be worth the recoil for the highest possible chance of sweeping.
+
+Focus Sash
+
+: Focus Sash may sound absurd with Ursaluna-B's bulk, but it can allow more offensive variants to turn the tables on extremely powerful Special Attackers like Choice Specs Flutter Mane, and more easily justify faster EV spreads.
+
+Assault Vest EV Spreads
+
+36 HP / 228 SpA / 244 SpD with Modest
+
+: This spread survives an opposing Life Orb Ursaluna-B's Tera Normal Blood Moon.
+
+100 HP / 164 SpA / 244 SpD with Modest
+
+: This spread survives Timid Tera Water
+
+Iron Bundle
+
+'s Hydro Pump, even if Ursaluna-B doesn't Terastallize!
+
+244 HP / 52 Def / 196 SpA / 12 SpD / 4 Spe with Modest
+
+: This spread will never be OHKOed by Adamant Choice Scarf
+
+Urshifu-R
+
+'s Surging Strikes unless it Terastallizes.
+
+Other Item EV Spreads
+
+148 HP / 4 Def / 132 SpA / 220 SpD / 4 Spe with Modest
+
+: This EV spread gives Ursaluna-B enough bulk to survive Tera boosted Choice Specs Timid Flutter Mane's Moonblast on all but the highest damage roll, as well as the same odds for surviving Jolly Urshifu-R's Close Combat. If used with paralysis support, 32 EVs can be moved from Special Attack to Speed to outspeed paralyzed Modest
+
+Chi-Yu
+
+.
+
+20 HP / 4 Def / 172 SpA / 60 SpD / 252 Spe with Timid
+
+This outspeeds up to -1 Speed
+
+Garchomp
+
+, and also often outspeeds Pokemon that focus on bulk such as
+
+Dragonite
+
+,
+
+Scizor
+
+, and
+
+Primarina
+
+. The defensive EVs survive Choice Specs Timid Flutter Mane's Moonblast and Life Orb Adamant Chien-Pao's Sacred Sword if Ursaluna-B sticks with Tera Normal.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Ursaluna-B often uses Terastallization to compensate for its lackluster defensive typing; however, it is often capable of functioning without Tera. Because many different Tera types are viable on it, it can play guessing games with opponents.
+
+Normal
+
+: Tera Normal removes all weaknesses associated with Ursaluna-B’s Ground typing and boosts Blood Moon to phenomenal levels of power, making it ideal on Trick Room teams.
+
+Fairy
+
+: Tera Fairy allows Ursaluna-B to handle the
+
+Urshifu
+
+formes and Choice Band Dragon-types like Dragonite and
+
+Koraidon
+
+better while generally being a very solid defensive Tera type.
+
+Poison
+
+: Tera Poison improves Ursaluna-B’s matchup against Flutter Mane, all
+
+Ogerpon
+
+formes' Horn Leech, and all Urshifu formes, while preventing Toxic from wearing Ursaluna-B down.
+
+Water
+
+: Tera Water allows Ursaluna-B to fare better against the likes of Urshifu-R, Chien-Pao, and Chi-Yu.
+
+Yawn doesn't transform Ursaluna-B into just a mere support Pokemon. When used in conjunction with Blood Moon, the bloodmoon beast becomes a master of putting offensive teams between a rock and a hard place: either the opponent's check falls asleep, or they switch out and something far less suited against Ursaluna-B gets shredded by Blood Moon!
+
+Moonlight
+
+: Moonlight will require sacrificing either coverage or priority, but it makes Ursaluna-B far longer lasting and less vulnerable to lures like Grass Knot
+
+Landorus-T
+
+. It's a particularly strong choice on teams with strong hit-and-run Pokemon like Choice Specs
+
+Flutter Mane
+
+.
+
+Vacuum Wave
+
+: While not amazingly powerful, Vacuum Wave is lovely for picking off
+
+Chien-Pao
+
+and cleaning up late-game in general. This is to the point where giving up reliable recovery can make sense for some more offensive teams that often can't afford to switch Ursaluna-B out often.
+
+Leftovers versus Sitrus Berry
+
+: Leftovers is best paired with Moonlight, giving Ursaluna-B maximum longevity. If using Vacuum Wave, Sitrus Berry's quicker burst of recovery suits Ursaluna-B better and provides a better matchup against
+
+Urshifu-R
+
+. Sitrus Berry is also a reasonable alternative to Leftovers if another teammate needs it.
+
+EV Spread
+
+: The HP investment ensures
+
+Annihilape
+
+will not OHKO Ursaluna-B with Final Gambit, and the Defense EVs stop Choice Band Tera Water Urshifu-R from OHKOing Terastallized Ursaluna-B. This spread survives Modest Choice Scarf
+
+Chi-Yu
+
+'s Overheat and Tera-boosted Moonblast from Timid Choice Specs Flutter Mane on all but the highest damage roll. Offensively, the Special Attack EVs ensure that Blood Moon OHKOes offensive
+
+Urshifu
+
+formes.
+
+Other Options
+
+20 Speed EVs
+
+: 20 Speed EVs let Ursaluna-B outspeed paralyzed Adamant Urshifu formes at the cost of some bulk. This may seem to conflict with Yawn, but paralysis is often a viable secondary playstyle for teams with this set to deal with more offensive threats.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: Ursaluna-B's typing is fairly good, but its weakness to common threats like Chien-Pao and Urshifu-R means Terastallization is often needed.
+
+Poison
+
+: Tera Poison has excellent synergy with Ursaluna-B's playstyle, not only granting it an important resistance to Urshifu-R's Close Combat and Flutter Mane's Moonblast but also ensuring that poison status will not wear it down.
+
+Fairy
+
+: Tera Fairy doesn't help against Flutter Mane, but it does transform Ursaluna-B into a very strong Urshifu-S check, in addition to avoiding Choice Specs
+
+Miraidon
+
+'s wrath.
+
+Normal
+
+: Tera Normal only helps defensively against Ice, Grass, and Water types, but the power boost to Blood Moon makes Ursaluna-B far more difficult to wall, with defensive
+
+Primarina
+
+in particular usually being put into Earth Power's KO range.
+
+Water
+
+: Tera Water offers a useful Ice resistance to flip Chien-Pao matchups more easily, but it doesn't help against
+
+Raging Bolt
+
+and Grass Knot users like Landorus-T.
+
+With its immense defensive profile and access to reliable recovery, Ursaluna-B lends itself very well to a Calm Mind set.
+
+Blood Moon
+
+: Even though the cool down time can be annoying for a Calm Mind set, the massive amount of power is still strongly recommended for being able to OHKO
+
+Urshifu-R
+
+without a boost using the given EV spread.
+
+Other Options
+
+Taunt
+
+: Taunt can be used to shut down utility moves and attempts to stall out Ursaluna-B from the likes of
+
+Ting-Lu
+
+and slow
+
+Dragonite
+
+.
+
+Items
+
+Sitrus Berry
+
+: Sitrus berry allows Ursaluna-B to recover a significant chunk of health, which can be useful to set up boosts against special attackers.
+
+Leftovers
+
+: Leftovers improves Ursaluna-B's general longevity.
+
+Kee Berry
+
+: Kee Berry boosts Ursaluna-B's physical bulk, allowing it to keep pace with physical threats such as Dragonite.
+
+Tera Types
+
+Tera Dependency - High
+
+: Despite its immense bulk, Ursaluna-B’s typing leaves it vulnerable to many common attacks, so a good defensive Tera type is essential for survivability and durability.
+
+Fairy
+
+: Tera Fairy provides a good defensive typing that synergizes well with Ursaluna-B's natural weaknesses, allowing it to stick around.
+
+Poison
+
+: Tera Poison grants an immunity to Toxic, Making Toxic Spikes less of an issue. It also grants a Fighting resistance, allowing it to better handle
+
+Urshifu
+
+.
+
+Normal
+
+: Tera Normal boosts the power of Blood Moon, which improves the matchup against opposing Calm Mind
+
+Flutter Mane
+
+. It leaves only a Fighting weakness, making Ursaluna-B quite hard to KO.
+
+Water
+
+: Tera Water aids against both
+
+Chien-Pao
+
+and Choice Specs
+
+Gholdengo
+
+, in addition to being a great defensive typing in general.
+
+Backed by Terastallization, Ursaluna-B can use its incredible physical bulk to wall even the mighty
+
+Koraidon
+
+!
+
+Moonlight
+
+: Under Koraidon's sun, Moonlight's increased recovery makes Ursaluna-B that much harder to topple!
+
+Earth Power
+
+: Earth Power is strong against Steel-types like
+
+Scizor
+
+and
+
+Archaludon
+
+that otherwise resist Blood Moon, and it's also super effective against many of Koraidon's most popular Tera types.
+
+Hyper Voice
+
+: While it doesn't provide extra coverage, Hyper Voice is the best option to prevent Substitute
+
+Gliscor
+
+from completely shutting down Ursaluna-B.
+
+Vacuum Wave
+
+: Vacuum Wave is a solid option for picking off weakened threats, especially
+
+Chien-Pao
+
+and
+
+Chi-Yu
+
+.
+
+Calm Mind
+
+: Weaker physical attackers like Assault Vest Koraidon provide great opportunities to set up with Calm Mind.
+
+EV Spread
+
+: With full defensive investment and a neutral Tera type, a five-hit Scale Shot from +2 Koraidon only has about a 25% chance to OHKO. Even without Terastallization, this Ursaluna-B is so bulky that Adamant Chien-Pao's Icicle Crash into Ice Shard only has about a 6.25% chance to knock out Ursaluna-B! The leftover EVs are usually allocated to Speed; keep in mind that Ursaluna-B often Speed creeps, so reallocating some EVs for even a few more points in Speed can be useful in the mirror matchup.
+
+Items
+
+Rocky Helmet
+
+: Rocky Helmet punishes many common attacks from Koraidon and
+
+Zacian-C
+
+, though Scale Shot from Koraidon is a notable exception.
+
+Sitrus Berry
+
+: Sitrus Berry's burst recovery can be useful against Swords Dance Koraidon, guaranteeing that Ursaluna-B survives a +2 Scale Shot at five hits even if one of the hits is a critical hit.
+
+Tera Types
+
+Tera Dependency - High
+
+: Ursaluna-B has to change its typing in order to properly take on Koraidon and other physical threats it targets.
+
+Fire
+
+: Tera Fire deters Koraidon from spamming its destructive Tera Fire Flare Blitz while remaining neutral against its powerful STAB attacks. Beyond that, it helps Ursaluna-B wall a litany of other physical threats like
+
+Calyrex-I
+
+, Zacian-C that lack an appropriate Tera Blast,
+
+Ogerpon-H
+
+, and Assault Vest
+
+Rillaboom
+
+. The Fairy-type resistance is also excellent against
+
+Flutter Mane
+
+, a common Koraidon teammate.
+
+Water
+
+: Compared to Tera Fire, Tera Water is an alternative for resisting Koraidon's Flare Blitz that doesn't sacrifice Ground-type matchups like
+
+Landorus-T
+
+. It also helps Ursaluna-B against
+
+Urshifu-R
+
+when used against other types of teams. But without Tera Fire's Fairy-type resistance, Flutter Mane becomes harder to withstand if Ursaluna-B is not running Calm Mind, and Grass-types such as
+
+Ogerpon
+
+and Rillaboom will be much more threatening.
+
+Ursaluna-B is a great special attacker thanks to its great bulk and ability in Mind's Eye, which allows it to hit Ghost-types like
+
+Flutter Mane
+
+. Ursaluna-B also works very well on Trick Room teams because of its low Speed. Pokemon like
+
+Urshifu-R
+
+,
+
+Landorus
+
+, non-Assault Vest
+
+Kingambit
+
+, and
+
+Rillaboom
+
+all fear getting OHKOed by Urslauna-B.
+
+Even though Ursaluna-B is strong under Trick Room, it still struggles against
+
+Amoonguss
+
+, which can outspeed it under Trick Room and put it to sleep. Therefore, Pokemon like Flutter Mane and
+
+Ogerpon-W
+
+are recommended teammates. Ogerpon-W can protect Ursaluna-B from attacks like Urshifu-R's Surging Strikes and when Terastallized,
+
+Chien-Pao
+
+'s Icicle Crash.
+
+Farigiraf
+
+is almost mandatory for this set, as it allows Ursaluna-B to truly shine by setting up an unblockable Trick Room.
+
+Ursaluna-B also cannot threaten Assault Vest Rillaboom very well, and Rillaboom can threaten it back with a super effective Grassy Glide or Wood Hammer.
+
+Hyper Voice provides Ursaluna-B with a more spammable Normal-type STAB attack, especially during Blood Moon's cooldown.
+
+Life Orb is recommended, as it provides Ursaluna-B with a boost to its attacks, and Ursaluna-B doesn't mind the recoil due to its great bulk and ability to consistently move first under Trick Room.
+
+The given EV spread lets it live a Tera Fairy Moonblast from a Special Attack Booster Energy
+
+Flutter Mane
+
+. 0 Speed IVs and a Quiet nature allow it to function better under Trick Room.
+
+Ursaluna-B may opt for an EV spread of 84 HP / 252 SpA / 172 Spe to outspeed Adamant
+
+Chien-Pao
+
+under Tailwind.
+
+Tera Normal can be used to boost the damage output of Blood Moon and Hyper Voice to nuclear levels.
+
+Ursaluna-B has great offensive prowess thanks to its STAB combination, threatening Pokemon like
+
+Raging Bolt
+
+,
+
+Miraidon
+
+,
+
+Incineroar
+
+, and
+
+Calyrex-S
+
+with its Normal / Ground typing and Mind's Eye ability. Blood Moon is used to OHKO Pokemon like
+
+Urshifu-R
+
+and
+
+Ogerpon-W
+
+, while Hyper Voice is a consistent Normal-type STAB spread move that can be used while Blood Moon is disabled. Earth Power threatens Pokemon like Incineroar, Miraidon, Raging Bolt, and
+
+Gholdengo
+
+while also pressuring Pokemon that run Tera Fire like
+
+Calyrex-I
+
+and
+
+Rillaboom
+
+. Life Orb allows Ursaluna-B to pick up OHKOs on Pokemon like Urshifu-R with Tera Normal Hyper Voice, while it lets Earth Power OHKO Gholdengo as well as
+
+Zacian-C
+
+. A Timid nature allows Ursaluna-B to outspeed Pokemon like Calyrex-S, Choice Scarf Urshifu-R, and Miraidon in Tailwind and threaten huge damage. Tera Normal is used to amplify Ursaluna-B's damage, allowing for guaranteed OHKOs on
+
+Flutter Mane
+
+,
+
+Amoonguss
+
+, and Incineroar, and Calyrex-S with Blood Moon while also becoming neutral to previously super effective attacks like Surging Strikes from Urshifu-R and Wood Hammer from Rillaboom.
+
+Trick Room teams with slower Pokemon like Amoonguss create trouble for Ursaluna-B, as it can put it to sleep with Spore. Ursaluna-B also faces difficulty against
+
+Urshifu-S
+
+and
+
+Chien-Pao
+
+, as both utilize Focus Sash to survive one hit and OHKO Ursaluna-B with Close Combat and Icicle Crash respectively.
+
+Iron Hands
+
+is a good partner for Ursaluna-B, as it is able to easily tank the attacks from Urshifu-S and Chien-Pao and slow their momentum down with Fake Out. Pokemon with Prankster Tailwind like
+
+Whimsicott
+
+make for strong partners, allowing Ursaluna-B to take full advantage of its Timid nature, helping it outspeed Calyrex-S and Choice Scarf Urshifu-R.
+
+Farigiraf
+
+is a great partner for Ursaluna-B thanks to its ability to set up Trick Room for more flexibility and negate Fake Out with Armor Tail. Miraidon synergizes well with Ursaluna-B due to its immunity to Discharge while also preventing the aforementioned Spore from affecting Ursaluna-B thanks to Electric Terrain. It also OHKOes Urshifu-R and brings Pokemon like
+
+Mienshao
+
+down to their Focus Sash, helping Ursaluna-B sweep more easily.
+
+Ursaluna-B is a powerful damage dealer that can break through teams with its STAB moves, which are reinforced by Mind's Eye and Life Orb, smashing through foes like
+
+Annihilape
+
+and opposing Ursaluna-B with Blood Moon.
+
+Blood Moon can rip apart more defensive teams and cleanly OHKO less bulkier Pokemon such as
+
+Garchomp
+
+, while Hyper Voice is a spread move that still can really hit frailer foes such as
+
+Sneasler
+
+,
+
+Pelipper
+
+, and
+
+Whimsicott
+
+hard. Wide Guard can block Hyper Voice, but Blood Moon being a single-target attack can get around this. Ursaluna-B can also utilize Hyper Voice on turns where it can't use Blood Moon to further threaten foes. Earth Power OHKOes or heavily damages Steel-types, which resist Ursaluna-B's Normal-type moves, such as
+
+Gholdengo
+
+,
+
+Archaludon
+
+, and
+
+Kingambit
+
+.
+
+Life Orb lets Ursaluna-B achieve OHKOs against bulkier Pokemon such as opposing non-Assault Vest Ursaluna-B with Blood Moon and non-Assault Vest Kingambit with Earth Power.
+
+Tera Normal removes Ursaluna-B's Grass- and Water-type weaknesses against
+
+Rillaboom
+
+,
+
+Basculegion-M
+
+, and Pelipper while letting Ursaluna-B OHKO the latter two of the aforementioned Pokemon with Blood Moon and 2HKO opposing Ursaluna-B with Hyper Voice.
+
+Both EV spreads have maximum Special Attack investment with a Modest Nature, maximizing Ursaluna-B's damage potential. The first spread's Speed investment is used to outspeed Adamant
+
+Dragapult
+
+under Tailwind, while the second spread is preferred on slower teams that utilize Trick Room instead of Tailwind. Any remaining EVs in both spreads were invested to maximize bulk.
+
+Life Orb Ursaluna-B has incredible damage potential; it's capable of obliterating most Pokemon, including its checks if they aren't careful. Life Orb Ursaluna-B relies heavily on speed control to do its job; it can easily be threatened by much faster threats such as
+
+Dondozo
+
+, Sneasler, boosted Gholdengo, and
+
+Alolan Ninetales
+
+without said speed control. Life Orb Ursaluna-B also doesn't invest in much bulk as other sets in favor of power, so it can be tricky to find opportunities to bring Ursaluna-B onto the field without taking a huge chunk of damage.
+
+With an Assault Vest, Ursaluna-B can fix its poor Special Defense, giving itself more opportunities to switch in and stay out longer on the field to dish out more damage.
+
+Vacuum Wave grants Ursaluna-B a reliable priority move that can pick off weakened foes while also dealing good chunks of damage against
+
+Kingambit
+
+,
+
+Gholdengo
+
+,
+
+Archaludon
+
+, and opposing Ursaluna-B.
+
+Tera Water grants Ursaluna-B helpful resistances to Gholdengo's Make It Rain,
+
+Charizard
+
+and
+
+Torkoal
+
+'s devastating Fire-type attacks, and
+
+Basculegion-M
+
+and
+
+Pelipper
+
+'s Water-type attacks while becoming neutral to
+
+Sneasler
+
+'s and Annilhilape's Close Combats.
+
+Tera Ghost provides an immunity to Fighting-type attacks like Archaludon's Body Press and
+
+Tyranitar
+
+'s Low Kick as well as a neutrality to
+
+Rillaboom
+
+'s Grass-type attacks. It also grants an immunity to Fake Out from
+
+Incineroar
+
+and Rillaboom, which is especially important because Assault Vest Ursaluna-B cannot use Protect. However, Tera Ghost makes Ursaluna-B vulnerable to Ghost- and Dark-type attacks from Gholdengo, Basculegion-M, Incineroar, and Kingambit.
+
+The HP and Defense investment is enough to let Ursaluna-B almost always survive a Close Combat from Jolly Sneasler, and with the special bulk investment and Assault Vest, Ursaluna-B can survive powerful special moves it wouldn't otherwise, such as opposing Life Orb Ursaluna-B's Blood Moon, +2 Life Orb Gholdengo's Make It Rain, Choice Specs Charizard's Heat Wave under sun, and Torkoal's Eruption under sun. The Speed investment helps Ursaluna-B outspeed uninvested Incineroar and, in Tailwind, non-Choice Scarf
+
+Hisuian Typhlosion
+
+. The Special Attack investment enables Earth Power to OHKO uninvested Gholdengo and almost always OHKO Tera Fire or Steel
+
+Garchomp
+
+with low bulk investment.
+
+Thanks to Assault Vest, Ursaluna-B can do much better against special attackers like Gholdengo and Archaludon it would've feared otherwise and inflict consistent damage back with its effective Normal- and Ground-type coverage. Becuase it lacks Protect, Assault Vest Ursaluna-B can be chipped down for foes to KO; most notably, flinching to Fake Out can leave Ursaluna-B vulnerable to other attacks. Assault Vest Ursaluna-B also has a loss of damage output due to dropping Life Orb, becoming less of an immediate threat.
+
+Leftovers Ursaluna-B can slowly stall and weaken foes with its solid bulk, access to a sleep move, and a form of recovery.
+
+Yawn is a great way of slowing down and threatening sleep on setup sweepers such as
+
+Volcarona
+
+and
+
+Annihilape
+
+, forcing them to switch. This synergizes well with Protect, keeping Ursaluna-B safe right after using Yawn as the foe falls asleep the next turn. Yawn and Blood Moon also have some synergy, as a drowsy foe is tempted to switch to avoid sleeping, giving Ursaluna-B a chance to deal a good chunk of damage for free with Blood Moon.
+
+Ursaluna-B appreciates Leftovers when stalling foes with Yawn, as it provides passive recovery when Ursaluna-B uses Protect. Leftovers can also be paired with
+
+Rillaboom
+
+'s Grassy Terrain, providing a stronger and secure form of recovery.
+
+Tera Electric grants a resistance against
+
+Gholdengo
+
+'s Make It Rain as well as a neutrality to Fighting- and Water-type attacks like
+
+Sneasler
+
+and Annihilape's Close Combats,
+
+Pelipper
+
+'s Weather Ball, and Rillaboom and
+
+Sinistcha
+
+'s Grass-type attacks. Tera Electric also retains Ursaluna-B's good matchup against Electric-type moves, most notably Electro Shot from
+
+Archaludon
+
+. On the other hand, Tera Water resists Water-type attacks from
+
+Basculegion-M
+
+and Pelipper unlike Tera Electric, but it gives Ursaluna-B a weakness to Electro Shot from Archaludon.
+
+The HP and Defense investment guarantees Ursaluna-B's survival against Jolly Sneasler's Close Combat, and with the Special Defense investment, Ursaluna-B can survive devastating special attacks like Life Orb
+
+Hatterene
+
+'s Expanding Force under Psychic Terrain, +2 Gholdengo's Make It Rain, and Choice Specs
+
+Alolan Ninetales
+
+'s Ice Beam.
+
+The combination of Yawn and Leftover's slow HP recovery can be quite overwhelming if the opponent isn't cautious, letting Ursaluna-B chip foes for its teammates to secure KOs or put foes to sleep, allowing Ursaluna-B's teammates to safely attack or set up. Taunt and Encore can disturb Ursaluna-B's strategy of using Yawn and Protect, ruining its main form of pressure. This set's attacks also aren't quite as threatening as others due to the lack of investment and Life Orb, making Ursaluna-B far easier to switch into.
+
+Teambuilding
+
+Life Orb Ursaluna-B can fall victim to much faster threats like
+
+Sneasler
+
+and
+
+Alolan Ninetales
+
+, so it's a good idea to pair Ursaluna-B with speed control such as Tailwind and Trick Room from supporters like
+
+Whimsicott
+
+and
+
+Porygon2
+
+, respectively, to get the speed advantage and OHKO opposing Pokemon.
+
+Priority attacks such as Fake Out, Grassy Glide, Sucker Punch, and Aqua Jet can hinder or threaten Ursaluna-B, so priority denial from
+
+Indeedee-F
+
+and
+
+Farigiraf
+
+can protect Ursaluna-B from them.
+
+Redirection like Rage Powder or Follow Me from
+
+Amoonguss
+
+and Indeedee-F can protect Ursaluna-B from attacks such as
+
+Dondozo
+
+'s Wave Crash and
+
+Hisuian Lilligant
+
+'s Close Combat.
+
+Fake Out from the likes of
+
+Rillaboom
+
+or Sneasler can create opportunities for Ursaluna-B to dish out its powerful attacks, and Fake Out can be paired with Yawn to make foes flinch so that Ursaluna-B can put them to sleep safely.
+
+Ursaluna-B dislikes Water- and Grass-type attacks, and for this reason, Rillaboom is a great partner for Ursaluna-B, as it can switch into many super effective attacks that can threaten Ursaluna-B. Ursaluna-B also appreciates Rillaboom's Grassy Surge providing passive recovery and, in return, can remove
+
+Incineroar
+
+and
+
+Archaludon
+
+, which are Pokemon that can give trouble to Rillaboom.
+
+Gholdengo
+
+is a great partner for Ursaluna-B, having a great matchup against many of Ursaluna-B's checks such as Sneasler, Rillaboom, and Alolan Ninetales, and in return, Ursaluna-B can scare off Gholdengo's checks, being Incineroar,
+
+Kingambit
+
+, and
+
+Garchomp
+
+to name a few. Gholdengo can also switch into Fighting-type attacks from Sneasler and Archaludon and effectively threaten them with potentially boosted Make It Rain and Shadow Ball.
+
+Dragonite
+
+is a good partner for Ursaluna-B, as it can switch into any Water- or Grass-type attack from the likes of Dondozo or
+
+Sinistcha
+
+, handle many other attacks with Multiscale, and provide Tailwind support while also using Haze to remove boosts from Dondozo,
+
+Volcarona
+
+, and Archaludon. Dragonite also has a strong matchup against Sneasler, since it can soak up any attack Sneasler throws out and strike back with a Scale Shot, outspeeding Sneasler the next turn.
+
+Dual screens from
+
+Grimmsnarl
+
+or Aurora Veil from Alolan Ninetales can significantly increase Ursaluna-B's bulk, allowing bulkier versions to survive Tera Grass Volcarona's Quiver Dance-boosted Giga Drain, +3 Annilhilape's Drain Punch, and +4 Archaludon's Body Press.
+
+Strategy Comments
+
+Life Orb Ursaluna-B's main role is to be a consistent burst-damage attacker, weakening the opponent's team to clear a pathway for faster teammates or setup sweepers like Sneasler, Volcarona, and Gholdengo. Assault Vest Ursaluna-B is a bulkier attacker that can sit in front of top-tier special attackers such as Gholdengo and Archaludon and easily take them down. Finally, Leftovers Ursaluna-B can stall out the majority of Pokemon with sleep, allowing its teammates to start setting up or dish out attacks, all the while dealing good chip damage.
+
+Life Orb Ursaluna-B should focus on immediately dishing out damage, Assault Vest sets should support its teammates like Rillaboom and Gholdengo by removing problematic Pokemon for them like Incineroar, and Leftovers sets should punish passive play and deny a setup sweeper with Yawn. Ursaluna-B can be brought out mid- or late-game if the opponent's team has Pokemon Ursaluna-B struggles to break through like Porygon2 and Amoonguss, which can be withered by its partners.
+
+Sneasler outspeeds Ursaluna-B, even when Ursaluna-B is under Tailwind if Sneasler's Unburden is activated, and can inflict massive damage with Close Combat. Setting Trick Room can ease the matchup against Sneasler, and redirection from Amoonguss and Indeedee-F can also protect Ursaluna-B from it.
+
+Rain teams that have many Water-types like
+
+Pelipper
+
+and
+
+Basculegion-M
+
+can give Ursaluna-B a hard time, forcing Ursaluna-B to Terastallize. Against these teams, Trick Room or redirection support help a lot because Trick Room helps Ursaluna-B have the Speed advantage against Basculegion-M, and redirection can redirect powerful attacks from Archaludon, Basculegion-M, and Pelipper.
+
+Assault Vest Rillaboom is a good check for Ursaluna-B, as it can threaten huge damage with Wood Hammer and survive Blood Moon. Steel-types and Dragon-types like Gholdengo and Dragonite can resist Rillaboom's Grass-type attacks and retaliate for good damage. Gholdengo can use Nasty Plot to overwhelm Rillaboom with boosted Shadow Ball and Make It Rain, while Dragonite can wall Rillaboom with its defensive typing and chip down Rillaboom with Scale Shot and Extreme Speed. Additionally, Incineroar can weaken Rillaboom with Intimidate and Will-O-Wisp, and it can threaten Rillaboom with Flare Blitz.
+
+The combination of
+
+Maushold
+
+and Annilhilape can spell trouble for Ursaluna-B; Maushold weakens Ursaluna-B's attacks with Friend Guard and can redirect its Blood Moon and Earth Power, while
+
+Annihilape
+
+can repeatedly use Drain Punch. Redirection from supporters like Indeedee-F and
+
+Electabuzz
+
+can redirect Annihilape's Drain Punch and Maushold's Beat Up, stopping Maushold from giving Annihilape Rage Fist boosts. Ursaluna-B's Hyper Voice bypasses Maushold's Follow Me due to being a spread move, allowing it to deal decent damage to both Maushold and Annihilape.
+
+Ursaluna-B is an unusual combination of wallbreaker and physical wall, leveraging its outstanding bulk with Fluffy to check important threats like
+
+Roaring Moon
+
+and
+
+Kingambit
+
+, set up with Calm Mind, and break open defensive cores that usually cannot slow pivot against it with boosted Blood Moon. With Fluffy, it can even tank hits from
+
+Zamazenta
+
+and
+
+Great Tusk
+
+and OHKO back with Blood Moon. Water Absorb is an alternative that lets it block Flip Turn from
+
+Swampert
+
+and
+
+Primarina
+
+, turn
+
+Manaphy
+
+into setup fodder, and check Choice Specs Primordial Sea users, but makes it much less reliable of a physical check. Blood Moon and Earth Power have excellent neutral coverage, letting it run both Calm Mind and Moonlight to set up comfortably on more passive teams. With 13 Speed IVs, it underspeeds level 99
+
+Corviknight
+
+; this turns what would be a reliable pivot into setup fodder, as Corviknight cannot Roost or pivot safely without the switch-in risking a Blood Moon.
+
+Ursaluna-B fits well on balance and offensive teams, as it provides a notable defensive presence while still putting pressure on or holes in opposing teams. Faster special attackers like
+
+Deoxys-S
+
+,
+
+Zapdos
+
+, and
+
+Gholdengo
+
+appreciate Ursaluna-B wearing down and potentially breaking through common shared checks like RegenVest Manaphy. Even physical attackers benefit from it, as Corviknight and Great Tusk will commonly come in on it to recover or attempt to revenge kill it, only to find themselves chipped, KOed, or set up on. Ursaluna-B's special bulk is very poor, even with a Calm Mind up, so solid specially defensive teammates like its own RegenVest Manaphy are highly appreciated. Due to Fluffy's drawbacks, Ursaluna-B is unable to check some common physical attackers, especially the
+
+Ogerpon
+
+formes,
+
+Chien-Pao
+
+, and Pyro Ball
+
+Cinderace
+
+; at least one other reliable secondary physically defensive Pokemon like
+
+Pecharunt
+
+, Corviknight, or Regenerator Primarina is near-mandatory. Ursaluna-B is unable to hit Earth Eater / Levitate Ghost-types like Pecharunt and Gholdengo, so a Dark-type like Roaring Moon or
+
+Ting-Lu
+
+is also recommended.
+
+Other Options
+
+Ursaluna-B can run a number of other immunity abilities like Storm Drain, Well-Baked Body, Bulletproof, and even Sap Sipper if the team needs the immunity, but they all have a much narrower range of setup opportunities compared to Fluffy. To beat Ground-immune Ghost-types, Ursaluna-B can either run Snarl at the expense of Calm Mind or Moonlight or run Mold Breaker or Mind's Eye to still hit them with its main moves. Substitute lets it punish slow pivots without having to predict, but it is generally less useful than its main moves. Offensive wallbreaking sets like Tinted Lens and Adaptability can be run on more offensive teams to provide more immediate power, but they mostly beat the same threats as Fluffy, just more quickly. Lastly, Steam Engine Weakness Policy Ursaluna-B is very funny on dual screens hyper offense, as it outspeeds everything at +6 and OHKOes almost everything at +2, but it is very unreliable.
+
+Checks and Counters
+
+Earth Eater Ghost-types
+
+: Most Ursaluna-B sets are utterly unable to damage Ground-immune Ghost-types, notably
+
+Gholdengo
+
+and
+
+Pecharunt
+
+.
+
+Non-contact Physical Attackers
+
+:
+
+Ogerpon
+
+formes,
+
+Chien-Pao
+
+, and
+
+Cinderace
+
+can all OHKO Ursaluna-B, as they bypass Fluffy.
+
+Special Wallbreakers
+
+: While they can be hard to switch in safely, special wallbreakers like
+
+Latios
+
+,
+
+Iron Moth
+
+, and Gholdengo have no trouble forcing Ursaluna-B off the field, often even after a Calm Mind.
+
+Draft Order
+
+: Round 4 onwards
+
+Price Range
+
+: 11-12 points
+
+Overview
+
+: Ursaluna-B is a strong Pokemon that offers great setup potential and defensive utility. Its powerful STAB combination, combined with Mind's Eye, is resisted by very few Pokemon, and its physical defenses make it very difficult to break through. However, Ursaluna-B lacks Speed and Special Defense, allowing many special wallbreakers to easily break through it, and it is a Ground-type that lacks entry hazard options, making it less desirable than alternative Ground-types. It is also a very one-dimensional Pokemon that opponents can easily counterprep against.
+
+Common Roles
+
+Setup Sweeper
+
+: With Calm Mind, Ursaluna-B can become a threatening wincon, especially by patching up its weak Special Defense and staying healthy with Moonlight.
+
+Wallbreaker
+
+: Rather than setting up, Ursaluna-B can focus on wallbreaking straight away to break through specific foes, allowing its teammates to shine late-game.
+
+Physical Wall
+
+: Even without defensive investment, Ursaluna-B can eat physical hits from specific opposing Pokemon. Leftovers is good for additional longevity, and Rocky Helmet can also be used to punish pivoting and Knock Off.
+
+Common Moves
+
+Primary STAB Moves
+
+: Blood Moon, Hyper Voice, Earth Power
+
+Setup Moves
+
+: Calm Mind
+
+Utility Moves
+
+: Moonlight, Roar, Yawn, Substitute
+
+Coverage
+
+: Moonblast, Vacuum Wave, Focus Blast, Snarl, Body Press
+
+Niche Moves
+
+Endure
+
+: Endure can be used along with Custap Berry to safely deal massive damage to a faster Pokemon.
+
+Fake Tears
+
+: Fake Tears can be used on incoming specially defensive walls to make them either take a strong attack or switch out into something else that does not take Ursaluna-B's attacks as well.
+
+Common Items
+
+Leftovers
+
+: Leftovers is great for longevity, since most physical attacks already do very little damage to Ursaluna-B.
+
+Sitrus Berry
+
+: Sitrus Berry is another longevity option, especially when setting up against special attackers with a Calm Mind set.
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots is good against teams with solid entry hazard setters, especially if Ursaluna-B wants to switch in and out often.
+
+Resistance Berries
+
+: Resistance Berries, such as Chople Berry, are good for taking one-time hits from offensive foes that threaten Ursaluna-B, allowing it to deal massive damage in return.
+
+Rocky Helmet
+
+: With Ursaluna-B's high Defense, Rocky Helmet is a good option to use against physical threats and pivoters.
+
+Niche Items
+
+Choice Specs
+
+: Choice Specs can allow Ursaluna-B to deal huge amounts of damage to foes, but it forces Ursaluna-B to switch out or use Struggle after using Blood Moon.
+
+Assault Vest
+
+: Assault Vest can patch up Ursaluna-B's low Special Defense while still allowing Ursaluna-B to function as an offensive threat.
+
+Mental Herb
+
+: Mental Herb allows Ursaluna-B to heal or set up without getting disrupted.
+
+Custap Berry
+
+: Custap Berry can be used alongside Endure to quickly outspeed an opposing Pokemon once.
+
+Tera
+
+Ursaluna-B is typically banned from Terastallizing, since better defensive Tera types make it incredibly difficult to take down. If it is allowed to Terastallize, it can use types such as Tera Fairy and Ghost to stop opposing setup sweepers or set up more easily. Offensively, Tera Normal and Ground are great for dealing more damage.
+
+Draft Strategy
+
+Ursaluna-B is good at wallbreaking to enable other wincons, taking attacks from threatening physical wallbreakers, or being a setup sweeper of its own with the right support. However, it has some glaring weaknesses that can be worked around when combined with the right Pokemon.
+
+Pivots
+
+: Ursaluna-B shines offensively when it is able to control opposing momentum by forcing switches. Having solid pivots allows Ursaluna-B to easily switch in against Pokemon that struggle against it and lets it immediately become a threat. Good pivoting options include
+
+Greninja
+
+,
+
+Uxie
+
+, and
+
+Zapdos
+
+.
+
+Special Walls
+
+: Ursaluna-B is immediately threatened by specially offensive wallbreakers, so it's important to have a Pokemon that doesn't mind taking incoming special attacks, such as
+
+Tornadus-T
+
+,
+
+Galarian Slowking
+
+, and
+
+Rotom-W
+
+.
+
+Entry Hazard Setters
+
+: Ursaluna-B is a Ground-type that lacks entry hazards, which is pretty uncommon. This means Pokemon of other types will need to handle hazard setting. Otherwise, if another Ground-type is drafted for hazards, the team will gain some glaring weaknesses. Some non-Ground-type hazard setters that pair well with Ursaluna-B include
+
+Glimmora
+
+,
+
+Metagross
+
+, and
+
+Hisuian Samurott
+
+.
+
+Phazing
+
+: Ursaluna-B can be a bit of a sitting duck at times, since it cannot make progress against bulkier setup sweepers. While it has Roar and Yawn, most Pokemon that set up on it are special attackers that make it want to switch out instead. Pokemon that use moves such as Encore and Whirlwind such as
+
+Scream Tail
+
+,
+
+Tinkaton
+
+, and Uxie can help threaten those sweepers and regain momentum.
+
+Checks and Counters
+
+Special Attackers
+
+: Ursaluna-B's low Special Defense makes it struggle against special attacking wallbreakers and setup sweepers such as
+
+Iron Bundle
+
+,
+
+Chi-Yu
+
+, and
+
+Sinistcha
+
+. While many struggle to actively switch into Ursaluna-B, they are able to apply lots of pressure if pivoted in or used as a revenge killer.
+
+Levitate / Flying-types
+
+: Pokemon that are immune Earth Power, such as Rotom-W,
+
+Latias
+
+, and
+
+Corviknight
+
+, can easily take advantage of Blood Moon only being usable every other turn, often forcing it to also run Hyper Voice. Air Balloon is also an option on faster Pokemon that can punish Ursaluna-B for using its other attacking moves.
+
+Chip Damage
+
+: Ursaluna-B is a Pokemon that likes to stay in for long periods of time and struggles with taking passive damage over time. Inflicting it with Toxic and wearing it down with entry hazards or other forms of chip damage make Ursaluna-B struggle more against Pokemon that it would typically wall.
+
+Heal Blocking
+
+: Taunt and Encore can shut Ursaluna-B down hard, especially if it has low health and wants to heal. Additionally, Psychic Noise is a very safe move for opponents to bring against it, since it can deal lots of damage while keeping its health low.
+
+Assault Vest covers for Ursaluna-B's average Special Defense and allows it to reliably beat some special attacker like
+
+Galarian Moltres
+
+,
+
+Raging Bolt
+
+, and opposing Ursaluna-B.
+
+Blood Moon deals great neutral damage to many Pokemon such as
+
+Hoopa-U
+
+,
+
+Volcarona
+
+,
+
+Ogerpon-W
+
+, and
+
+Alolan Ninetales
+
+.
+
+Earth Power is used to deal with Fire-type Pokemon like
+
+Skeledirge
+
+and
+
+Iron Moth
+
+and Steel-type Pokemon like
+
+Iron Crown
+
+and
+
+Metagross
+
+.
+
+Vacuum Wave deals with Pokemon such as Liechi Berry
+
+Sneasler
+
+, Custap Berry
+
+Hisuian Goodra
+
+, and Custap Berry Hoopa-U.
+
+Smack Down defeats
+
+Corviknight
+
+by removing its Ground immunity; on the other hand, Counter can be used to deal with Pokemon such as
+
+Landorus-T
+
+, Assault Vest
+
+Urshifu-S
+
+, and
+
+Ursaluna
+
+, provided they do not have a boosting move.
+
+The EV spread allows Ursaluna-B to survive a Close Combat from Adamant Sneasler and +1 Draco Meteor from Booster Energy Raging Bolt.
+
+Despite having Assault Vest, Ursaluna-B still struggles against some special attackers like
+
+Volcanion
+
+; Alolan Ninetales; and Water- and Fighting-type Pokemon like
+
+Urshifu-R
+
+,
+
+Primarina
+
+and,
+
+Iron Hands
+
+. Therefore, Pokemon like
+
+Sylveon
+
+,
+
+Zapdos
+
+, and Raging Bolt make great teammates.
+
+Chople Berry leverages Ursaluna-B's naturally high Defense stat to cover its usual weakness to Fighting-type move users, such as Choice Band
+
+Urshifu-S
+
+and offensive
+
+Iron Valiant
+
+sets.
+
+Blood Moon is Ursaluna-B's strongest Normal-type STAB move, and Mind's Eye allows it to hit Ghost-types like
+
+Dragapult
+
+.
+
+Earth Power serves as a powerful secondary STAB attack, hitting Steel-types like
+
+Metagross
+
+and Poison-types like
+
+Iron Moth
+
+and
+
+Sneasler
+
+.
+
+Counter utilizes Ursaluna-B's high physical defense to reflect back damage from strong physical attackers, such as
+
+Haxorus
+
+and Choice Band Urshifu-S.
+
+Smack Down allows Ursaluna-B to beat
+
+Corviknight
+
+by removing its Ground immunity. Hyper Voice allows it to beat SubSeed Whimsciott and is helpful (but not foolproof) against Substitute + Reversal Sneasler, as the latter can run Endure to muddle the matchup against non-Vacuum Wave Ursaluna-B. Lastly, Vaccum Wave secures the matchup against Dragapult and Liechi Berry Sneasler.
+
+The EV spread allows it to survive an Adamant Choice Band Haxorus's Close Combat and a Timid Choice Specs Iron Valiant's Focus Blast.
+
+While it has high physical defense, its low special bulk makes Ursaluna-B weak to special attackers such as
+
+Primarina
+
+,
+
+Walking Wake
+
+, and
+
+Raging Bolt
+
+. Thus, using it with an Assault Vest user, such as
+
+Hoopa-U
+
+, or a Pokemon with high special bulk, such as
+
+Hisuian Goodra
+
+, is recommended.

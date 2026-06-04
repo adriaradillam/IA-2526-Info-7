@@ -1,0 +1,899 @@
+The incredible power of Armor Cannon makes Armarouge a terrifying foe in the RU tier, often threatening a KO whenever it enters the field. With its excellent STAB combination that hits most of the metagame, Weak Armor that constantly deters weak physical moves like U-turn and Rapid Spin, and the physical bulk to make use of it, Armarouge can serve as both a wallbreaker and sweeper simultaneously. Armarouge is unique among the Psychic-types in the tier due to its ability to threaten Steel-types like
+
+Jirachi
+
+,
+
+Magnezone
+
+, and
+
+Registeel
+
+with Armor Cannon. Armarouge's drawbacks, however, are evident; its Speed is lower than much of the tier, allowing many Pokemon like
+
+Basculegion-F
+
+and
+
+Gengar
+
+to outspeed it prior to Weak Armor's activation, and its ability to take special attacks is poor. Its weakness to Stealth Rock and the combined Defense drops from both Weak Armor and Armor Cannon can cause damage to add up quickly, resulting in Armarouge being unable to survive subsequent attacks from revenge killers and bulky Pokemon.
+
+Armarouge is a devastating special attacker, capable of breaking holes in teams or taking advantage of opposing physical attackers to boost its Speed with Weak Armor in order to sweep. Armarouge particularly excels against
+
+Cyclizar
+
+, the most common form of entry hazard removal in the tier, due to the minimal damage received and the fact that most of Cyclizar's moves will activate Weak Armor. Psyshock targets the weaker Defense of opposing Pokemon such as
+
+Chansey
+
+and Assault Vest Cyclizar. Energy Ball is used to hit Water-types with high Defense like
+
+Slowbro
+
+and
+
+Suicune
+
+. Tera Fairy provides a valuable resistance to
+
+Bisharp
+
+'s Sucker Punch, as well as allowing Armarouge to shrug off Knock Off from
+
+Krookodile
+
+,
+
+Mienshao
+
+, and Cyclizar. Tera Fairy also grants an immunity to Cyclizar's Dragon Tail, preventing Armarouge from being phazed out. Tera Grass grants resistances to
+
+Barraskewda
+
+'s and
+
+Crawdaunt
+
+'s Aqua Jet,
+
+Empoleon
+
+'s Surf, and Krookodile's Earthquake. This also boosts the damage of Energy Ball, allowing Armarouge to threaten OHKOs on Krookodile and
+
+Terrakion
+
+.
+
+Calm Mind Armarouge is most comfortable on balance and offense teams, where it can use its wallbreaking ability to open up holes for its team to exploit or threaten a late-game sweep. Pivot support from VoltTurn users such as Cyclizar,
+
+Magnezone
+
+, and
+
+Jirachi
+
+are important to get Armarouge into favorable matchups against Pokemon like
+
+Forretress
+
+and
+
+Amoonguss
+
+while preserving its HP. These Pokemon can also bait out weak Knock Off from Cyclizar and
+
+Reuniclus
+
+, easily allowing Weak Armor to activate. Mienshao and Terrakion invite physical walls like
+
+Cresselia
+
+,
+
+Quagsire
+
+, and Slowbro in, which Armarouge can take advantage of. Opposing special attackers like
+
+Gengar
+
+, Choice Scarf
+
+Basculegion-F
+
+, and
+
+Noivern
+
+outspeed and threaten Armarouge, so allies like Cyclizar,
+
+Hisuian Goodra
+
+, and Jirachi, respectively, can switch into their attacks for it. Priority moves are one of the most reliable answers to Armarouge after Weak Armor activates, so pairing it with Psychic Surge
+
+Indeedee
+
+can nullify this weakness with the added benefit of empowering its Psychic-type moves.
+
+Weakness Policy Armarouge is a naturally potent wallbreaker and sweeper that can immediately chunk holes in the opposing team thanks to its excellent STAB combination and decent bulk. Armarouge can use the combination of Endure and Weakness Policy to flip situations around at the drop of a hat and threaten a devastating sweep. Armor Cannon is the centerpiece of Armarouge's arsenal as a wallbreaker due to its high Base Power and its drawbacks made negligible by having Endure as an option. Psyshock is consistently powerful and can deal with specially defensive Pokemon like Assault Vest
+
+Cyclizar
+
+. Stored Power can deal incredible amounts of damage after a Weakness Policy and Weak Armor activation, with the drawback of initially being very weak. Expanding Force is an option on Psychic Terrain teams that can OHKO most non-resistant foes in the tier while Psychic Terrain is active and is still a decently powerful attack otherwise. Energy Ball provides Armarouge with coverage that is essential for dealing with Water-types such as
+
+Slowbro
+
+and
+
+Suicune
+
+. Calm Mind is an optional setup move that allows Armarouge to capitalize on Pokemon that cannot deal much damage to it, like Cyclizar,
+
+Registeel
+
+, and
+
+Gardevoir
+
+, and keeps it from being dependent on Weakness Policy for strengthening its attacks. Weak Armor allows Armarouge to outspeed a massive portion of the tier after surviving a physical attack, thus enabling it to act as an excellent late-game cleaner. A Timid nature ensures that Armarouge outspeeds even the fastest Choice Scarf users in the tier, such as
+
+Terrakion
+
+and
+
+Gengar
+
+, at +2 Speed. Tera Normal can be used to turn the tables on a Ghost-type revenge killer like Gengar or
+
+Mimikyu
+
+. Tera Psychic boosts the damage of Armarouge's strong Psychic-type attacks even further and is particularly useful in Psychic Terrain. Tera Ground makes Armarouge immune to Sandstorm damage and also lets it deny Thunder Wave and Electric-type moves from Pokemon such as
+
+Magnezone
+
+and
+
+Reuniclus
+
+, which gives it time to either setup further or pick up a KO.
+
+Weakness Policy Armarouge fits well on hyper offense and offensive structures that appreciate a safety net that can revenge kill a Choice item user such as
+
+Mienshao
+
+or
+
+Krookodile
+
+if needed and possibly sweep in return. Armarouge can also cover the role of a wallbreaker and cleaner on balance structures that aim to gradually chip away at the opposing team due to its innate firepower and ability to quickly boost its Speed. Armarouge synergizes particularly well with Psychic Terrain and thus partners well with lead Psychic Surge
+
+Indeedee
+
+; not only does Psychic Terrain power up Armarouge's Psychic-type STAB attacks to unstoppable levels, it also stops Armarouge from being revenge killed with a priority move, which is often its biggest worry after a successful Endure. Armarouge often finds its itself lacking meaningful ways to deal with specially defensive walls such as
+
+Alolan Muk
+
+,
+
+Umbreon
+
+, and
+
+Hisuian Goodra
+
+and therefore benefits from strong physical sweepers such as Swords Dance Terrakion and
+
+Bisharp
+
+as well as wallbreakers such as
+
+Crawdaunt
+
+, as they can help to remove or deal large chunks of damage to Armarouge's checks. Armarouge benefits from hazard removal options such as Tidy Up
+
+Maushold
+
+and Rapid Spin Cyclizar, as they can prevent it from losing its health to entry hazard chip, thus keeping it from being dependent on Endure for surviving attacks. Armarouge works well with fast pivots such as Choice Scarf
+
+Jirachi
+
+and Cyclizar that can bait a Knock Off from weak physical attackers such as Cyclizar, Hisuian Goodra, and
+
+Chesnaught
+
+and use it against them to threaten a devastating sweep by activating Weakness Policy.
+
+Other Options
+
+Meteor Beam, alongside a Power Herb, can compress setup with a coverage option to hit opposing Armarouge and
+
+Noivern
+
+into a single moveslot, with the drawback that this combination effectively limits Armarouge to three moveslots for the remainder of the game. Armarouge can effectively use Choice Specs for immediate power that can OHKO
+
+Cyclizar
+
+with Psyshock after Stealth Rock and 2HKO specially defensive
+
+Empoleon
+
+with Armor Cannon; it additionally allows Armarouge to use Trick to cripple the few walls that are able to switch into its attacks. Flash Fire can be used with Choice Specs, enabling absolutely nuclear Armor Cannons if positioned correctly, but using Flash Fire means that
+
+Gardevoir
+
+can Trace it to become immune, and Speed will remain an issue without Weak Armor. Iron Defense can offset the penalty of Weak Armor and give Armarouge the additional bulk to set up Calm Minds or activate Weakness Policy from powerful attacks like
+
+Crawdaunt
+
+'s and
+
+Krookodile
+
+'s Knock Off, all while further boosting Stored Power. Focus Blast can be used to hit opposing special walls like
+
+Hisuian Goodra
+
+and
+
+Umbreon
+
+, but dropping Energy Ball leaves Armarouge weaker against Water-types like
+
+Slowbro
+
+. Destiny Bond allows Armarouge to get a surprise KO on a Pokemon that is bulky enough to survive its hits.
+
+Checks and Counters
+
+Special Walls
+
+:
+
+Chansey
+
+, Umbreon, Empoleon, and Hisuian Goodra are all able to comfortably survive Armarouge's attacks and either heal off the damage or deal huge damage in return. With boosts from Calm Mind or Weakness Policy, Armarouge can use Psyshock to answer Chansey, particularly if its Eviolite has been removed, but the last three Pokemon either resist or are immune to Psyshock, meaning Armarouge has to brute force its way through their high Special Defense.
+
+Special Attackers
+
+: Special attackers like
+
+Gengar
+
+, Noivern, and
+
+Basculegion-F
+
+not only target Armarouge's weaker Special Defense but fail to activate Weak Armor, meaning that Armarouge does not gain the crucial Speed advantage on the next turn. Even attacks from weaker Pokemon like Draco Meteor Cyclizar pose a threat.
+
+Priority
+
+: Armarouge's use of Weak Armor and Armor Cannon leaves it vulnerable to the many forms of physical priority moves in the tier, such as
+
+Mimikyu
+
+'s Shadow Sneak, and Aqua Jet from
+
+Barraskewda
+
+and Crawdaunt. Endure sets are safe from First Impression, but unless Armarouge is used in Psychic Terrain, other priority users like
+
+Bisharp
+
+and
+
+Entei
+
+are extremely effective at revenge killing it.
+
+With Weakness Policy, Endure, and a Speed boost from Weak Armor, Armarouge becomes a fast and hard-hitting late-game sweeper, outspeeding and removing threats like
+
+Kleavor
+
+, Choice Band
+
+Meowscarada
+
+, the
+
+Landorus
+
+formes, and Choice Scarf
+
+Urshifu-S
+
+. At +2 Special Attack, Focus Blast allows Armarouge to OHKO
+
+Heatran
+
+,
+
+Darkrai
+
+, and
+
+Ursaluna
+
+while also 2HKOing threats switching into Armarouge such as
+
+Hisuian Goodra
+
+and
+
+Blissey
+
+. Aura Sphere can be used over Focus Blast for its accuracy; however, it trades off Focus Blast's higher power, making it miss out on OHKOing specially defensive Heatran after a Weakness Policy activation. Stored Power can be used over Expanding Force for higher breaking power after Weakness Policy and Weak Armor have activated, but this comes at the cost of being weaker without their previously mentioned boosts. Flamethrower allows Armarouge to melt Steel-types like
+
+Corviknight
+
+and
+
+Gholdengo
+
+, while Armor Cannon has higher breaking power and is capable of OHKOing
+
+Gliscor
+
+and non-Assault Vest
+
+Tornadus-T
+
+after a Weakness Policy boost.
+
+Indeedee-M
+
+is a crucial teammate due to its ability to set Psychic Terrain and its switch into Ghost-type attacks. Setting Psychic Terrain allows Armarouge to use a greatly strengthened Expanding Force that can KO
+
+Swampert
+
+and Assault Vest
+
+Gallade
+
+after Stealth Rock chip damage and Weakness Policy's activation. It also protects Armarouge from powerful priority attacks like
+
+Bisharp
+
+'s Sucker Punch and
+
+Azumarill
+
+'s Aqua Jet.
+
+Deoxys-S
+
+is another great partner with Armarouge due to its access to Spikes and Stealth Rock, which allow Armarouge to break through bulkier Pokemon like the
+
+Ogerpon
+
+formes and
+
+Ting-Lu
+
+and bypass Sturdy and Focus Sash from
+
+Ogerpon-C
+
+,
+
+Forretress
+
+, and
+
+Great Tusk
+
+. Deoxys-S can also set dual screens for Armarouge, allowing it to live a hit from Pokemon like
+
+Weavile
+
+,
+
+Lokix
+
+, and
+
+Excadrill
+
+and OHKO them back with Weakness Policy-boosted moves without the need for Endure.
+
+Hoopa-U
+
+and Gallade are great offensive partners for Armarouge the former handles Ghost-types like
+
+Spectrier
+
+and
+
+Flutter Mane
+
+while the latter deals with Dark-types like
+
+Alolan Muk
+
+and Ting-Lu.
+
+Hatterene
+
+is a good partner due to its imperative access to Magic Bounce, granting Armarouge some relief from hazards, and, if holding a Kasib Berry, Hatterene can paralyze fast Ghost-types like
+
+Dragapult
+
+and Spectrier with Nuzzle.
+
+Iron Boulder
+
+and
+
+Latios
+
+both appreciate Armarouge's ability to eliminate annoying Steel-types like Corviknight and
+
+Scizor
+
+. In return, the former checks fast threats like Choice Scarf Meowscarada,
+
+Greninja
+
+, and
+
+Roaring Moon
+
+, while the latter uses its Ground immunity and BoltBeam coverage to eliminate walls like
+
+Empoleon
+
+and Gliscor.
+
+Slowbro
+
+is a good defensive partner for Armarouge, as it uses its Water resistance to take hits from
+
+Barraskewda
+
+and
+
+Gyarados
+
+and can deal with
+
+Ceruledge
+
+if it chooses to forgo an item.
+
+With its great defensive stats, access to Calm Mind and Stored Power, and Weak Armor ability, Armarouge becomes a potent setup sweeper on Psychic teams. Flamethrower complements Armarouge's Stored Power, allowing it to hit Steel-types like
+
+Scizor
+
+,
+
+Gholdengo
+
+, and
+
+Iron Treads
+
+. Iron Defense increases Armarouge's survivability against physical attacks, negating Defense drops from Weak Armor as well as letting it survive super effective moves like Earthquake from defensive
+
+Great Tusk
+
+, activating its Weakness Policy. At +1, Focus Blast allows Armarouge to OHKO Dark-types like
+
+Roaring Moon
+
+,
+
+Hydreigon
+
+, and potentially
+
+Tyranitar
+
+while also 2HKOing
+
+Hisuian Goodra
+
+and specially defensive
+
+Heatran
+
+. Aura Sphere can be used over Focus Blast for its accuracy; however, it trades off Focus Blast's higher power, requiring multiple boosts to OHKO common foes like Roaring Moon. Weak Armor boost allows Armarouge to outspeed faster threats like
+
+Dragapult
+
+,
+
+Flutter Mane
+
+, and Choice Scarf users like Roaring Moon,
+
+Hisuian Samurott
+
+, and
+
+Landorus
+
+while also boosting the power of Stored Power.
+
+Deoxys-S
+
+is an excellent partner for Armarouge, providing dual screens support for easier setup and setting entry hazards, making it easier for Armarouge to break through bulky foes.
+
+Indeedee
+
+sets up Psychic Terrain, which boosts the power of Armarouge's Psychic moves and blocks priority moves like
+
+Bisharp
+
+'s Sucker Punch and
+
+Azumarill
+
+'s Aqua Jet. Indeedee can also provide Healing Wish support, giving Armarouge a second chance to sweep.
+
+Latios
+
+provides a Ground immunity and a Water resistance and threatens foes with these types back with its BoltBeam coverage.
+
+Gallade
+
+threatens Dark-types like
+
+Ting-Lu
+
+and
+
+Alolan Muk
+
+, while
+
+Hoopa-U
+
+deals with Ghost-types like non-Choice Specs Flutter Mane,
+
+Skeledirge
+
+, and
+
+Spectrier
+
+. Armarouge also appreciates the pair's ability to break through special walls such as Hisuian Goodra,
+
+Swampert
+
+, and
+
+Blissey
+
+.
+
+Hatterene
+
+provides hazard control thanks to Magic Bounce, and Choice Scarf
+
+Iron Boulder
+
+deals with faster threats like Choice Specs Flutter Mane and Choice Scarf
+
+Meowscarada
+
+,
+
+Greninja
+
+, and Roaring Moon. Both appreciate Armarouge handling Steel-types like
+
+Archaludon
+
+, Scizor, and
+
+Corviknight
+
+.
+
+Other Options
+
+Psychic
+
+Psyshock can be used over Stored Power, which allows Armarouge to break through special walls like
+
+Blissey
+
+and
+
+Clodsire
+
+. Destiny Bond can be used as the last move, which allows Armarouge to take foes like
+
+Alolan Muk
+
+or
+
+Ting-Lu
+
+down with it, opening up opportunities for teammates like
+
+Deoxys-S
+
+.
+
+This is a sample set as we work on proper analyses. Stay tuned!
+
+Armarouge's combination of powerful STAB moves, excellent coverage, Weak Armor, and Psychic Terrain makes it a strong candidate to use Focus Sash.
+
+Psychic Terrain
+
+: Psychic Terrain is a powerful setup move for Armarouge thanks to Expanding Force; it also protects Armarouge from priority moves after Weak Armor triggers.
+
+Expanding Force
+
+: Expanding Force under Psychic Terrain especially with Tera Psychic, is a devastatingly powerful move.
+
+Armor Cannon
+
+: This helps Armarouge defeat Steel-types as well as
+
+Chien-Pao
+
+and
+
+Wo-Chien
+
+, who all resist or block Expanding Force.
+
+Aura Sphere
+
+: While Armor Cannon covers several prominent Dark-types, Aura Sphere is needed if you want to threaten
+
+Chi-Yu
+
+or
+
+Roaring Moon
+
+.
+
+Destiny Bond
+
+: This is a good alternative to forcefully take down threats that Armarouge can’t easily KO, and it works very well with Weak Armor.
+
+Energy Ball
+
+: Energy Ball hits the specially defensive Water-types Armarouge might struggle to defeat otherwise, most notably
+
+Gastrodon
+
+.
+
+Tera Types
+
+Tera Dependency - Low / Medium
+
+: Between Focus Sash and Psychic Terrain blocking priority moves, Armarouge is well-equipped to play without Tera. On the other hand, Armarouge can specialize to handle certain matchups better, at which point Tera can become more necessary.
+
+Grass
+
+: This Tera typing turns Armarouge's Water- and Ground-type weaknesses into resistances, and gives a vital Spore immunity against opposing
+
+Breloom
+
+.
+
+Psychic
+
+: With a boost from Tera Psychic, Expanding Force OHKOes even relatively bulky foes such as
+
+Garchomp
+
+and
+
+Flutter Mane
+
+. With Stealth Rock, Expanding Force still achieves most notable KOs without Tera Psychic, but the extra damage is still appreciated.
+
+Fairy
+
+: In cases where setting up Psychic Terrain proves to be more difficult, Tera Fairy grants a resistance to Sucker Punch and makes disrupting other Dark-types like Chi-Yu easier. Its also just a solid defensive typing that neutralizes all of its other weaknesses.
+
+Fighting
+
+: Tera Fighting is a more niche option for a Dark-type resistance that also powers up Aura Sphere.
+
+Abilities
+
+Weak Armor
+
+: This ability takes full advantage of Focus Sash, guaranteeing you live a single hit from a physical attacker and granting a big Speed boost thereafter.
+
+Flash Fire
+
+: While more situational, Flash Fire is worth considering with certain Tera Types like Grass, keeping momentum against revenge killers who use Fire-type attacks. It can also be used with Tera Fairy or Tera Fighting to shut down many variants of Chi-Yu.
+
+This set does not have a full write-up yet. If you'd like to finish this, feel free to reserve it here!
+
+Draft Order
+
+: Round 6 onwards
+
+Price Range
+
+: 6-7 points
+
+Overview
+
+: Armarouge can be a flexible sweeper and slow wallbreaker with an abundance of coverage options coupled by a strong Special Attack. Additionally, its mediocre Speed tier is easily overlooked with Weak Armor, which pairs well with a Weakness Policy and Stored Power to quickly turn the tide of battles. Unfortunately, it is difficult to maximize Armarouge's potential on most drafts due to its plethora of weaknesses as well as its reliance on proper support in order to set it up for boosted attacks. It is not usually the primary choice for Terastallization, but Armarouge's abilities can make it a viable candidate both defensively and offensively. Nonetheless, Armarouge can provide offensive pressure and play the crucial role as a late-game sweeper with its unique set of abilities and attacks.
+
+Common Roles
+
+Setup Sweeper
+
+: Both Weakness Policy with Endure and a Focus Sash with Calm Mind can enable Weak Armor Armarouge to boost multiple stats in a single turn before firing off Stored Power and Armor Cannon against its foes. This can also be useful in Psychic Terrain, as it benefits from the immediate boosted damage with Expanding Force as well as avoiding priority moves like Sucker Punch and Shadow Sneak.
+
+Wallbreaker
+
+: A strong Special Attack stat coupled with a diverse movepool enables Armarouge to break through walls with a Choice Specs or Choice Scarf. This role appreciates Flash Fire boosts or the increase in Speed from Weak Armor. Although this requires Armarouge to become vulnerable to entry hazard damage, it can be quite effective for luring in and wearing down opposing walls.
+
+Common Moves
+
+Primary STAB Moves
+
+: Armor Cannon, Flamethrower, Mystical Fire, Overheat, Expanding Force, Psychic, Psyshock, Stored Power
+
+Setup Moves
+
+: Calm Mind, Iron Defense, Flame Charge, Meteor Beam
+
+Utility Moves
+
+: Clear Smog, Light Screen, Reflect, Substitute, Taunt, Trick, Will-O-Wisp
+
+Coverage
+
+: Aura Sphere, Dark Pulse, Dragon Pulse, Energy Ball, Flash Cannon, Focus Blast, Scorching Sands, Shadow Ball
+
+Niche Moves
+
+Endure
+
+: Endure can be useful with Weak Armor and Weakness Policy, allowing Armarouge to survive a foe's attack that it otherwise could not and gain many stat boosts at once. This amplifies its offensive damage output through Stored Power. Additionally, Endure can be effective on non-Weakness Policy sets to trade an opposing KO with a quick Destiny Bond.
+
+Trick Room
+
+: Armarouge's mediocre Speed and high Special Attack can prove to be effective when taking advantage of Trick Room. This also pairs well with Eject Pack, allowing it to fire off an Armor Cannon before pivoting out to other allies.
+
+Destiny Bond
+
+: Destiny Bond can be quite useful for earning one final KO after Armarouge is heavily damaged. The increase in Speed after a Weak Armor boost enables Armarouge to outspeed unsuspecting revenge killers, so it tends to work best with Endure sets to ensure a Weak Armor boost.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots enables Armarouge to switch into the field without taking significant damage from Stealth Rock and other entry hazards.
+
+Weakness Policy
+
+: Even without Endure, Armarouge's natural defensive bulk enables it to withstand some super effective attacks to active Weakness Policy. For instance, a foe's Knock-Off simultaneously triggers its Weakness policy and Weak Armor boosts, allowing Armarouge to dominate offensively. This set works especially well with Stored Power, as Armarouge can easily gain multiple stat boosts in a single turn.
+
+Focus Sash
+
+: Focus Sash enables Armarouge to survive any hit from full health, which can be beneficial for setting up or using a speedy Destiny Bond without Endure.
+
+Choice Specs
+
+: Choice Specs grants Armarouge immediate offensive pressure to break down opposing special walls. This can also lure in foes that may attempt to take advantage of the more predictable Endure Armarouge set with the potential to give away its Choice Specs with Trick.
+
+Niche Items
+
+Power Herb
+
+: Power Herb allows Armarouge to boost its Special Attack while dishing out significant damage in the same turn with Meteor Beam.
+
+White Herb / Eject Pack
+
+: Both the White Herb and Eject Pack can remedy the stat drops from Armor Cannon, with the latter adding an option to pivot Armarouge out of battle.
+
+Assault Vest
+
+: Flash Fire Armarouge's defensive Tera options, such as Tera Grass and Steel, also appreciate the additional bulk provided by Assault Vest.
+
+Air Balloon
+
+: Armarouge appreciates an Air Balloon as it increases the likelihood of foes activating its Weak Armor with their coverage attacks. Flash Fire sets can even counter niche defensive walls that may have a limited offensive movepool.
+
+Tera
+
+Although there are other candidates that can take better advantage of Terastallization, Armarouge can be a great choice for its price range. Armarouge's Flash Fire synergizes well with defensive options like Tera Grass, Bug, and Steel. Similarly, Tera Flying, Fighting, and Fairy are useful for activating Weak Armor while withstanding attacks that would KO it. Tera Psychic and Fire are predominantly used as Armarouge's offensive Tera choices, as they both can enhance the damage output from its STAB moves and facilitate wallbreaking.
+
+Draft Strategy
+
+Armarouge's effectiveness as a threatening setup sweeper is heavily reliant on the partners drafted alongside it, as it does not provide practical utility to a draft. It is quite difficult to place Armarouge in a winning position, but it can easily close out a game once it achieves this state.
+
+Entry Hazard Removal
+
+: Without proper removal, Armarouge sets that do not run Heavy-Duty Boots can be easily chipped down by entry hazards, effectively removing its primary role as a setup sweeper. Partners like as
+
+Terapagos
+
+,
+
+Quaquaval
+
+, and
+
+Iron Treads
+
+are ideal for this role.
+
+Bulky Pivots
+
+: Armarouge appreciates an ally that can pivot it safely onto the field while reducing the stats of foes through Intimidate, status conditions, or Parting Shot. Allies that can do this particularly well include
+
+Zapdos
+
+,
+
+Landorus-T
+
+, and
+
+Rotom-W
+
+.
+
+Dual Screens
+
+: Dual screens support enables Weak Armor Armarouge to withstand attacks with greater ease. Screen setters that can fill this role include
+
+Klefki
+
+,
+
+Deoxys-S
+
+, and
+
+Sandy Shocks
+
+to name a few.
+
+Psychic Terrain
+
+: Armarouge appreciates the boosted damage from Expanding Force as its strongest Psychic-type STAB move. Thus,
+
+Indeedee
+
+is a great partner as a cheap offensive core.
+
+Checks and Counters
+
+Entry Hazards
+
+: Armarouge excels in its role as a setup sweeper, which means opting for other held items over Heavy-Duty Boots. As a result, it is incredibly vulnerable to entry hazards due to its weakness to Stealth Rocks and Toxic Spikes that easily threaten its ability as a setup sweeper.
+
+Fire- and Psychic-type Resistant Pokemon
+
+: Without proper setup, Armarouge is easily threatened by foes that can resist or is immune to its Fire- and Psychic- type STAB attacks. Threats such as
+
+Chi-Yu
+
+,
+
+Primarina
+
+,
+
+Heatran
+
+, and
+
+Roaring Moon
+
+can easily shrug off its attacks while forcing a KO in return.
+
+Taunt / Encore
+
+: Although Armarouge plays an exceptional role as a late game sweeper, it is very predictable and one-dimensional. Thus, it can easily be disrupted by Taunt and Encore from foes, forcing it to switch out or limiting its damage potential.
+
+Strong Special Attackers
+
+: Armarouge's poor Special Defense makes it vulnerable to specially offensive foes. Additionally, without Weak Armor to boost its Speed, specially offensive attackers can easily counter most Armarouge sets without fearing the increased damage from Weakness Policy boosts.

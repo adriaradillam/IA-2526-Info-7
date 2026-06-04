@@ -1,0 +1,1485 @@
+Chien-Pao possesses the coveted-yet-crowded base 135 Speed tier and can even get the jump on its peers with Ice Shard and Sucker Punch, making it a nice revenge killer and late-game cleaner; Ice Shard in particular stands out in a metagame with numerous fast Dragon-types. Its Dark / Ice STAB combination matches up well into defensive staples like
+
+Necrozma-DM
+
+,
+
+Arceus-Ground
+
+, and
+
+Ting-Lu
+
+, and Icicle Crash can also potentially flinch through otherwise solid counterplay like
+
+Ho-Oh
+
+. However, Chien-Pao is exceedingly frail and entry hazard-weak, making getting it onto the field safely, let alone multiple times, quite difficult. This also means it offers exactly no defensive utility to its team. Due to the low Base Power of its moves, it is also relatively weak by Ubers standards without finding a turn to use Swords Dance, which is hard to find due to its frailty. Chien-Pao is also scared to death of
+
+Zacian-C
+
+, which outspeeds it and resists both STAB types.
+
+Kingambit
+
+also provides heavy competition, as it has substantially better bulk, resists Stealth Rock, and boasts an even stronger Sucker Punch late-game, at the cost of much worse Speed. Ultimately, Chien-Pao's Speed, priority, and STAB combination make it a noteworthy cleaner, but it still finds itself more limited compared to metagame staples like
+
+Koraidon
+
+and Zacian-C.
+
+Swords Dance Chien-Pao is a threatening late-game cleaner once
+
+Arceus
+
+formes that are not weak to Chien-Pao's STAB moves have been chipped sufficiently. Icicle Crash is Chien-Pao's strongest STAB move, provides key coverage against the plethora of Ground-types, and can provide a flinch in a pinch all while dodging Rocky Helmet. Crunch is Chien-Pao's most reliable secondary STAB move, hitting
+
+Necrozma-DM
+
+,
+
+Arceus-Water
+
+, and
+
+Kyogre
+
+, while Sucker Punch is its strongest priority move by far against neutral targets. Ice Shard is notable to revenge kill
+
+Koraidon
+
+and
+
+Miraidon
+
+while also not failing against setup moves and can be run over either Dark STAB move. Life Orb is the preferred item to secure the OHKO against defensive Necrozma-DM and 2HKO against Arceus-Water after Swords Dance, and given Chien-Pao’s frailty, the recoil is often insignificant. Heavy-Duty Boots allows Chien-Pao to be played aggressively in the early-to-mid-game to help break down the opposing core itself and pick off weakened targets, while Black Glasses still secures key KOs like Necrozma-DM without recoil. Jolly is the preferred nature to Speed tie Koraidon, Miraidon, and opposing Chien-Pao while outspeeding Arceus,
+
+Mewtwo
+
+, and +1 Necrozma-DM and
+
+Iron Treads
+
+, but Adamant is an option, especially on double priority sets that care less about the Speed tier.
+
+Chien-Pao thrives best when it is tasked with cleaning up a weakened team. As such, powerful physical wallbreakers like Koraidon and
+
+Arceus-Ground
+
+that can lure in and weaken their shared checks like
+
+Arceus-Fairy
+
+are excellent teammates. Chien-Pao also loves entry hazards being up on the opposing side, making teammates like
+
+Gliscor
+
+and
+
+Ting-Lu
+
+wonderful partners. Chien-Pao is helpless against
+
+Zacian-C
+
+, making a strong answer to it like
+
+Ho-Oh
+
+a great teammate. Additionally, strong opposing priority users like Arceus offset Chien-Pao's biggest advantage, so a reliable answer to it like defensive Arceus-Ground is recommended. Especially if running Life Orb, Chien-Pao struggles to get onto the field without taking tremendous chip damage, making pivoting teammates like Gliscor, Koraidon, and Miraidon valuable partners; Miraidon especially draws in the Ground-types like Ting-Lu and Gliscor that Chien-Pao feasts on. Extreme Killer Arceus is an excellent teammate, as they form a strong priority core together; Arceus also often forces Tera Ghost on opposing setup sweepers, making them weaker to Chien-Pao's Sucker Punch.
+
+Glimmora
+
+is a useful partner especially on hyper offense teams to provide entry hazard support and clear Stealth Rock with Mortal Spin.
+
+Choice Band gives Chien-Pao the best chance to 2HKO walls like
+
+Necrozma-DM
+
+and revenge kill
+
+Miraidon
+
+and
+
+Koraidon
+
+after moderate chip. Icicle Crash is the main STAB option thanks to its flinch chance and better Base Power while also avoiding Rocky Helmet, while Ice Spinner doesn't miss and can reset Miraidon's Electric Terrain. Crunch is its most reliable Dark-type STAB move, hitting
+
+Arceus-Water
+
+,
+
+Kyogre
+
+, and Necrozma-DM. Double priority in Sucker Punch and Ice Shard lets it pack both power and coverage, nailing anything that might be faster including
+
+Iron Bundle
+
+, Miraidon, and even
+
+Calyrex-I
+
+in Trick Room. Tera Dark and Ice can both be used to power up Chien-Pao's STAB attacks; Tera Ice has a chance to OHKO both Miraidon and Koraidon with Ice Shard, while Tera Dark secures the 2HKO against
+
+Ho-Oh
+
+and has a high chance to 2HKO Arceus-Water.
+
+Choice Band Chien-Pao is a useful revenge killer and wallbreaker for offensive teams. Since it forgoes Heavy-Duty Boots and would love to switch in multiple times to mitigate the effect of Choice-lock, it pairs well with
+
+Iron Treads
+
+, which can clear entry hazards and even pivot Chien-Pao in.
+
+Zacian-C
+
+can easily revenge kill Chien-Pao and even grab a Swords Dance if locked into Sucker Punch or Ice Shard, making strong counterplay like
+
+Landorus-T
+
+and defensive
+
+Arceus-Ground
+
+or revenge killers like Choice Scarf Koraidon mandatory teammates. Physically offensive teammates like Koraidon and Necrozma-DM appreciate being able to clean teams Chien-Pao has weakened; alternatively, they can punch holes for Chien-Pao to clean up. Extreme Killer
+
+Arceus
+
+is an excellent teammate, as it forms a powerful priority core with Chien-Pao and can draw out Tera Ghost for it.
+
+Other Options
+
+An all-out attacker set with Heavy-Duty Boots can be used for the maximum amount of coverage and priority while still changing moves in the early- and mid-game, but it generally lacks power compared to the above sets and struggles to even 2HKO defensive staples like
+
+Arceus
+
+. Sacred Sword provides coverage for Arceus and
+
+Kingambit
+
+and does non-pitiful damage to
+
+Zacian-C
+
+, but Chien-Pao struggles to justify it over its primary STAB moves and priority options. Tera Ghost can catch out Extreme Speed Arceus but otherwise is far worse than damage-amplifying Tera types. Focus Sash can be run on hyper offense structures to take a hit but requires significant entry hazard counterplay.
+
+Checks and Counters
+
+Zacian-C
+
+: Zacian-C outspeeds Chien-Pao and resists its STAB combination.
+
+Defensive Arceus
+
+:
+
+Arceus-Water
+
+and -Fairy avoid the 2HKO from almost any of Chien-Pao's attacks and can retaliate with Will-O-Wisp or Judgement.
+
+Arceus-Fairy
+
+has a low chance to be 2HKOed by Life Orb Tera Ice Icicle Crash, however.
+
+Extreme Killer Arceus
+
+: Extreme Killer Arceus completely nullifies Chien-Pao's Speed and priority advantages while not being OHKOed by any common move.
+
+Choice Scarf users
+
+: Choice Scarf users like
+
+Koraidon
+
+can revenge kill Chien-Pao, especially with a well-timed Tera.
+
+Iron Bundle
+
+: Iron Bundle outspeeds Chien-Pao, can force 50/50s with Encore, and KOes it after some chip.
+
+Zamazenta
+
+: Zamazenta’s bulk lets it take any attack and OHKO with Body Press.
+
+Ice Spinner can threaten to OHKO
+
+Tornadus
+
+and
+
+Landorus
+
+while also removing
+
+Rillaboom
+
+'s Grassy Terrain and
+
+Indeedee-F
+
+'s Psychic Terrain, allowing Chien-Pao to use Sucker Punch, while Icicle Crash has a decent chance to make foes flinch and avoids contact damage from Spiky Shield and Rocky Helmet, keeping Focus Sash intact against
+
+Ogerpon
+
+and Rocky Helmet
+
+Amoonguss
+
+.
+
+Sucker Punch can pick off targets that are on low HP and faster threats such as opposing Chien-Pao and Pokemon benefitting from Trick Room or Tailwind. Throat Chop can be used over Sucker Punch for a reliable Dark-type STAB move, since it is not negated by Follow Me from
+
+Ogerpon-W
+
+and Indeedee-F and can hit Pokemon setting up like
+
+Gholdengo
+
+while also preventing
+
+Ursaluna-B
+
+from using Hyper Voice and
+
+Incineroar
+
+from using Parting Shot.
+
+Sacred Sword is great coverage against Pokemon that resist or tank Chien-Pao's STAB combination such as Incineroar,
+
+Kyurem
+
+under snow, and opposing Chien-Pao. Throat Chop can be used over Sacred Sword for a better matchup against Nasty Plot Gholdengo and redirection users in exchange for a worse matchup against
+
+Kingambit
+
+, Incineroar, and opposing Chien-Pao.
+
+Tera Ghost makes Chien-Pao immune to Fake Out, dodging the flinch effect and preventing Fake Out from breaking the Focus Sash, while also becoming immune to Fighting-type attacks from
+
+Iron Hands
+
+and opposing Chien-Pao. Tera Stellar provides a helpful power boost and can let it generally OHKO Amoonguss, Ursaluna-B, and most
+
+Raging Bolt
+
+with Ice Spinner or Icicle Crash.
+
+Teams that have Chien-Pao have a lot of offensive pieces that benefit from Sword of Ruin lowering the Defense of opposing Pokemon, increasing the chances of OHKOs from offensive threats such as Ogerpon-W,
+
+Ogerpon-H
+
+, Iron Hands, and priority users such as Choice Band
+
+Dragonite
+
+packing Extreme Speed.
+
+Chien-Pao appreciates Pokemon like Landorus,
+
+Landorus-T
+
+, and Ogerpon-W that offensively threaten Fire-types like
+
+Gouging Fire
+
+and Incineroar, among other key problems for Chien-Pao such as
+
+Diancie
+
+and Iron Hands.
+
+Gouging Fire can be a good partner, supporting Chien-Pao with Howl to negate Intimidate while accentuating the physically focused offense already passively bolstered by Sword of Ruin.
+
+Icy Wind Chien-Pao is able to provide excellent speed control for its teammates such as
+
+Landorus
+
+,
+
+Ogerpon-H
+
+, and
+
+Ogerpon-W
+
+, allowing them to outspeed and OHKO threats like opposing Chien-Pao,
+
+Tornadus
+
+, and opposing
+
+Ogerpon
+
+formes.
+
+Chien-Pao's primary Ice-type STAB move is largely determined by its partners; Ice Spinner for its ability to clear Grassy and Psychic Terrain, while Icicle Crash is chosen for its increased power, ability to avoid Rocky Helmet chip damage that would break its Focus Sash, and inability to clear your own Terrain when run with
+
+Indeedee-F
+
+or
+
+Rillaboom
+
+.
+
+Sucker Punch is chosen to give Chien-Pao a priority option, allowing it to pick off weakened threats or squeeze off an extra hit after being brought down to its Focus Sash.
+
+Throat Chop gives Chien-Pao a way of hitting Pokemon like
+
+Farigiraf
+
+and Indeedee-F super effectively while also allowing it to attack
+
+Gholdengo
+
+and Terastallized Ogerpon-H without having to risk Sucker Punch failing.
+
+Icy Wind Chien-Pao is notable for its ability to function as the primary mode of speed control for priority-spam teams while also being able to excel in conjunction with Tailwind-setting teammates like
+
+Roaring Moon
+
+and Tornadus.
+
+Icy Wind allows Chien-Pao to aid its partners in preventing Toxic Debris or Aurora Veil from
+
+Glimmora
+
+and
+
+Alolan Ninetales
+
+, respectively. Icy Wind can break a possible Focus Sash on either Pokemon and enables Chien-Pao's slower partners like Gholdengo, Landorus, and Glimmora to outspeed and OHKO either Pokemon after Icy Wind chip damage.
+
+The Naive nature is chosen to allow Chien-Pao to guarantee the 2HKO against bulky Landorus with Icy Wind.
+
+Tera Ghost grants a crucial immunity to Fake Out, opposing Chien-Pao's Sacred Sword,
+
+Dragonite
+
+'s Extreme Speed, and
+
+Iron Hands
+
+'s Fighting-type attacks.
+
+Dragonite is one of Chien-Pao's premier partners, with Icy Wind support allowing Dragonite to more effectively use its non-priority options, allowing for more versatile Dragonite sets like Loaded Dice.
+
+The Ogerpon formes are another of Chien-Pao's preferred partners, with Icy Wind and Sword of Ruin support allowing the Ogerpon formes to eliminate key threats to themselves like Focus Sash Tornadus and opposing Ogerpon formes before they're able to retaliate.
+
+Chien-Pao also works extremely well alongside Landorus because Landorus pressures Chien-Pao's common checks like
+
+Incineroar
+
+and Iron Hands, and additionally, Chien-Pao is able to slow down Landorus's most common check, Ogerpon-W.
+
+With its high Attack and Speed, and incredible ability in Sword of Ruin, Chien-Pao is one of the strongest physical attackers in the game.
+
+Icicle Crash
+
+: While Ice Spinner is perfectly accurate, Icicle Crash's higher power and flinch chance makes it the preferred attack. Additionally, not being a contact move allows Chien-Pao to avoid unnecessary chip damage from Rocky Helmet users.
+
+Sucker Punch
+
+: Sucker Punch offers priority with a strong base power. While it comes with the cost of necessitating prediction, it is effectively mandatory for putting extreme pressure on
+
+Calyrex-S
+
+.
+
+Sacred Sword
+
+: Sacred Sword provides coverage for Pokemon that resist one or both of Chien-Pao's STAB attacks, like
+
+Chi-Yu
+
+and other Chien-Pao. Additionally, ignoring defense boosts allows Chien-Pao to deal more consistent damage to foes who boost their Defense like
+
+Archaludon
+
+and
+
+Garganacl
+
+.
+
+Tera Blast
+
+: With Chien-Pao's incredible power, Tera Blast can be used to surprise would-be checks with powerful super-effective attacks!
+
+Crunch
+
+: Crunch is a more standard Dark-type attack that can pressure switch-ins as well as passive targets like
+
+Skeledirge
+
+.
+
+Brick Break
+
+: While Brick Break isn't as powerful as Sacred Sword, it does break dual screens and still provides excellent damage against opposing Chien-Pao.
+
+Swords Dance
+
+: Swords Dance boosts Chien-Pao's Attack to unwallable levels, making it an even more potent sweeper.
+
+Sheer Cold
+
+: While an OHKO move may look out of place on Chien-Pao and ultimately rely on luck, it cannot be understated how powerful it is to flip a matchup like
+
+Dondozo
+
+or Ho-oh on its head.
+
+Ice Shard
+
+: Ice Shard is a more consistent albeit weaker priority move compared to Sucker Punch that doesn't require attack prediction.
+
+Adamant versus Jolly
+
+: Adamant gives Chien-Pao a significant power boost for sniping Pokemon with Sucker Punch, but Jolly is important for Speed tying with
+
+Flutter Mane
+
+and opposing Chien-Pao.
+
+0-1 SpA IV
+
+: If using Tera Blast on Jolly Chien-Pao, make sure to use a SpA IV that's 0-1. This is because if Flutter Mane uses Charm, any SpA IV that's higher will result in Tera Blast becoming a Special Attack.
+
+Other Options
+
+Psychic Fangs
+
+: Psychic Fangs is an alternative to Brick Break for dealing with dual screens while also dealing good damage to
+
+Urshifu-R
+
+.
+
+Lash Out
+
+: Lash Out is a situational but powerful response to Charm Flutter Mane thanks to the doubled BP on the turn Chien-Pao's Attack is lowered.
+
+Items
+
+Focus Sash
+
+: This is the most reliable item for Chien-Pao, almost always guaranteeing Chien-Pao at least one attack and flipping many potential match-ups such as offensive Flutter Mane.
+
+Life Orb
+
+: Life Orb makes Chien-Pao a terrifying sweeper and wall-breaker in one!
+
+Sitrus Berry
+
+: While Sitrus Berry may seem strange on such an offensive Pokemon, it can save Tera Electric Chien-Pao from being OHKOed by Adamant Choice Scarf Urshifu-R's Surging Strikes. 36 HP and 36 Defense EVs can be used to guarantee this, but even without investment, Chien-Pao has around a 93% chance of surviving.
+
+Tera Types
+
+Tera Dependency - Low / Medium
+
+: Chien-Pao offers power in spades without needing to Terastallize, but it ultimately comes down to how much Chien-Pao relies on Tera Blast for coverage.
+
+Electric
+
+: Tera Electric can be used in tandem with Tera Blast to improve Chien-Pao's matchup against key threats such as Urshifu-R,
+
+Kyogre
+
+, and
+
+Primarina
+
+, while also making it immune to paralysis.
+
+Stellar
+
+: Stellar's one-time boost per attacking type can open up new sweeping opportunities for Chien-Pao. Maintaining its Dark typing is also strong in consideration of the Calyrex-S matchup.
+
+Dark
+
+: Tera Dark boosts Sucker Punch to extreme power levels while making Crunch difficult to switch into without a resistance.
+
+Fire
+
+: Tera Fire provides Chien-Pao with a host of new resistances against Flutter Mane's Moonblast,
+
+Ogerpon-H
+
+'s Ivy Cudgel, and
+
+Scizor
+
+'s Bullet Punch. These surprise resistances work particularly well with finding a turn to use Swords Dance.
+
+Ghost
+
+: Tera Ghost doesn't offer much offensive benefit, but it allows Chien-Pao to dodge Normal-type priority from
+
+Dragonite
+
+and the
+
+Ogerpon
+
+formes, which can be particularly useful if using Swords Dance.
+
+Ice
+
+: Tera Ice can allow Chien-Pao to finish foes off with Ice Shard from higher ranges and makes Icicle Crash an even more formidable tool. If combined with Life Orb, even offensive Urshifu-R can be 2HKOed!
+
+Choice Band transforms Chien-Pao into one of the most bloodthirsty wall-breakers in the metagame!
+
+Ice Shard versus Sucker Punch
+
+: Ice Shard is the weaker but more reliable priority move for cleaning late-game. Sucker Punch is one of the most powerful priority moves in the metagame, but falters against support moves like Substitute and Thunder Wave. Thanks to Choice Band Chien-Pao's insane power, it is entirely possible to sacrifice coverage and run both if desired.
+
+Sacred Sword versus Brick Break
+
+: Sacred Sword gives Chien-Pao useful coverage against bulky foes like
+
+Archaludon
+
+, as well as opposing Chien-Pao. Brick Break is less powerful but the utility of breaking dual screens can be worth it for some teams.
+
+Other Options
+
+Tera Blast
+
+: Chien-Pao can still opt for extra coverage to pressure would-be checks. However, this can require prediction because of the move lock, and often Chien-Pao will do more than enough damage hammering targets with Tera-boosted STAB attacks.
+
+Tera Types
+
+Tera Dependency - Medium
+
+: While Chien-Pao is already plenty powerful, Choice Band combined with Tera can make some of the strongest walls in the game fold before Chien-Pao.
+
+Dark
+
+: Tera Dark turns Choice Band Crunch into a devastating wallbreaker move that few can withstand, OHKOing checks like
+
+Scizor
+
+if using an Adamant nature. Neutralizing Chien-Pao's Steel-type weakness also makes it less vulnerable to Scizor's Bullet Punch.
+
+Ice
+
+: Tera Ice gives Choice Band Icicle Crash enough power to challenge even physically defensive
+
+Ting-Lu
+
+, having approximately a 69% chance to OHKO if using an Adamant nature; be warned, however, that Ting-Lu often Terastallizes in front of Chien-Pao, making this inconsistent. The extra power behind Ice Shard is also a welcome boost.
+
+Chien-Pao is an excellent offensive Pokemon bearing a great offensive typing and a fantastic Speed tier. Chien-Pao is capable of taking on the majority of the format, and it's especially strong against
+
+Tornadus
+
+and
+
+Landorus
+
+thanks to its typing and Sword of Ruin.
+
+Incineroar
+
+has Intimidate and resists both of Chien-Pao's STAB attacks, which makes it difficult for Chien-Pao to deal with, therefore
+
+Urshifu-R
+
+is a strong partner as it utilizes Sword of Ruin and pressures Incineroar.
+
+Chien-Pao struggles to take on Urshifu-R, which can both take its attacks comfortably and outspeed it with a Choice Scarf. Urshifu-R can also threaten Chien-Pao through its Focus Sash. Terastallized
+
+Ogerpon-W
+
+and
+
+Amoonguss
+
+resist its Ice STAB moves and can redirect Sucker Punch, making them good answers to Chien-Pao.
+
+Ice Spinner is an alternative Ice-type STAB move that provides increased accuracy and a way for teams to handle
+
+Rillaboom
+
+and
+
+Indeedee-F
+
+in exchange for higher power and a flinch chance. However, it prevents Chien-Pao from attacking Rocky Helmet
+
+Amoonguss
+
+and
+
+Latias
+
+as freely.
+
+Chien-Pao uses Sacred Sword as coverage for relevant Pokemon such as
+
+Incineroar
+
+and
+
+Kingambit
+
+.
+
+Chien-Pao utilizes Focus Sash to make up for its poor defensive typing combined with its lackluster bulk, as it allows it to stay an extra turn on the field to help partners exploit Sword of Ruin, which is significant for offensive compositions.
+
+With Tera Stellar, Chien-Pao has the option to pick up OHKOs on Pokemon it usually wouldn't be able to OHKO, such as
+
+Flutter Mane
+
+and Amoonguss. However, it has to be wary of pivots and foes using Protect, as the power boost is temporary. Chien-Pao can also use Tera Ghost to remove its Fighting weakness and become immune to priority moves like Fake Out, which is crucial for Focus Sash.
+
+Chien-Pao is a fast physical attacker that uses its good Speed tier and strong STAB attacks to threaten popular Pokemon like
+
+Koraidon
+
+,
+
+Miraidon
+
+, and
+
+Calyrex-S
+
+. Ice Spinner is used as a consistent Ice-type STAB move that can remove Terrains that Pokemon like
+
+Indeedee-F
+
+, Miraidon, and
+
+Rillaboom
+
+set up. Removing Psychic Terrain can allow Chien-Pao to threaten Calyrex-S with a super effective Sucker Punch. Alternatively, Icicle Crash hits less consistently, but it avoids Rocky Helmet damage, can cause foes to flinch, and keeps up Terrains that would benefit Chien-Pao. Sucker Punch gives Chien-Pao a priority option that can KO faster Pokemon such as Speed Booster Energy
+
+Flutter Mane
+
+and
+
+Iron Bundle
+
+. Sacred Sword allows Chien-Pao to hit Pokemon that resist its STAB moves like
+
+Incineroar
+
+and
+
+Zamazenta-C
+
+. Chien-Pao can run Throat Chop as a consistent Dark-type STAB attack that can hit
+
+Lunala
+
+and Calyrex-S even if they didn't use an attacking move. Throat Chop also prevents Incineroar from using Parting Shot. Focus Sash allows Chien-Pao to survive at least one attack and to give it the opportunity to use another move due to its high Speed. Chien-Pao can use Tera Ghost to become immune to Fighting while also avoiding priority attacks like Fake Out and Extreme Speed that would otherwise break its Focus Sash. Tera Stellar is a more offensive option that allows Chien-Pao to pick up KOs that it would otherwise miss out on like bulky Flutter Mane.
+
+The best check for Chien-Pao is Incineroar, as it resists both STAB types and packs Intimidate.
+
+Zacian-C
+
+also resists Chien-Pao's STAB moves and threatens it with all of its attacks. Choice Scarf
+
+Urshifu-R
+
+and Flutter Mane can threaten to bring Chien-Pao down to Focus Sash or OHKO it, with the former resisting Chien-Pao's STAB combination and the latter also threatening to slow it down with Icy Wind. Chien-Pao pairs well with physical attackers like Zacian-C and Rillaboom, as Sword of Ruin makes them even more potent threats and they can handle Urshifu-R and Flutter Mane for Chien-Pao. However, they also struggle against Incineroar and opposing Zacian-C. This makes Urshifu-R and Zamazenta-C also good options for Chien-Pao, since they can threaten Incineroar and Zacian-C while taking advantage of Sword of Ruin. Chien-Pao can threaten Grass- and Dragon-types that resist Urshifu-R's Surging Strikes such as Rillaboom and
+
+Raging Bolt
+
+, as well as making quick work of Ghost-types that are immune to Body Press such as Calyrex-S.
+
+Set Details
+
+Chien-Pao uses its high Speed and Ice- and Dark-type STAB attacks to threaten foes like
+
+Miraidon
+
+and
+
+Calyrex-S
+
+. Sword of Ruin bolsters its already high Attack stat, elevating the damage it can deal. Sword of Ruin additionally increases the damage its partners can deal, notably allowing
+
+Zamazenta-C
+
+to achieve more KOs with Body Press.
+
+Sucker Punch is used to threaten foes naturally faster than Chien-Pao such as Calyrex-S, while Crunch is used when Chien-Pao moves before its foe like when it is up against
+
+Lunala
+
+. Taunt is used to disrupt supportive foes such as Lunala and
+
+Amoonguss
+
+, preventing them from using Trick Room and Spore, respectively. Icicle Crash deals more damage and doesn't make contact, keeping Chien-Pao's Focus Sash intact against Rocky Helmet users like Amoonguss, with the downside of having the potential to miss. While Ice Spinner deals less damage, it won't miss and has the benefit of removing Terrain, weakening the damage dealt by Miraidon and its partners.
+
+Focus Sash guarantees Chien-Pao can survive at least one hit so it can revenge kill faster foes and be positioned flexibly. Life Orb increases the damage Chien-Pao deals, guaranteeing it can OHKO bulky Miraidon variants with Ice Spinner.
+
+The defensive investment allows Chien-Pao to survive Surging Strikes from Choice Scarf
+
+Urshifu-R
+
+. A Jolly nature allows Chien-Pao to outrun non-maximum Speed Miraidon, whereas an Adamant nature lets Chien-Pao OHKO
+
+Rillaboom
+
+with Icicle Crash.
+
+Tera Stellar boosts Chien-Pao's damage to greater heights, allowing it to OHKO
+
+Ursaluna
+
+with Icicle Crash and Tera Grass
+
+Ho-Oh
+
+with Ice Spinner. Tera Ghost, meanwhile, prevents Fake Out disruption while keeping Focus Sash intact and provides Chien-Pao with an immunity to Close Combat from
+
+Koraidon
+
+and Body Press from Zamazenta-C.
+
+Teambuilding
+
+Bulky Restricted Pokemon like Zamazenta-C, Ho-Oh, and
+
+Kyogre
+
+are problematic for Chien-Pao. They threaten Chien-Pao, and it can't sufficiently damage them if they haven't Terastallized.
+
+Chien-Pao struggles to damage Dark-types like
+
+Incineroar
+
+and
+
+Grimmsnarl
+
+. They can also reduce Chien-Pao's damage with Intimidate, Will-O-Wisp, and Parting Shot from Incineroar and Reflect from Grimmsnarl.
+
+A partner Zamazenta-C synergizes well with Chien-Pao. Zamazenta-C threatens opposing Zamazenta-C, Incineroar, and Grimmsnarl, while Chien-Pao provides Sword of Ruin, letting Zamazenta-C OHKO
+
+Ogerpon-H
+
+with Body Press. Zamazenta-C also protects Chien-Pao from Kyogre's Water Spout and Origin Pulse with Wide Guard, forcing them to deal little damage with Ice Beam against Chien-Pao.
+
+Miraidon works well with Chien-Pao, KOing Ho-Oh and Kyogre while Chien-Pao threatens Rillaboom, which Miraidon struggles to damage.
+
+Urshifu-R appreciates Sword of Ruin letting it OHKO Ho-Oh with Surging Strikes; it also threatens Incineroar and Grimmsnarl while Chien-Pao removes Grass-types like Rillaboom and Amoonguss.
+
+Chien-Pao's incredible Speed and excellent offensive STAB combination let it function as threatening setup sweeper and late-game cleaner. Magic Guard protects Chien-Pao from Life Orb recoil and nullifies passive damage from Stealth Rock, Rocky Helmet, and poison from
+
+Pecharunt
+
+. Heavy-Duty Boots is another option to circumvent Chien-Pao's Stealth Rock weakness, along with making it immune to Sticky Web and letting it run Sword of Ruin for a similar power boost to Life Orb. Throat Chop shuts down Boomburst
+
+Scream Tail
+
+and denies Parting Shot from Pecharunt. Sucker Punch threatens
+
+Deoxys-S
+
+, Choice Scarf
+
+Gholdengo
+
+, and Surge Surfer
+
+Manaphy
+
+, although Ice Shard is usually the preferred option to hit
+
+Zamazenta
+
+as well as Choice Scarf
+
+Roaring Moon
+
+and
+
+Meowscarada
+
+.
+
+Chien-Pao fits well on offense and hyper offense teams, where its checks can be worn down with the help of other offensive teammates, letting Chien-Pao sweep or clean up. Partners such as
+
+Kingambit
+
+, Roaring Moon, and the
+
+Ogerpon
+
+formes can help weaken physically defensive walls such as
+
+Corviknight
+
+,
+
+Iron Hands
+
+, and
+
+Primarina
+
+, as well as putting Zamazenta in KO range of a Swords Dance-boosted Ice Shard. Chien-Pao is threatened by Kingambit and the aforementioned Zamazenta and Iron Hands, so it needs physically defensive walls such as
+
+Great Tusk
+
+and Pecharunt. Faster Psychic Surge users like Deoxys-S and Choice Scarf
+
+Azelf
+
+can threaten Chien-Pao without fear of its priority moves; therefore, specially defensive walls such as Manaphy,
+
+Swampert
+
+, and
+
+Iron Treads
+
+are appreciated.
+
+Thanks to its high Attack boosted further by Sword of Ruin, strong STAB combination, and access to priority moves, Choice Band Chien-Pao is one of the metagame's deadliest wallbreakers and revenge killers. On top of a valuable Speed tier to threaten and chase out common tier staples like
+
+Roaring Moon
+
+,
+
+Cinderace
+
+, and
+
+Iron Boulder
+
+, it has the immediate power to 2HKO walls like physically defensive
+
+Manaphy
+
+as well as Fluffy
+
+Corviknight
+
+and
+
+Skarmory
+
+after Stealth Rock. Sacred Sword immediately threatens Steel-type foes such as
+
+Kingambit
+
+,
+
+Cobalion
+
+,
+
+Heatran
+
+, and
+
+Iron Treads
+
+. Either priority move allows Chien-Pao to revenge kill faster threats like
+
+Hisuian Electrode
+
+and Choice Scarf
+
+Latios
+
+; Sucker Punch is more punishable but targets non-Psychic Surge
+
+Deoxys-S
+
+, Choice Scarf
+
+Gholdengo
+
+, and Agility
+
+Iron Crown
+
+hard, while Ice Shard handles foes like Choice Scarf Roaring Moon,
+
+Meowscarada
+
+, and weakened
+
+Zamazenta
+
+.
+
+Though it can function on a wide range of team styles, Chien-Pao fits best on fast-paced offensive teams that can best take advantage of its wallbreaking prowess while mitigating its lack of defensive utility. Powerful special wallbreakers like Deoxys-S, Gholdengo, and Primarine stand out as star teammates for their ability to immediately threaten physical walls like physically defensive Manaphy, Skarmory, and
+
+Iron Hands
+
+that can give Chien-Pao trouble. Also notable are Latios,
+
+Iron Moth
+
+, and Iron Crown, which are powerful special pivots able to bring Chien-Pao in to threaten their switch-ins like
+
+Swampert
+
+,
+
+Ting-Lu
+
+, and Roaring Moon. Chien-Pao also works well in tandem with other powerful wallbreakers like Roaring Moon, Zamazenta, and Iron Boulder, with Chien-Pao wearing down their checks like non-Intimidate Corviknight,
+
+Landorus
+
+, and
+
+Pecharunt
+
+, while its teammates pressure Manaphy, Iron Hands, and defensive
+
+Primarina
+
+. Bulky pivots like Pecharunt, Swampert, and Corviknight can also make good teammates, tanking hits and allowing the frail Chien-Pao to more easily get on the field against foes like Roaring Moon,
+
+Zapdos
+
+, and
+
+Scream Tail
+
+; Pecharunt is especially notable for its ability to wall Zamazenta, which is otherwise a great check to Chien-Pao, while Corviknight alongside
+
+Great Tusk
+
+and Iron Treads are noteworthy for their entry hazard removing capabilities, making it far easier for Chien-Pao to repeatedly hit the field.
+
+Other Options
+
+Adaptability can be used on non-Sacred Sword sets, obtaining a similar power boost while allowing Chien-Pao's teammates like
+
+Roaring Moon
+
+and
+
+Ceruledge
+
+to run the ability instead; it has the notable benefit of hiding Chien-Pao's ability from the opponent. Lash Out is an option on the Choice Band set to immediately dent Intimidate users like
+
+Corviknight
+
+and
+
+Skarmory
+
+on the switch but lacks power otherwise while missing out on valuable Defense drops. Psychic Fangs is another option for Choice Band variants to punish
+
+Zamazenta
+
+and
+
+Iron Hands
+
+on the switch, potentially 2HKO a would-be check in physically defensive
+
+Primarina
+
+after Stealth Rock, and remove dual screens set by foes like
+
+Regieleki
+
+and Corviknight, letting its team match up better against dual screens hyper offense teams. Ice Spinner may seem like an appealing option on Swords Dance sets for a little extra consistency, but the additional power, contact avoidance, and flinch chance of Icicle Crash makes it entirely preferable, leaving Ice Spinner unviable. Serene Grace sets are an option to fish for Icicle Crash flinches or Crunch Defense drops, but this set lacks power and is generally inferior to damage amplification abilities.
+
+Checks and Counters
+
+Faster Threats
+
+: Foes like Zamazenta and Psychic Surge
+
+Deoxys-S
+
+can outspeed and OHKO Chien-Pao while not being particularly afraid of its priority moves.
+
+Bulky Fighting-types
+
+: Bulky foes like Iron Hands,
+
+Cobalion
+
+, and Zamazenta can often easily switch in on Chien-Pao's Dark-type moves and use it to either pivot with Volt Switch or as setup fodder.
+
+Primarina
+
+: Bulkier Primarina sets can switch in easily against Chien-Pao's STAB moves and either force it out with Moonblast or use it as Calm Mind fodder.
+
+Entry Hazards
+
+: Entry hazard setters like Skarmory,
+
+Great Tusk
+
+, and
+
+Heatran
+
+can cause immense problems for non-Magic Guard sets due to their frailty being compounded by their hazard vulnerability.
+
+Chien-Pao is undoubtedly the best naturally offensive Pokemon in Partners in Crime thanks to its amazing Speed, good Attack, and Sword of Ruin. The last of these is appreciated by every Pokemon in the metagame due to Pokemon with Sword of Ruin not being affected by the ability. In particular, physical attackers take the best advantage of the ability, as their own damage output is boosted. Ice Spinner is Chien-Pao's preferred Ice-type STAB move thanks to its consistency over Icicle Crash and the ability to disrupt
+
+Indeedee-F
+
+'s Psychic Terrain. Icicle Crash is a marginally stronger option that can be used if the team features a Terrain it wishes to preserve, which also comes with a flinch chance that is often felt due to Chien-Pao's high Speed. Sucker Punch is a must-have on Chien-Pao, as it allows it a form of damage even when playing against opposing Tailwind or Trick Room teams, notably pressuring the likes of
+
+Gholdengo
+
+effectively. Sacred Sword is generally preferred as a means to hit Pokemon that resist its STAB moves such as
+
+Incineroar
+
+and
+
+Heatran
+
+while also ignoring defensive boosts from the likes of IronPress
+
+Kommo-o
+
+. Haze is a great alternative to shut down opposing setup such as Gholdengo's Nasty Plot and
+
+Rillaboom
+
+'s Swords Dance. Throat Chop is a stronger Dark-type option that also shuts down moves such as Incineroar's Parting Shot. Focus Sash is Chien-Pao's best item, as it helps patch up its otherwise mediocre bulk; meanwhile, Clear Amulet helps to staveoff Intimidate from Incineroar and
+
+Landorus-T
+
+. Tera Ghost is Chien-Pao's preferred Tera type, turning its Fighting weakness into an immunity while granting it a Fake Out immunity to help preserve its Focus Sash. Tera Stellar is a more offensive option that takes advantage of the plethora of uniquely typed moves that can be shared with Chien-Pao.
+
+Notable Partners
+
+================
+
+Strong Priority Users
+
+: Extreme Speed users such as
+
+Dragonite
+
+and
+
+Entei
+
+make for great partners with Chien-Pao thanks to Sword of Ruin raising their Extreme Speeds' damage to exorbitant heights. Other priority moves such as Rillaboom's Grassy Glide are also good, while all of the aforementioned Pokemon appreciate Ice Spinner from Chien-Pao to clear Psychic Terrain.
+
+Bulky Setup Pokemon
+
+: As Sword of Ruin grants the user immunity to the ability, bulky setup Pokemon such as Nasty Plot Gholdengo and Dragon Dance Dragonite appreciate the presence of Chien-Pao.
+
+Draft Order
+
+: Early round 1 onwards
+
+Price Range
+
+: Banned or 19 points
+
+Overview
+
+: Chien-Pao is a formidable force, boasting a high Attack stat and a potent STAB combination. With its signature ability, Sword of Ruin, it becomes an immensely powerful wallbreaker capable of dismantling even the sturdiest of defenses. It also has an exceptional Speed stat, making it difficult to revenge kill. Whether utilized as an all-out attacker or a setup sweeper, Chien-Pao is nigh-unwallable, leading to it often being banned, and it should always be considered if it's legalized.
+
+Common Roles
+
+Wallbreaker
+
+: With its high Attack stat and Sword of Ruin, Chien-Pao is able to punch holes through opposing teams. Equipping damage-boosting items such as Life Orb and Choice Band elevates its wallbreaking potential, allowing it to efficiently 2HKO nearly all neutral targets.
+
+Setup Sweeper
+
+: Alternatively, Chien-Pao can opt for a more strategic approach by investing a turn in boosting its offensive capabilities with Swords Dance. This amplifies its damage output to extraordinary levels, enabling it to potentially sweep through entire teams. It's able to threaten faster foes with priority moves of both its STAB types, which makes revenge killing it incredibly hard. However, Chien-Pao's frailty and exploitable weaknesses necessitate careful timing and positioning to properly utilize it.
+
+Common Moves
+
+Primary STAB Moves
+
+: Icicle Crash, Crunch, Throat Chop, Ice Spinner, Sucker Punch, Ice Shard
+
+Setup Moves
+
+: Swords Dance
+
+Utility Moves
+
+: Substitute, Taunt, Recover, Haze
+
+Coverage
+
+: Sacred Sword, Psychic Fangs, Acrobatics
+
+Niche Moves
+
+Lash Out
+
+: While typically overshadowed by Crunch and Throat Chop, Lash Out gains utility from its power doubling when triggered by stat reductions, which are commonly inflicted by Intimidate users such as
+
+Arcanine
+
+.
+
+Brick Break
+
+: Despite being outclassed by Sacred Sword, Brick Break finds its niche in removing Aurora Veil, Reflect, and Light Screen, making it valuable against teams reliant on dual screens.
+
+Endure
+
+: Endure facilitates Chien-Pao's survival in low-health situations, as it synergizes with pinch Berries like Liechi and Salac Berry. It also provides protection against one-time use priority moves such as First Impression and Fake Out.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Chien-Pao is frail and vulnerable to entry hazards, thus making Heavy-Duty Boots an attractive option to allow it to switch in more often and give it more opportunities to punch holes in the opposing team.
+
+Damage-boosting Items
+
+: Damage-boosting items such as Choice Band and Life Orb or even Black Glasses and Never-Melt Ice boost Chien-Pao's damage output to further enable its wallbreaking capabilities.
+
+Niche Items
+
+Focus Sash
+
+: Focus Sash can help the relatively frail Chien-Pao find more opportunities to set up a Swords Dance and become a massive threat.
+
+Lum Berry
+
+: Offering a one-time cure for debilitating status conditions like burn, Lum Berry ensures Chien-Pao's sustained offensive presence.
+
+Salac Berry
+
+: Paired with Endure, Salac Berry grants Chien-Pao a crucial Speed boost, allowing it to outpace naturally faster Pokemon and slower Choice Scarf users.
+
+Resistance Berries
+
+: Resistance Berries such as Roseli Berry allow Chien-Pao to survive a super effective attack in a pinch and set up a Swords Dance.
+
+Tera
+
+Chien-Pao is widely Tera banned if legal, thus making it ineligible to be a Tera Captain. If it is Tera legal, Chien-Pao can use a Tera type such as Tera Dark or Ice to boost its STAB attacks or Tera Fighting to boost Sacred Sword. It can also choose defensive Tera types such as Tera Ghost and Fairy to give it more opportunities to set up.
+
+Draft Strategy
+
+Since Chien-Pao should be a round 1 pick, the rest of the team should be picked with it in mind. As it is a purely offensive Pokemon, it requires support to fully function and tear through opposing teams.
+
+Slow and Bulky Pivots
+
+: As Chien-Pao is relatively frail, it can find difficulties entering the battlefield. Thus, slow and bulky pivots that can tank a hit and pivot to it, such as
+
+Alomomola
+
+and
+
+Corviknight
+
+, are extremely helpful in correctly positioning it.
+
+Entry Hazard Control
+
+: Due to its frailty and crippling Stealth Rock weakness, Chien-Pao appreciates solid entry hazard removal on its team. Spinners such as
+
+Great Tusk
+
+and
+
+Terapagos
+
+and Defoggers such as Corviknight are extremely helpful in clearing the field to allow it to safely pivot in. Spinners are slightly preferred, as they allow hazards to remain on the opposing side, which helps Chien-Pao hit certain OHKOs or 2HKOs that it wouldn't reach otherwise. Hazard stackers such as
+
+Hisuian Samurott
+
+and
+
+Glimmora
+
+can easily set up multiple layers of hazards, which can chip down Pokemon that would otherwise take Chien-Pao's hits.
+
+Special Wallbreakers
+
+: Strong special wallbreakers such as
+
+Enamorus
+
+,
+
+Iron Moth
+
+, and
+
+Latios
+
+form a formidable offensive core with Chien-Pao, as they are able to break the physical walls that Chien-Pao may struggle with.
+
+Fighting-resistant Pokemon
+
+: Given Chien-Pao's 4x weakness to Fighting, teammates resistant to Fighting, especially Ghost-types like
+
+Gholdengo
+
+,
+
+Skeledirge
+
+, and
+
+Pecharunt
+
+, provide invaluable defensive support.
+
+Checks and Counters
+
+Dark- and Ice-resistant Pokemon
+
+: Pokemon resistant to both Dark and Ice, such as
+
+Azumarill
+
+,
+
+Tinkaton
+
+, and
+
+Incineroar
+
+, can effectively wall Chien-Pao or at least limit its offensive capabilities.
+
+Priority Attacks
+
+: Since Chien-Pao is extremely fast, opponents may aim to bypass its Speed by revenge killing it with strong priority users such as Jet Punch
+
+Palafin
+
+and Bullet Punch
+
+Scizor
+
+. In addition, its typing leaves it vulnerable to the now-widely-distributed Vacuum Wave.
+
+Choice Scarf Users
+
+: Some teams may lack a switch-in to Chien Pao, thus leading them to run a Pokemon with Choice Scarf to outspeed and revenge kill it. Examples include
+
+Iron Valiant
+
+,
+
+Greninja
+
+, and
+
+Gardevoir
+
+.
+
+Lures
+
+: If the opposing team is especially vulnerable to Chien-Pao, foes may use resistance Berries or Focus Sash to stop it from dealing too much damage. With how frail Chien-Pao is, it is easy for said lure to KO back, thus making it advisable to scout the opposing team beforehand to prevent any unexpected lures from catching it off guard.
+
+Icicle Crash deals with Ground-, Dragon-, and Flying-type Pokemon like
+
+Landorus-T
+
+,
+
+Garchomp
+
+, and
+
+Galarian Moltres
+
+.
+
+Throat Chop is a powerful Dark-type STAB move, which beats stall
+
+Skeledirge
+
+without Blast Burn by blocking its Torch Song and
+
+Pecharunt
+
+.
+
+Giga Impact deals massive neutral damage to Pokemon that resist Chien-Pao's STAB moves, such as
+
+Volcarona
+
+, and frailer Pokemon like non-Choice Scarf
+
+Porygon-Z
+
+.
+
+Sacred Sword is good against Dark- and Steel-type Pokemon, such as non-Choice Scarf
+
+Meowscarada
+
+, Choice Specs
+
+Darkrai
+
+, and Hisuian-Goodra without Chople Berry or Custap Berry.
+
+Ice Shard is used to OHKO certain Pokemon that are faster than Chien-Pao, such as
+
+Dragapult
+
+and Choice Scarf Meowscarada.
+
+Despite its offensive power, Chien-Pao still struggles against bulky Pokemon like
+
+Volcanion
+
+and
+
+Corviknight
+
+and Pokemon that outspeed it, such as Speed Booster
+
+Iron Crown
+
+and Speed Booster
+
+Iron Valiant
+
+. Therefore, Pokemon like
+
+Raging Bolt
+
+, Landorus-T, and Volcarona make good teammates.
+
+Holding a nearly unresisted STAB combination, Chien-Pao is a potent wallbreaker and revenge killer that outspeeds most of the metagame, notably including
+
+Ultra Necrozma
+
+,
+
+Eternatus
+
+, and
+
+Marshadow
+
+; however, its minimal defensive utility, weakness to Stealth Rock, and vulnerability to
+
+Zacian-C
+
+limit its viability to dedicated balance teams.
+
+Ice Spinner is a reliable STAB option that can remove
+
+Tapu Lele
+
+'s Psychic Terrain, hindering the momentum of teams reliant on the field effect. While Icicle Crash is less accurate, it's an alternative that hits slightly harder, always OHKOes defensive Eternatus and 2HKOes defensive
+
+Ho-Oh
+
+, and avoids making contact with
+
+Ferrothorn
+
+.
+
+Ice Shard and Sucker Punch can be run at the same time to minimize mind games when revenge killing setup sweepers, with the former OHKOing
+
+Mega Salamence
+
+and
+
+Rayquaza
+
+and the latter OHKOing
+
+Mewtwo
+
+and Ultra Necrozma. Sacred Sword ensures a 2HKO on
+
+Arceus-Dark
+
+and Zacian-C.
+
+The given EV spread outspeeds Eternatus and avoids an OHKO from +1 Adamant
+
+Kyurem-B
+
+'s Fusion Bolt, Jolly
+
+Zekrom
+
+'s Outrage,
+
+Calyrex-I
+
+'s Glacial Lance after a layer of Spikes, Life Orb Tera Normal Rayquaza's Extreme Speed, uninvested Primal
+
+Groudon
+
+'s Precipide Blades, and Silk Scarf Tera Normal
+
+Arceus
+
+'s Extreme Speed while also avoiding a 2HKO from Life Orb Tera Dark
+
+Yveltal
+
+'s Sucker Punch, and
+
+Galarian Darmanitan
+
+'s Icicle Crash, with the rest going to Attack to maximize damage output, notably ensuring an OHKO on Galarian Darmanitan with Sucker Punch.
+
+Tera Dark removes Chien-Pao's weakness to Stealth Rock; prevents physical Ultra Necrozma at +1 from OHKOing with any attack but the uncommon Outrage; and lets Crunch OHKO wallbreaker Primal
+
+Kyogre
+
+, defensive
+
+Necrozma-DM
+
+after Stealth Rock, and Rayquaza, as well as letting Sucker Punch OHKO Marshadow and offensive Necrozma-DM after Stealth Rock. Tera Ice is an alternative to 2HKO defensive
+
+Arceus-Fairy
+
+and OHKO defensive
+
+Arceus-Ground
+
+with either Ice Spinner or Icicle Crash, as well as OHKO Ultra Necrozma with Ice Shard after a layer of Spikes.
+
+It's not recommended to immediately try to OHKO
+
+Zygarde
+
+with an Ice-type STAB move, as it will often Terastallize and flip its matchup against Chien-Pao. Unless another Pokemon on the opposing team has already Terastallized, it's best to try to bait it into Terastallizing by positioning Chien-Pao as if it could just attack Zygarde, then hard switch to a more defensive check such as Arceus-Fairy or
+
+Alomomola
+
+.
+
+Chien-Pao's typing has the minimal defensive utility of resisting Marshadow's Shadow Sneak and Yveltal's Sucker Punch; therefore, it's desirable to preserve its health so it can revenge kill them.
+
+As Chien-Pao is setup fodder for Zacian-C, dedicated checks such as Primal Groudon, Ho-Oh, and Necrozma-DM are solid allies, with Chien-Pao in exchange acting as an offensive check to foes such as Arceus-Ground, Rayquaza, and Marshadow.
+
+Chien-Pao struggles to come into the field, as it has minimal defensive utility, so defensive pivots such as Alomomola,
+
+Landorus-T
+
+, and Yveltal can provide the momentum that Chien-Pao requires to switch in safely and minimize the risk of being KOed on the switch.
+
+Chien-Pao is weak to Stealth Rock and can have longevity issues because of this; therefore, Defoggers such as Yveltal, Ho-Oh, and
+
+Giratina-O
+
+are formidable partners that can remove entry hazards for it, with Yveltal in particular also compressing pivoting and solidifying the matchup against Ultra Necrozma.
+
+A Naive nature is used alongside Icy Wind in order to 2HKO
+
+Landorus

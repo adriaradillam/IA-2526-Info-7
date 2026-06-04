@@ -1,0 +1,103 @@
+Draft Order
+
+: Round 8
+
+Price Range
+
+: 1-2 Points
+
+Overview
+
+: Compared to other budget Sticky Web setters, Spidops possesses some unique utility that theoretically gives it more options to support its team while dissuading foes from trying to take advantage of it. In reality however, Spidops's subpar stats, most notably its abysmal Speed, still relegate it almost exclusively to setting Sticky Web and other potential entry hazards before trying to immediately get off the field. This makes it extremely predictable and easy to prepare for, limiting how effective it can be in performing its one-dimensional role.
+
+Common Roles
+
+Entry Hazard Lead
+
+: As a lead, Spidops's sole objective is to set up Sticky Web for the rest of the team, along with any layers of Spikes or Toxic Spikes it can manage to set up. Other utility moves like Lunge, Pounce, and Circle Throw can all serve to keep an opposing setup sweeper's boosts in check. U-turn can let Spidops exit the field without exposing an incoming teammate to damage, or alternatively, it can accomplish the same with Memento while heavily lowering a foe's offenses, albeit at the cost of not having Spidops as a future sacrifice.
+
+Common Moves
+
+Primary STAB Moves
+
+: Leech Life, U-turn, First Impression
+
+Utility Moves
+
+: Sticky Web, Spikes, Toxic Spikes, Circle Throw, Memento, Lunge, Pounce, Knock Off, Skitter Smack, Taunt
+
+Coverage
+
+: Sucker Punch, Poison Jab, Shadow Claw
+
+Niche Moves
+
+Counter
+
+: Spidops's low bulk can let it immediately fire back against an offensive foe with Counter, especially with the assistance of Focus Sash.
+
+Endure
+
+: Endure can let Spidops survive with low HP for the potential activation of a Custap berry.
+
+Common Items
+
+Focus Sash
+
+: Focus Sash mostly guarantees that Spidops can at least get a move in without a foe instantly taking it out.
+
+Heavy-Duty Boots
+
+: If Spidops is not used as an immediate lead, Heavy-Duty Boots can let Spidops switch in on entry hazards without having more of its low bulk dug into.
+
+Niche Items
+
+Mental Herb
+
+: Mental Herb can ensure a use of Sticky Web in the face of Taunt-wielding foes.
+
+Custap Berry
+
+: In the event that Spidops manages to survive a hit with low HP on its own or with Endure, Custap Berry can let it set another entry hazard or use another utility move before fainting.
+
+Tera
+
+Pitiful stats, a small movepool, and hardly any semblance of set variety all make Spidops the absolute worst choice for a Tera Captain, and any other Pokemon on a draft team should realistically be chosen over it for such a role. If bestowed the capability to Terastallize, Spidops can utilize Tera Ghost to spinblock for its own entry hazards.
+
+Draft Strategy
+
+Spidops is a last-minute addition to a team that serves as an extremely cheap option for setting up Sticky Web, so any offensive teammates, especially ones with more middling Speed like both
+
+Urshifu
+
+formes and
+
+Kyurem
+
+, will appreciate any entry hazards it can set up. Wallbreakers and setup sweepers like
+
+Raging Bolt
+
+and
+
+Iron Valiant
+
+, respectively, can also take advantage of its pivoting and stat-lowering moves to immediately threaten the opposing team. Finally, spinblockers like
+
+Sinistcha
+
+and
+
+Gholdengo
+
+can help preserve any entry hazards set by Spidops.
+
+Checks and Counters
+
+Taunt
+
+: Taunt cuts off Spidops from setting any of its crucial entry hazards, essentially making it deadweight while on the field.
+
+Offensive Pokemon
+
+: With its all-around low stats, any remotely offensive threat can outspeed and prey upon Spidops without fearing much retaliation.

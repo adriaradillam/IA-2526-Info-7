@@ -1,0 +1,513 @@
+Glimmet's unique ability, Toxic Debris, coupled with its access to both Stealth Rock and Spikes, cements it as one of Little Cup's most reliable entry hazard setters. Glimmet also packs the highest Special Attack in the tier, making for an excellent progress-making piece on offensive teams. Its defensive typing and Speed tier let Glimmet switch into and check
+
+Vullaby
+
+. However, Glimmet requires support for Ground-types like
+
+Mudbray
+
+that it can struggle against.
+
+Power Gem OHKOes
+
+Vullaby
+
+after Stealth Rock chip damage, while Spikes punishes opposing teams without entry hazard removal. Mud Shot provides coverage for opposing Steel- and Poison-type Pokemon and slows down faster foes or switch-ins, granting Glimmet more chances to move. Toxic Debris sets Toxic Spikes when Glimmet is hit by physical attacks, restricting which teammates foes can switch into. Glimmet's 132 HP and 100 Defense EVs allow it to live two Knock Offs from Vullaby. With Tera Ghost, Glimmet becomes immune to
+
+Mienfoo
+
+'s High Jump Kick, can block Rapid Spin, survives Ground-type attacks from
+
+Toedscool
+
+and
+
+Alolan Sandshrew
+
+, and can switch out of both Shadow Tag
+
+Gothita
+
+and Arena Trap
+
+Trapinch
+
+. Alternatively, Tera Flying lets Glimmet resist Fighting-type moves and makes it immune to Trapinch's Arena Trap. Tera Flying also improves Glimmet's matchup against other Ground-types like Toedscool and
+
+Alolan Diglett
+
+.
+
+Teammates that can switch into Ground-type moves, such as
+
+Foongus
+
+and Toedscool, are vital to support Glimmet. Toxic Debris can force in common Poison-types like Foongus and
+
+Mareanie
+
+. Pivots like Vullaby and
+
+Elekid
+
+or trappers like Gothita can maintain offensive pressure or threaten to trap these foes, respectively. Spikes Glimmet enables late-game cleaners that appreciate chip damage like Alolan Diglett and
+
+Hisuian Growlithe
+
+. Dark-type allies like
+
+Stunky
+
+can punish Gothita after it has trapped and KOed Glimmet with Psychic.
+
+Other Options
+
+Sludge Wave may be used over Sludge Bomb, especially on Spikes variants, so that
+
+Chespin
+
+does not wall Glimmet. Offensive Glimmet sets have high potential due to Glimmet's impressive Special Attack stat. A Modest nature grants Glimmet a 75% chance to OHKO
+
+Vullaby
+
+with Power Gem without requiring Stealth Rocks up but gives up its Speed tie with Vullaby and opposing Glimmet. Glimmet may also use a Choice Scarf set with a Modest nature and a spread of 52 HP / 20 Def / 236 SpA / 196 Spe. This can 2HKO most bulky switch-ins like
+
+Foongus
+
+after Stealth Rock chip and has a chance to OHKO less bulky variants of pivot
+
+Mienfoo
+
+with a Tera Poison Sludge Wave. Choice Scarf sets are typically outclassed by
+
+Hisuian Growlithe
+
+, which is able to break through its checks like
+
+Mudbray
+
+more easily. However, it can use the element of surprise to earn KOs against faster foes like
+
+Elekid
+
+when it is not yet revealed to be Choice Scarf, since hazard-setting sets are much more common. Rock Polish is another Speed-boosting option that can be used over Stealth Rock to make Glimmet a surprise sweeper.
+
+Checks and Counters
+
+Ground-type Pokemon
+
+: Ground-type attacks are extremely threatening due to Glimmet's 4x weakness to them. Ground-types also wall Glimmet's STAB attacks, though Mud Shot can deter those weak to it, like
+
+Alolan Diglett
+
+, from switching in. Mudbray is particularly problematic, as it can consistently switch into Glimmet and set entry hazards or threaten massive damage.
+
+Trappers
+
+: Glimmet is susceptible to being trapped by
+
+Gothita
+
+, especially after being hit by Vullaby's Knock Off, and
+
+Trapinch
+
+is able to safely switch in and OHKO Glimmet at full HP.
+
+Tera Blast Users
+
+: Some foes that struggle to break through Glimmet, such as Vullaby, may fit Tera Blast Ground to earn a surprise KO. Other Tera types like Psychic may be used by foes that also want to KO Mienfoo, and they may also use the move to bypass Glimmet.
+
+Draft Order
+
+: Round 8
+
+Price Range
+
+: 1 point
+
+Overview
+
+: Glimmet is an underwhelming Pokemon that finds a niche with its ability to effectively set entry hazards. It works best against teams without a grounded Poison-type or hazard removal, especially since it is typically forced to be a Focus Sash lead to provide any value. While its Special Attack is high enough to deal decent damage to foes, its Speed is terrible, and it basically cannot survive any attack if its Focus Sash is broken due to its poor defensive stats.
+
+Common Roles
+
+Entry Hazard Lead
+
+: Focus Sash allows Glimmet a guaranteed opportunity to set Stealth Rock or Spikes along with Toxic Spikes thanks to Toxic Debris, putting immediate pressure on the opponent and enabling wallbreaking teammates. It can also KO or deal heavy damage to some opposing leads, including
+
+Iron Bundle
+
+and
+
+Meowscarada
+
+, if they do not pivot to avoid activating Toxic Debris.
+
+Common Moves
+
+Primary STAB Moves
+
+: Power Gem, Sludge Wave, Sludge Bomb
+
+Setup Moves
+
+: Rock Polish
+
+Utility Moves
+
+: Stealth Rock, Spikes, Toxic Spikes, Toxic, Protect, Memento
+
+Coverage
+
+: Dazzling Gleam, Mud Shot
+
+Niche Moves
+
+Endure
+
+: Endure can be used to set an extra layer of Toxic Spikes or stall out an additional turn of poison damage, especially if Glimmet is weakened or not running Focus Sash. It also synergizes very well with Custap Berry, which allows Glimmet to set yet another layer of entry hazards or use Memento.
+
+Common Items
+
+Focus Sash
+
+: Focus Sash is a necessity on entry hazard lead sets, since Glimmet otherwise cannot survive most attacks. This allows it to get an extra layer of entry hazards up.
+
+Niche Items
+
+Eviolite
+
+: Eviolite allows Glimmet to survive some attacks from wallbreakers that would otherwise KO it such as Meowscarada,
+
+Ogerpon
+
+, and
+
+Chi-Yu
+
+, giving it more opportunities to set entry hazards.
+
+Custap Berry
+
+: Custap Berry can be used alongside Endure to get an extra layer of entry hazards up or deal a lot of damage to a foe before fainting.
+
+Tera
+
+Do not make Glimmet a Tera Captain. It does not benefit from Terastallization in any way.
+
+Draft Strategy
+
+Glimmet is a late-draft pick for teams that needs extra entry hazard support and a cheap grounded Poison-type, although it typically is not reliable in removing Toxic Spikes regardless, since it is almost always a suicide lead.
+
+Ghost-types
+
+: Ghost-types pair well with Glimmet to keep its entry hazards up against Rapid Spin users.
+
+Gholdengo
+
+works especially well, since it also blocks Defog, but other Ghost-types like
+
+Sinistcha
+
+and
+
+Sableye
+
+are also good options.
+
+Checks and Counters
+
+Taunt
+
+: Taunt stops Glimmet from fulfilling its role as an entry hazard setter, especially since almost all Taunt users outspeed it.
+
+Entry Hazard Removal
+
+: Entry hazard removers like
+
+Great Tusk
+
+,
+
+Iron Treads
+
+, and
+
+Corviknight
+
+completely nullify all of the value Glimmet brings to a match.
+
+Steel- and Ground-types
+
+: Many Steel- and Ground-types such as
+
+Ting-Lu
+
+,
+
+Garchomp
+
+, and
+
+Iron Crown
+
+comfortably wall Glimmet and can potentially set up on it. Its only coverage for Steel-types is Mud Shot, and it almost never wants to run Corrosion over Toxic Debris.
+
+As one of the few viable Pokemon with access to Stealth Rock and Spikes, Glimmet is one of the premier entry hazard setters in the NFE metagame. The uniqueness of its niche means that it comfortably finds places on both hyper offense and slow hazard stacking team compositions. Toxic Debris punishes weak physical attacks like the omnipresent Knock Off and stops the likes of
+
+Quaxwell
+
+and
+
+Monferno
+
+from gaining momentum with Flip Turn and U-turn. Corrosion importantly enables the use of Toxic on Steel-types like
+
+Tinkatuff
+
+and
+
+Hisuian Sliggoo
+
+, putting them on a timer and ensuring that they cannot check Glimmet and its teammates forever. Despite all this, Glimmet has a generally poor defensive profile with weak bulk and crippling weaknesses to Ground-, Water-, and Psychic-type attacks. It also faces competition as a Poison-type from
+
+Koffing
+
+and
+
+Ivysaur
+
+, which both have greater longevity and access to utility moves like Will-O-Wisp and Knock Off, respectively.
+
+Glimmet is a natural choice for a dedicated lead because Toxic Debris severely limits the ways an opponent can effectively respond, creating more opportunities to set Spikes. Sludge Wave lets Glimmet have some form of direct damage, stopping
+
+Thwackey
+
+and
+
+Servine
+
+from setting up in front of it. Power Gem has limited utility as coverage but crucially OHKOes
+
+Fletchinder
+
+. Stealth Rock is a preferred option to have in cases where Glimmet can only set two layers of entry hazards. Memento is can be used to stop a slower Rapid Spin or Defog from succeeding. It also neutralizes opposing offenses and can create a free turn for a sweeper to set up. Focus Sash is preferred on builds that expect to always lead Glimmet, as it guarantees a turn to act. However, Eviolite is a solid option in cases where another offensive hazard setter like
+
+Krokorok
+
+or
+
+Gabite
+
+is accompanying Glimmet.
+
+Drakloak
+
+is an indispensable partner, as it can easily block Rapid Spin from
+
+Quaxwell
+
+, which is very commonly seen on most balance structures, and easily pivot into threats or wallbreak itself. Generally, any offensive Pokemon that appreciates entry hazards will be a good partner for Lead Glimmet, common offensive staples such as
+
+Pignite
+
+, Thwackey and
+
+Hisuian Sliggoo
+
+all fit comfortably next to it. Fast Choice Specs users like
+
+Frogadier
+
+and
+
+Girafarig
+
+do not fear Flame Body and can KO Fletchinder before it has the chance to use Defog. Explosive setup sweepers like Shell Smash
+
+Wartortle
+
+and Dragon Dance
+
+Fraxure
+
+can take great advantage of Memento and threaten to end the game quickly. Shed Skin
+
+Scraggy
+
+and Krokorok can both freely counter
+
+Hattrem
+
+without worrying about Nuzzle. Offensive Ground-types like
+
+Piloswine
+
+and Gabite are great to threaten opposing Poison-types that will otherwise absorb the Toxic Spikes from Toxic Debris.
+
+This set runs Corrosion and bulk in order to have more long-term utility in balance and bulky team structures. With Corrosion, Toxic becomes one of Glimmet's most powerful tools to force progress, stopping it from being used as setup fodder and putting Steel- and Poison-type defensive pieces like
+
+Tinkatuff
+
+,
+
+Hisuian Sliggoo
+
+and
+
+Ivysaur
+
+on timers. Spikes is essential for long-term pressure and forcing progress against already poisoned Pokemon. Power Gem is necessary to OHKO
+
+Fletchinder
+
+and stop it from using Defog in front of Glimmet. Stealth Rock helps accrue more passive damage. Sludge Wave is also a viable option to soft-check
+
+Thwackey
+
+.
+
+Despite running maximum physical bulk, Glimmet is still rather frail and requires defensive partners to handle common attackers like
+
+Monferno
+
+,
+
+Raboot
+
+and
+
+Pignite
+
+more than once.
+
+Dusclops
+
+and RestTalk
+
+Drakloak
+
+are both oppressive partners that blanket check most physical attackers and spinblock
+
+Quaxwell
+
+while healing off any chip damage from Flip Turn and entry hazards that could wear them down long-term. A defensive Water-type like Quaxwell or
+
+Seadra
+
+is essential to check
+
+Piloswine
+
+. Offensive threats that are walled by Steel-types like
+
+Girafarig
+
+, Hisuian Sliggoo, and
+
+Duosion
+
+all greatly appreciate the timer that Corrosion Toxic forces on their checks. Offensive Thwackey and
+
+Servine
+
+both take great advantage of Poison-types like Ivysaur and
+
+Koffing
+
+being affected by Toxic. If Glimmet is not running Stealth Rock, Tinkatuff and
+
+Krokorok
+
+both make for solid Stealth Rock setters that can wear down foes with Knock Off. Tinkatuff, alongside Hisuian Sliggoo, additionally acts as a reliable defensive check to Psychic-type sweepers like Girafarig and Duosion that Glimmet creates openings for. Piloswine can also reliably set Stealth Rock or use Choice Band to easily break through a badly poisoned Quaxwell.
+
+Other Options
+
+An offensive set with Power Herb and Meteor Beam does an obscene amount of damage by NFE standards, OHKOing Choice Band
+
+Piloswine
+
+and specially frail Eviolite holders like
+
+Monferno
+
+and
+
+Koffing
+
+while doing serious damage to sturdy defensive pieces like like
+
+Quaxwell
+
+and
+
+Ivysaur
+
+. However, Glimmet lacks the coverage to be a consistent wallbreaker, and it strongly prefers a longevity-increasing item instead. While situational, Dazzling Gleam stops
+
+Scraggy
+
+from using Glimmet as setup fodder and does notable damage to
+
+Krokorok
+
+and
+
+Gabite
+
+. On the hazard lead set, Mud Shot can be used to better punish Monferno and
+
+Pignite
+
+, while also being invaluable against opposing Glimmet.
+
+Checks and Counters
+
+Water-types:
+
+Because they are slower, Quaxwell and
+
+Wartortle
+
+can both use Rapid Spin to clear away Glimmet's hazards without worrying about Toxic Debris and can OHKO it with Surf after.
+
+Frogadier
+
+is also able to easily dispatch with Glimmet while preserving momentum with U-turn and Spikes.
+
+Ground-types:
+
+While they do not stop Glimmet from setting at least one layer of entry hazards, Piloswine, Gabite, and Krokorok can all easily KO Glimmet and take minimal damage from its attacks.
+
+Hattrem
+
+: Hattrem prevents the setting of entry hazards with Magic Bounce and forces Glimmet out with its Psychic-type STAB moves. However, without RestTalk, Hattrem needs to be wary of getting worn down by Glimmet's attacks.
+
+Setup Sweepers
+
+: Swords Dance Gabite and Dragon Dance
+
+Fraxure
+
+can both take advantage of lead Glimmet to set up and start making progress, as they can block Memento with Substitute or Taunt. Bulky Calm Mind users like
+
+Dunsparce
+
+and
+
+Duosion
+
+can threaten Glimmet without worrying about Toxic Debris and can also freely set up in front of it.
+
+Defoggers
+
+:
+
+Fletchinder
+
+and the rare
+
+Vullaby
+
+are able to remove entry hazards without worrying about getting blocked by a Ghost-type teammate.

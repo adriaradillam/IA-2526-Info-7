@@ -1,0 +1,715 @@
+Iron Bundle is one of the foremost speed control options in Ubers thanks to its fantastic offensive typing and the fact that it is one of the few Pokemon surpassing the critical base 135 Speed tier. Hydro Pump and Freeze-Dry give Iron Bundle perfect coverage, and Ice Beam deals considerable damage to many prominent threats in the tier, such as
+
+Koraidon
+
+,
+
+Miraidon
+
+,
+
+Eternatus
+
+, and
+
+Arceus-Ground
+
+. Unfortunately, Iron Bundle is hampered by its dreadful defensive typing and special bulk, which leaves most teams with abundant means of OHKOing it; for example, even uninvested attacks such as Judgment from the
+
+Arceus
+
+formes and Dynamax Cannon from defensive Eternatus can OHKO Iron Bundle. As a result, Iron Bundle has difficulty getting safely onto the battlefield without the help of pivoting moves from its teammates. Additionally, Iron Bundle must be wary of potential status moves from the likes of defensive Arceus formes,
+
+Kyogre
+
+,
+
+Giratina-O
+
+, Eternatus, and
+
+Gliscor
+
+, since paralysis renders Iron Bundle completely useless, while poison and burn exacerbate Iron Bundle's problems with longevity.
+
+Heavy-Duty Boots mitigates Iron Bundle's crippling weakness to entry hazards, allowing it to repeatedly come in and threaten the myriad of Pokemon it outspeeds and hits for super effective damage, such as
+
+Koraidon
+
+,
+
+Miraidon
+
+, and
+
+Arceus-Ground
+
+. Taunt prevents walls like defensive
+
+Arceus
+
+formes,
+
+Ting-Lu
+
+, and
+
+Necrozma-DM
+
+from using recovery or status moves. Additionally, Iron Bundle is one of the fastest Taunt users in the tier, letting it block entry hazards from dedicated leads or shut down setup sweepers in an emergency. Encore is an alternative option that performs better against foes attempting to use setup moves at the cost of being unable to prevent status moves and hazards. Tera Ghost gives Iron Bundle immunities to Extreme Speed and Fighting-type moves, which helps it significantly against Arceus,
+
+Rayquaza
+
+, and Choice Scarf Koraidon. Tera Ice boosts the power of Iron Bundle's Ice-type moves, allowing it to OHKO Koraidon and Miraidon with Ice Beam and 2HKO
+
+Kyogre
+
+with Freeze-Dry.
+
+Although Iron Bundle boasts a phenomenal Speed stat and offensive typing, it needs the help of its teammates to overcome its terrible defensive profile and lack of power. Miraidon is an ideal teammate, since it can wallbreak for Iron Bundle, bring it in safely with U-turn, and give it a Quark Drive boost by setting Electric Terrain, enabling Iron Bundle to outspeed even Choice Scarf Koraidon,
+
+Zacian-C
+
+, and Dragon Dance Arceus formes. Additionally, Iron Bundle threatens the Ground-types that frequently switch in against Miraidon. Kyogre can set rain to strengthen Iron Bundle's Hydro Pump, and together, they can overwhelm bulky Water-resistant Pokemon such as
+
+Arceus-Water
+
+and
+
+Eternatus
+
+. Entry hazard support from the likes of Ting-Lu,
+
+Gliscor
+
+, Necrozma-DM, and
+
+Arceus-Fairy
+
+wears down foes for Iron Bundle. Ting-Lu and Gliscor can also switch into any Electric-type attacks thrown at Iron Bundle. Zacian-C naturally outspeeds Iron Bundle and OHKOes it with most of its attacks; as such, a reliable answer like Necrozma-DM is needed as a teammate. Necrozma-DM also handles Extreme Speed Arceus for Iron Bundle and pressures bulky teams with Knock Off. Koraidon checks like Arceus-Fairy and
+
+Ho-Oh
+
+are helpful teammates, since Iron Bundle cannot beat Koraidon if it is at full health or has Tera available.
+
+Other Options
+
+Tera Water is an option to boost the power of Hydro Pump, enabling Iron Bundle to 2HKO common defensive Pokemon such as
+
+Necrozma-DM
+
+and
+
+Arceus-Fairy
+
+as well as improving its matchup against
+
+Zacian-C
+
+. However, the defensive utility of Tera Ghost and the damage benchmarks achieved by Tera Ice are typically more valuable to the teams Iron Bundle finds itself on. Flip Turn can be used in the last moveslot to maintain momentum against the switches Iron Bundle often forces, but the utility of Taunt or Encore is one of the primary motives for using Iron Bundle and is almost never worth forgoing. A power boosting item like Choice Specs or Life Orb allows Iron Bundle to accomplish notable KOs without the need to Terastallize, such as OHKOs against
+
+Koraidon
+
+and
+
+Miraidon
+
+with Ice Beam and most
+
+Arceus-Ground
+
+with Hydro Pump and 2HKOs against Necrozma-DM, Arceus-Fairy, and
+
+Calyrex-I
+
+with Hydro Pump. Iron Bundle's atrocious longevity and complete dependence on prediction with these items makes them difficult to justify using, though.
+
+Checks and Counters
+
+Zacian-C
+
+: Zacian-C not only resists Iron Bundle's Ice-type moves, but it also is one of the few Pokemon in Ubers that naturally outspeeds Iron Bundle, and with its Intrepid Sword boost, it can comfortably OHKO Iron Bundle with nearly all of its moves.
+
+Kyogre
+
+: Although Freeze-Dry deals super effective damage, a bulky Kyogre cannot be 2HKOed unless Iron Bundle Terastallizes Ice, and Kyogre can OHKO Iron Bundle with Thunder or even a resisted Origin Pulse or Water Spout.
+
+Choice Scarf Users
+
+: With a Choice Scarf, Pokemon that Iron Bundle usually outspeeds like Koraidon,
+
+Eternatus
+
+, and Kyogre can gain the Speed advantage and OHKO it as long as Electric Terrain is not active. Koraidon is especially bothersome, as its sun hinders Iron Bundle's damage output with Hydro Pump. It should be noted, however, that Koraidon and Eternatus cannot safely switch into Ice Beam.
+
+Priority Moves
+
+: Iron Bundle's poor bulk makes it vulnerable to being picked off by priority moves like Extreme Speed and Sucker Punch. Encore can shut down most priority users, but this requires Iron Bundle to Terastallize or correctly predict the use of setup moves, which can prove fatal should the opponent decide to immediately attack Iron Bundle rather than set up.
+
+The combination of Hydro Pump and Freeze-Dry gives Iron Bundle an unresisted STAB combination, making it extremely threatening with Choice Specs.
+
+Flip Turn allows Iron Bundle to pivot in order to gain momentum, while Ice Beam OHKOes
+
+Koraidon
+
+and uninvested
+
+Miraidon
+
+.
+
+Tera Ice allows Iron Bundle to further boost its Ice-type moves and resist Freeze-Dry from opposing Iron Bundle and
+
+Ditto
+
+. Tera Water is a good option on teams with rain support in order to let it 2HKO Heavy-Duty Boots
+
+Blissey
+
+in rain after slight chip.
+
+Choice Specs allows Iron Bundle to 2HKO walls such as
+
+Ting-Lu
+
+,
+
+Corviknight
+
+, and
+
+Scream Tail
+
+with Hydro Pump as well as
+
+Toxapex
+
+with Freeze-Dry.
+
+Miraidon is a great teammate, as it can lure in Pokemon weak to Hydro Pump such as Ting-Lu and
+
+Iron Treads
+
+and pivot into Iron Bundle using U-turn. It also sets Electric Terrain, giving Iron Bundle a Speed boost upon entry.
+
+Entry hazard removal options such as Corviknight, Iron Treads, and defensive
+
+Great Tusk
+
+are great teammates, as Iron Bundle can get worn down pretty quickly from repeatedly switching into Stealth Rock.
+
+Boasting a blistering base 136 Speed stat, outrun only by
+
+Dragapult
+
+, and impressive Special Attack, Iron Bundle is truly a force to be reckoned with in DOU. Its offense especially shines when paired with
+
+Chi-Yu
+
+, which greatly increases Iron Bundle's damage output with Beads of Ruin. Iron Bundle has excellent speed control with Icy Wind, which, when combined with its high Speed, can easily ensure that it and its allies outspeed the enemy team. However, Iron Bundle is a fairly fragile Pokemon, especially against powerful special attackers such as Chi-Yu and
+
+Gholdengo
+
+.
+
+Hydro Pump is by far Iron Bundle's strongest STAB move. Tera Water can further amplify its power.
+
+STAB Freeze-Dry allows Iron Bundle to hit Water-types hard. It is effective against rain teams, being able to OHKO
+
+Pelipper
+
+, OHKO
+
+Barraskewda
+
+, and hit
+
+Palafin
+
+hard.
+
+Icy Wind benefits Iron Bundle's slower allies. It functions well against fast Focus Sash Pokemon such as
+
+Chien-Pao
+
+and
+
+Meowscarada
+
+, both dealing damage to nullify the Focus Sash and lowering their Speed, which allows Iron Bundle's ally to KO the foe.
+
+Protect is used to predict and avoid attacks that threaten to KO Iron Bundle, extending its longevity. It can also help Iron Bundle stall out Trick Room and Tailwind turns.
+
+Tera Water increases the power of Hydro Pump and gives Iron Bundle a better defensive typing against Fire- and Steel-type Pokemon such as
+
+Chi-Yu
+
+and
+
+Gholdengo
+
+. Tera Ghost avoids Fake Out and Extreme Speed, letting Bundle act more freely. Both Tera types also reduce the damage taken from Stealth Rock.
+
+Booster Energy activates Iron Bundle's Quark Drive, making it among the very fastest Pokemon in Doubles OU. Boosted Iron Bundle outspeeds Gholdengo and
+
+Great Tusk
+
+in Tailwind, Choice Scarf Chi-Yu, and Weak Armor-boosted
+
+Armarouge
+
+. It also Speed ties Chlorophyll
+
+Lilligant
+
+in sun.
+
+Focus Sash complements Iron Bundle's lacking bulk, letting it survive attacks that would OHKO it.
+
+Life Orb increases Iron Bundle's overall damage output, enabling it to OHKO a few Pokemon such as
+
+Dragapult
+
+with Freeze-Dry. However, it doesn't help Iron Bundle preempt foes or take hits, making it far riskier than other items. Life Orb's recoil damage can also put Iron Bundle into KO range from
+
+Dragonite
+
+'s Extreme Speed.
+
+Other Options
+
+Iron Bundle can run Encore over Icy Wind or Protect, easily locking most Pokemon into a move such as Protect or Fake Out thanks to its high Speed. On a snow team with
+
+Abomasnow
+
+, Iron Bundle can run Blizzard as a powerful spread attack, and it also can maximize its damage output with Tera Ice. Snow also boosts Iron Bundle's Defense, making it particularly more effective against priority spam teams with
+
+Dragonite
+
+and
+
+Palafin
+
+. 252 HP and 64 Special Defense EVs can be used with Assault Vest to survive an Overheat from Choice Scarf
+
+Chi-Yu
+
+, and Iron Bundle still has above 152 Speed EVs left for outspeeding
+
+Meowscarada
+
+. 40 HP EVs allow Iron Bundle to avoid a potential OHKO from
+
+Chien-Pao
+
+'s Sacred Sword if Chien-Pao lacks a damage-boosting item, so an EV spread of 40 HP / 216 SpA / 252 Spe on less bulky sets could be used instead.
+
+With nearly perfect coverage and an incredible Speed stat, Iron Bundle's ferocious brand of holiday spirit is a metagame-defining force!
+
+Encore
+
+: Giving the gift of an encore lets Iron Bundle punish passive Pokemon and naughty sweepers alike.
+
+Substitute
+
+: Substitute lets Iron Bundle take further advantage of encored Pokemon and is a decent way to scout for Tera types when using Booster Energy or Life Orb. It's especially effective at punishing Sucker Punch revenge killers such as
+
+Chien-Pao
+
+and
+
+Urshifu-S
+
+.
+
+Ice Beam
+
+: With a power-boosting item, Ice Beam OHKOes
+
+Dragonite
+
+through Multiscale, and is a far safer way to OHKO
+
+Ursaluna-B
+
+that lack Assault Vest.
+
+Flip Turn
+
+: Pivoting is a big help when Iron Bundle is facing Pokemon likely to Terastallize such as
+
+Chi-Yu
+
+or
+
+Landorus-T
+
+, though it doesn't have great synergy with Booster Energy's one-time use.
+
+Other Options
+
+Taunt
+
+: Taunt will make support Pokemon such as
+
+Alolan Ninetales
+
+and
+
+Ting-Lu
+
+want to take a holiday, though watch out for common users of Mental Herb such as
+
+Toxapex
+
+.
+
+Whirlpool
+
+: Although difficult to pull off with Iron Bundle's mediocre bulk, trapping foes with Whirlpool can make Encore especially deadly.
+
+Electric Terrain
+
+: Giving Iron Bundle a Speed boost via Electric Terrain isn't nearly as flexible as Booster Energy, but it does let Iron Bundle support potentially deadly Quark Drive teammates such as
+
+Iron Valiant
+
+and
+
+Iron Hands
+
+.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Iron Bundle's perfect coverage and high Speed means its fairly flexible with a team's Terastallization needs.
+
+Water
+
+: Besides the power boost for Hydro Pump, Tera Water enables a reliable Water-type STAB move in Tera Blast and avoids an OHKO from Choice Scarf
+
+Urshifu-R
+
+'s Close Combat.
+
+Ghost
+
+: Tera Ghost gives Iron Bundle an important immunity to Extreme Speed and Quick Attack, which can especially ruin Dragonite,
+
+Ogerpon-H
+
+'s, and
+
+Entei
+
+'s holiday with Encore.
+
+Ice
+
+: With Tera Ice, Freeze-Dry will OHKO offensive Dragonite through Multiscale and Ice Beam will OHKO even bulky Dragonite and most Assault Vest Ursaluna-B.
+
+Items
+
+Booster Energy
+
+: Quark Drive's Speed boost lets Iron Bundle outpace key Choice Scarf and Booster threats such as
+
+Flutter Mane
+
+, Urshifu-R, and Landorus-T.
+
+Choice Specs
+
+: Choice Specs Iron Bundle regifts support moves so it can wallbreak, with moves such as Tera Water Hydro Pump now OHKOing physically defensive Ting-Lu.
+
+Focus Sash
+
+: Getting around Iron Bundle's iffy bulk makes it a fantastic lead and revenge killer.
+
+Life Orb
+
+: While Life Orb compromises Iron Bundle's ability to take priority attacks, it boosts damage without passing on powerful support moves.
+
+Bulkier EV Spreads
+
+44 HP / 12 Def / 148 SpA / 52 SpD / 252 Spe with Timid
+
+: This bulkier spread survives Jolly Chien-Pao's Sacred Sword and Timid Flutter Mane's Moonblast.
+
+Iron bundle is the fastest threat in Regulation F thanks to Booster Energy and is used as a speed control option. It can threaten
+
+Landorus
+
+,
+
+Ogerpon-W
+
+,
+
+Incineroar
+
+, and
+
+Urshifu-R
+
+with super effective damage and an OHKO on the former two.
+
+Iron Bundle appreciates offensive Pokemon that take advantage of Icy Wind like
+
+Urshifu-S
+
+,
+
+Ogerpon-H
+
+, Choice Specs
+
+Flutter Mane
+
+, and Landorus. Flutter Mane and Landorus specifically threaten
+
+Kingambit
+
+and Urshifu for Iron Bundle.
+
+Iron Bundle is weak to priority attackers like
+
+Rillaboom
+
+,
+
+Chien-Pao
+
+,
+
+Dragonite
+
+, and
+
+Raging Bolt
+
+, since they can ignore Iron Bundle's Speed and Icy Wind's Speed drops while still pressuring it for huge damage if not an OHKO because of its low defenses.
+
+Icy Wind is used for speed control, Hydro Pump is used as the main Water-STAB move, and Freeze-Dry is preferred to threaten common Water-types like
+
+Urshifu-R
+
+and
+
+Ogerpon-W
+
+.
+
+Booster Energy is used to raise its Speed, which allows it to outspeed threats like Choice Scarf Urshifu-R, Booster Energy
+
+Flutter Mane
+
+, and
+
+Regidrago
+
+and Modest
+
+Landorus
+
+under Tailwind.
+
+Tera Ghost is used for an immunity to threatening priority moves like Fake Out and Extreme Speed.
+
+Iron Bundle finds itself a niche in the meta as an exceptionally fast supportive Pokemon, outspeeding Booster Energy
+
+Flutter Mane
+
+with Quark Drive while providing speed control and disruptive options. Icy Wind provides a consistent form of speed control, taking full advantage of Iron Bundle's role as one of the fastest Pokemon in the game. Encore threatens to punish Fake Out users as well as any setup attempts from the likes of
+
+Calyrex-S
+
+and
+
+Terapagos
+
+. Focus Sash is used to make up for Iron Bundle's lack of bulk, allowing it to survive an attack. Tera Ghost enables Iron Bundle to ignore Fake Out, preserving Focus Sash and allowing it to support the team unhindered.
+
+Priority attackers like
+
+Rillaboom
+
+and
+
+Raging Bolt
+
+can threaten to KO Iron Bundle before it can move. Bulky Pokemon like
+
+Iron Hands
+
+don't care about Speed drops from Icy Wind, wall Iron Bundle's STAB moves, and are capable of OHKOing it, while Pokemon holding Clear Amulet or Covert Cloak like
+
+Koraidon
+
+and the
+
+Calyrex
+
+formes are unaffected by Iron Bundle's speed control.
+
+Miraidon
+
+compliments Iron Bundle exceptionally well by providing Electric Terrain to activate Quark Drive as well as threatening Koraidon and the Calyrex formes with Draco Meteor and Electro Drift, respectively. Meanwhile, Miraidon appreciates the speed control provided by Iron Bundle, allowing it to outspeed common threats such as Choice Scarf Tera Ground
+
+Chi-Yu
+
+,
+
+Zacian-C
+
+, and Calyrex-S after an Icy Wind, with Iron Bundle also punishing Fake Out, Protect, and setup attempts via Encore.
+
+Farigiraf
+
+is another great partner to block the aforementioned priority attacks, reverse opposing Trick Room, and threaten the Calyrex formes with Foul Play. Iron Hands, similar to Iron Bundle, takes advantage of Electric Terrain to bolster its offensive capabilities, but it also can use its amazing defenses to not only tank Raging Bolt's STAB moves while recovering with Drain Punch but also use its slow Speed to compete against Trick Room, which Iron Bundle struggles against.
+
+Draft Order
+
+: Round 2 onwards
+
+Price Range
+
+: 15 points
+
+Overview
+
+: Iron Bundle has almost everything one could want in an offensive Pokemon; it has a good base 124 Special Attack, it has a virtually unresisted STAB combination in the form of Water-type move + Freeze-Dry, and its base 136 Speed allows it to outpace almost the entire unboosted metagame. It even has solid physical bulk, which allows it to comfortably survive most common priority attacks. However, Iron Bundle has one fatal flaw: its only viable offensive Water-type attack is the not completely accurate Hydro Pump. As a result, Iron Bundle is an inherently inconsistent Pokemon. It can be incredibly strong and overwhelming at times, but its unreliability makes it unappealing to many drafts and leaves it most often used as an enabler for its teammates.
+
+Common Roles
+
+Offensive Pivot
+
+: Iron Bundle's threatening offenses combined with its Speed tier allows it to force many switches, as not many Pokemon can comfortably switch into an Iron Bundle that's threatening to use Hydro Pump or Freeze-Dry. Iron Bundle can exploit this by using Flip Turn, taking advantage of the foes switching out and gaining momentum.
+
+Wallbreaker
+
+: Of course, Iron Bundle can also just use its threatening offenses to break holes in the opponent's team. As it's usually paired with Choice Specs or Special Attack Booster Energy, Iron Bundle's STAB moves are all it needs to do serious damage, and its Speed tier makes it difficult to revenge kill.
+
+Speed Control
+
+: Aside from a couple rare exceptions, Iron Bundle is the fastest Pokemon allowed in the format. In the vast majority of matchups, Iron Bundle will be the fastest Pokemon from either team. Therefore, with a Choice Scarf or Speed Booster Energy, Iron Bundle will outspeed nearly every +1 Speed Pokemon, so it can be used to offensively check many Speed-boosted threats. This set can also be used to sweep late-game when the opponent's team is weakened, as it is very difficult to revenge kill.
+
+Common Moves
+
+Primary STAB Moves
+
+: Hydro Pump, Freeze-Dry, Ice Beam
+
+Setup Moves
+
+: Agility, Substitute
+
+Utility Moves
+
+: Flip Turn, Encore, Taunt
+
+Coverage
+
+: Bye bye!
+
+Niche Moves
+
+U-turn
+
+: U-turn is usually chosen over Flip Turn against teams that have Water-immune Pokemon like
+
+Ogerpon-W
+
+or
+
+Vaporeon
+
+.
+
+Blizzard
+
+: When paired with snow support, Blizzard can be used to give Iron Bundle a reliable high Base Power Ice-type attack.
+
+Common Items
+
+Heavy-Duty Boots
+
+: Heavy-Duty Boots is used on Iron Bundle's offensive pivot sets so it can avoid taking entry hazard damage when switching in and out of battle.
+
+Booster Energy
+
+: Special Attack and Speed Booster Energy are both viable and are alternate options to the Choice items. Both give Iron Bundle the flexibility to switch up its moves, but they only work the first time Iron Bundle is sent out into battle, which may be a worthwhile tradeoff in some matchups.
+
+Choice Specs
+
+: Choice Specs is used to maximize Iron Bundle's damage output and break holes in the opponent's team.
+
+Choice Scarf
+
+: Choice Scarf is mainly used if Iron Bundle needs to outpace other Speed-boosted threats.
+
+Niche Items
+
+Resistance Berry
+
+: While Iron Bundle's special bulk is pitiful and a resistance Berry won't save it from a very strong special attack, its physical bulk is surprisingly decent and resistance Berries could be used to let Iron Bundle survive an attack it otherwise wouldn't.
+
+Damage-boosting Items
+
+: These are usually outclassed by Choice Specs, but Life Orb, Mystic Water, and Never-Melt Ice can all be used to increase Iron Bundle's damage output without locking it into any one move.
+
+Tera
+
+Iron Bundle is generally Tera-banned in Draft. If allowed to Terastallize, it makes excellent use of Tera Water and uses Tera Water far more than any other type. Tera Water removes Iron Bundle's weakness to Stealth Rock, powers up the damage of its Water-type STAB moves, and gives Iron Bundle access to Tera Blast Water, which is more accurate and preferred to Hydro Pump in many situations.
+
+Draft Strategy
+
+Iron Bundle's inconsistent Water-type STAB move leads to it being used far more as an offensive Ice-type rather than an offensive Water-type. To be consistent with Iron Bundle, it should be drafted on a team that does not rely on Iron Bundle landing Hydro Pump.
+
+Strong Physical Wallbreakers
+
+: When Iron Bundle forces foes to switch out and uses Flip Turn on the switch, the incoming Pokemon will most often be a specially defensive wall. This makes strong physical attackers great partners for Iron Bundle, as they can break these specially defensive walls.
+
+Other Pivots
+
+: Iron Bundle's tendency to use Flip Turn makes it a great fit for teams that can utilize a VoltTurn playstyle. More Pokemon with pivot moves like U-turn that can also force switches work great with Iron Bundle. A more specific strategy that Iron Bundle teams will often look for is Chilly Reception support from
+
+Slowking
+
+or
+
+Galarian Slowking
+
+. They provide a slow pivot to help get Iron Bundle onto the field, the snow from Chilly Reception increases Iron Bundle's already good Defense, and allows it to use Blizzard as its Ice-type STAB move.
+
+Entry Hazard Removal
+
+: Iron Bundle is fine with running Heavy-Duty Boots, but it appreciates hazard control support from its teammates so that using a different item like Choice Specs isn't as risky. Some examples of good hazard control options are
+
+Iron Treads
+
+and
+
+Cyclizar
+
+.
+
+Checks and Counters
+
+Assault Vest Pokemon
+
+: Iron Bundle's Special Attack is good but not absurdly so. When paired with an Assault Vest, many Pokemon with decent special bulk can withstand multiple attacks from Iron Bundle, provided that they aren't weak to Iron Bundle's STAB moves. Iron Bundle will have to find support from its teammates to break through these Pokemon or deal with slowly wearing down the Assault Vest wall throughout the battle. This can be accomplished through entry hazards, since Assault Vest users are left vulnerable to damage from hazards.
+
+Resistance Berry Lures
+
+: Iron Bundle's lack of coverage moves makes it easy for a foe to use Passho Berry or Yache Berry to survive a super effective hit from Iron Bundle. Notably, Water-type Pokemon can use Yache Berry to halve the damage from Freeze-Dry, which leaves them safely protected from all of Iron Bundle's attacks thanks to their natural resistances to Water- and Ice-type attacks. Resistance Berries can be scouted for, but Iron Bundle alone has no counterplay aside from attacking the foe to consume the resistance Berry.
+
+Entry Hazards
+
+: As previously mentioned, Iron Bundle is weak to Stealth Rock, but it is also vulnerable to all other entry hazards. It doesn't appreciate Spikes, Toxic Spikes, or Sticky Web, as they all severely limit what Iron Bundle wants to accomplish during a match. Heavy-Duty Boots lets Iron Bundle ignore hazards, but this still gives information to the opponent. A common strategy vs Iron Bundle teams is to set up hazards as quickly as possible, so when Iron Bundle comes onto the field its item can be confirmed as having Heavy-Duty Boots or not. This can be a very important distinction for the opponent, since a Choice Specs Iron Bundle deals significantly more damage than a Heavy-Duty Boots Iron Bundle.
+
+Choice Scarf Users
+
+: Most teams won't have a way to naturally outspeed Iron Bundle, so they make use of Choice Scarf to outspeed and revenge kill non-Choice Scarf or Speed Booster Energy Iron Bundle sets.

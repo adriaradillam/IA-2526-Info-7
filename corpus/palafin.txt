@@ -1,0 +1,722 @@
+Wave Crash is a very strong STAB move. With Stealth Rock support and Tera Water's power boost, it crushes walls Palafin normally might struggle to break, like
+
+Toxapex
+
+and
+
+Corviknight
+
+, and always OHKOes
+
+Miraidon
+
+.
+
+Close Combat is a strong, reliable coverage move that hits many of Palafin's checks like Corviknight and
+
+Koraidon
+
+for solid damage, while also hitting Water-types barring Toxapex for neutral damage.
+
+Ice Punch allows Palafin to hit Dragon-types like the very common Koraidon and Miraidon while also hitting Water Absorb
+
+Clodsire
+
+. However, it cannot OHKO Koraidon and is not guaranteed to OHKO Miraidon.
+
+Zen Headbutt allows Palafin to hit Toxapex super effectively, as well as potentially OHKOing Koraidon and having fantastic odds to 2HKO Miraidon.
+
+Tera Water powers up Palafin's Water-type moves and allows Palafin to achieve feats like 2HKOing Miraidon with Jet Punch from full HP if rain is up.
+
+Choice Band Palafin functions best on offensive teams to revenge kill threats like
+
+Flutter Mane
+
+or to break walls for its teammates mid-game. Remember, base Palafin needs to be used very early in a game to transform into its Hero Form.
+
+Pelipper
+
+is a great partner for Palafin, as it checks Koraidon decently and replaces its sun with rain, strengthening Palafin's powerful Water-type attacks.
+
+Koraidon sets up sun and resists Water-type attacks Palafin throws at it, so Palafin appreciates teammates that threaten Koraidon, like
+
+Iron Bundle
+
+and Flutter Mane. Also, Palafin is weakened by the sun Koraidon sets up, so it is best not to pair Palafin and Koraidon together.
+
+Miraidon is a good partner, as it destroys
+
+Alomomola
+
+, a great counter to Palafin, and can safely bring Palafin onto the field with either U-turn or Volt Switch. Miraidon also appreciates Palafin threatening Ground-type Pokemon that can take Miraidon's Electric-type attacks, like
+
+Ting-Lu
+
+,
+
+Iron Treads
+
+, and Clodsire.
+
+Jet Punch's strong priority allows this Palafin set to still be threatening to offensive builds, while Drain Punch keeps Palafin healthy against bulkier teams.
+
+Taunt allows Palafin to prevent common responses to setup sweepers from working, such as Whirlwind from
+
+Ting-Lu
+
+and Haze from
+
+Toxapex
+
+, while also preventing Pokemon like
+
+Annihilape
+
+from setting up alongside it.
+
+Fairy is the Tera type of choice to allow Palafin to resist both of
+
+Koraidon
+
+'s STAB attacks and potentially set up on Choice Scarf variants of it. Fairy also removes Palafin's weakness to
+
+Iron Bundle
+
+'s Freeze-Dry and
+
+Miraidon
+
+'s Electric-type moves.
+
+Palafin struggles to deal with Koraidon or Miraidon, which can come in on this set easily, especially given that Zero to Hero forces Palafin to switch at least once before it can be offensively threatening. As a result, this Palafin needs teammates that can defensively handle these threats. Ting-Lu and
+
+Iron Treads
+
+both help with Miraidon, and Pokemon like
+
+Great Tusk
+
+,
+
+Scream Tail
+
+, and
+
+Skeledirge
+
+can provide defensive solidity against Koraidon.
+
+This Palafin set functions best with a sturdy defensive backbone alongside it, to mitigate the impact of Zero to Hero. As a result, it does not work as well on more hyper offensive playstyles.
+
+Bulk Up Palafin builds upon its natural bulk and Attack, letting it function as a strong priority attacker who uses its Defense to brazenly set up and become a threatening sweeper that is difficult to KO for common physical attackers like
+
+Chien-Pao
+
+,
+
+Landorus-T
+
+, and
+
+Kingambit
+
+.
+Jet Punch circumvents common speed control and is threatening against the frailer metagame, notably OHKOing
+
+Chi-Yu
+
+and
+
+Landorus
+
+at +1.
+Drain Punch is a reliable means of recovery in addition to Leftovers while also hitting popular Dark-types like Kingambit and Chien-Pao, as well as common Water-resistant or immune foes such as
+
+Rillaboom
+
+and
+
+Volcanion
+
+harder.
+Tera Grass provides an immunity to
+
+Amoonguss
+
+'s Spore and Rage Powder, as well as resistances to Grass- and Electric-type attacks such as Rillaboom's Wood Hammer and
+
+Iron Hands
+
+'s Wild Charge, which would otherwise OHKO Palafin.
+Palafin's base forme has poor damage output and bulk, so it is often ideal for it to lead and pivot out immediately to activate Zero to Hero. This is so crucial to Palafin's functioning that it is very telegraphed and easily exploitable with powerful attacks directed at it. To cover for this, Palafin may lead together with a Fake Out user or a redirector to reduce incoming damage.
+Bulk Up Palafin pairs well with partners that can remove Psychic Terrain, use Fake Out to generate free turns for Palafin to set up, and extend Palafin's longevity. Rillaboom fulfills all of these roles, with Grassy Terrain granting additional passive recovery.
+
+Cresselia
+
+is another good partner, as its Lunar Blessing heals Palafin and cures burn and poison, which would otherwise severely limit Palafin's offensive output or the turns it can stay on field. Amoonguss's Rage Powder redirects threatening attacks such as Iron Hands's Wild Charge, removes Toxic Spikes that reduce Palafin's longevity, and provides a major source of recovery for Palafin with Pollen Puff. Iron Hands is a Fake Out user whose Electric-type attacks eliminate opposing Water-types that resist Jet Punch.
+
+Grimmsnarl
+
+can also increase Palafin's bulk and create setup opportunities with its dual screens. As Amoonguss effortlessly walls Palafin and undoes its progress with Clear Smog, Palafin requires partners that deal with it effectively, like
+
+Heatran
+
+, Chien-Pao, and Chi-Yu.
+
+This analysis is for the Regulation C format of Battle Stadium Singles, which lasts until June 30th, 2023.
+
+For more information on this format and its current events, check out this page!
+
+If you feel this analysis is missing anything important or needs an update, feel free to suggest any changes here.
+
+Palafin's stats are middling, but after switching out once it will forme change into
+
+Palafin-H
+
+, which boasts the highest base Attack in the format, making it an effective wall breaker with Wave Crash, and a great revenge killer with Jet Punch.
+
+Flip Turn
+
+: Flip Turn is perfect for letting Palafin do some chip damage and escaping before it transforms into the heroic Palafin-H! It's possible to drop if coverage is desperately needed, but forcing Palafin to switch and losing out on a useful pivot move is not the right call in most cases.
+
+Ice Punch
+
+: Ice Punch is Palafin-H's best bet against
+
+Dragonite
+
+before it Terastallizes, and deals decent damage to
+
+Amoonguss
+
+.
+
+Close Combat versus Drain Punch
+
+: Close Combat is good coverage, hitting
+
+Rotom-W
+
+for neutral damage and covering
+
+Baxcalibur
+
+,
+
+Iron Bundle
+
+, and
+
+Roaring Moon
+
+. While weaker, Drain Punch's lack of defensive stat drops makes sense for a better matchup against Focus Sash
+
+Chien-Pao
+
+and restoring a good amount of health against Iron Bundle before usually KOing it with Jet Punch.
+
+Adamant versus Jolly
+
+: An Adamant nature increases the damage Wave Crash and Jet Punch inflict, making Palafin-H a more effective wall breaker and revenge killer. A Jolly nature enables Palafin-H to outspeed Jolly
+
+Mimikyu
+
+, Jolly Baxcalibur, and Jolly
+
+Annihilape
+
+.
+
+Other Options
+
+Grass Knot
+
+: Grass Knot lets Palafin-H potentially 2HKO physically defensive
+
+Dondozo
+
+, whose normally a good Palafin-H check. It doesn't cover anything else that's useful, with
+
+Azumarill
+
+and Rotom-W being fairly lightweight.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Terastallization can make Palafin-H to an even more potent revenge killer and cleaner, but its not reliant on it.
+
+Water
+
+: Tera Water makes Palafin-H a potent late-game cleaner, making it the Tera Type that makes sense for most teams.
+
+Electric
+
+: If willing to give up on consistent coverage by using Tera Blast, Tera Electric Palafin-H deals a big amount of damage against common bulky Water-types like Azumarill, Dondozo, and
+
+Toxapex
+
+, in addition to saving Palafin-H from Iron Bundle's Freeze-Dry.
+
+Grass
+
+: A Grass Tera type turns all of Palafin-H's weaknesses into resistances, giving it a favorable matchup against Rotom-W, and making it immune to Spore from
+
+Breloom
+
+, Amoonguss, and
+
+Brute Bonnet
+
+, and having a good Tera Blast against Azumarill and Dondozo. If using the niche Grass Knot, it consistently 2HKOs all but specially defensive Dondozo.
+
+Items
+
+Choice Band
+
+: Choice Band gives Palafin-H the most amount of wallbreaking and revenge killing power.
+
+Assault Vest
+
+: Palafin-H's bulk is good enough to survive some powerful attacks with Assault Vest, such as Iron Bundle's Freeze-Dry, and it works well with bulkier EV spreads.
+
+Mystic Water
+
+: If Choice Band is used by another teammate, Mystic Water is a great alternative thanks to most of Palafin-H's attacks being Water-type anyways.
+
+Life Orb
+
+: Life Orb works well with revenge killing and makes the niche Grass Knot always 2HKO specially defensive Dondozo, but the severe compromise to Palafin-H's bulk, especially with Wave Crash recoil, makes it a lesser option.
+
+Bulkier EV Spreads
+
+140 HP / 252 Atk / 116 Spe with Adamant
+
+: This EV spread outspeeds Jolly Breloom, and lets Palafin-H survive Tera Flying Choice Band Tera Blast from Dragonite from full health.
+
+252 HP / 236 Atk / 20 Spe with Adamant
+
+: This EV spread outspeeds Adamant Breloom, and survives Modest Choice Specs
+
+Flutter Mane
+
+'s Moonblast after Stealth Rock damage. If surviving that isn't important or if using Assault Vest, feel free to swap the HP and Attack investments.
+
+60 HP / 252 Atk / 4 Def / 12 SpD / 180 Spe with Jolly
+
+: This speedy Assault Vest spread outspeeds Jolly Annihilape, survives Jolly Life Orb Tera Dark Chien-Pao's Crunch from full health, and survives Modest Choice Specs Tera Fairy Flutter Mane's Moonblast after Stealth Rock damage.
+
+Palafin-H
+
+'s powerful priority and good Speed tier separate it from other Bulk Up sweepers, such as
+
+Annihilape
+
+.
+
+Drain Punch
+
+: Even without Tera Fighting, Drain Punch's extra healing makes it a great choice for coverage, and it does massive damage to
+
+Kingambit
+
+,
+
+Chien-Pao
+
+, and
+
+Meowscarada
+
+.
+
+Taunt versus Substitute
+
+: With Taunt, Palafin-H excels at breaking through troublesome defensive Pokemon, such as
+
+Corviknight
+
+,
+
+Wo-Chien
+
+, and
+
+Skeledirge
+
+, and it also gives Palafin a decent move against
+
+Ting-Lu
+
+and
+
+Hippowdon
+
+before switching out for Zero to Hero. Substitute has a worse matchup defensive set-up Pokemon, but in exchange it turns
+
+Garganacl
+
+into an excellent set up opportunity and makes Palafin-H a fearsome sweeper with Toxic Spikes support.
+
+Other Options
+
+Ice Punch
+
+: If using Tera Water, Ice Punch is a reasonable option for hitting Dragon-types, though it does leave Palafin-H walled by
+
+Rotom-W
+
+.
+
+Encore
+
+: While harder to justify than the other support options, Encore does give Palafin-H new chances to set up, punishing slower set-up sweepers like Annihilape in particular.
+
+Tera Types
+
+Tera Dependency - Low
+
+: Unless using Tera Blast, Palafin-H is only pressured to Terastallize to improve certain matchups.
+
+Fairy
+
+: Besides being an excellent defensive typing that punishes Chien-Pao and
+
+Chi-Yu
+
+for using Dark-type attacks, Tera Fairy gives Palafin-H a great offensive option against Dragon-types like
+
+Dragonite
+
+and
+
+Baxcalibur
+
+, as well as coverage against Wo-Chien and Meowscarada with Tera Blast.
+
+Fighting
+
+: Boosting Drain Punch's power with Tera Fighting can make Palafin-H even more difficult to take down and can seriously compromise defensive Rotom-W thanks to Taunt or Substitute blocking Will-O-Wisp. However, it does make Palafin-H particularly vulnerable to
+
+Flutter Mane
+
+.
+
+Water
+
+: Tera Water helps Palafin-H pick off more threats with Jet Punch, having a good shot to OHKO offensive Flutter Mane unboosted after Stealth Rock damage.
+
+Poison
+
+: Besides offering a useful Fairy resistance, Tera Poison lets Palafin-H absorb Toxic Spikes and stop Toxic without a support move, making it a viable alternative.
+
+Items
+
+Leftovers
+
+: Leftovers takes advantage of Palafin-H's slow setup and is a requirement if using Substitute.
+
+Punching Glove
+
+: If using Taunt, Punching Glove is a good option to free up Leftovers for a teammate. Palafin-H appreciates the extra power Jet Punch and Drain Punch gain, and it becomes harder for Rocky Helmet Dragonite to wear it down.
+
+Covert Cloak
+
+: If using Taunt, Covert Cloak turns the tables on the Garganacl matchup in addition to protecting Palafin-H from surprise Light Ball Flings from foes like Annihilape.
+
+EV Spreads
+
+252 HP / 140 SpD / 116 Spe with Careful
+
+: This spread maximizes Palafin-H's Special Defense while still outspeeding Jolly
+
+Breloom
+
+.
+
+252 HP / 4 Def / 252 Spe with Jolly
+
+: Maximizing Speed allows Palafin-H to outspeed fast support Pokemon like
+
+Mimikyu
+
+and Annihilape so it can Taunt them. This spread also outspeeds the rare Choice Specs
+
+Hydreigon
+
+, which can deal massive damage with Draco Meteor if not using Tera Fairy.
+
+252 HP / 140 Atk / 116 Spe with Adamant
+
+: This is a far more offensive approach to the set, letting Palafin-H function more as a revenge killer with the potential to sweep rather than a bulky setup Pokemon. This is best used with Tera Water, as Palafin-H will then OHKO offensive Flutter Mane with unboosted Jet Punch. The given Speed is for outspeeding Jolly Breloom.
+
+Palafin is an extremely niche setup sweeper that has one of the strongest priority moves in the tier and not much else, as it is forced to use Zero to Hero to transform. Substitute prevents it from being statused from
+
+Pecharunt
+
+,
+
+Gholdengo
+
+, and
+
+Manaphy
+
+while allowing it to set up on passive targets like
+
+Corviknight
+
+,
+
+Swampert
+
+, and the aforementioned Manaphy. Bulk Up makes up for its lack of power, since it lacks an ability and item that increases its damage output. Drain Punch keeps Palafin healthy against checks like Corviknight and Manaphy and allows it to damage Water-immune foes like
+
+Iron Moth
+
+and
+
+Heatran
+
+. Ice Punch smacks Dragon-types like
+
+Dragonite
+
+and
+
+Roaring Moon
+
+, while Zen Headbutt OHKOes Iron Moth. Palafin fits on bulkier or balance teams as a late-game sweeper, so partners that can wear the opposing team down over time like Magic Guard Roaring Moon,
+
+Hisuian Electrode
+
+, and
+
+Deoxys-S
+
+are appreciated; entry hazard setters like
+
+Scream Tail
+
+, Heatran, and
+
+Great Tusk
+
+are also beneficial with their ability to chip down foes over time. Palafin is checked offensively by threats like Dragonite, Desolate Land
+
+Ceruledge
+
+, and Scream Tail, so teammates like Corviknight, Well-Baked Body
+
+Mandibuzz
+
+, and Heatran handle these threats. Physical walls like Pecharunt and
+
+Skarmory
+
+can wall Palafin consistently, so partners that can force them out like Deoxys-S and
+
+Sandy Shocks
+
+pair well with it. Desolate Land users like Iron Moth Roaring Moon, Primordial Sea
+
+Zapdos
+
+, and Well-Baked Body Gholdengo can deal with Desolate Land users like Iron Moth,
+
+Cinderace
+
+, and Heatran, making for great partners.
+
+Draft Order
+
+: Round 2 onwards
+
+Price Range
+
+: 15-16 points
+
+Overview
+
+: Palafin's high Attack lets it puts enormous pressure on opposing teams, especially with Jet Punch to pick off faster foes and Bulk Up to become an effective setup sweeper. Its biggest drawback is its need to use a turn to activate its Hero forme, but it can still be threatening to weakened or Water-weak foes regardless. While the prevalence of faster Grass-types in the metagame can also hold Palafin back, its true limiter is the creativity of its user.
+
+Common Roles
+
+Physical Wallbreaker
+
+: Palafin can tear up teams with Choice Band-boosted STAB moves coming off its extraordinary Attack, even against team compositions with multiple Water-resistant foes. It also has an exceptional ability to clean with access to its strong priority in Jet Punch, and it has plenty of strong coverage moves to hit potential checks.
+
+Setup Sweeper
+
+: With Bulk Up, Jet Punch, great natural bulk, and the ability to heal itself with Drain Punch, Palafin makes for a potent setup sweeper that can instantly end games given the smallest of opportunities.
+
+Special Wallbreaker
+
+: With a respectable base Special Attack and access to coverage like Boomburst, Ice Beam and Grass Knot, Palafin's special sets can be surprisingly potent. Boomburst is often used with Throat Spray, though Life Orb and Choice Specs also have merit. This can take up a cleaner role with Agility in its moveset. Note that Palafin can still fit Jet Punch in special sets, though it would have to take a hit in bulk from using a Defense- or Special Defense-lowering nature.
+
+Common Moves
+
+STAB Moves
+
+: Jet Punch, Wave Crash, Flip Turn, Liquidation, Surf, Hydro Pump
+
+Setup Moves
+
+: Bulk Up, Agility
+
+Utility Moves
+
+: Substitute, Encore, Taunt, Haze
+
+Coverage
+
+: Ice Punch, Drain Punch, Close Combat, Acrobatics, Iron Head, Zen Headbutt, Throat Chop, Body Slam, Ice Beam, Grass Knot, Boomburst, Aura Sphere, Focus Blast
+
+Niche Moves
+
+Fling
+
+: Palafin holding a Big Nugget has access to a one-time 130-Base Power Dark-type move to hit foes like
+
+Slowking
+
+. This also lets it use Acrobatics afterwards.
+
+Facade
+
+: Facade is one of the more niche ways that Palafin has to play around status, it is prone to being weakened by status effects like burn and paralysis.
+
+Common Items
+
+Punching Glove / Protective Pads
+
+: With one of the foremost checks to Palafin being Rocky Helmet, sets with Drain Punch and Jet Punch can use Punching Glove to great effect. Protective Pads replaces this when the set has moves like Flip Turn and Wave Crash.
+
+Sitrus Berry / Leftovers
+
+: Sitrus Berry and Leftovers are not interchangeable, though they have a similar role. Both generally work well on Bulk Up sets, with Sitrus Berry finding itself on sets that either don't intend to last as long or need Acrobatics to hit bulky Grass-types. Leftovers is more useful when the game plan is to use Bulk Up multiple times and sit on the field for an extended duration versus a more passive team.
+
+Damage-boosting Items
+
+: Palafin can makes use of the damage boost from Choice Band really well, especially since it doesn't have to lock itself into a move long-term by using Flip Turn. It can also use items like Mystic Water, Life Orb, and Expert Belt to hit damage thresholds without being locked into a move.
+
+Resistance Berries
+
+: Resistance Berries help lure threats so that Palafin can revenge kill the foe or get an additional turn to set up. This works especially well with Acrobatics against faster Grass-type foes.
+
+Niche Items
+
+Heavy-Duty Boots
+
+: Specifically relevant with Flip Turn, Heavy-Duty Boots lets Palafin safely pivot in and out of the field through avoiding accumulated entry hazard damage.
+
+Assault Vest
+
+: Assault Vest works well on Palafin, as it often runs four attacking moves regardless. This allows it to check and revenge kill specific specially offensive foes that would otherwise OHKO it or deal massive amounts of damage.
+
+Weakness Policy
+
+: Weakness Policy works well with Palafin's solid natural bulk, allowing it to activate off a weak Volt Switch or coverage move that can be expected in prep.
+
+Throat Spray / Choice Specs
+
+: Palafin can use Boomburst to trigger Throat Spray, making it a surprise special wallbreaker. Alternatively, Choice Specs can be used if immediate power is needed and if there is not a need to switch moves.
+
+Choice Scarf
+
+: Choice Scarf is rare, since Jet Punch generally works well enough for speed control, but in some matchups, attacking faster with Wave Crash or coverage moves can be valuable. Jet Punch still works well to hit opposing Choice Scarf users.
+
+Tera
+
+Palafin is always banned from Terastallizing. If yours has the liberty to Terastallize, congratulations in advance. It can run Tera Water for even stronger STAB moves, Tera Fighting to boost damage from Drain Punch and Close Combat, Tera Normal for a stronger Boomburst, Tera Grass or Electric to hit bulky Water-types with Tera Blast, or a defensive option like Tera Fairy or Poison to facilitate setting up.
+
+Draft Strategy
+
+While Palafin can be built to beat many of its checks, it cannot take on all of them at once, and it especially struggles against bulky Water-types and fast Grass-types. Foes must often use specific checks and counters to beat Palafin, so drafting teammates that can take advantage of this is extremely advantageous.
+
+Water-type Checks
+
+: Against Water-types that check Palafin, it can pivot to Grass-types like
+
+Meowscarada
+
+and
+
+Hydrapple
+
+to maintain momentum and chip them down into range of Jet Punch. Many Tera Captains also need Tera Water to check Palafin, so these teammates are especially beneficial.
+
+Top-tier Tera Captains
+
+: Palafin is always banned from Terastallizing, but it synergizes well and creates powerful offensive cores with Tera Captains like
+
+Raging Bolt
+
+,
+
+Zarude
+
+, and
+
+Tornadus-T
+
+.
+
+Entry Hazard Removal
+
+: Reliable hazard removal from Pokemon like
+
+Iron Treads
+
+and
+
+Cyclizar
+
+is generally advised on Palafin drafts, as it dislikes Toxic Spikes and chip damage and seldom wants to run Heavy-Duty Boots.
+
+Bulky Backbones
+
+: Since Palafin needs to swap out of its Zero forme, it greatly appreciates a backbone that it can fall back on before it gets back on the field to take control. Pokemon such as
+
+Ting-Lu
+
+,
+
+Landorus-T
+
+, and
+
+Tinkaton
+
+go a long way to support a Palafin draft with bulk, entry hazards, and additional utility.
+
+Checks and Counters
+
+Water-resistant Pokemon
+
+: Many Water-resistant Pokemon go a long way in keeping Palafin at bay, as it typically wants to spam STAB moves whenever possible. Pokemon such as
+
+Rotom-Wash
+
+,
+
+Slowbro
+
+, and Raging Bolt do a solid job of limiting the sets it can afford to run, while faster Pokemon that resist Jet Punch, like Meowscarada,
+
+Ogerpon-W
+
+, and
+
+Iron Bundle
+
+, provide effective offensive checks, though they should be careful when switching into it directly. Many Tera Captains can also easily run Tera Water to check it.
+
+Residual Damage / Status
+
+: Palafin strongly dislikes taking residual damage from entry hazards and Rocky Helmet, as it has no reliable means of recovery. It also gets strongly crippled by status effects due to additional chip damage as well as key stat drops from paralysis and burn.
+
+Aggressive Play
+
+: Since Palafin is significantly weaker before it has activated its Hero forme, foes can attempt to deny it from doing so, as it is much easier to handle in its base forme. Teams with a strong offensive profile can often exploit the sorts of builds Palafin typically finds itself on, denying it the turns it needs in order to truly become effective.
