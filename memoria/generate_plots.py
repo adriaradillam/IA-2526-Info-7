@@ -20,7 +20,7 @@ plt.ylim(0, 1.1)
 plt.xticks(rotation=45)
 plt.legend()
 plt.tight_layout()
-plt.savefig('c:/Users/adrmu/Desktop/IA/Proyecto/IA-2526-Info-7/memoria/ap_chart.png', dpi=300)
+plt.savefig('ap_chart.png', dpi=300)
 
 # 2. Gráfico de métricas globales Vectorial
 metrics = ['Precisión', 'Sensibilidad (Recall)', 'MAP']
@@ -38,6 +38,6 @@ for bar in bars:
     plt.text(bar.get_x() + bar.get_width()/2, yval + 0.02, f'{yval*100:.2f}%', ha='center', va='bottom', fontsize=11, fontweight='bold')
 
 plt.tight_layout()
-plt.savefig('c:/Users/adrmu/Desktop/IA/Proyecto/IA-2526-Info-7/memoria/metrics_chart.png', dpi=300)
+plt.savefig('metrics_chart.png', dpi=300)
 
 print('Graficas generadas con exito.')
