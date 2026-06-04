@@ -1526,7 +1526,11 @@ Mega Lopunny
 
 Mega Scizor
 
-, and Urshifu-R. Black Sludge gives Toxapex passive recovery, allowing it to better stay healthy versus opponents such as Volcarona and Mega Lopunny, and it has niche use versus Trick users such as Iron Valiant. The given EV spread allows Toxapex to take a +2 Power Whip from Ogerpon-W at full health, while the rest of the EVs are dumped into Special Defense to improve matchups versus Mega Charizard Y and Volcarona.
+, and Urshifu-R. Black Sludge gives Toxapex passive recovery, allowing it to better stay healthy versus opponents such as Volcarona and Mega Lopunny, and it has niche use versus Trick users such as Iron Valiant and
+
+Gholdengo
+
+. The given EV spread allows Toxapex to take a +2 Power Whip from Ogerpon-W at full health, while the rest of the EVs are dumped into Special Defense to improve matchups versus Mega Charizard Y and Volcarona.
 
 Toxapex is a staple on bulkier playstyles thanks to its absurd longevity and ability to force progress through spreading chip damage.
 
@@ -1540,11 +1544,7 @@ Landorus-T
 
 Terapagos
 
-, and Zapdos, and punishes many of the tier's hazard removal options with Toxic or a Scald burn. Ferrothorn is an exemplary partner that can set Stealth Rock and Spikes while also checking certain Grass-types that Toxapex has to be very careful around, most notably Ogerpon-W.
-
-Gholdengo
-
-is another excellent partner, as it checks dangerous Psychic-types like
+, and Zapdos, and punishes many of the tier's hazard removal options with Toxic or a Scald burn. Ferrothorn is an exemplary partner that can set Stealth Rock and Spikes while also checking certain Grass-types that Toxapex has to be very careful around, most notably Ogerpon-W. Gholdengo is another excellent partner, as it checks dangerous Psychic-types like
 
 Tapu Lele
 

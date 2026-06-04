@@ -537,7 +537,142 @@ Roaring Moon
 Hisuian Lilligant
 
 to clean late-game.
+
+Rillaboom can utilize Swords Dance to become a powerful offensive threat on Grass teams, acting as an excellent wallbreaker and cleaner with Grassy Glide. Wood Hammer with Grassy Terrain support OHKOes non-Assault Vest
+
+Iron Hands
+
+and has a chance to OHKO physically defensive
+
+Gliscor
+
+and
+
+Toxapex
+
+at +2 with Life Orb. Taunt is an option to stop entry hazard setting attempts from
+
+Araquanid
+
+,
+
+Archaludon
+
+, and
+
+Ting-Lu
+
+, as well as Haze from Toxapex. Knock Off removes many important items from foes that try to switch in on Rillaboom, such as Heavy-Duty Boots from
+
+Avalugg
+
+and
+
+Braviary
+
+, Choice Specs from
+
+Iron Moth
+
+, and Soul Dew from
+
+Latios
+
+and
+
+Latias
+
+. High Horsepower allows Rillaboom to deal with Fire-, Poison-, and Steel-types, most notably non-Air Balloon
+
+Heatran
+
+,
+
+Hisuian Goodra
+
+, and
+
+Alolan Muk
+
+. Terrain Extender supports Rillaboom and its teammates by providing extra turns of Grassy Terrain to help them clean through weakened teams easier with Grassy Glide. However, Life Orb is an option that gives Rillaboom extra power, letting it grab KOs it wouldn't normally obtain. An Adamant nature can be used to maximize Rillaboom's power, but a Jolly nature ensures that it can outpace non-Choice Scarf
+
+Gholdengo
+
+while Speed tying with opposing Rillaboom.
+
+This particular Rillaboom set finds a good place on offensive teams that benefit from its ability to revenge kill foes and clean up in the late-game.
+
+Brambleghast
+
+shines as a teammate, setting layers of Spikes on the field to help Rillaboom clean through weakened teams more easily. It can also switch in on Bleakwind Storm and Heat Wave from
+
+Tornadus-T
+
+thanks to Wind Rider, and remove entry hazards from the field with Rapid Spin, letting Rillaboom switch in much more freely.
+
+Ogerpon-H
+
+and
+
+Ogerpon-C
+
+are also excellent partners, as they answer threats to Rillaboom; Ogerpon-H checks
+
+Corviknight
+
+,
+
+Skarmory
+
+, and Heatran with Ivy Cudgel, while Ogerpon-C checks Flying- and Fire-types like
+
+Mandibuzz
+
+,
+
+Moltres
+
+,
+
+Ninetales
+
+, and
+
+Volcarona
+
 .
+
+Breloom
+
+is a great teammate, utilizing Spore on foes such as Corviknight and
+
+Hisuian Arcanine
+
+to open up opportunities for Rillaboom to freely set up. Breloom checks Dark- and Steel-types like
+
+Bisharp
+
+,
+
+Roaring Moon
+
+, Archaludon, and
+
+Meowscarada
+
+, while Rillaboom checks both
+
+Flutter Mane
+
+and
+
+Spectrier
+
+with Grassy Glide, which Breloom struggles to deal with. Choice Scarf Meowscarada is an ideal partner, outspeeding threats like Choice Scarf Roaring Moon and Choice Specs
+
+Dragapult
+
+and dealing with them using Triple Axel, two Pokemon that Rillaboom struggles against.
 
 Rillaboom is a strong offensive pivot that can threaten large amounts of damage; it also provides Fake Out support for setup users like
 

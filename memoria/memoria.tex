@@ -39,21 +39,21 @@
 \title{Recuperación de la Información: Modelos Booleanos y Vectoriales aplicados al Metajuego de Pokémon}
 
 \author{
-  \IEEEauthorblockN{Adrián Muñoz Aradilla}
-  \IEEEauthorblockA{
-    \textit{Dpto. Ciencias de la Computación e Inteligencia Artificial}\\
-    \textit{Universidad de Sevilla}\\
-    Sevilla, España\\
-    adrmunara@alum.us.es}
-  
-  \and
-  
   \IEEEauthorblockN{Rocío Morato Aguilar}
   \IEEEauthorblockA{
     \textit{Dpto. Ciencias de la Computación e Inteligencia Artificial}\\
     \textit{Universidad de Sevilla}\\
     Sevilla, España\\
     rocmoragu@alum.us.es}
+  
+  \and
+  
+  \IEEEauthorblockN{Adrián Muñoz Aradilla}
+  \IEEEauthorblockA{
+    \textit{Dpto. Ciencias de la Computación e Inteligencia Artificial}\\
+    \textit{Universidad de Sevilla}\\
+    Sevilla, España\\
+    adrmunara@alum.us.es}
 }
 
 \maketitle
@@ -62,7 +62,7 @@
 \begin{abstract}
   Este documento presenta el diseño, desarrollo y evaluación de dos sistemas de Recuperación de Información aplicados al metajuego competitivo del videojuego Pokémon. El objetivo principal es construir una herramienta que permita a los jugadores buscar Pokémon viables mediante consultas de texto libre y consultas estructuradas lógicas, operando sobre un corpus especializado de textos extraído directamente de la comunidad competitiva Smogon. 
   
-  Para abordar este problema, se han desarrollado un modelo Booleano de índice invertido basado en la biblioteca \emph{Whoosh}, y un modelo de Espacio Vectorial ponderado mediante el esquema TF-IDF, empleando NLTK para el preprocesamiento lingüístico y scikit-learn. La evaluación de ambos sistemas, llevada a cabo mediante 35 necesidades de información estructuradas, demuestra el contraste entre ambos enfoques: el modelo booleano obtiene una Sensibilidad del 90.00\% con una Precisión del 13.28\%, mientras que el modelo vectorial alcanza un 94.29\% de Sensibilidad y un \emph{Mean Average Precision} (MAP) global del 37.07\%. El informe concluye con un análisis comparativo y una reflexión crítica sobre las limitaciones del modelo \emph{Bag of Words}.
+  Para abordar este problema, se han desarrollado un modelo Booleano de índice invertido basado en la biblioteca \emph{Whoosh}, y un modelo de Espacio Vectorial ponderado mediante el esquema TF-IDF, empleando NLTK para el preprocesamiento lingüístico y scikit-learn. La evaluación de ambos sistemas, llevada a cabo mediante 35 necesidades de información estructuradas, demuestra el contraste entre ambos enfoques: el modelo booleano obtiene una Sensibilidad del 90.00\% con una Precisión del 13.28\%, mientras que el modelo vectorial alcanza un 94.29\% de Sensibilidad y un \emph{Mean Average Precision} (MAP) global del 36.55\%. El informe concluye con un análisis comparativo y una reflexión crítica sobre las limitaciones del modelo \emph{Bag of Words}.
 \end{abstract}
 
 % Palabras claves
@@ -301,7 +301,7 @@ Es importante señalar que la baja Precisión del modelo booleano no se debe a u
 
 Las métricas globales promediadas sobre el conjunto completo arrojaron los siguientes resultados para el motor Vectorial, ilustrados en la \figurename~\ref{fig:metrics}:
 \begin{itemize}
-\item \textbf{Mean Average Precision (MAP):} 37.07\%
+\item \textbf{Mean Average Precision (MAP):} 36.55\%
 \item \textbf{Precisión Global Promedio:} 1.76\%
 \item \textbf{Sensibilidad Global Promedio:} 94.29\%
 \end{itemize}
@@ -330,7 +330,7 @@ En el caso del motor vectorial, el alto Recall del 94.29\% se debe a que devuelv
 
 En el caso del motor booleano, la alta Sensibilidad del 90.00\% responde a que las consultas del Gold Standard fueron diseñadas empleando términos presentes en los documentos relevantes. Las consultas donde no se alcanza el 100\% (como Q10, Q27, Q28 y Q35) corresponden a casos donde los documentos relevantes no contenían los términos exactos utilizados en la expresión booleana, revelando la rigidez del modelo ante variaciones léxicas. Paralelamente, la naturaleza interconectada de los textos estratégicos de Smogon (donde cada análisis menciona decenas de otros Pokémon) provoca que los términos de la consulta aparezcan en muchos otros documentos, arrastrando falsos positivos.
 
-La Precisión de ambos modelos se sitúa en rangos comparables (13.28\% booleano vs. 1.76\% vectorial), pero el modelo vectorial compensa esta limitación con su capacidad de \textbf{ordenar los resultados por relevancia}: el MAP del 37.07\% demuestra que los documentos verdaderamente relevantes tienden a posicionarse en la zona alta del ranking, permitiendo al usuario encontrar lo que busca en las primeras posiciones sin necesidad de dominar la sintaxis booleana.
+La Precisión de ambos modelos se sitúa en rangos comparables (13.28\% booleano vs. 1.76\% vectorial), pero el modelo vectorial compensa esta limitación con su capacidad de \textbf{ordenar los resultados por relevancia}: el MAP del 36.55\% demuestra que los documentos verdaderamente relevantes tienden a posicionarse en la zona alta del ranking, permitiendo al usuario encontrar lo que busca en las primeras posiciones sin necesidad de dominar la sintaxis booleana.
 
 \begin{figure}[htbp]
   \centering
@@ -369,7 +369,7 @@ Este proyecto ha logrado implementar, evaluar y comparar dos paradigmas clásico
 
 El motor Booleano, basado en un índice invertido construido con Whoosh y un analizador NLTK personalizado, obtuvo una Sensibilidad del 90.00\% y una Precisión promedio del 13.28\%. Su fortaleza reside en la capacidad de formular consultas lógicas expresivas con operadores \texttt{AND}, \texttt{OR} y \texttt{NOT}, pero su barrera de entrada excluye a usuarios que no dominen la sintaxis booleana ni la terminología específica del dominio.
 
-El motor Vectorial, implementado con scikit-learn y el esquema TF-IDF, obtuvo igualmente un Recall del 94.29\% con una Precisión del 1.76\%, pero su valor diferencial reside en la capacidad de ordenar los resultados por relevancia, reflejada en un MAP del 37.07\%. Esto permite al usuario encontrar los documentos relevantes en las primeras posiciones sin necesidad de conocer sintaxis especializada.
+El motor Vectorial, implementado con scikit-learn y el esquema TF-IDF, obtuvo igualmente un Recall del 94.29\% con una Precisión del 1.76\%, pero su valor diferencial reside en la capacidad de ordenar los resultados por relevancia, reflejada en un MAP del 36.55\%. Esto permite al usuario encontrar los documentos relevantes en las primeras posiciones sin necesidad de conocer sintaxis especializada.
 
 Ambos modelos comparten la limitación de operar bajo el paradigma \emph{Bag of Words}, que ignora el contexto semántico de las palabras. El caso empírico de Ting-Lu ilustra cómo la alta frecuencia de términos como ``special'' y ``attacker'' en un contexto defensivo puede inducir falsos positivos en ambos sistemas. Como trabajo futuro, se plantea la incorporación de técnicas basadas en \emph{Word Embeddings} que capturen las relaciones semánticas entre términos y permitan distinguir automáticamente los contextos ofensivos de los defensivos.
 
