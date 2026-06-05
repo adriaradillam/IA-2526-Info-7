@@ -100,7 +100,7 @@ Para que la evaluación de estas expresiones sea eficiente sin tener que recorre
 Formalmente, dado un vocabulario $V = \{t_1, t_2, \ldots, t_m\}$ extraído de una colección de $N$ documentos, el índice invertido define para cada término $t_i$ una lista $P(t_i) = \{d_1, d_2, \ldots, d_k\}$ con $d_j \in \{1, \ldots, N\}$, donde cada $d_j$ identifica un documento que contiene $t_i$.
 
 \subsubsection{Procesamiento de Consultas Booleanas}
-La evaluación de una consulta booleana se reduce a operaciones de conjuntos sobre las \emph{posting lists}. Cuando se mantenienen ordenadas por identificador de documento, las operaciones básicas se ejecutan en tiempo lineal $O(n + m)$ mediante un recorrido simultáneo de ambas listas~\cite{b4}:
+La evaluación de una consulta booleana se reduce a operaciones de conjuntos sobre las \emph{posting lists}. Cuando se mantienen ordenadas por identificador de documento, las operaciones básicas se ejecutan en tiempo lineal $O(n + m)$ mediante un recorrido simultáneo de ambas listas~\cite{b4}:
 \begin{itemize}
 \item \texttt{AND} (intersección $\cap$): se avanza sobre ambas listas seleccionando solo los documentos presentes en ambas.
 \item \texttt{OR} (unión $\cup$): se combinan ambas listas conservando los documentos de cualquiera de las dos.
